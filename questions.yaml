@@ -6,7 +6,7 @@
     - A
     - B
     - C
-    - D
+    - D $\chemfig{H-C(-[2]H)(-[6]H)-C(=[1]O)-[7]H}$
   correct: 3
   curiosity: Lala
 2:
