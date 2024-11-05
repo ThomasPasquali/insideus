@@ -1,0 +1,186 @@
+1:
+  kind: mc
+  text: Qual è la principale differenza tra cellule procariote e cellule eucariote?
+  options:
+    - Le cellule procariote non hanno nucleo
+    - Le cellule eucariote non hanno nucleo
+    - Entrambe hanno un nucleo
+    - Nessuna delle precedenti
+  correct: 0
+  curiosity: 
+
+2:
+  kind: mc
+  text: Dove si trova il DNA nelle cellule procariote?
+  options:
+    - Nel nucleo
+    - Nel citoplasma
+    - Nei mitocondri
+    - Nella membrana cellulare
+  correct: 1
+  curiosity: 
+
+3:
+  kind: mc
+  text: Quale delle seguenti strutture è presente solo nelle cellule eucariote?
+  options:
+    - Ribosomi
+    - Membrana cellulare
+    - Mitocondri
+    - Parete cellulare
+  correct: 2
+  curiosity: 
+
+4:
+  kind: mc
+  text: Qual è la dimensione tipica delle cellule procariote?
+  options:
+    - 1-10 micrometri
+    - 10-100 micrometri
+    - 100-1000 micrometri
+    - Nessuna delle precedenti
+  correct: 0
+  curiosity: 
+
+5:
+  kind: mc
+  text: Quale delle seguenti è una caratteristica delle cellule eucariote?
+  options:
+    - Sono prive di organelli membranosi
+    - Contengono il nucleo
+    - Sono più piccole delle cellule procariote
+    - Non contengono ribosomi
+  correct: 1
+  curiosity: 
+
+6:
+  kind: mc
+  text: In quali organismi si trovano le cellule procariote?
+  options:
+    - Animali
+    - Vegetali
+    - Batteri
+    - Funghi
+  correct: 2
+  curiosity: 
+
+7:
+  kind: mc
+  text: Quale delle seguenti affermazioni è corretta?
+  options:
+    - Le cellule eucariote sono esclusivamente unicellulari
+    - Le cellule procariote sono sempre pluricellulari
+    - Le cellule procariote possono essere sia unicellulari che pluricellulari
+    - Le cellule eucariote possono essere sia unicellulari che pluricellulari
+  correct: 3
+  curiosity: 
+
+8:
+  kind: mc
+  text: In quale tipo di cellula è presente un sistema di endomembrane (RE, Golgi)?
+  options:
+    - Eucariote
+    - Procariote
+    - Entrambe
+    - Nessuna
+  correct: 0
+  curiosity: 
+
+9:
+  kind: mc
+  text: Qual è il ruolo del ribosoma nelle cellule procariote ed eucariote?
+  options:
+    - Sintesi delle proteine
+    - Riproduzione cellulare
+    - Degradazione dei nutrienti
+    - Sintesi del DNA
+  correct: 0
+  curiosity: 
+
+10:
+  kind: mc
+  text: Quale delle seguenti strutture è tipicamente assente nelle cellule procariote?
+  options:
+    - Membrana cellulare
+    - Parete cellulare
+    - Nucleo
+    - Ribosomi
+  correct: 2
+  curiosity: 
+
+11:
+  kind: mc
+  text: Le cellule eucariote presentano…
+  options:
+    - DNA circolare
+    - DNA lineare
+    - DNA senza proteine
+    - Nessuna delle precedenti
+  correct: 1
+  curiosity: 
+
+12:
+  kind: mc
+  text: Le cellule procariote si riproducono principalmente tramite…
+  options:
+    - Mitosi
+    - Meiosi
+    - Scissione binaria
+    - Riproduzione sessuata
+  correct: 2
+  curiosity: 
+
+13:
+  kind: mc
+  text: Quale delle seguenti strutture è presente nelle cellule procariote ma non nelle eucariote?
+  options:
+    - Lisosomi
+    - Nucleo
+    - Nucleoide
+    - Apparato di Golgi
+  correct: 2
+  curiosity: 
+
+14:
+  kind: mc
+  text: Dove avviene la respirazione cellulare nelle cellule procariote?
+  options:
+    - Nella membrana plasmatica
+    - Nei mitocondri
+    - Nei cloroplasti
+    - Nel nucleoide
+  correct: 0
+  curiosity: 
+
+15:
+  kind: mc
+  text: In quale delle seguenti cellule si trovano cloroplasti?
+  options:
+    - Cellule procariote fotosintetiche
+    - Cellule eucariote vegetali
+    - Cellule eucariote animali
+    - Tutte le cellule
+  correct: 1
+  curiosity: 
+
+16:
+  kind: mc
+  text: I plasmidi sono…
+  options:
+    - Molecole di DNA accessorio presenti nelle cellule procariote
+    - Organelli delle cellule eucariote
+    - Parti del nucleo delle cellule eucariote
+    - Assenti in tutte le cellule
+  correct: 0
+  curiosity: 
+
+17:
+  kind: mc
+  text: Quale delle seguenti affermazioni è vera riguardo ai procarioti?
+  options:
+    - Hanno sempre una parete cellulare
+    - Non contengono ribosomi
+    - Possiedono un apparato di Golgi
+    - Hanno il DNA all'interno del nucleo
+  correct: 0
+  curiosity: 

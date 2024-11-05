@@ -1,0 +1,24 @@
+1:
+  kind: mc
+  text: Domanda 1
+  options:
+    - A
+    - B
+    - C
+    - D
+  correct: 3
+  curiosity: Curiosità
+2:
+  kind: tf
+  text: Domanda 2
+  correct: 0
+  curiosity: 
+3:
+  kind: enum
+  text: Domanda 3
+  options:
+    - A
+    - B
+    - C
+    - D
+    - E
