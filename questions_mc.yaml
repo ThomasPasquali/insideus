@@ -1023,7 +1023,7 @@
 
 94:
   kind: mc
-  text: Cosa accade al pH di una soluzione quando la concentrazione di ioni idrogeno (H⁺) aumenta?
+  text: Cosa accade al pH di una soluzione quando la concentrazione di ioni idrogeno ($H^+$) aumenta?
   options:
     - Il pH aumenta
     - Il pH diminuisce
@@ -1144,11 +1144,11 @@
 
 105:
   kind: mc
-  text: "In una soluzione acida, la concentrazione di ioni OH⁻ è:"
+  text: "In una soluzione acida, la concentrazione di ioni $OH^-$ è:"
   options:
     - Bassa
     - Alta
-    - Uguale a quella degli ioni H⁺
+    - Uguale a quella degli ioni $H^+$
     - Assente
   correct: 0
   curiosity: 
@@ -2279,10 +2279,10 @@
   kind: mc
   text: "Quali sono i monomeri che compongono le proteine?"
   options:
-    - A) Monosaccaridi
-    - B) Amminoacidi
-    - C) Acidi grassi
-    - D) Nucleotidi
+    - Monosaccaridi
+    - Amminoacidi
+    - Acidi grassi
+    - Nucleotidi
   correct: 1
   curiosity: "Gli amminoacidi sono i mattoni fondamentali delle proteine, che si legano tramite legami peptidici."
 
@@ -2290,10 +2290,10 @@
   kind: mc
   text: "Quale legame unisce gli amminoacidi per formare una proteina?"
   options:
-    - A) Legame fosfodiesterico
-    - B) Legame peptidico
-    - C) Legame glicosidico
-    - D) Legame estere
+    - Legame fosfodiesterico
+    - Legame peptidico
+    - Legame glicosidico
+    - Legame estere
   correct: 1
   curiosity: "Il legame peptidico è la connessione chimica che unisce due amminoacidi durante la sintesi proteica."
 
@@ -2301,10 +2301,10 @@
   kind: mc
   text: "Quale tra le seguenti funzioni è svolta dalle proteine?"
   options:
-    - A) Riserva energetica
-    - B) Catalizzare reazioni biochimiche
-    - C) Trasportare informazioni genetiche
-    - D) Formare lipidi
+    - Riserva energetica
+    - Catalizzare reazioni biochimiche
+    - Trasportare informazioni genetiche
+    - Formare lipidi
   correct: 1
   curiosity: "Le proteine, in particolare gli enzimi, svolgono un ruolo fondamentale nel catalizzare le reazioni chimiche."
 
@@ -2312,10 +2312,10 @@
   kind: mc
   text: "Qual è il livello strutturale più semplice di una proteina?"
   options:
-    - A) Struttura terziaria
-    - B) Struttura quaternaria
-    - C) Struttura primaria
-    - D) Struttura secondaria
+    - Struttura terziaria
+    - Struttura quaternaria
+    - Struttura primaria
+    - Struttura secondaria
   correct: 2
   curiosity: "La struttura primaria è semplicemente la sequenza di amminoacidi nella proteina."
 
@@ -2323,10 +2323,10 @@
   kind: mc
   text: "La struttura secondaria di una proteina è stabilizzata principalmente da:"
   options:
-    - A) Legami a idrogeno
-    - B) Legami disolfuro
-    - C) Interazioni idrofobiche
-    - D) Legami ionici
+    - Legami a idrogeno
+    - Legami disolfuro
+    - Interazioni idrofobiche
+    - Legami ionici
   correct: 0
   curiosity: "I legami a idrogeno stabilizzano le strutture secondarie come alfa-eliche e foglietti beta."
 
@@ -2334,10 +2334,10 @@
   kind: mc
   text: "Quale dei seguenti amminoacidi contiene zolfo?"
   options:
-    - A) Alanina
-    - B) Cisteina
-    - C) Prolina
-    - D) Serina
+    - Alanina
+    - Cisteina
+    - Prolina
+    - Serina
   correct: 1
   curiosity: "La cisteina è l'unico amminoacido contenente zolfo, che forma legami disolfuro nelle proteine."
 
@@ -2345,10 +2345,10 @@
   kind: mc
   text: "Qual è la principale funzione dell'enzima?"
   options:
-    - A) Catalizzare le reazioni chimiche
-    - B) Trasportare ossigeno
-    - C) Riserva di energia
-    - D) Isolare le cellule
+    - Catalizzare le reazioni chimiche
+    - Trasportare ossigeno
+    - Riserva di energia
+    - Isolare le cellule
   correct: 0
   curiosity: "Gli enzimi sono catalizzatori biologici che accelerano le reazioni chimiche senza essere consumati."
 
@@ -2356,10 +2356,10 @@
   kind: mc
   text: "Quale livello strutturale delle proteine si riferisce all’organizzazione tridimensionale della catena amminoacidica?"
   options:
-    - A) Struttura primaria
-    - B) Struttura secondaria
-    - C) Struttura terziaria
-    - D) Struttura quaternaria
+    - Struttura primaria
+    - Struttura secondaria
+    - Struttura terziaria
+    - Struttura quaternaria
   correct: 2
   curiosity: "La struttura terziaria è la configurazione tridimensionale della catena amminoacidica di una proteina."
 
@@ -2367,10 +2367,10 @@
   kind: mc
   text: "Quale tipo di interazione stabilizza la struttura quaternaria delle proteine?"
   options:
-    - A) Legami glicosidici
-    - B) Interazioni idrofobiche e legami ionici
-    - C) Legami fosfodiesterici
-    - D) Legami tra monosaccaridi
+    - Legami glicosidici
+    - Interazioni idrofobiche e legami ionici
+    - Legami fosfodiesterici
+    - Legami tra monosaccaridi
   correct: 1
   curiosity: "La struttura quaternaria delle proteine è stabilizzata da interazioni idrofobiche, legami ionici e legami idrogeno tra subunità polipeptidiche."
 
@@ -2378,10 +2378,10 @@
   kind: mc
   text: "Quale tra le seguenti proteine trasporta ossigeno nel sangue?"
   options:
-    - A) Emoglobina
-    - B) Actina
-    - C) Collagene
-    - D) Pepsina
+    - Emoglobina
+    - Actina
+    - Collagene
+    - Pepsina
   correct: 0
   curiosity: "L'emoglobina è la proteina responsabile del trasporto dell'ossigeno nei globuli rossi."
 
@@ -2389,10 +2389,10 @@
   kind: mc
   text: "Quale dei seguenti amminoacidi è considerato essenziale?"
   options:
-    - A) Glicina
-    - B) Alanina
-    - C) Lisina
-    - D) Serina
+    - Glicina
+    - Alanina
+    - Lisina
+    - Serina
   correct: 2
   curiosity: "Gli amminoacidi essenziali, come la lisina, non possono essere sintetizzati dal corpo e devono essere assunti con la dieta."
 
@@ -2400,10 +2400,10 @@
   kind: mc
   text: "Cosa indica la denaturazione di una proteina?"
   options:
-    - A) La perdita della sua struttura tridimensionale
-    - B) La sintesi di una nuova proteina
-    - C) La formazione di legami peptidici
-    - D) La conversione in zuccheri semplici
+    - La perdita della sua struttura tridimensionale
+    - La sintesi di una nuova proteina
+    - La formazione di legami peptidici
+    - La conversione in zuccheri semplici
   correct: 0
   curiosity: "La denaturazione di una proteina comporta la perdita della sua forma tridimensionale, rendendola non funzionale."
 
@@ -2411,10 +2411,10 @@
   kind: mc
   text: "Qual è la principale funzione del collagene?"
   options:
-    - A) Fornire struttura e supporto ai tessuti
-    - B) Trasportare ossigeno
-    - C) Catalizzare reazioni biochimiche
-    - D) Riserva di energia
+    - Fornire struttura e supporto ai tessuti
+    - Trasportare ossigeno
+    - Catalizzare reazioni biochimiche
+    - Riserva di energia
   correct: 0
   curiosity: "Il collagene è la proteina strutturale principale che fornisce supporto e resistenza ai tessuti connettivi."
 
@@ -2422,10 +2422,10 @@
   kind: mc
   text: "Quale enzima è coinvolto nella digestione delle proteine nello stomaco?"
   options:
-    - A) Pepsina
-    - B) Lattasi
-    - C) Amilasi
-    - D) Lipasi
+    - Pepsina
+    - Lattasi
+    - Amilasi
+    - Lipasi
   correct: 0
   curiosity: "La pepsina è l'enzima principale che scompone le proteine nello stomaco durante la digestione."
 
@@ -2433,10 +2433,10 @@
   kind: mc
   text: "Quale amminoacido è il punto di partenza per la sintesi della serotonina?"
   options:
-    - A) Lisina
-    - B) Alanina
-    - C) Triptofano
-    - D) Glicina
+    - Lisina
+    - Alanina
+    - Triptofano
+    - Glicina
   correct: 2
   curiosity: "Il triptofano è l'amminoacido da cui viene sintetizzata la serotonina, un neurotrasmettitore coinvolto nel controllo dell'umore."
 
@@ -2444,10 +2444,10 @@
   kind: mc
   text: "Qual è la caratteristica di un amminoacido polare?"
   options:
-    - A) È insolubile in acqua
-    - B) Ha solo atomi di carbonio e idrogeno
-    - C) Ha gruppi laterali che formano legami a idrogeno
-    - D) Ha una struttura idrofobica
+    - È insolubile in acqua
+    - Ha solo atomi di carbonio e idrogeno
+    - Ha gruppi laterali che formano legami a idrogeno
+    - Ha una struttura idrofobica
   correct: 2
   curiosity: "Gli amminoacidi polari hanno gruppi laterali che possono formare legami a idrogeno, rendendoli solubili in acqua."
 
@@ -2455,10 +2455,10 @@
   kind: mc
   text: "Che cosa si intende per struttura primaria di una proteina?"
   options:
-    - A) La sequenza lineare di amminoacidi
-    - B) La disposizione tridimensionale
-    - C) Le interazioni tra più subunità
-    - D) La formazione di alfa-eliche e foglietti beta
+    - La sequenza lineare di amminoacidi
+    - La disposizione tridimensionale
+    - Le interazioni tra più subunità
+    - La formazione di alfa-eliche e foglietti beta
   correct: 0
   curiosity: "La struttura primaria di una proteina è la sequenza specifica di amminoacidi che la compongono."
 
@@ -2466,10 +2466,10 @@
   kind: mc
   text: "Quale delle seguenti proteine è un anticorpo?"
   options:
-    - A) Immunoglobulina
-    - B) Collagene
-    - C) Emoglobina
-    - D) Actina
+    - Immunoglobulina
+    - Collagene
+    - Emoglobina
+    - Actina
   correct: 0
   curiosity: "Le immunoglobuline sono anticorpi prodotti dal sistema immunitario per riconoscere e neutralizzare patogeni."
 
@@ -2477,10 +2477,10 @@
   kind: mc
   text: "Quale dei seguenti amminoacidi può formare legami disolfuro?"
   options:
-    - A) Prolina
-    - B) Glicina
-    - C) Cisteina
-    - D) Serina
+    - Prolina
+    - Glicina
+    - Cisteina
+    - Serina
   correct: 2
   curiosity: "La cisteina è l'amminoacido che può formare legami disolfuro, importanti per stabilizzare la struttura delle proteine."
 
@@ -2488,10 +2488,10 @@
   kind: mc
   text: "In quale organulo cellulare avviene la sintesi delle proteine?"
   options:
-    - A) Ribosomi
-    - B) Nucleo
-    - C) Mitocondri
-    - D) Apparato di Golgi
+    - Ribosomi
+    - Nucleo
+    - Mitocondri
+    - Apparato di Golgi
   correct: 0
   curiosity: "La sintesi proteica avviene nei ribosomi, che possono essere liberi nel citoplasma o legati al reticolo endoplasmatico."
 
@@ -2499,10 +2499,10 @@
   kind: mc
   text: "Quale proteina è coinvolta nella contrazione muscolare?"
   options:
-    - A) Emoglobina
-    - B) Actina
-    - C) Pepsina
-    - D) Insulina
+    - Emoglobina
+    - Actina
+    - Pepsina
+    - Insulina
   correct: 1
   curiosity: "L'actina è una proteina fondamentale per la contrazione muscolare, lavorando insieme alla miosina."
 
@@ -2510,10 +2510,10 @@
   kind: mc
   text: "Qual è la funzione principale dell'insulina?"
   options:
-    - A) Catalizzare reazioni biochimiche
-    - B) Regolare i livelli di glucosio nel sangue
-    - C) Trasportare ossigeno
-    - D) Agire come riserva energetica
+    - Catalizzare reazioni biochimiche
+    - Regolare i livelli di glucosio nel sangue
+    - Trasportare ossigeno
+    - Agire come riserva energetica
   correct: 1
   curiosity: "L'insulina è un ormone che regola i livelli di glucosio nel sangue, consentendo l'ingresso del glucosio nelle cellule."
 
@@ -2521,10 +2521,10 @@
   kind: mc
   text: "Gli amminoacidi si differenziano tra loro principalmente per:"
   options:
-    - A) La struttura del gruppo carbossilico
-    - B) La presenza di un gruppo fosfato
-    - C) La struttura del gruppo laterale (R)
-    - D) La posizione del gruppo amminico
+    - La struttura del gruppo carbossilico
+    - La presenza di un gruppo fosfato
+    - La struttura del gruppo laterale (R)
+    - La posizione del gruppo amminico
   correct: 2
   curiosity: "Gli amminoacidi si differenziano per il gruppo laterale (R), che determina le loro proprietà chimiche e fisiche."
 
@@ -2532,10 +2532,10 @@
   kind: mc
   text: "Quale tra le seguenti è una proteina di riserva?"
   options:
-    - A) Actina
-    - B) Collagene
-    - C) Caseina
-    - D) Insulina
+    - Actina
+    - Collagene
+    - Caseina
+    - Insulina
   correct: 2
   curiosity: "La caseina è una proteina di riserva presente nel latte, che fornisce amminoacidi essenziali."
 
@@ -2543,10 +2543,10 @@
   kind: mc
   text: "Che cosa caratterizza gli enzimi?"
   options:
-    - A) Aumentano la velocità delle reazioni senza essere consumati
-    - B) Forniscono energia direttamente alla reazione
-    - C) Vengono modificati durante la reazione
-    - D) Richiedono elevate temperature per funzionare
+    - Aumentano la velocità delle reazioni senza essere consumati
+    - Forniscono energia direttamente alla reazione
+    - Vengono modificati durante la reazione
+    - Richiedono elevate temperature per funzionare
   correct: 0
   curiosity: "Gli enzimi accelerano le reazioni chimiche senza essere consumati nel processo."
 
@@ -2554,10 +2554,10 @@
   kind: mc
   text: "La struttura quaternaria di una proteina si forma quando:"
   options:
-    - A) Si ripiega la catena polipeptidica primaria
-    - B) Più catene polipeptidiche si associano insieme
-    - C) Si formano solo legami peptidici
-    - D) La proteina si denatura
+    - Si ripiega la catena polipeptidica primaria
+    - Più catene polipeptidiche si associano insieme
+    - Si formano solo legami peptidici
+    - La proteina si denatura
   correct: 1
   curiosity: "La struttura quaternaria si forma quando più catene polipeptidiche si uniscono per formare una proteina funzionale."
 
@@ -2565,10 +2565,10 @@
   kind: mc
   text: "Quale tra i seguenti amminoacidi è aromatico?"
   options:
-    - A) Fenilalanina
-    - B) Glicina
-    - C) Lisina
-    - D) Alanina
+    - Fenilalanina
+    - Glicina
+    - Lisina
+    - Alanina
   correct: 0
   curiosity: "La fenilalanina è un amminoacido aromatico che contiene un anello benzenico nel suo gruppo laterale."
 
@@ -2576,10 +2576,10 @@
   kind: mc
   text: "Che cosa rappresenta l’alfa-elica in una proteina?"
   options:
-    - A) Una forma di struttura secondaria
-    - B) Una parte della struttura primaria
-    - C) Una caratteristica della struttura terziaria
-    - D) Un insieme di catene polipeptidiche
+    - Una forma di struttura secondaria
+    - Una parte della struttura primaria
+    - Una caratteristica della struttura terziaria
+    - Un insieme di catene polipeptidiche
   correct: 0
   curiosity: "L'alfa-elica è una tipica struttura secondaria delle proteine, stabilizzata da legami a idrogeno."
 
@@ -2587,10 +2587,10 @@
   kind: mc
   text: "Qual è il risultato della deamidazione di un amminoacido?"
   options:
-    - A) Rimozione del gruppo amminico
-    - B) Rimozione del gruppo carbossilico
-    - C) Rimozione del gruppo laterale (R)
-    - D) Modifica della struttura primaria
+    - Rimozione del gruppo amminico
+    - Rimozione del gruppo carbossilico
+    - Rimozione del gruppo laterale (R)
+    - Modifica della struttura primaria
   correct: 0
   curiosity: "La deamidazione è una reazione che rimuove un gruppo amminico da un amminoacido."
 
@@ -2598,10 +2598,10 @@
   kind: mc
   text: "Qual è la funzione principale delle proteine di trasporto come l'emoglobina?"
   options:
-    - A) Catalizzare reazioni biochimiche
-    - B) Fornire supporto strutturale
-    - C) Trasportare molecole specifiche nel corpo
-    - D) Regolare i livelli di pH
+    - Catalizzare reazioni biochimiche
+    - Fornire supporto strutturale
+    - Trasportare molecole specifiche nel corpo
+    - Regolare i livelli di pH
   correct: 2
   curiosity: "Le proteine di trasporto, come l'emoglobina, hanno il compito di trasportare ossigeno e altre molecole vitali nel corpo."
 
@@ -2609,10 +2609,10 @@
   kind: mc
   text: "Quali sono i due principali tipi di acidi nucleici?"
   options:
-    - A) RNA e ATP
-    - B) DNA e RNA
-    - C) mRNA e tRNA
-    - D) Proteine e RNA
+    - RNA e ATP
+    - DNA e RNA
+    - mRNA e tRNA
+    - Proteine e RNA
   correct: 1
   curiosity: "I due principali tipi di acidi nucleici sono il DNA, che conserva l'informazione genetica, e l'RNA, che la trasferisce e la utilizza per la sintesi proteica."
 
@@ -2620,10 +2620,10 @@
   kind: mc
   text: "Qual è la funzione principale del DNA?"
   options:
-    - A) Trasportare energia alle cellule
-    - B) Catalizzare reazioni chimiche
-    - C) Conservare e trasmettere l'informazione genetica
-    - D) Formare le membrane cellulari
+    - Trasportare energia alle cellule
+    - Catalizzare reazioni chimiche
+    - Conservare e trasmettere l'informazione genetica
+    - Formare le membrane cellulari
   correct: 2
   curiosity: "Il DNA è fondamentale per conservare e trasmettere l'informazione genetica necessaria alla crescita e al funzionamento delle cellule."
 
@@ -2631,10 +2631,10 @@
   kind: mc
   text: "Qual è la differenza principale tra DNA e RNA?"
   options:
-    - A) Il DNA ha il desossiribosio, mentre l'RNA ha il ribosio
-    - B) L'RNA è sempre a doppio filamento
-    - C) Il DNA è composto da quattro basi, mentre l'RNA da cinque
-    - D) L'RNA non contiene azoto
+    - Il DNA ha il desossiribosio, mentre l'RNA ha il ribosio
+    - L'RNA è sempre a doppio filamento
+    - Il DNA è composto da quattro basi, mentre l'RNA da cinque
+    - L'RNA non contiene azoto
   correct: 0
   curiosity: "La principale differenza tra DNA e RNA è il tipo di zucchero: il DNA contiene desossiribosio, mentre l'RNA contiene ribosio."
 
@@ -2642,10 +2642,10 @@
   kind: mc
   text: "Quale delle seguenti basi azotate è presente solo nell'RNA?"
   options:
-    - A) Adenina
-    - B) Guanina
-    - C) Uracile
-    - D) Timina
+    - Adenina
+    - Guanina
+    - Uracile
+    - Timina
   correct: 2
   curiosity: "L'uracile è una base azotata che si trova solo nell'RNA, sostituendo la timina presente nel DNA."
 
@@ -2653,10 +2653,10 @@
   kind: mc
   text: "Quale legame unisce i nucleotidi in una catena polinucleotidica?"
   options:
-    - A) Legame peptidico
-    - B) Legame idrogeno
-    - C) Legame fosfodiesterico
-    - D) Legame disolfuro
+    - Legame peptidico
+    - Legame idrogeno
+    - Legame fosfodiesterico
+    - Legame disolfuro
   correct: 2
   curiosity: "I nucleotidi in una catena polinucleotidica sono uniti da legami fosfodiesterici tra il gruppo fosfato di un nucleotide e il zucchero del successivo."
 
@@ -2664,10 +2664,10 @@
   kind: mc
   text: "In quale parte della cellula si trova principalmente il DNA?"
   options:
-    - A) Mitocondri
-    - B) Nucleo
-    - C) Apparato di Golgi
-    - D) Reticolo endoplasmatico
+    - Mitocondri
+    - Nucleo
+    - Apparato di Golgi
+    - Reticolo endoplasmatico
   correct: 1
   curiosity: "Nel nucleo delle cellule eucariotiche si trova la maggior parte del DNA, mentre nei mitocondri c'è una piccola quantità di DNA mitocondriale."
 
@@ -2675,10 +2675,10 @@
   kind: mc
   text: "Qual è la struttura del DNA in una cellula eucariotica?"
   options:
-    - A) Doppia elica
-    - B) Singolo filamento lineare
-    - C) Tripla elica
-    - D) Doppio strato lipidico
+    - Doppia elica
+    - Singolo filamento lineare
+    - Tripla elica
+    - Doppio strato lipidico
   correct: 0
   curiosity: "Il DNA nelle cellule eucariotiche ha una struttura a doppia elica, composta da due filamenti avvolti tra loro."
 
@@ -2686,10 +2686,10 @@
   kind: mc
   text: "Quale base azotata si appaia con la guanina nel DNA?"
   options:
-    - A) Adenina
-    - B) Citosina
-    - C) Uracile
-    - D) Timina
+    - Adenina
+    - Citosina
+    - Uracile
+    - Timina
   correct: 1
   curiosity: "Nel DNA, la guanina si appaia con la citosina, formando legami a tre idrogeno."
 
@@ -2697,10 +2697,10 @@
   kind: mc
   text: "Quale tipo di RNA trasporta gli amminoacidi ai ribosomi?"
   options:
-    - A) mRNA
-    - B) rRNA
-    - C) tRNA
-    - D) snRNA
+    - mRNA
+    - rRNA
+    - tRNA
+    - snRNA
   correct: 2
   curiosity: "Il tRNA è responsabile del trasporto degli amminoacidi ai ribosomi durante la sintesi proteica."
 
@@ -2708,10 +2708,10 @@
   kind: mc
   text: "Quale base azotata si trova nel DNA ma non nell'RNA?"
   options:
-    - A) Uracile
-    - B) Guanina
-    - C) Citosina
-    - D) Timina
+    - Uracile
+    - Guanina
+    - Citosina
+    - Timina
   correct: 3
   curiosity: "La timina è una base azotata presente nel DNA, ma non nell'RNA, dove viene sostituita dall'uracile."
 
@@ -2719,10 +2719,10 @@
   kind: mc
   text: "Qual è lo zucchero presente nell'RNA?"
   options:
-    - A) Ribosio
-    - B) Desossiribosio
-    - C) Glucosio
-    - D) Fruttosio
+    - Ribosio
+    - Desossiribosio
+    - Glucosio
+    - Fruttosio
   correct: 0
   curiosity: "L'RNA contiene ribosio, uno zucchero a cinque atomi di carbonio, mentre il DNA contiene desossiribosio."
 
@@ -2730,10 +2730,10 @@
   kind: mc
   text: "Quale enzima è responsabile della replicazione del DNA?"
   options:
-    - A) DNA polimerasi
-    - B) RNA polimerasi
-    - C) Ligasi
-    - D) Trascrittasi inversa
+    - DNA polimerasi
+    - RNA polimerasi
+    - Ligasi
+    - Trascrittasi inversa
   correct: 0
   curiosity: "La DNA polimerasi è l'enzima principale che catalizza la sintesi del DNA durante la replicazione."
 
@@ -2741,10 +2741,10 @@
   kind: mc
   text: "Quale funzione svolge l'mRNA?"
   options:
-    - A) Sintetizzare DNA
-    - B) Trasportare l'informazione genetica dal DNA ai ribosomi
-    - C) Legare gli amminoacidi
-    - D) Costituire la struttura dei ribosomi
+    - Sintetizzare DNA
+    - Trasportare l'informazione genetica dal DNA ai ribosomi
+    - Legare gli amminoacidi
+    - Costituire la struttura dei ribosomi
   correct: 1
   curiosity: "L'mRNA trasporta l'informazione genetica dal DNA ai ribosomi per la sintesi proteica."
 
@@ -2752,10 +2752,10 @@
   kind: mc
   text: "Quale processo sintetizza l'RNA a partire dal DNA?"
   options:
-    - A) Traduzione
-    - B) Trascrizione
-    - C) Replicazione
-    - D) Idrolisi
+    - Traduzione
+    - Trascrizione
+    - Replicazione
+    - Idrolisi
   correct: 1
   curiosity: "La trascrizione è il processo attraverso il quale l'RNA viene sintetizzato a partire da un modello di DNA."
 
@@ -2763,10 +2763,10 @@
   kind: mc
   text: "Durante la sintesi proteica, qual è il ruolo del ribosoma?"
   options:
-    - A) Conservare l'informazione genetica
-    - B) Leggere l'mRNA e assemblare amminoacidi
-    - C) Sintetizzare DNA
-    - D) Modificare il DNA
+    - Conservare l'informazione genetica
+    - Leggere l'mRNA e assemblare amminoacidi
+    - Sintetizzare DNA
+    - Modificare il DNA
   correct: 1
   curiosity: "Il ribosoma è responsabile di leggere l'mRNA e assemblare gli amminoacidi in una catena polipeptidica durante la sintesi proteica."
 
@@ -2774,10 +2774,10 @@
   kind: mc
   text: "Quale dei seguenti è un nucleotide?"
   options:
-    - A) Adenosina trifosfato (ATP)
-    - B) Glicina
-    - C) Glucosio
-    - D) Amminoacido
+    - Adenosina trifosfato (ATP)
+    - Glicina
+    - Glucosio
+    - Amminoacido
   correct: 0
   curiosity: "L'adenosina trifosfato (ATP) è un nucleotide che svolge un ruolo fondamentale nel fornire energia alle cellule."
 
@@ -2785,10 +2785,10 @@
   kind: mc
   text: "In che modo il DNA si replica?"
   options:
-    - A) A doppio senso, copiando entrambe le eliche simultaneamente
-    - B) In modo semiconservativo, conservando una delle due eliche originali
-    - C) Creando copie identiche in singolo filamento
-    - D) Con l'aggiunta casuale di nuovi nucleotidi
+    - A doppio senso, copiando entrambe le eliche simultaneamente
+    - In modo semiconservativo, conservando una delle due eliche originali
+    - Creando copie identiche in singolo filamento
+    - Con l'aggiunta casuale di nuovi nucleotidi
   correct: 1
   curiosity: "La replicazione del DNA avviene in modo semiconservativo, cioè ogni nuova molecola di DNA contiene un filamento originale e uno nuovo."
 
@@ -2796,10 +2796,10 @@
   kind: mc
   text: "Qual è il ruolo del tRNA nella sintesi proteica?"
   options:
-    - A) Sintetizzare DNA
-    - B) Stabilizzare la struttura del ribosoma
-    - C) Trasportare amminoacidi ai ribosomi
-    - D) Leggere il codice genetico
+    - Sintetizzare DNA
+    - Stabilizzare la struttura del ribosoma
+    - Trasportare amminoacidi ai ribosomi
+    - Leggere il codice genetico
   correct: 2
   curiosity: "Il tRNA trasporta gli amminoacidi necessari alla sintesi proteica verso il ribosoma."
 
@@ -2807,10 +2807,10 @@
   kind: mc
   text: "Che cos'è un gene?"
   options:
-    - A) Una sequenza di DNA che codifica per una proteina
-    - B) Un insieme di proteine
-    - C) Un tipo di RNA
-    - D) Una molecola di glucosio
+    - Una sequenza di DNA che codifica per una proteina
+    - Un insieme di proteine
+    - Un tipo di RNA
+    - Una molecola di glucosio
   correct: 0
   curiosity: "Un gene è una sequenza di DNA che contiene le informazioni per la sintesi di una proteina."
 
@@ -2818,10 +2818,10 @@
   kind: mc
   text: "Quale processo converte l'informazione genetica dell'mRNA in una proteina?"
   options:
-    - A) Replicazione
-    - B) Traduzione
-    - C) Trascrizione
-    - D) Trasferimento
+    - Replicazione
+    - Traduzione
+    - Trascrizione
+    - Trasferimento
   correct: 1
   curiosity: "La traduzione è il processo che converte l'informazione genetica contenuta nell'mRNA in una proteina."
 
@@ -2829,10 +2829,10 @@
   kind: mc
   text: "Qual è la funzione dell'RNA polimerasi?"
   options:
-    - A) Replicare il DNA
-    - B) Sintetizzare RNA a partire da un modello di DNA
-    - C) Unire nucleotidi di DNA
-    - D) Catalizzare reazioni biochimiche generiche
+    - Replicare il DNA
+    - Sintetizzare RNA a partire da un modello di DNA
+    - Unire nucleotidi di DNA
+    - Catalizzare reazioni biochimiche generiche
   correct: 1
   curiosity: "L'RNA polimerasi è l'enzima che sintetizza RNA a partire da un modello di DNA durante la trascrizione."
 
@@ -2840,10 +2840,10 @@
   kind: mc
   text: "Qual è il ruolo delle basi azotate nel DNA?"
   options:
-    - A) Contengono l'informazione genetica attraverso la loro sequenza
-    - B) Agiscono come enzimi
-    - C) Formano le catene di zuccheri e fosfati
-    - D) Stabilizzano la doppia elica attraverso legami covalenti
+    - Contengono l'informazione genetica attraverso la loro sequenza
+    - Agiscono come enzimi
+    - Formano le catene di zuccheri e fosfati
+    - Stabilizzano la doppia elica attraverso legami covalenti
   correct: 0
   curiosity: "Le basi azotate nel DNA contengono l'informazione genetica e la loro sequenza determina la sintesi proteica."
 
@@ -2851,10 +2851,10 @@
   kind: mc
   text: "Quale caratteristica rende il codice genetico universale?"
   options:
-    - A) È usato da quasi tutti gli organismi viventi
-    - B) Si basa solo su un singolo tipo di RNA
-    - C) Non cambia mai in nessun organismo
-    - D) Può codificare solo per poche proteine
+    - È usato da quasi tutti gli organismi viventi
+    - Si basa solo su un singolo tipo di RNA
+    - Non cambia mai in nessun organismo
+    - Può codificare solo per poche proteine
   correct: 0
   curiosity: "Il codice genetico è universale perché è utilizzato da quasi tutti gli organismi viventi per codificare le proteine."
 
@@ -2862,10 +2862,10 @@
   kind: mc
   text: "Cosa sono gli introni nel DNA?"
   options:
-    - A) Sequenze non codificanti che vengono rimosse durante il processo di splicing
-    - B) Sequenze che codificano per proteine
-    - C) Enzimi che degradano l'mRNA
-    - D) Regioni terminali di una molecola di DNA
+    - Sequenze non codificanti che vengono rimosse durante il processo di splicing
+    - Sequenze che codificano per proteine
+    - Enzimi che degradano l'mRNA
+    - Regioni terminali di una molecola di DNA
   correct: 0
   curiosity: "Gli introni sono sequenze non codificanti del DNA che vengono rimosse durante il processo di splicing dell'mRNA."
 
@@ -2873,10 +2873,10 @@
   kind: mc
   text: "La trascrizione avviene principalmente:"
   options:
-    - A) Nel nucleo delle cellule eucariotiche
-    - B) Nei mitocondri
-    - C) Nel citoplasma
-    - D) Nel Golgi
+    - Nel nucleo delle cellule eucariotiche
+    - Nei mitocondri
+    - Nel citoplasma
+    - Nel Golgi
   correct: 0
   curiosity: "La trascrizione avviene nel nucleo delle cellule eucariotiche, dove l'RNA viene sintetizzato a partire dal DNA."
 
@@ -2884,10 +2884,10 @@
   kind: mc
   text: "Qual è la funzione degli esoni?"
   options:
-    - A) Codificare per gli amminoacidi
-    - B) Codificare per le proteine dopo lo splicing dell'mRNA
-    - C) Agire come interruzioni nel DNA
-    - D) Connettere i nucleotidi
+    - Codificare per gli amminoacidi
+    - Codificare per le proteine dopo lo splicing dell'mRNA
+    - Agire come interruzioni nel DNA
+    - Connettere i nucleotidi
   correct: 1
   curiosity: "Gli esoni sono le sequenze di DNA che codificano per proteine e rimangono nel mRNA maturo dopo lo splicing."
 
@@ -2895,10 +2895,10 @@
   kind: mc
   text: "Quale dei seguenti è un esempio di base purinica?"
   options:
-    - A) Adenina
-    - B) Citosina
-    - C) Timina
-    - D) Uracile
+    - Adenina
+    - Citosina
+    - Timina
+    - Uracile
   correct: 0
   curiosity: "L'adenina è una base purinica che si appaia con la timina nel DNA e con l'uracile nell'RNA."
 
@@ -2906,10 +2906,10 @@
   kind: mc
   text: "La traduzione avviene principalmente:"
   options:
-    - A) Nel nucleo
-    - B) Nei ribosomi, nel citoplasma
-    - C) Nell'apparato di Golgi
-    - D) Nei mitocondri
+    - Nel nucleo
+    - Nei ribosomi, nel citoplasma
+    - Nell'apparato di Golgi
+    - Nei mitocondri
   correct: 1
   curiosity: "La traduzione avviene nei ribosomi, nel citoplasma, dove l'mRNA viene utilizzato per sintetizzare proteine."
 
@@ -2917,10 +2917,10 @@
   kind: mc
   text: "Qual è il ruolo del ribosoma nella sintesi proteica?"
   options:
-    - A) Leggere il messaggio dell'mRNA e assemblare gli amminoacidi in una catena polipeptidica
-    - B) Sintetizzare il DNA
-    - C) Modificare il codice genetico
-    - D) Convertire l'energia in ATP
+    - Leggere il messaggio dell'mRNA e assemblare gli amminoacidi in una catena polipeptidica
+    - Sintetizzare il DNA
+    - Modificare il codice genetico
+    - Convertire l'energia in ATP
   correct: 0
   curiosity: "Il ribosoma legge il messaggio dell'mRNA e assembla gli amminoacidi in una catena polipeptidica durante la sintesi proteica."
 
@@ -2928,10 +2928,10 @@
   kind: mc
   text: "Cosa determina la sequenza degli amminoacidi in una proteina?"
   options:
-    - A) La struttura terziaria del DNA
-    - B) La sequenza dei nucleotidi nel DNA
-    - C) La posizione del tRNA
-    - D) Il ribosoma
+    - La struttura terziaria del DNA
+    - La sequenza dei nucleotidi nel DNA
+    - La posizione del tRNA
+    - Il ribosoma
   correct: 1
   curiosity: "La sequenza degli amminoacidi in una proteina è determinata dalla sequenza di nucleotidi nel DNA, che viene trascritta in mRNA."
 
@@ -2939,10 +2939,10 @@
   kind: mc
   text: "Qual è la struttura fondamentale del DNA?"
   options:
-    - A) Doppia elica
-    - B) Struttura lineare
-    - C) Singola elica
-    - D) Spirale alfa
+    - Doppia elica
+    - Struttura lineare
+    - Singola elica
+    - Spirale alfa
   correct: 0
   curiosity: "Il DNA ha una struttura a doppia elica, in cui due catene di nucleotidi si avvolgono tra loro."
 
@@ -2950,10 +2950,10 @@
   kind: mc
   text: "Chi ha scoperto la struttura a doppia elica del DNA?"
   options:
-    - A) Rosalind Franklin e Gregor Mendel
-    - B) James Watson e Francis Crick
-    - C) Albert Einstein e Charles Darwin
-    - D) Marie Curie e Max Planck
+    - Rosalind Franklin e Gregor Mendel
+    - James Watson e Francis Crick
+    - Albert Einstein e Charles Darwin
+    - Marie Curie e Max Planck
   correct: 1
   curiosity: "James Watson e Francis Crick sono noti per aver scoperto la struttura a doppia elica del DNA nel 1953, grazie anche ai dati di Rosalind Franklin."
 
@@ -2961,10 +2961,10 @@
   kind: mc
   text: "Quale tipo di legame tiene insieme le basi azotate nella doppia elica del DNA?"
   options:
-    - A) Legame covalente
-    - B) Legame a idrogeno
-    - C) Legame ionico
-    - D) Legame metallico
+    - Legame covalente
+    - Legame a idrogeno
+    - Legame ionico
+    - Legame metallico
   correct: 1
   curiosity: "Le basi azotate nel DNA sono tenute insieme da legami a idrogeno, che sono più deboli rispetto ai legami covalenti, permettendo la separazione delle eliche."
 
@@ -2972,10 +2972,10 @@
   kind: mc
   text: "Quale zucchero è presente nella struttura del DNA?"
   options:
-    - A) Desossiribosio
-    - B) Ribosio
-    - C) Fruttosio
-    - D) Glucosio
+    - Desossiribosio
+    - Ribosio
+    - Fruttosio
+    - Glucosio
   correct: 0
   curiosity: "Il DNA contiene desossiribosio, uno zucchero a cinque atomi di carbonio, che è privo di un atomo di ossigeno rispetto al ribosio nell'RNA."
 
@@ -2983,10 +2983,10 @@
   kind: mc
   text: "Quali basi azotate si appaiano nella doppia elica del DNA?"
   options:
-    - A) Adenina con Timina e Citosina con Guanina
-    - B) Adenina con Citosina e Guanina con Timina
-    - C) Adenina con Guanina e Citosina con Timina
-    - D) Adenina con Uracile e Citosina con Guanina
+    - Adenina con Timina e Citosina con Guanina
+    - Adenina con Citosina e Guanina con Timina
+    - Adenina con Guanina e Citosina con Timina
+    - Adenina con Uracile e Citosina con Guanina
   correct: 0
   curiosity: "Nel DNA, l'adenina si appaia con la timina e la citosina con la guanina tramite legami a idrogeno."
 
@@ -2994,10 +2994,10 @@
   kind: mc
   text: "Quale affermazione è corretta riguardo alla direzione delle due eliche del DNA?"
   options:
-    - A) Entrambe sono orientate nello stesso verso
-    - B) Sono parallele, ma non complementari
-    - C) Sono antiparallele
-    - D) Sono ortogonali
+    - Entrambe sono orientate nello stesso verso
+    - Sono parallele, ma non complementari
+    - Sono antiparallele
+    - Sono ortogonali
   correct: 2
   curiosity: "Le due eliche del DNA sono antiparallele, il che significa che corrono in direzioni opposte."
 
@@ -3005,10 +3005,10 @@
   kind: mc
   text: "Quale base azotata è presente nel DNA, ma non nell’RNA?"
   options:
-    - A) Adenina
-    - B) Guanina
-    - C) Citosina
-    - D) Timina
+    - Adenina
+    - Guanina
+    - Citosina
+    - Timina
   correct: 3
   curiosity: "La timina è presente solo nel DNA, mentre nell'RNA viene sostituita dall'uracile."
 
@@ -3016,10 +3016,10 @@
   kind: mc
   text: "La struttura a doppia elica del DNA si avvolge intorno a quale struttura per formare i cromosomi?"
   options:
-    - A) RNA
-    - B) Proteine istoniche
-    - C) Lipidi
-    - D) Molecole di ATP
+    - RNA
+    - Proteine istoniche
+    - Lipidi
+    - Molecole di ATP
   correct: 1
   curiosity: "Nel processo di compattamento del DNA, le eliche si avvolgono attorno a proteine istoniche per formare una struttura compatta chiamata cromatina."
 
@@ -3027,10 +3027,10 @@
   kind: mc
   text: "Qual è la funzione principale del DNA?"
   options:
-    - A) Produrre energia per la cellula
-    - B) Rimuovere le tossine cellulari
-    - C) Codificare le informazioni genetiche
-    - D) Trasportare ossigeno
+    - Produrre energia per la cellula
+    - Rimuovere le tossine cellulari
+    - Codificare le informazioni genetiche
+    - Trasportare ossigeno
   correct: 2
   curiosity: "Il DNA codifica le informazioni genetiche che sono essenziali per la sintesi proteica e il funzionamento delle cellule."
 
@@ -3038,10 +3038,10 @@
   kind: mc
   text: "Quante coppie di basi azotate si trovano in un giro completo della doppia elica del DNA?"
   options:
-    - A) 5 coppie
-    - B) 8 coppie
-    - C) 10 coppie
-    - D) 12 coppie
+    - 5 coppie
+    - 8 coppie
+    - 10 coppie
+    - 12 coppie
   correct: 2
   curiosity: "In un giro completo della doppia elica del DNA ci sono circa 10 coppie di basi azotate."
 
@@ -3049,10 +3049,10 @@
   kind: mc
   text: "Qual è la lunghezza media di un gene umano in coppie di basi?"
   options:
-    - A) Circa 500 coppie
-    - B) Circa 10.000 coppie
-    - C) Circa 1.000-2.000 coppie
-    - D) Circa 100 coppie
+    - Circa 500 coppie
+    - Circa 10.000 coppie
+    - Circa 1.000-2.000 coppie
+    - Circa 100 coppie
   correct: 2
   curiosity: "La lunghezza media di un gene umano è di circa 1.000-2.000 coppie di basi, anche se può variare considerevolmente."
 
@@ -3060,10 +3060,10 @@
   kind: mc
   text: "Chi ha ottenuto la prima immagine del DNA usando la diffrazione a raggi X?"
   options:
-    - A) James Watson
-    - B) Francis Crick
-    - C) Rosalind Franklin
-    - D) Maurice Wilkins
+    - James Watson
+    - Francis Crick
+    - Rosalind Franklin
+    - Maurice Wilkins
   correct: 2
   curiosity: "Rosalind Franklin ha ottenuto le prime immagini di diffrazione a raggi X del DNA, che sono state fondamentali per la scoperta della sua struttura a doppia elica."
 
@@ -3071,10 +3071,10 @@
   kind: mc
   text: "Come si chiamano le due estremità di un filamento di DNA?"
   options:
-    - A) 3’ e 5’
-    - B) 2’ e 6’
-    - C) Alfa e Omega
-    - D) Zeta e Gamma
+    - 3’ e 5’
+    - 2’ e 6’
+    - Alfa e Omega
+    - Zeta e Gamma
   correct: 0
   curiosity: "Le estremità di un filamento di DNA sono chiamate 3' e 5', riferendosi alla posizione dei gruppi fosfato e zucchero."
 
@@ -3082,10 +3082,10 @@
   kind: mc
   text: "Quale enzima è responsabile della sintesi del nuovo filamento di DNA durante la replicazione?"
   options:
-    - A) RNA polimerasi
-    - B) Elicasi
-    - C) DNA polimerasi
-    - D) Ligasi
+    - RNA polimerasi
+    - Elicasi
+    - DNA polimerasi
+    - Ligasi
   correct: 2
   curiosity: "La DNA polimerasi è l'enzima principale che catalizza la sintesi di nuovi filamenti di DNA durante la replicazione."
 
@@ -3093,10 +3093,10 @@
   kind: mc
   text: "In che fase del ciclo cellulare avviene la replicazione del DNA?"
   options:
-    - A) Fase M
-    - B) Fase G1
-    - C) Fase S
-    - D) Fase G2
+    - Fase M
+    - Fase G1
+    - Fase S
+    - Fase G2
   correct: 2
   curiosity: "La replicazione del DNA avviene durante la fase S del ciclo cellulare, prima della divisione cellulare."
 
@@ -3104,10 +3104,10 @@
   kind: mc
   text: "Quale funzione ha l'enzima elicasi nella replicazione del DNA?"
   options:
-    - A) Ripara errori nel DNA
-    - B) Svolge la doppia elica separando i due filamenti
-    - C) Unisce i nucleotidi ai filamenti
-    - D) Sintetizza RNA
+    - Ripara errori nel DNA
+    - Svolge la doppia elica separando i due filamenti
+    - Unisce i nucleotidi ai filamenti
+    - Sintetizza RNA
   correct: 1
   curiosity: "L'enzima elicasi separa i due filamenti di DNA rompendo i legami a idrogeno tra le basi azotate."
 
@@ -3115,10 +3115,10 @@
   kind: mc
   text: "Qual è la differenza tra il filamento leading e il filamento lagging nella replicazione del DNA?"
   options:
-    - A) Il filamento leading è replicato a pezzi
-    - B) Il filamento leading è sintetizzato in modo continuo, il lagging in modo discontinuo
-    - C) Il filamento lagging è più lungo
-    - D) Il filamento leading contiene solo basi puriniche
+    - Il filamento leading è replicato a pezzi
+    - Il filamento leading è sintetizzato in modo continuo, il lagging in modo discontinuo
+    - Il filamento lagging è più lungo
+    - Il filamento leading contiene solo basi puriniche
   correct: 1
   curiosity: "Il filamento leading è sintetizzato in modo continuo, mentre il filamento lagging è sintetizzato in frammenti (frammenti di Okazaki)."
 
@@ -3126,10 +3126,10 @@
   kind: mc
   text: "In quale organismo è presente il DNA circolare?"
   options:
-    - A) Umano
-    - B) Batteri
-    - C) Animali
-    - D) Piante
+    - Umano
+    - Batteri
+    - Animali
+    - Piante
   correct: 1
   curiosity: "Il DNA circolare si trova principalmente nei batteri e in alcuni organelli, come i mitocondri e i cloroplasti."
 
@@ -3137,10 +3137,10 @@
   kind: mc
   text: "Cos’è un gene?"
   options:
-    - A) Una proteina
-    - B) Una molecola di zucchero
-    - C) Una sequenza di DNA che codifica per una proteina
-    - D) Una molecola di RNA
+    - Una proteina
+    - Una molecola di zucchero
+    - Una sequenza di DNA che codifica per una proteina
+    - Una molecola di RNA
   correct: 2
   curiosity: "Un gene è una sequenza di DNA che contiene le informazioni necessarie per la sintesi di una proteina."
 
@@ -3148,10 +3148,10 @@
   kind: mc
   text: "Qual è la principale differenza tra DNA e RNA?"
   options:
-    - A) Il DNA contiene uracile, mentre l'RNA contiene timina
-    - B) Il DNA contiene desossiribosio, mentre l'RNA contiene ribosio
-    - C) Il DNA è a singola elica, mentre l'RNA è a doppia elica
-    - D) L'RNA è più stabile del DNA
+    - Il DNA contiene uracile, mentre l'RNA contiene timina
+    - Il DNA contiene desossiribosio, mentre l'RNA contiene ribosio
+    - Il DNA è a singola elica, mentre l'RNA è a doppia elica
+    - L'RNA è più stabile del DNA
   correct: 1
   curiosity: "La principale differenza tra DNA e RNA è che il DNA contiene desossiribosio, mentre l'RNA contiene ribosio."
 
@@ -3159,10 +3159,10 @@
   kind: mc
   text: "Quale affermazione è vera riguardo alla struttura del DNA?"
   options:
-    - A) Le basi azotate si trovano sulla parte esterna della doppia elica
-    - B) Le basi azotate si trovano all'interno della doppia elica, mentre lo scheletro zucchero-fosfato è all'esterno
-    - C) Gli zuccheri si trovano al centro della doppia elica
-    - D) Le basi azotate si trovano solo su un filamento
+    - Le basi azotate si trovano sulla parte esterna della doppia elica
+    - Le basi azotate si trovano all'interno della doppia elica, mentre lo scheletro zucchero-fosfato è all'esterno
+    - Gli zuccheri si trovano al centro della doppia elica
+    - Le basi azotate si trovano solo su un filamento
   correct: 1
   curiosity: "Nel DNA, le basi azotate si trovano all'interno della doppia elica, mentre lo scheletro zucchero-fosfato è all'esterno."
 
@@ -3170,10 +3170,10 @@
   kind: mc
   text: "Cosa determina la sequenza degli amminoacidi in una proteina?"
   options:
-    - A) La struttura terziaria del DNA
-    - B) La sequenza dei nucleotidi nel DNA
-    - C) La posizione del tRNA
-    - D) Il ribosoma
+    - La struttura terziaria del DNA
+    - La sequenza dei nucleotidi nel DNA
+    - La posizione del tRNA
+    - Il ribosoma
   correct: 1
   curiosity: "La sequenza degli amminoacidi in una proteina è determinata dalla sequenza di nucleotidi nel DNA, che è trascritta nell'mRNA."
 
@@ -3181,10 +3181,10 @@
   kind: mc
   text: "Quale parte del DNA è coinvolta nella regolazione dell'espressione genica?"
   options:
-    - A) Gli introni
-    - B) I promotori
-    - C) I telomeri
-    - D) I centromeri
+    - Gli introni
+    - I promotori
+    - I telomeri
+    - I centromeri
   correct: 1
   curiosity: "I promotori sono sequenze di DNA che si trovano prima del gene e regolano l'inizio della trascrizione, influenzando l'espressione genica."
 
@@ -3192,10 +3192,10 @@
   kind: mc
   text: "Dove si trova il DNA nei procarioti?"
   options:
-    - A) Nel citoplasma
-    - B) Nel nucleo
-    - C) Nei mitocondri
-    - D) Nel reticolo endoplasmatico
+    - Nel citoplasma
+    - Nel nucleo
+    - Nei mitocondri
+    - Nel reticolo endoplasmatico
   correct: 0
   curiosity: "Nei procarioti, come i batteri, il DNA si trova nel citoplasma, in una regione chiamata nucleoide, poiché non hanno un nucleo definito."
 
@@ -3203,10 +3203,10 @@
   kind: mc
   text: "Quale delle seguenti affermazioni è corretta sul DNA mitocondriale?"
   options:
-    - A) È ereditato esclusivamente dalla madre
-    - B) È ereditato da entrambi i genitori
-    - C) È ereditato esclusivamente dal padre
-    - D) È prodotto durante la replicazione
+    - È ereditato esclusivamente dalla madre
+    - È ereditato da entrambi i genitori
+    - È ereditato esclusivamente dal padre
+    - È prodotto durante la replicazione
   correct: 0
   curiosity: "Il DNA mitocondriale è ereditato esclusivamente dalla madre, poiché gli spermatozoi contribuiscono solo con il loro nucleo durante la fecondazione, mentre i mitocondri sono ereditati dalla cellula uovo."
 
@@ -3214,10 +3214,10 @@
   kind: mc
   text: "Quale enzima è responsabile della sintesi del DNA durante la duplicazione?"
   options:
-    - A) DNA ligasi
-    - B) RNA polimerasi
-    - C) DNA polimerasi
-    - D) Helicasi
+    - DNA ligasi
+    - RNA polimerasi
+    - DNA polimerasi
+    - Helicasi
   correct: 2
   curiosity: "La DNA polimerasi è l'enzima principale che aggiunge nucleotidi al filamento in crescita durante la duplicazione del DNA."
 
@@ -3225,10 +3225,10 @@
   kind: mc
   text: "Durante quale fase del ciclo cellulare avviene la duplicazione del DNA?"
   options:
-    - A) Fase S
-    - B) Fase G1
-    - C) Fase G2
-    - D) Fase M
+    - Fase S
+    - Fase G1
+    - Fase G2
+    - Fase M
   correct: 0
   curiosity: "La duplicazione del DNA avviene durante la fase S (Sintesi) del ciclo cellulare, prima della divisione cellulare."
 
@@ -3236,10 +3236,10 @@
   kind: mc
   text: "Qual è il primo passo nella duplicazione del DNA?"
   options:
-    - A) Sintesi di RNA
-    - B) Attacco dei ribosomi
-    - C) Separazione dei filamenti di DNA
-    - D) Formazione di nucleotidi
+    - Sintesi di RNA
+    - Attacco dei ribosomi
+    - Separazione dei filamenti di DNA
+    - Formazione di nucleotidi
   correct: 2
   curiosity: "Il primo passo nella duplicazione del DNA è la separazione dei due filamenti di DNA, che apre la doppia elica."
 
@@ -3247,10 +3247,10 @@
   kind: mc
   text: "Cosa si forma alla fine della duplicazione del DNA?"
   options:
-    - A) Due molecole di RNA
-    - B) Una molecola di DNA
-    - C) Due molecole di DNA identiche
-    - D) Due molecole di proteine
+    - Due molecole di RNA
+    - Una molecola di DNA
+    - Due molecole di DNA identiche
+    - Due molecole di proteine
   correct: 2
   curiosity: "Alla fine della duplicazione, si formano due molecole di DNA identiche, ciascuna composta da un filamento originale e uno nuovo."
 
@@ -3258,10 +3258,10 @@
   kind: mc
   text: "Quale dei seguenti è un segnale di inizio della duplicazione del DNA?"
   options:
-    - A) Complesso di mitosi
-    - B) Origine di replicazione
-    - C) Centromero
-    - D) Telomero
+    - Complesso di mitosi
+    - Origine di replicazione
+    - Centromero
+    - Telomero
   correct: 1
   curiosity: "L'origine di replicazione è il sito in cui inizia la duplicazione del DNA, dove si separano i filamenti di DNA."
 
@@ -3269,10 +3269,10 @@
   kind: mc
   text: "Qual è il ruolo della DNA ligasi nella duplicazione del DNA?"
   options:
-    - A) Separare i filamenti
-    - B) Creare nuovi nucleotidi
-    - C) Unire i frammenti di Okazaki
-    - D) Stabilizzare il filamento
+    - Separare i filamenti
+    - Creare nuovi nucleotidi
+    - Unire i frammenti di Okazaki
+    - Stabilizzare il filamento
   correct: 2
   curiosity: "La DNA ligasi unisce i frammenti di Okazaki, che si formano sul filamento ritardato durante la replicazione del DNA."
 
@@ -3280,10 +3280,10 @@
   kind: mc
   text: "Quale modello descrive il meccanismo di duplicazione del DNA?"
   options:
-    - A) Modello dispersivo
-    - B) Modello semiconservativo
-    - C) Modello conservativo
-    - D) Modello catalitico
+    - Modello dispersivo
+    - Modello semiconservativo
+    - Modello conservativo
+    - Modello catalitico
   correct: 1
   curiosity: "Il modello semiconservativo della duplicazione del DNA implica che ogni molecola figlia contenga un filamento originale e uno nuovo."
 
@@ -3291,10 +3291,10 @@
   kind: mc
   text: "Quali sono i frammenti di DNA che si formano sul filamento ritardato durante la replicazione?"
   options:
-    - A) Frammenti di Okazaki
-    - B) Frammenti di RNA
-    - C) Frammenti di mRNA
-    - D) Frammenti di proteine
+    - Frammenti di Okazaki
+    - Frammenti di RNA
+    - Frammenti di mRNA
+    - Frammenti di proteine
   correct: 0
   curiosity: "I frammenti di Okazaki sono brevi segmenti di DNA che si formano sul filamento ritardato durante la replicazione del DNA."
 
@@ -3302,10 +3302,10 @@
   kind: mc
   text: "Qual è il ruolo della primasi nella duplicazione del DNA?"
   options:
-    - A) Stabilizzare il DNA
-    - B) Sintetizzare un primer di RNA
-    - C) Correggere errori
-    - D) Tagliare il DNA
+    - Stabilizzare il DNA
+    - Sintetizzare un primer di RNA
+    - Correggere errori
+    - Tagliare il DNA
   correct: 1
   curiosity: "La primasi sintetizza un primer di RNA che fornisce l'estremità 3' per l'inizio della sintesi del filamento di DNA."
 
@@ -3313,10 +3313,10 @@
   kind: mc
   text: "Cosa determina la direzione di sintesi della nuova catena di DNA?"
   options:
-    - A) La temperatura del sistema
-    - B) La presenza di nucleotidi
-    - C) La direzione del filamento di stampo
-    - D) L'enzima RNA polimerasi
+    - La temperatura del sistema
+    - La presenza di nucleotidi
+    - La direzione del filamento di stampo
+    - L'enzima RNA polimerasi
   correct: 2
   curiosity: "La sintesi del DNA avviene in direzione 5' verso 3', in base alla direzione del filamento stampo."
 
@@ -3324,10 +3324,10 @@
   kind: mc
   text: "Qual è il termine per le estremità dei cromosomi che proteggono il DNA dalla degradazione?"
   options:
-    - A) Centromero
-    - B) Telomero
-    - C) Cromatidi
-    - D) DNA nucleosomiale
+    - Centromero
+    - Telomero
+    - Cromatidi
+    - DNA nucleosomiale
   correct: 1
   curiosity: "I telomeri sono le estremità dei cromosomi che proteggono il DNA dalla perdita di informazioni durante la replicazione."
 
@@ -3335,10 +3335,10 @@
   kind: mc
   text: "Quale proteina è coinvolta nella separazione dei filamenti di DNA durante la replicazione?"
   options:
-    - A) DNA ligasi
-    - B) RNA polimerasi
-    - C) Helicasi
-    - D) Topoisomerasi
+    - DNA ligasi
+    - RNA polimerasi
+    - Helicasi
+    - Topoisomerasi
   correct: 2
   curiosity: "La helicasi è l'enzima che separa i due filamenti di DNA durante la replicazione, creando una bolla di replicazione."
 
@@ -3346,10 +3346,10 @@
   kind: mc
   text: "Qual è la funzione della topoisomerasi nella duplicazione del DNA?"
   options:
-    - A) Sintetizzare il DNA
-    - B) Legare i frammenti di Okazaki
-    - C) Ridurre la tensione torsionale
-    - D) Stabilizzare il DNA
+    - Sintetizzare il DNA
+    - Legare i frammenti di Okazaki
+    - Ridurre la tensione torsionale
+    - Stabilizzare il DNA
   correct: 2
   curiosity: "La topoisomerasi allevia la tensione torsionale che si forma quando il DNA viene separato durante la replicazione."
 
@@ -3357,10 +3357,10 @@
   kind: mc
   text: "Durante la replicazione del DNA, quale filamento è sintetizzato in modo discontinuo?"
   options:
-    - A) Filamento leader
-    - B) Filamento ritardato
-    - C) Filamento di template
-    - D) Filamento di RNA
+    - Filamento leader
+    - Filamento ritardato
+    - Filamento di template
+    - Filamento di RNA
   correct: 1
   curiosity: "Il filamento ritardato viene sintetizzato in modo discontinuo attraverso i frammenti di Okazaki, mentre il filamento leader è sintetizzato in modo continuo."
 
@@ -3368,10 +3368,10 @@
   kind: mc
   text: "Quale enzima rimuove i primer di RNA e li sostituisce con DNA?"
   options:
-    - A) RNA polimerasi
-    - B) Ligasi
-    - C) DNA polimerasi
-    - D) Primasi
+    - RNA polimerasi
+    - Ligasi
+    - DNA polimerasi
+    - Primasi
   correct: 2
   curiosity: "La DNA polimerasi rimuove i primer di RNA e li sostituisce con nucleotidi di DNA durante la replicazione."
 
@@ -3379,10 +3379,10 @@
   kind: mc
   text: "Quale tipo di legame unisce i nucleotidi all'interno di un filamento di DNA?"
   options:
-    - A) Legami idrogeno
-    - B) Legami ionici
-    - C) Legami covalenti
-    - D) Legami metallici
+    - Legami idrogeno
+    - Legami ionici
+    - Legami covalenti
+    - Legami metallici
   correct: 2
   curiosity: "I nucleotidi all'interno di un filamento di DNA sono uniti da legami covalenti tra il gruppo fosfato di un nucleotide e il carbonio 3' del nucleotide successivo."
 
@@ -3390,10 +3390,10 @@
   kind: mc
   text: "Quale dei seguenti eventi avviene durante la fase S del ciclo cellulare?"
   options:
-    - A) Divisione cellulare
-    - B) Crescita cellulare
-    - C) Duplicazione del DNA
-    - D) Sintesi proteica
+    - Divisione cellulare
+    - Crescita cellulare
+    - Duplicazione del DNA
+    - Sintesi proteica
   correct: 2
   curiosity: "Durante la fase S del ciclo cellulare, avviene la duplicazione del DNA, preparando la cellula alla divisione."
 
@@ -3401,10 +3401,10 @@
   kind: mc
   text: "Come si chiamano le sequenze di DNA che non codificano per proteine?"
   options:
-    - A) Esoni
-    - B) Introni
-    - C) Promotori
-    - D) Codoni
+    - Esoni
+    - Introni
+    - Promotori
+    - Codoni
   correct: 1
   curiosity: "Gli introni sono sequenze di DNA che non codificano per proteine e vengono rimossi durante il processo di splicing."
 
@@ -3412,10 +3412,10 @@
   kind: mc
   text: "Cosa si intende per 'replicazione bidirezionale' nel contesto della duplicazione del DNA?"
   options:
-    - A) La duplicazione avviene solo in un verso
-    - B) La duplicazione avviene solo su un filamento
-    - C) La duplicazione avviene in due direzioni contemporaneamente
-    - D) La duplicazione avviene solo in presenza di RNA
+    - La duplicazione avviene solo in un verso
+    - La duplicazione avviene solo su un filamento
+    - La duplicazione avviene in due direzioni contemporaneamente
+    - La duplicazione avviene solo in presenza di RNA
   correct: 2
   curiosity: "La replicazione bidirezionale significa che la duplicazione del DNA avviene in due direzioni, partendo dall'origine di replicazione."
 
@@ -3423,10 +3423,10 @@
   kind: mc
   text: "Quale proteina si lega al DNA per stabilizzare i filamenti durante la replicazione?"
   options:
-    - A) DNA polimerasi
-    - B) Helicasi
-    - C) Proteine SSB (Single-Strand Binding)
-    - D) Ligasi
+    - DNA polimerasi
+    - Helicasi
+    - Proteine SSB (Single-Strand Binding)
+    - Ligasi
   correct: 2
   curiosity: "Le proteine SSB si legano ai filamenti di DNA separati durante la replicazione per impedirne la riassociazione e stabilizzarli."
 
@@ -3434,10 +3434,10 @@
   kind: mc
   text: "Quale è la struttura fondamentale del DNA?"
   options:
-    - A) Singolo filamento
-    - B) Molecola di RNA
-    - C) Doppia elica
-    - D) Tripla elica
+    - Singolo filamento
+    - Molecola di RNA
+    - Doppia elica
+    - Tripla elica
   correct: 2
   curiosity: "La struttura fondamentale del DNA è la doppia elica, costituita da due filamenti di nucleotidi avvolti uno attorno all'altro."
 
@@ -3445,10 +3445,10 @@
   kind: mc
   text: "Qual è il principale livello di organizzazione del DNA nei cromosomi?"
   options:
-    - A) Nucleotidi
-    - B) Filamenti di RNA
-    - C) Cromatina
-    - D) Ribosomi
+    - Nucleotidi
+    - Filamenti di RNA
+    - Cromatina
+    - Ribosomi
   correct: 2
   curiosity: "Il DNA nei cromosomi è organizzato in cromatina, una combinazione di DNA e proteine, principalmente istoni."
 
@@ -3456,10 +3456,10 @@
   kind: mc
   text: "Cosa sono i nucleosomi?"
   options:
-    - A) Catene di aminoacidi
-    - B) Molecole di RNA
-    - C) Unità di base della cromatina
-    - D) Segmenti di DNA non codificante
+    - Catene di aminoacidi
+    - Molecole di RNA
+    - Unità di base della cromatina
+    - Segmenti di DNA non codificante
   correct: 2
   curiosity: "I nucleosomi sono strutture composte da DNA avvolto attorno a un nucleo di proteine istoniche, che costituiscono la cromatina."
 
@@ -3467,10 +3467,10 @@
   kind: mc
   text: "Qual è il ruolo delle proteine istoniche nella compattazione del DNA?"
   options:
-    - A) Sintetizzare il DNA
-    - B) Legare i ribosomi
-    - C) Stabilizzare e impacchettare il DNA
-    - D) Correggere gli errori nella replicazione
+    - Sintetizzare il DNA
+    - Legare i ribosomi
+    - Stabilizzare e impacchettare il DNA
+    - Correggere gli errori nella replicazione
   correct: 2
   curiosity: "Le proteine istoniche aiutano a compattare e stabilizzare il DNA all'interno del nucleo, formando la cromatina."
 
@@ -3478,10 +3478,10 @@
   kind: mc
   text: "Quale di queste affermazioni descrive meglio la struttura della cromatina?"
   options:
-    - A) Sempre disordinata
-    - B) Completamente accessibile
-    - C) Può essere sia eucromatina che eterocromatina
-    - D) È sempre in uno stato compatto
+    - Sempre disordinata
+    - Completamente accessibile
+    - Può essere sia eucromatina che eterocromatina
+    - È sempre in uno stato compatto
   correct: 2
   curiosity: "La cromatina può esistere in due forme principali: eucromatina, attivamente trascritta, ed eterocromatina, più compatta e meno attiva."
 
@@ -3489,10 +3489,10 @@
   kind: mc
   text: "Quale processo avviene durante la fase di mitosi riguardante il DNA?"
   options:
-    - A) Replicazione del DNA
-    - B) Trascrizione del DNA
-    - C) Compattazione del DNA
-    - D) Traduzione del DNA
+    - Replicazione del DNA
+    - Trascrizione del DNA
+    - Compattazione del DNA
+    - Traduzione del DNA
   correct: 2
   curiosity: "Durante la mitosi, il DNA si compatta per formare i cromosomi, preparandosi alla separazione durante la divisione cellulare."
 
@@ -3500,10 +3500,10 @@
   kind: mc
   text: "Che cosa è l'eterocromatina?"
   options:
-    - A) DNA attivo nella trascrizione
-    - B) DNA non codificante
-    - C) DNA altamente compattato e inaccessibile
-    - D) DNA replicato
+    - DNA attivo nella trascrizione
+    - DNA non codificante
+    - DNA altamente compattato e inaccessibile
+    - DNA replicato
   correct: 2
   curiosity: "L'eterocromatina è una forma di DNA altamente compattato e inaccessibile alla trascrizione, generalmente associata a regioni silenziate."
 
@@ -3511,10 +3511,10 @@
   kind: mc
   text: "Quale tipo di cromatina è generalmente associato a geni attivi?"
   options:
-    - A) Eterocromatina
-    - B) Eucromatina
-    - C) Cromatina condensata
-    - D) Cromatina metafasica
+    - Eterocromatina
+    - Eucromatina
+    - Cromatina condensata
+    - Cromatina metafasica
   correct: 1
   curiosity: "L'eucromatina è associata a geni attivi, poiché è meno compatta e quindi più accessibile per la trascrizione."
 
@@ -3522,10 +3522,10 @@
   kind: mc
   text: "Cosa succede al DNA durante la compattazione in preparazione alla divisione cellulare?"
   options:
-    - A) Si sfaldano i filamenti
-    - B) Si avvolge attorno agli istoni
-    - C) Si trasforma in RNA
-    - D) Si duplicano i filamenti
+    - Si sfaldano i filamenti
+    - Si avvolge attorno agli istoni
+    - Si trasforma in RNA
+    - Si duplicano i filamenti
   correct: 1
   curiosity: "Durante la compattazione, il DNA si avvolge attorno agli istoni formando la cromatina, che si condensa ulteriormente per formare i cromosomi."
 
@@ -3533,10 +3533,10 @@
   kind: mc
   text: "Quale enzima è coinvolto nella modificazione degli istoni?"
   options:
-    - A) DNA polimerasi
-    - B) Helicasi
-    - C) Istone acetiltransferasi
-    - D) Ligasi
+    - DNA polimerasi
+    - Helicasi
+    - Istone acetiltransferasi
+    - Ligasi
   correct: 2
   curiosity: "L'istone acetiltransferasi è un enzima che aggiunge gruppi acetil agli istoni, influenzando la struttura della cromatina e l'espressione genica."
 
@@ -3544,10 +3544,10 @@
   kind: mc
   text: "Qual è la funzione delle modifiche post-traduzionali sugli istoni?"
   options:
-    - A) Stabilizzare il DNA
-    - B) Impedire la replicazione
-    - C) Regolare l'espressione genica
-    - D) Legare il DNA
+    - Stabilizzare il DNA
+    - Impedire la replicazione
+    - Regolare l'espressione genica
+    - Legare il DNA
   correct: 2
   curiosity: "Le modifiche post-traduzionali sugli istoni, come acetilazione e metilazione, regolano l'accessibilità della cromatina e l'espressione genica."
 
@@ -3555,10 +3555,10 @@
   kind: mc
   text: "Che cos'è la supercoiling del DNA?"
   options:
-    - A) La formazione di RNA
-    - B) La duplicazione del DNA
-    - C) Una forma di compattazione del DNA
-    - D) La traduzione del DNA
+    - La formazione di RNA
+    - La duplicazione del DNA
+    - Una forma di compattazione del DNA
+    - La traduzione del DNA
   correct: 2
   curiosity: "La supercoiling è un processo che compatta ulteriormente il DNA, avvolgendolo su se stesso in modo che possa adattarsi all'interno del nucleo."
 
@@ -3566,10 +3566,10 @@
   kind: mc
   text: "Quale elemento non è coinvolto nella compattazione del DNA?"
   options:
-    - A) Nucleosomi
-    - B) Proteine istoniche
-    - C) Ribosomi
-    - D) Eucromatina
+    - Nucleosomi
+    - Proteine istoniche
+    - Ribosomi
+    - Eucromatina
   correct: 2
   curiosity: "I ribosomi non sono coinvolti nella compattazione del DNA; sono strutture cellulari responsabili della sintesi proteica."
 
@@ -3577,10 +3577,10 @@
   kind: mc
   text: "Come si chiama il segmento di DNA che collega i nucleosomi?"
   options:
-    - A) Eterocromatina
-    - B) DNA ribosomiale
-    - C) DNA linker
-    - D) DNA codificante
+    - Eterocromatina
+    - DNA ribosomiale
+    - DNA linker
+    - DNA codificante
   correct: 2
   curiosity: "Il DNA linker è il segmento di DNA che collega i nucleosomi, mantenendo l'organizzazione della cromatina."
 
@@ -3588,10 +3588,10 @@
   kind: mc
   text: "Qual è il livello più alto di organizzazione del DNA nei cromosomi?"
   options:
-    - A) Nucleosomi
-    - B) Cromatina
-    - C) Cromosoma
-    - D) DNA circolare
+    - Nucleosomi
+    - Cromatina
+    - Cromosoma
+    - DNA circolare
   correct: 2
   curiosity: "Il livello più alto di organizzazione del DNA nei cromosomi è il cromosoma, che è formato da cromatina altamente condensata."
 
@@ -3599,10 +3599,10 @@
   kind: mc
   text: "In quale fase del ciclo cellulare avviene la compattazione del DNA?"
   options:
-    - A) Fase G1
-    - B) Fase S
-    - C) Fase M
-    - D) Fase G2
+    - Fase G1
+    - Fase S
+    - Fase M
+    - Fase G2
   correct: 2
   curiosity: "La compattazione del DNA avviene durante la fase M del ciclo cellulare, quando il DNA si condensa in cromosomi pronti per la divisione."
 
@@ -3610,10 +3610,10 @@
   kind: mc
   text: "Quale dei seguenti è un modo in cui la cromatina può essere modificata?"
   options:
-    - A) Attraverso la replicazione
-    - B) Attraverso la traduzione
-    - C) Attraverso metilazione e acetilazione
-    - D) Attraverso la sintesi di RNA
+    - Attraverso la replicazione
+    - Attraverso la traduzione
+    - Attraverso metilazione e acetilazione
+    - Attraverso la sintesi di RNA
   correct: 2
   curiosity: "La cromatina può essere modificata tramite metilazione e acetilazione degli istoni, che influenzano l'accessibilità del DNA."
 
@@ -3621,10 +3621,10 @@
   kind: mc
   text: "Che cosa rappresentano le bande nei cromosomi?"
   options:
-    - A) Sequenze di RNA
-    - B) Sequenze di proteine
-    - C) Aree di DNA compattato
-    - D) Aree di RNA messaggero
+    - Sequenze di RNA
+    - Sequenze di proteine
+    - Aree di DNA compattato
+    - Aree di RNA messaggero
   correct: 2
   curiosity: "Le bande nei cromosomi sono aree di DNA altamente compattato che si visualizzano durante la divisione cellulare."
 
@@ -3632,10 +3632,10 @@
   kind: mc
   text: "Quale è la differenza principale tra eucromatina e eterocromatina?"
   options:
-    - A) Solo l'eucromatina è visibile al microscopio
-    - B) L'eterocromatina è meno compattata
-    - C) L'eucromatina è attivamente trascritta, mentre l'eterocromatina non lo è
-    - D) L'eterocromatina è presente solo durante la mitosi
+    - Solo l'eucromatina è visibile al microscopio
+    - L'eterocromatina è meno compattata
+    - L'eucromatina è attivamente trascritta, mentre l'eterocromatina non lo è
+    - L'eterocromatina è presente solo durante la mitosi
   correct: 2
   curiosity: "L'eucromatina è attivamente trascritta e meno compatta, mentre l'eterocromatina è più compatta e meno attiva."
 
@@ -3643,10 +3643,10 @@
   kind: mc
   text: "Quale proteina è responsabile della condensa della cromatina in strutture di cromosoma durante la mitosi?"
   options:
-    - A) DNA polimerasi
-    - B) Ligasi
-    - C) Condensina
-    - D) Topoisomerasi
+    - DNA polimerasi
+    - Ligasi
+    - Condensina
+    - Topoisomerasi
   correct: 2
   curiosity: "La condensina è una proteina che gioca un ruolo fondamentale nella condensazione della cromatina in cromosomi durante la mitosi."
 
@@ -3654,10 +3654,10 @@
   kind: mc
   text: "Cosa rappresenta un gene?"
   options:
-    - A) Una sequenza di aminoacidi
-    - B) Una proteina
-    - C) Una sequenza di DNA che codifica per un carattere ereditario
-    - D) Una molecola di RNA
+    - Una sequenza di aminoacidi
+    - Una proteina
+    - Una sequenza di DNA che codifica per un carattere ereditario
+    - Una molecola di RNA
   correct: 2
   curiosity: "Un gene è una sequenza di DNA che contiene le istruzioni per la sintesi di una proteina o per determinare un carattere ereditario."
 
@@ -3665,10 +3665,10 @@
   kind: mc
   text: "Quale di queste affermazioni descrive meglio la funzione di un gene?"
   options:
-    - A) Produce energia
-    - B) Trasporta nutrienti
-    - C) Contiene le istruzioni per la sintesi di proteine
-    - D) Regola la temperatura corporea
+    - Produce energia
+    - Trasporta nutrienti
+    - Contiene le istruzioni per la sintesi di proteine
+    - Regola la temperatura corporea
   correct: 2
   curiosity: "I geni contengono le informazioni necessarie per la sintesi di proteine, che a loro volta sono fondamentali per il funzionamento delle cellule."
 
@@ -3676,10 +3676,10 @@
   kind: mc
   text: "Quale è la parte di un gene che contiene le informazioni per la sintesi della proteina?"
   options:
-    - A) Introne
-    - B) Promotore
-    - C) Esoni
-    - D) Sequenza di terminazione
+    - Introne
+    - Promotore
+    - Esoni
+    - Sequenza di terminazione
   correct: 2
   curiosity: "Gli esoni sono le regioni codificanti di un gene che contengono le informazioni per la sintesi della proteina."
 
@@ -3687,10 +3687,10 @@
   kind: mc
   text: "Cosa sono gli introni?"
   options:
-    - A) Sequenze codificanti nel gene
-    - B) Sequenze di RNA messaggero
-    - C) Sequenze non codificanti all'interno di un gene
-    - D) Nucleotidi liberi nel citoplasma
+    - Sequenze codificanti nel gene
+    - Sequenze di RNA messaggero
+    - Sequenze non codificanti all'interno di un gene
+    - Nucleotidi liberi nel citoplasma
   correct: 2
   curiosity: "Gli introni sono sequenze non codificanti di DNA che vengono eliminati durante la maturazione dell'RNA messaggero."
 
@@ -3698,10 +3698,10 @@
   kind: mc
   text: "Qual è il ruolo del promotore in un gene?"
   options:
-    - A) Codificare per aminoacidi
-    - B) Regolare l'inizio della trascrizione
-    - C) Legare il ribosoma
-    - D) Stabilizzare la molecola di DNA
+    - Codificare per aminoacidi
+    - Regolare l'inizio della trascrizione
+    - Legare il ribosoma
+    - Stabilizzare la molecola di DNA
   correct: 2
   curiosity: "Il promotore è una sequenza di DNA che segnala l'inizio della trascrizione di un gene, permettendo la sintesi di RNA."
 
@@ -3709,10 +3709,10 @@
   kind: mc
   text: "Quale processo trasforma il DNA in RNA?"
   options:
-    - A) Traduzione
-    - B) Trascrizione
-    - C) Replicazione
-    - D) Compattazione
+    - Traduzione
+    - Trascrizione
+    - Replicazione
+    - Compattazione
   correct: 2
   curiosity: "La trascrizione è il processo che copia l'informazione contenuta nel DNA in RNA messaggero (mRNA)."
 
@@ -3720,10 +3720,10 @@
   kind: mc
   text: "Quale è la funzione del codice genetico?"
   options:
-    - A) Tradurre RNA in proteine
-    - B) Copiare il DNA
-    - C) Definire quali aminoacidi corrispondono a ciascun codone
-    - D) Stabilizzare il DNA
+    - Tradurre RNA in proteine
+    - Copiare il DNA
+    - Definire quali aminoacidi corrispondono a ciascun codone
+    - Stabilizzare il DNA
   correct: 2
   curiosity: "Il codice genetico definisce quale aminoacido corrisponde a ciascun codone nell'RNA, determinando la sequenza delle proteine."
 
@@ -3731,10 +3731,10 @@
   kind: mc
   text: "Quale è il risultato della traduzione del mRNA?"
   options:
-    - A) Nucleotide
-    - B) Proteina
-    - C) DNA
-    - D) Ribosoma
+    - Nucleotide
+    - Proteina
+    - DNA
+    - Ribosoma
   correct: 2
   curiosity: "Durante la traduzione, il mRNA viene utilizzato per sintetizzare una proteina, che esegue specifiche funzioni nella cellula."
 
@@ -3742,10 +3742,10 @@
   kind: mc
   text: "Che cosa è un codone?"
   options:
-    - A) Un aminoacido
-    - B) Un tipo di RNA
-    - C) Una sequenza di tre nucleotidi nel mRNA
-    - D) Un introne
+    - Un aminoacido
+    - Un tipo di RNA
+    - Una sequenza di tre nucleotidi nel mRNA
+    - Un introne
   correct: 2
   curiosity: "Un codone è una sequenza di tre nucleotidi nel mRNA che codifica per un aminoacido specifico durante la traduzione."
 
@@ -3753,10 +3753,10 @@
   kind: mc
   text: "Cosa determina il fenotipo di un organismo?"
   options:
-    - A) Solo i geni recessivi
-    - B) Solo i geni dominanti
-    - C) L'interazione tra geni e ambiente
-    - D) Solo l'ambiente
+    - Solo i geni recessivi
+    - Solo i geni dominanti
+    - L'interazione tra geni e ambiente
+    - Solo l'ambiente
   correct: 2
   curiosity: "Il fenotipo di un organismo è il risultato dell'interazione tra i suoi geni e l'ambiente in cui vive."
 
@@ -3764,10 +3764,10 @@
   kind: mc
   text: "Cosa significa che un gene è dominante?"
   options:
-    - A) Viene sempre trascritto
-    - B) Si trova in tutti gli organismi
-    - C) Può mascherare l'espressione di un altro gene
-    - D) È presente solo in alcune cellule
+    - Viene sempre trascritto
+    - Si trova in tutti gli organismi
+    - Può mascherare l'espressione di un altro gene
+    - È presente solo in alcune cellule
   correct: 2
   curiosity: "Un gene dominante può mascherare l'effetto di un gene recessivo nella determinazione di un carattere."
 
@@ -3775,10 +3775,10 @@
   kind: mc
   text: "Cosa è una mutazione?"
   options:
-    - A) Un processo di trascrizione
-    - B) Un errore nella traduzione
-    - C) Un cambiamento nella sequenza nucleotidica di un gene
-    - D) Un aumento del numero di geni
+    - Un processo di trascrizione
+    - Un errore nella traduzione
+    - Un cambiamento nella sequenza nucleotidica di un gene
+    - Un aumento del numero di geni
   correct: 2
   curiosity: "Una mutazione è un cambiamento permanente nella sequenza nucleotidica del DNA, che può influenzare la funzione del gene."
 
@@ -3786,10 +3786,10 @@
   kind: mc
   text: "Quale tipo di mutazione può cambiare un aminoacido nella proteina risultante?"
   options:
-    - A) Mutazione silente
-    - B) Mutazione di sostituzione
-    - C) Mutazione di inserzione
-    - D) Mutazione di delezione
+    - Mutazione silente
+    - Mutazione di sostituzione
+    - Mutazione di inserzione
+    - Mutazione di delezione
   correct: 2
   curiosity: "Una mutazione di sostituzione cambia un singolo nucleotido nella sequenza del DNA, che può portare a un cambiamento in un aminoacido nella proteina."
 
@@ -3797,10 +3797,10 @@
   kind: mc
   text: "Cosa rappresenta l'allele di un gene?"
   options:
-    - A) La posizione del gene su un cromosoma
-    - B) Il tipo di proteina codificata
-    - C) Una delle diverse forme di un gene
-    - D) La quantità di gene presente
+    - La posizione del gene su un cromosoma
+    - Il tipo di proteina codificata
+    - Una delle diverse forme di un gene
+    - La quantità di gene presente
   correct: 2
   curiosity: "Un allele è una delle diverse varianti di un gene che può determinare differenti tratti ereditari."
 
@@ -3808,10 +3808,10 @@
   kind: mc
   text: "Qual è la differenza principale tra un gene e un allele?"
   options:
-    - A) I geni sono sempre dominanti
-    - B) Gli alleli non possono essere trascritti
-    - C) Un gene è una regione di DNA, mentre un allele è una variante di quel gene
-    - D) Non c'è differenza
+    - I geni sono sempre dominanti
+    - Gli alleli non possono essere trascritti
+    - Un gene è una regione di DNA, mentre un allele è una variante di quel gene
+    - Non c'è differenza
   correct: 2
   curiosity: "Un gene è una sequenza di DNA che codifica per una funzione biologica, mentre un allele è una variante di quel gene."
 
@@ -3819,10 +3819,10 @@
   kind: mc
   text: "Cosa determina la variabilità genetica in una popolazione?"
   options:
-    - A) Solo la riproduzione asessuale
-    - B) Mutazioni e ricombinazione genetica
-    - C) Solo la selezione naturale
-    - D) Solo l'ambiente
+    - Solo la riproduzione asessuale
+    - Mutazioni e ricombinazione genetica
+    - Solo la selezione naturale
+    - Solo l'ambiente
   correct: 2
   curiosity: "La variabilità genetica è influenzata da mutazioni, ricombinazione genetica e selezione naturale."
 
@@ -3830,10 +3830,10 @@
   kind: mc
   text: "Qual è il principale scopo della genetica?"
   options:
-    - A) Studiare i comportamenti animali
-    - B) Comprendere l'eredità e la variazione nei caratteri
-    - C) Analizzare i fenomeni fisici
-    - D) Studiare la chimica dei nutrienti
+    - Studiare i comportamenti animali
+    - Comprendere l'eredità e la variazione nei caratteri
+    - Analizzare i fenomeni fisici
+    - Studiare la chimica dei nutrienti
   correct: 2
   curiosity: "Lo scopo principale della genetica è comprendere come i caratteri vengono ereditati e come varianti genetiche influenzano gli organismi."
 
@@ -3841,10 +3841,10 @@
   kind: mc
   text: "Quale tecnologia è utilizzata per clonare geni?"
   options:
-    - A) PCR (Reazione a Catena della Polimerasi)
-    - B) Sequenziamento del DNA
-    - C) Clonazione genetica
-    - D) Trascrizione inversa
+    - PCR (Reazione a Catena della Polimerasi)
+    - Sequenziamento del DNA
+    - Clonazione genetica
+    - Trascrizione inversa
   correct: 2
   curiosity: "La clonazione genetica è una tecnologia utilizzata per creare copie esatte di un gene o di un organismo."
 
@@ -3852,10 +3852,10 @@
   kind: mc
   text: "Cosa si intende per espressione genica?"
   options:
-    - A) La duplicazione del DNA
-    - B) Il processo attraverso il quale le informazioni di un gene vengono utilizzate per sintetizzare un prodotto genico
-    - C) La traduzione dell'RNA in DNA
-    - D) La modificazione delle proteine
+    - La duplicazione del DNA
+    - Il processo attraverso il quale le informazioni di un gene vengono utilizzate per sintetizzare un prodotto genico
+    - La traduzione dell'RNA in DNA
+    - La modificazione delle proteine
   correct: 2
   curiosity: "L'espressione genica è il processo attraverso il quale le informazioni contenute in un gene vengono utilizzate per sintetizzare proteine o altri prodotti genici."
 
@@ -3863,10 +3863,10 @@
   kind: mc
   text: "Quale tipo di RNA è responsabile della trasmissione delle informazioni genetiche dai geni ai ribosomi?"
   options:
-    - A) RNA di trasferimento (tRNA)
-    - B) RNA ribosomiale (rRNA)
-    - C) RNA messaggero (mRNA)
-    - D) RNA interferente (siRNA)
+    - RNA di trasferimento (tRNA)
+    - RNA ribosomiale (rRNA)
+    - RNA messaggero (mRNA)
+    - RNA interferente (siRNA)
   correct: 2
   curiosity: "L'RNA messaggero (mRNA) trasmette l'informazione genetica dai geni ai ribosomi, dove avviene la sintesi proteica."
 
@@ -3874,10 +3874,10 @@
   kind: mc
   text: "Qual è il primo passo della trascrizione del DNA?"
   options:
-    - A) Traduzione del mRNA
-    - B) Legame dell'RNA polimerasi al promotore
-    - C) Sintesi di proteine
-    - D) Replicazione del DNA
+    - Traduzione del mRNA
+    - Legame dell'RNA polimerasi al promotore
+    - Sintesi di proteine
+    - Replicazione del DNA
   correct: 2
   curiosity: "Il primo passo della trascrizione è il legame dell'RNA polimerasi al promotore, una sequenza specifica di DNA che segnala l'inizio della trascrizione."
 
@@ -3885,10 +3885,10 @@
   kind: mc
   text: "Cosa viene prodotto durante il processo di trascrizione?"
   options:
-    - A) DNA
-    - B) Aminoacidi
-    - C) RNA
-    - D) Ribosomi
+    - DNA
+    - Aminoacidi
+    - RNA
+    - Ribosomi
   correct: 2
   curiosity: "Durante la trascrizione, una molecola di RNA viene prodotta a partire dal DNA."
 
@@ -3896,10 +3896,10 @@
   kind: mc
   text: "Quale tipo di RNA è sintetizzato durante la trascrizione?"
   options:
-    - A) RNA ribosomiale (rRNA)
-    - B) RNA di trasferimento (tRNA)
-    - C) RNA messaggero (mRNA)
-    - D) RNA interferente (siRNA)
+    - RNA ribosomiale (rRNA)
+    - RNA di trasferimento (tRNA)
+    - RNA messaggero (mRNA)
+    - RNA interferente (siRNA)
   correct: 2
   curiosity: "Il tipo di RNA sintetizzato durante la trascrizione è l'RNA messaggero (mRNA), che porta le informazioni dal DNA ai ribosomi."
 
@@ -3907,10 +3907,10 @@
   kind: mc
   text: "Dove avviene la trascrizione nel tipo di cellula eucariotica?"
   options:
-    - A) Nucleo
-    - B) Citoplasma
-    - C) Membrana cellulare
-    - D) Mitocondrio
+    - Nucleo
+    - Citoplasma
+    - Membrana cellulare
+    - Mitocondrio
   correct: 1
   curiosity: "Nelle cellule eucariotiche, la trascrizione avviene nel nucleo, dove il DNA è localizzato."
 
@@ -3918,10 +3918,10 @@
   kind: mc
   text: "Qual è la funzione della RNA polimerasi?"
   options:
-    - A) Duplicare il DNA
-    - B) Tradurre il mRNA in proteine
-    - C) Sintetizzare RNA a partire da un filamento di DNA
-    - D) Legare ribosomi all'RNA
+    - Duplicare il DNA
+    - Tradurre il mRNA in proteine
+    - Sintetizzare RNA a partire da un filamento di DNA
+    - Legare ribosomi all'RNA
   correct: 3
   curiosity: "La RNA polimerasi è l'enzima responsabile della sintesi di RNA a partire da un filamento di DNA durante la trascrizione."
 
@@ -3929,10 +3929,10 @@
   kind: mc
   text: "Che cosa è un promotore?"
   options:
-    - A) Una sequenza di DNA che codifica per proteine
-    - B) Una proteina che stabilizza il DNA
-    - C) Una sequenza di DNA che segna l'inizio della trascrizione
-    - D) Una molecola di RNA
+    - Una sequenza di DNA che codifica per proteine
+    - Una proteina che stabilizza il DNA
+    - Una sequenza di DNA che segna l'inizio della trascrizione
+    - Una molecola di RNA
   correct: 3
   curiosity: "Un promotore è una sequenza di DNA che segnala l'inizio della trascrizione di un gene."
 
@@ -3940,10 +3940,10 @@
   kind: mc
   text: "Durante la trascrizione, quale delle seguenti affermazioni è vera?"
   options:
-    - A) Solo i geni attivi vengono trascritti
-    - B) Il DNA viene completamente copiato
-    - C) Solo una parte del DNA viene trascritta in RNA
-    - D) L'RNA polimerasi non richiede un primer
+    - Solo i geni attivi vengono trascritti
+    - Il DNA viene completamente copiato
+    - Solo una parte del DNA viene trascritta in RNA
+    - L'RNA polimerasi non richiede un primer
   correct: 3
   curiosity: "Durante la trascrizione, solo una parte specifica del DNA viene trascritta in RNA, mentre il resto del DNA rimane intatto."
 
@@ -3951,10 +3951,10 @@
   kind: mc
   text: "Qual è il ruolo degli introni nella trascrizione?"
   options:
-    - A) Sono la parte codificante del gene
-    - B) Non hanno alcuna funzione
-    - C) Vengono rimossi dal mRNA durante il processo di splicing
-    - D) Stabilizzano il mRNA
+    - Sono la parte codificante del gene
+    - Non hanno alcuna funzione
+    - Vengono rimossi dal mRNA durante il processo di splicing
+    - Stabilizzano il mRNA
   correct: 3
   curiosity: "Gli introni sono sequenze non codificanti che vengono rimossi dal mRNA durante lo splicing per formare l'mRNA maturo."
 
@@ -3962,10 +3962,10 @@
   kind: mc
   text: "Che cosa è lo splicing?"
   options:
-    - A) La duplicazione del DNA
-    - B) Il processo di rimozione degli introni dal pre-mRNA
-    - C) La sintesi di proteine
-    - D) La traduzione del mRNA in aminoacidi
+    - La duplicazione del DNA
+    - Il processo di rimozione degli introni dal pre-mRNA
+    - La sintesi di proteine
+    - La traduzione del mRNA in aminoacidi
   correct: 2
   curiosity: "Lo splicing è il processo che rimuove gli introni dal pre-mRNA, unendo gli esoni per formare l'mRNA maturo."
 
@@ -3973,10 +3973,10 @@
   kind: mc
   text: "Cosa rappresenta un codone nel mRNA?"
   options:
-    - A) Un nucleotido
-    - B) Una sequenza di tre nucleotidi che codifica per un aminoacido
-    - C) Una proteina
-    - D) Un introne
+    - Un nucleotido
+    - Una sequenza di tre nucleotidi che codifica per un aminoacido
+    - Una proteina
+    - Un introne
   correct: 2
   curiosity: "Un codone è una sequenza di tre nucleotidi nel mRNA che codifica per un aminoacido specifico durante la traduzione."
 
@@ -3984,10 +3984,10 @@
   kind: mc
   text: "Quale dei seguenti enzimi è coinvolto nello splicing del pre-mRNA?"
   options:
-    - A) DNA polimerasi
-    - B) RNA ribosomiale
-    - C) Spliceosoma
-    - D) RNA polimerasi II
+    - DNA polimerasi
+    - RNA ribosomiale
+    - Spliceosoma
+    - RNA polimerasi II
   correct: 3
   curiosity: "Lo splicing del pre-mRNA è mediato dallo spliceosoma, un complesso di proteine e RNA che rimuove gli introni."
 
@@ -3995,10 +3995,10 @@
   kind: mc
   text: "Qual è il risultato finale della trascrizione?"
   options:
-    - A) Una molecola di DNA
-    - B) Una proteina
-    - C) Una molecola di mRNA
-    - D) Un filamento di tRNA
+    - Una molecola di DNA
+    - Una proteina
+    - Una molecola di mRNA
+    - Un filamento di tRNA
   correct: 3
   curiosity: "Il risultato finale della trascrizione è una molecola di mRNA, che trasporta le informazioni dal DNA ai ribosomi per la sintesi proteica."
 
@@ -4006,10 +4006,10 @@
   kind: mc
   text: "Che cosa avviene alla molecola di mRNA dopo la trascrizione?"
   options:
-    - A) Viene distrutta
-    - B) Rimane nel nucleo
-    - C) Viene esportata nel citoplasma
-    - D) Viene tradotta immediatamente
+    - Viene distrutta
+    - Rimane nel nucleo
+    - Viene esportata nel citoplasma
+    - Viene tradotta immediatamente
   correct: 3
   curiosity: "Dopo la trascrizione, l'mRNA maturo viene esportato nel citoplasma, dove verrà tradotto in una proteina."
 
@@ -4017,10 +4017,10 @@
   kind: mc
   text: "Quale è la direzione in cui avviene la sintesi dell'mRNA?"
   options:
-    - A) Da 3' a 5'
-    - B) Da 5' a 3'
-    - C) In entrambe le direzioni
-    - D) Da 5' a 5'
+    - Da 3' a 5'
+    - Da 5' a 3'
+    - In entrambe le direzioni
+    - Da 5' a 5'
   correct: 2
   curiosity: "La sintesi dell'mRNA avviene nella direzione 5' -> 3', in modo che i nucleotidi vengano aggiunti all'estremità 3' della catena."
 
@@ -4028,10 +4028,10 @@
   kind: mc
   text: "Cosa succede al mRNA dopo che è stato trascritto?"
   options:
-    - A) Viene tradotto in aminoacidi
-    - B) Viene replicato
-    - C) Subisce modifiche come la coda di poli-A e il cappuccio 5'
-    - D) Viene utilizzato come DNA
+    - Viene tradotto in aminoacidi
+    - Viene replicato
+    - Subisce modifiche come la coda di poli-A e il cappuccio 5'
+    - Viene utilizzato come DNA
   correct: 3
   curiosity: "Dopo la trascrizione, l'mRNA subisce modifiche come l'aggiunta di un cappuccio 5' e una coda di poli-A, che lo stabilizzano e ne facilitano l'esportazione."
 
@@ -4039,10 +4039,10 @@
   kind: mc
   text: "Che cosa rappresenta la coda di poli-A nell'mRNA?"
   options:
-    - A) Una sequenza di proteine
-    - B) Una sequenza di codoni
-    - C) Una serie di adenine aggiunte per stabilizzare l'mRNA
-    - D) Una sequenza di introni
+    - Una sequenza di proteine
+    - Una sequenza di codoni
+    - Una serie di adenine aggiunte per stabilizzare l'mRNA
+    - Una sequenza di introni
   correct: 3
   curiosity: "La coda di poli-A è una serie di adenine aggiunte all'estremità 3' dell'mRNA che aiuta a stabilizzare la molecola e a regolare la sua durata."
 
@@ -4050,10 +4050,10 @@
   kind: mc
   text: "Quale tipo di RNA viene utilizzato per il trasporto degli aminoacidi ai ribosomi?"
   options:
-    - A) mRNA
-    - B) rRNA
-    - C) tRNA
-    - D) snRNA
+    - mRNA
+    - rRNA
+    - tRNA
+    - snRNA
   correct: 3
   curiosity: "Il tRNA (RNA di trasferimento) è responsabile per il trasporto degli aminoacidi ai ribosomi, dove avviene la sintesi proteica."
 
@@ -4061,10 +4061,10 @@
   kind: mc
   text: "Cosa si intende per trascrizione inversa?"
   options:
-    - A) La trascrizione del DNA in RNA
-    - B) La traduzione dell'RNA in proteine
-    - C) La sintesi di DNA a partire da RNA
-    - D) La duplicazione del DNA
+    - La trascrizione del DNA in RNA
+    - La traduzione dell'RNA in proteine
+    - La sintesi di DNA a partire da RNA
+    - La duplicazione del DNA
   correct: 3
   curiosity: "La trascrizione inversa è il processo mediante il quale viene sintetizzato il DNA a partire da RNA, come nel caso dei retrovirus."
 
@@ -4072,10 +4072,10 @@
   kind: mc
   text: "Qual è il significato di 'capping' nel contesto della trascrizione?"
   options:
-    - A) La protezione del DNA
-    - B) La traduzione del mRNA
-    - C) L'aggiunta di un cappuccio alla fine 5' dell'mRNA
-    - D) L'eliminazione degli introni
+    - La protezione del DNA
+    - La traduzione del mRNA
+    - L'aggiunta di un cappuccio alla fine 5' dell'mRNA
+    - L'eliminazione degli introni
   correct: 3
   curiosity: "'Capping' si riferisce all'aggiunta di una guanosina modificata all'estremità 5' dell'mRNA, che aiuta nella protezione della molecola e nell'inizio della traduzione."
 
@@ -4083,10 +4083,10 @@
   kind: mc
   text: "Qual è la funzione del ribosoma nella sintesi proteica?"
   options:
-    - A) Sintetizzare RNA
-    - B) Duplicare DNA
-    - C) Tradurre il mRNA in una sequenza di aminoacidi
-    - D) Stabilizzare il DNA
+    - Sintetizzare RNA
+    - Duplicare DNA
+    - Tradurre il mRNA in una sequenza di aminoacidi
+    - Stabilizzare il DNA
   correct: 3
   curiosity: "Il ribosoma è il sito dove avviene la traduzione del mRNA in una sequenza di aminoacidi, che formeranno la proteina finale."
 
@@ -4094,10 +4094,10 @@
   kind: mc
   text: "Cosa significa 'maturazione del mRNA'?"
   options:
-    - A) La sintesi di proteine
-    - B) La duplicazione del DNA
-    - C) Il processo di modifica del pre-mRNA in mRNA maturo
-    - D) La trascrizione del DNA
+    - La sintesi di proteine
+    - La duplicazione del DNA
+    - Il processo di modifica del pre-mRNA in mRNA maturo
+    - La trascrizione del DNA
   correct: 3
   curiosity: "La maturazione del mRNA è il processo in cui il pre-mRNA viene modificato (con aggiunta del cappuccio 5', splicing e coda di poli-A) per diventare mRNA maturo, pronto per la traduzione."
 
@@ -4105,10 +4105,10 @@
   kind: mc
   text: "Qual è il primo passo nella maturazione del mRNA?"
   options:
-    - A) Splicing
-    - B) Aggiunta della coda di poli-A
-    - C) Aggiunta del cappuccio 5'
-    - D) Traduzione
+    - Splicing
+    - Aggiunta della coda di poli-A
+    - Aggiunta del cappuccio 5'
+    - Traduzione
   correct: 3
   curiosity: "Il primo passo nella maturazione dell'mRNA è l'aggiunta del cappuccio 5', che aiuta a proteggere l'mRNA e facilita il suo trasporto."
 
@@ -4116,10 +4116,10 @@
   kind: mc
   text: "Quale struttura viene aggiunta all'estremità 5' dell'mRNA durante la maturazione?"
   options:
-    - A) Coda di poli-A
-    - B) Sequenza di introni
-    - C) Cappuccio 5'
-    - D) Codoni
+    - Coda di poli-A
+    - Sequenza di introni
+    - Cappuccio 5'
+    - Codoni
   correct: 3
   curiosity: "Durante la maturazione, un cappuccio 5' è aggiunto all'estremità 5' dell'mRNA per proteggerlo dalla degradazione."
 
@@ -4127,10 +4127,10 @@
   kind: mc
   text: "Qual è la funzione del cappuccio 5'?"
   options:
-    - A) Stabilizzare l'mRNA e facilitarne il trasporto
-    - B) Proteggere l'mRNA dalla degradazione
-    - C) Codificare per proteine
-    - D) Aggiungere sequenze di aminoacidi
+    - Stabilizzare l'mRNA e facilitarne il trasporto
+    - Proteggere l'mRNA dalla degradazione
+    - Codificare per proteine
+    - Aggiungere sequenze di aminoacidi
   correct: 2
   curiosity: "Il cappuccio 5' ha una funzione protettiva: previene la degradazione dell'mRNA e facilita il suo riconoscimento durante la traduzione."
 
@@ -4138,10 +4138,10 @@
   kind: mc
   text: "Cosa sono gli introni nel contesto della maturazione del mRNA?"
   options:
-    - A) Sequenze di RNA non codificanti
-    - B) Sequenze di RNA codificanti
-    - C) Parti del pre-mRNA che vengono rimosse durante lo splicing
-    - D) Nucleotidi liberi nel citoplasma
+    - Sequenze di RNA non codificanti
+    - Sequenze di RNA codificanti
+    - Parti del pre-mRNA che vengono rimosse durante lo splicing
+    - Nucleotidi liberi nel citoplasma
   correct: 3
   curiosity: "Gli introni sono le sequenze non codificanti che vengono rimosse durante il processo di splicing, lasciando solo gli esoni codificanti."
 
@@ -4149,10 +4149,10 @@
   kind: mc
   text: "Che cosa avviene durante il processo di splicing?"
   options:
-    - A) Aggiunta di codoni
-    - B) Traduzione dell'mRNA
-    - C) Rimozione degli introni e unione degli esoni
-    - D) Sintesi di RNA
+    - Aggiunta di codoni
+    - Traduzione dell'mRNA
+    - Rimozione degli introni e unione degli esoni
+    - Sintesi di RNA
   correct: 3
   curiosity: "Lo splicing è il processo in cui gli introni vengono rimossi e gli esoni, che codificano per proteine, vengono uniti insieme."
 
@@ -4160,10 +4160,10 @@
   kind: mc
   text: "Qual è la funzione della coda di poli-A?"
   options:
-    - A) Stabilizzare l'mRNA
-    - B) Iniziare la traduzione
-    - C) Proteggere l'mRNA dalla degradazione e facilitare il suo trasporto
-    - D) Codificare per una proteina
+    - Stabilizzare l'mRNA
+    - Iniziare la traduzione
+    - Proteggere l'mRNA dalla degradazione e facilitare il suo trasporto
+    - Codificare per una proteina
   correct: 3
   curiosity: "La coda di poli-A, una lunga sequenza di adenine, protegge l'mRNA dalla degradazione e ne facilita l'esportazione nel citoplasma."
 
@@ -4171,10 +4171,10 @@
   kind: mc
   text: "Cosa rappresentano gli esoni?"
   options:
-    - A) Sequenze di RNA non codificanti
-    - B) Sequenze di nucleotidi liberi
-    - C) Parti del gene che vengono mantenute nel mRNA maturo
-    - D) Sequenze di introni
+    - Sequenze di RNA non codificanti
+    - Sequenze di nucleotidi liberi
+    - Parti del gene che vengono mantenute nel mRNA maturo
+    - Sequenze di introni
   correct: 3
   curiosity: "Gli esoni sono le sequenze codificanti del gene, che vengono mantenute nell'mRNA maturo e sono responsabili della produzione della proteina."
 
@@ -4182,10 +4182,10 @@
   kind: mc
   text: "Quale enzima è coinvolto nel processo di splicing?"
   options:
-    - A) RNA polimerasi
-    - B) Ligasi
-    - C) Spliceosoma
-    - D) Topoisomerasi
+    - RNA polimerasi
+    - Ligasi
+    - Spliceosoma
+    - Topoisomerasi
   correct: 3
   curiosity: "Lo spliceosoma è un complesso di proteine e RNA che svolge il processo di splicing, rimuovendo gli introni dall'mRNA."
 
@@ -4193,10 +4193,10 @@
   kind: mc
   text: "Quale dei seguenti eventi avviene dopo che il pre-mRNA è stato trascritto?"
   options:
-    - A) Viene tradotto in proteine
-    - B) Viene replicato
-    - C) Subisce modifiche per diventare mRNA maturo
-    - D) Viene utilizzato come DNA
+    - Viene tradotto in proteine
+    - Viene replicato
+    - Subisce modifiche per diventare mRNA maturo
+    - Viene utilizzato come DNA
   correct: 3
   curiosity: "Dopo la trascrizione, il pre-mRNA subisce modifiche, come lo splicing e l'aggiunta della coda di poli-A e del cappuccio 5', per diventare mRNA maturo."
 
@@ -4204,10 +4204,10 @@
   kind: mc
   text: "Cosa accade all'mRNA maturo dopo la maturazione?"
   options:
-    - A) Rimane nel nucleo
-    - B) Viene esportato nel citoplasma
-    - C) Viene distrutto
-    - D) Viene utilizzato per la replicazione del DNA
+    - Rimane nel nucleo
+    - Viene esportato nel citoplasma
+    - Viene distrutto
+    - Viene utilizzato per la replicazione del DNA
   correct: 2
   curiosity: "Dopo la maturazione, l'mRNA maturo viene esportato dal nucleo nel citoplasma, dove viene tradotto in proteina."
 
@@ -4215,10 +4215,10 @@
   kind: mc
   text: "Cosa succede se il cappuccio 5' non viene aggiunto correttamente?"
   options:
-    - A) L'mRNA sarà tradotto più velocemente
-    - B) Non avrà alcun effetto
-    - C) L'mRNA potrebbe essere degradato più rapidamente
-    - D) La sintesi di proteine sarà più efficiente
+    - L'mRNA sarà tradotto più velocemente
+    - Non avrà alcun effetto
+    - L'mRNA potrebbe essere degradato più rapidamente
+    - La sintesi di proteine sarà più efficiente
   correct: 3
   curiosity: "Se il cappuccio 5' non viene aggiunto correttamente, l'mRNA potrebbe essere riconosciuto come difettoso e degradato più rapidamente."
 
@@ -4226,10 +4226,10 @@
   kind: mc
   text: "Quale proteina è coinvolta nel processo di aggiunta della coda di poli-A?"
   options:
-    - A) RNA polimerasi
-    - B) Spliceosoma
-    - C) Polyadenilato polimerasi
-    - D) Ligasi
+    - RNA polimerasi
+    - Spliceosoma
+    - Polyadenilato polimerasi
+    - Ligasi
   correct: 3
   curiosity: "La polyadenilato polimerasi è l'enzima che aggiunge la coda di poli-A all'estremità 3' dell'mRNA durante la maturazione."
 
@@ -4237,10 +4237,10 @@
   kind: mc
   text: "Cosa rappresenta un codone nell'mRNA?"
   options:
-    - A) Una sequenza di introni
-    - B) Una sequenza di tre nucleotidi che codifica per un aminoacido
-    - C) Un filamento di RNA
-    - D) Una sequenza di DNA
+    - Una sequenza di introni
+    - Una sequenza di tre nucleotidi che codifica per un aminoacido
+    - Un filamento di RNA
+    - Una sequenza di DNA
   correct: 2
   curiosity: "Un codone è una sequenza di tre nucleotidi nell'mRNA che codifica per un aminoacido specifico durante la traduzione."
 
@@ -4248,10 +4248,10 @@
   kind: mc
   text: "Quale tipo di RNA viene utilizzato per trasportare gli aminoacidi ai ribosomi?"
   options:
-    - A) mRNA
-    - B) rRNA
-    - C) tRNA
-    - D) snRNA
+    - mRNA
+    - rRNA
+    - tRNA
+    - snRNA
   correct: 3
   curiosity: "Il tRNA (RNA di trasferimento) è il tipo di RNA che trasporta gli aminoacidi ai ribosomi per la sintesi proteica."
 
@@ -4259,10 +4259,10 @@
   kind: mc
   text: "Cosa significa 'esclusione' degli introni?"
   options:
-    - A) Aggiunta di introni all'mRNA
-    - B) Rimozione di introni dal DNA
-    - C) Rimozione di introni dal pre-mRNA durante lo splicing
-    - D) Trascrizione di introni in mRNA
+    - Aggiunta di introni all'mRNA
+    - Rimozione di introni dal DNA
+    - Rimozione di introni dal pre-mRNA durante lo splicing
+    - Trascrizione di introni in mRNA
   correct: 3
   curiosity: "L'esclusione degli introni significa che questi vengono rimossi dal pre-mRNA durante lo splicing, lasciando solo gli esoni."
 
@@ -4270,10 +4270,10 @@
   kind: mc
   text: "Che cosa rappresenta il termine 'snRNA'?"
   options:
-    - A) RNA messaggero
-    - B) RNA ribosomiale
-    - C) RNA nucleare piccolo coinvolto nello splicing
-    - D) RNA di trasferimento
+    - RNA messaggero
+    - RNA ribosomiale
+    - RNA nucleare piccolo coinvolto nello splicing
+    - RNA di trasferimento
   correct: 3
   curiosity: "Lo snRNA (small nuclear RNA) è un tipo di RNA che svolge un ruolo fondamentale nel processo di splicing, facilitando la rimozione degli introni."
 
@@ -4281,10 +4281,10 @@
   kind: mc
   text: "Qual è la funzione principale dell'mRNA maturo?"
   options:
-    - A) Codificare per proteine
-    - B) Stabilizzare il DNA
-    - C) Trasportare informazioni genetiche ai ribosomi per la sintesi proteica
-    - D) Viene utilizzato per la replicazione
+    - Codificare per proteine
+    - Stabilizzare il DNA
+    - Trasportare informazioni genetiche ai ribosomi per la sintesi proteica
+    - Viene utilizzato per la replicazione
   correct: 3
   curiosity: "L'mRNA maturo trasporta l'informazione genetica dal nucleo ai ribosomi, dove viene tradotto in proteina."
 
@@ -4292,10 +4292,10 @@
   kind: mc
   text: "Quale delle seguenti affermazioni è vera riguardo alla maturazione del mRNA negli eucarioti?"
   options:
-    - A) Non richiede modifiche post-traduzionali
-    - B) Gli introni vengono sempre conservati
-    - C) Include splicing e modifiche 5' e 3'
-    - D) Non avviene nel nucleo
+    - Non richiede modifiche post-traduzionali
+    - Gli introni vengono sempre conservati
+    - Include splicing e modifiche 5' e 3'
+    - Non avviene nel nucleo
   correct: 3
   curiosity: "Negli eucarioti, la maturazione dell'mRNA include lo splicing e modifiche sia all'estremità 5' (cappuccio) che all'estremità 3' (coda di poli-A)."
 
@@ -4303,10 +4303,10 @@
   kind: mc
   text: "Cosa succede se ci sono errori nel processo di maturazione del mRNA?"
   options:
-    - A) Non avrà alcun effetto sulla proteina finale
-    - B) Non influenzerà la traduzione
-    - C) Potrebbe portare a proteine non funzionali o difettose
-    - D) Migliorerà l'efficienza della traduzione
+    - Non avrà alcun effetto sulla proteina finale
+    - Non influenzerà la traduzione
+    - Potrebbe portare a proteine non funzionali o difettose
+    - Migliorerà l'efficienza della traduzione
   correct: 3
   curiosity: "Errori nella maturazione dell'mRNA, come splicing incompleto o mancanza del cappuccio 5', possono portare a proteine difettose o non funzionali."
 
@@ -4314,10 +4314,10 @@
   kind: mc
   text: "Cosa si intende per splicing alternativo?"
   options:
-    - A) La duplicazione del DNA
-    - B) La sintesi di RNA
-    - C) Un processo che consente di produrre diverse varianti di mRNA da un singolo gene
-    - D) La traduzione delle proteine
+    - La duplicazione del DNA
+    - La sintesi di RNA
+    - Un processo che consente di produrre diverse varianti di mRNA da un singolo gene
+    - La traduzione delle proteine
   correct: 3
   curiosity: "Lo splicing alternativo è un processo che permette a un singolo gene di produrre diverse varianti di mRNA, aumentando la diversità proteica."
 
@@ -4325,10 +4325,10 @@
   kind: mc
   text: "Qual è il principale vantaggio dello splicing alternativo?"
   options:
-    - A) Aumenta il numero di geni nel genoma
-    - B) Riduce il tempo di trascrizione
-    - C) Permette la produzione di diverse proteine a partire dallo stesso gene
-    - D) Stabilizza l'mRNA
+    - Aumenta il numero di geni nel genoma
+    - Riduce il tempo di trascrizione
+    - Permette la produzione di diverse proteine a partire dallo stesso gene
+    - Stabilizza l'mRNA
   correct: 3
   curiosity: "Il principale vantaggio dello splicing alternativo è che permette la produzione di molteplici proteine diverse dallo stesso gene."
 
@@ -4336,10 +4336,10 @@
   kind: mc
   text: "Quale delle seguenti affermazioni è vera riguardo allo splicing alternativo?"
   options:
-    - A) È un processo esclusivo degli eucarioti
-    - B) Si verifica solo in alcuni tipi di cellule
-    - C) Contribuisce alla diversità proteica degli organismi
-    - D) Non ha impatti sulla funzionalità delle proteine
+    - È un processo esclusivo degli eucarioti
+    - Si verifica solo in alcuni tipi di cellule
+    - Contribuisce alla diversità proteica degli organismi
+    - Non ha impatti sulla funzionalità delle proteine
   correct: 3
   curiosity: "Lo splicing alternativo aumenta la diversità proteica, poiché consente la generazione di diverse isoforme proteiche a partire da un singolo gene."
 
@@ -4347,10 +4347,10 @@
   kind: mc
   text: "Quale ruolo ha il complesso spliceosoma nello splicing alternativo?"
   options:
-    - A) Aggiungere una coda di poli-A
-    - B) Trascrivere il DNA
-    - C) Rimuovere introni e unire esoni in varianti di mRNA
-    - D) Stabilizzare l'mRNA
+    - Aggiungere una coda di poli-A
+    - Trascrivere il DNA
+    - Rimuovere introni e unire esoni in varianti di mRNA
+    - Stabilizzare l'mRNA
   correct: 3
   curiosity: "Lo spliceosoma è il complesso di proteine e RNA che catalizza lo splicing alternativo, rimuovendo introni e combinando esoni in modo differente."
 
@@ -4358,10 +4358,10 @@
   kind: mc
   text: "Cosa determina la selezione degli esoni durante lo splicing alternativo?"
   options:
-    - A) La sequenza del DNA
-    - B) Elementi regolatori nel pre-mRNA
-    - C) La temperatura cellulare
-    - D) Il tipo di RNA polimerasi utilizzato
+    - La sequenza del DNA
+    - Elementi regolatori nel pre-mRNA
+    - La temperatura cellulare
+    - Il tipo di RNA polimerasi utilizzato
   correct: 2
   curiosity: "La selezione degli esoni durante lo splicing alternativo è regolata da specifici elementi nel pre-mRNA e da fattori proteici."
 
@@ -4369,10 +4369,10 @@
   kind: mc
   text: "Quale tipo di modificazione può avvenire in un gene che utilizza splicing alternativo?"
   options:
-    - A) Solo rimozione di introni
-    - B) Aggiunta di esoni
-    - C) Combinazione di esoni diversi per produrre varianti di mRNA
-    - D) Replicazione del gene
+    - Solo rimozione di introni
+    - Aggiunta di esoni
+    - Combinazione di esoni diversi per produrre varianti di mRNA
+    - Replicazione del gene
   correct: 3
   curiosity: "Lo splicing alternativo consente la combinazione di esoni diversi per produrre varianti di mRNA e, quindi, diverse isoforme proteiche."
 
@@ -4380,10 +4380,10 @@
   kind: mc
   text: "Cosa sono i motivi di riconoscimento dello splicing?"
   options:
-    - A) Sequenze che codificano per aminoacidi
-    - B) Sequenze che stabilizzano l'mRNA
-    - C) Sequenze nel pre-mRNA che segnalano dove avviene lo splicing
-    - D) Sequenze di DNA che non vengono trascritte
+    - Sequenze che codificano per aminoacidi
+    - Sequenze che stabilizzano l'mRNA
+    - Sequenze nel pre-mRNA che segnalano dove avviene lo splicing
+    - Sequenze di DNA che non vengono trascritte
   correct: 3
   curiosity: "I motivi di riconoscimento dello splicing sono sequenze nel pre-mRNA che segnano i punti di inizio e fine degli introni."
 
@@ -4391,10 +4391,10 @@
   kind: mc
   text: "Qual è l'effetto dello splicing alternativo sulla diversità proteica?"
   options:
-    - A) Riduce la diversità proteica
-    - B) Non ha alcun effetto
-    - C) Aumenta la diversità proteica consentendo la produzione di diverse isoforme
-    - D) Riduce il numero di proteine prodotte
+    - Riduce la diversità proteica
+    - Non ha alcun effetto
+    - Aumenta la diversità proteica consentendo la produzione di diverse isoforme
+    - Riduce il numero di proteine prodotte
   correct: 3
   curiosity: "Lo splicing alternativo aumenta la diversità proteica, permettendo la produzione di più isoforme proteiche da un singolo gene."
 
@@ -4402,10 +4402,10 @@
   kind: mc
   text: "Cosa succede se gli esoni vengono uniti in modo diverso durante lo splicing alternativo?"
   options:
-    - A) Viene prodotta una proteina non funzionale
-    - B) Non ha alcun effetto
-    - C) Viene prodotta una proteina con diverse funzioni o caratteristiche
-    - D) Si genera una mutazione nel DNA
+    - Viene prodotta una proteina non funzionale
+    - Non ha alcun effetto
+    - Viene prodotta una proteina con diverse funzioni o caratteristiche
+    - Si genera una mutazione nel DNA
   correct: 3
   curiosity: "L'unione differente degli esoni durante lo splicing alternativo può produrre proteine con funzioni o caratteristiche diverse."
 
@@ -4413,10 +4413,10 @@
   kind: mc
   text: "Quale delle seguenti proteine è coinvolta nel processo di splicing alternativo?"
   options:
-    - A) RNA polimerasi
-    - B) Ligasi
-    - C) Proteine di legame all'RNA (RBPs)
-    - D) DNA ligasi
+    - RNA polimerasi
+    - Ligasi
+    - Proteine di legame all'RNA (RBPs)
+    - DNA ligasi
   correct: 3
   curiosity: "Le proteine di legame all'RNA (RBPs) sono fondamentali nel processo di splicing alternativo, regolando la selezione degli esoni."
 
@@ -4424,10 +4424,10 @@
   kind: mc
   text: "Quale ruolo hanno le sequenze di controllo nello splicing alternativo?"
   options:
-    - A) Rimuovono gli introni
-    - B) Stabilizzano il DNA
-    - C) Regolano quali esoni vengono inclusi o esclusi
-    - D) Aggiungono una coda di poli-A
+    - Rimuovono gli introni
+    - Stabilizzano il DNA
+    - Regolano quali esoni vengono inclusi o esclusi
+    - Aggiungono una coda di poli-A
   correct: 3
   curiosity: "Le sequenze di controllo nel pre-mRNA regolano l'inclusione o l'esclusione di esoni specifici durante lo splicing alternativo."
 
@@ -4435,10 +4435,10 @@
   kind: mc
   text: "Quale tipo di RNA è coinvolto nello splicing alternativo?"
   options:
-    - A) RNA messaggero (mRNA)
-    - B) RNA ribosomiale (rRNA)
-    - C) RNA nucleare piccolo (snRNA)
-    - D) RNA di trasferimento (tRNA)
+    - RNA messaggero (mRNA)
+    - RNA ribosomiale (rRNA)
+    - RNA nucleare piccolo (snRNA)
+    - RNA di trasferimento (tRNA)
   correct: 3
   curiosity: "Lo splicing alternativo coinvolge principalmente snRNA (small nuclear RNA), che aiuta a catalizzare il processo di splicing."
 
@@ -4446,10 +4446,10 @@
   kind: mc
   text: "Quale è l'effetto di una mutazione nelle sequenze di riconoscimento dello splicing?"
   options:
-    - A) Non avrà alcun effetto sulla proteina
-    - B) Migliorerà l'efficienza dello splicing
-    - C) Potrebbe portare a errori nello splicing e alterare le proteine risultanti
-    - D) Nessun cambiamento nella diversità proteica
+    - Non avrà alcun effetto sulla proteina
+    - Migliorerà l'efficienza dello splicing
+    - Potrebbe portare a errori nello splicing e alterare le proteine risultanti
+    - Nessun cambiamento nella diversità proteica
   correct: 3
   curiosity: "Una mutazione nelle sequenze di riconoscimento dello splicing può causare errori nello splicing, che portano a proteine alterate."
 
@@ -4457,10 +4457,10 @@
   kind: mc
   text: "Qual è il ruolo dello splicing alternativo nello sviluppo cellulare?"
   options:
-    - A) Riduce la complessità del genoma
-    - B) Non ha ruolo nel processo di sviluppo
-    - C) Contribuisce a creare specificità cellulare producendo diverse proteine
-    - D) Aumenta il numero di cellule
+    - Riduce la complessità del genoma
+    - Non ha ruolo nel processo di sviluppo
+    - Contribuisce a creare specificità cellulare producendo diverse proteine
+    - Aumenta il numero di cellule
   correct: 3
   curiosity: "Lo splicing alternativo contribuisce alla specializzazione delle cellule, permettendo la produzione di proteine specifiche per ciascun tipo cellulare."
 
@@ -4468,10 +4468,10 @@
   kind: mc
   text: "Che cosa succede quando gli esoni vengono saltati durante lo splicing alternativo?"
   options:
-    - A) Viene prodotta una proteina più lunga
-    - B) Viene prodotta una proteina con parti mancanti
-    - C) Non ci sono cambiamenti nella proteina
-    - D) Viene eliminato l'intero gene
+    - Viene prodotta una proteina più lunga
+    - Viene prodotta una proteina con parti mancanti
+    - Non ci sono cambiamenti nella proteina
+    - Viene eliminato l'intero gene
   correct: 2
   curiosity: "Quando gli esoni vengono saltati durante lo splicing alternativo, l'mRNA risultante codifica per una proteina con parti mancanti."
 
@@ -4479,10 +4479,10 @@
   kind: mc
   text: "Qual è la conseguenza del difetto nello splicing alternativo?"
   options:
-    - A) Nessun impatto sulla cellula
-    - B) Diminuzione della diversità proteica
-    - C) Malattie genetiche e disfunzioni cellulari
-    - D) Maggiore stabilità dell'mRNA
+    - Nessun impatto sulla cellula
+    - Diminuzione della diversità proteica
+    - Malattie genetiche e disfunzioni cellulari
+    - Maggiore stabilità dell'mRNA
   correct: 3
   curiosity: "I difetti nello splicing alternativo possono portare a malattie genetiche e disfunzioni cellulari, poiché le proteine prodotte sono alterate."
 
@@ -4490,10 +4490,10 @@
   kind: mc
   text: "Quale fattore regola lo splicing alternativo?"
   options:
-    - A) Solo fattori ambientali
-    - B) Solo sequenze genetiche
-    - C) Fattori proteici e sequenze nel pre-mRNA
-    - D) Fattori di crescita
+    - Solo fattori ambientali
+    - Solo sequenze genetiche
+    - Fattori proteici e sequenze nel pre-mRNA
+    - Fattori di crescita
   correct: 3
   curiosity: "Lo splicing alternativo è regolato da una combinazione di fattori proteici e sequenze regolatorie nel pre-mRNA."
 
@@ -4501,10 +4501,10 @@
   kind: mc
   text: "Cosa si intende per isoforme proteiche?"
   options:
-    - A) Proteine identiche
-    - B) Proteine con identiche sequenze di aminoacidi
-    - C) Diverse varianti di proteine derivanti dallo stesso gene
-    - D) Proteine che non hanno alcuna funzione
+    - Proteine identiche
+    - Proteine con identiche sequenze di aminoacidi
+    - Diverse varianti di proteine derivanti dallo stesso gene
+    - Proteine che non hanno alcuna funzione
   correct: 3
   curiosity: "Le isoforme proteiche sono varianti di proteine prodotte dallo stesso gene attraverso lo splicing alternativo."
 
@@ -4512,10 +4512,10 @@
   kind: mc
   text: "Quale delle seguenti è una tecnica utilizzata per studiare lo splicing alternativo?"
   options:
-    - A) Sequenziamento del DNA
-    - B) PCR e analisi dell'mRNA
-    - C) Analisi proteomica
-    - D) Citometria a flusso
+    - Sequenziamento del DNA
+    - PCR e analisi dell'mRNA
+    - Analisi proteomica
+    - Citometria a flusso
   correct: 2
   curiosity: "La PCR combinata con l'analisi dell'mRNA è utilizzata per studiare lo splicing alternativo e le isoforme proteiche risultanti."
 
@@ -4523,10 +4523,10 @@
   kind: mc
   text: "Qual è il principale meccanismo attraverso il quale lo splicing alternativo contribuisce alla variabilità genica?"
   options:
-    - A) Mutazioni nel DNA
-    - B) Riproduzione sessuale
-    - C) Combinazione di esoni diversi per creare varianti di mRNA e proteine
-    - D) Infezioni virali
+    - Mutazioni nel DNA
+    - Riproduzione sessuale
+    - Combinazione di esoni diversi per creare varianti di mRNA e proteine
+    - Infezioni virali
   correct: 3
   curiosity: "Lo splicing alternativo aumenta la variabilità genica attraverso la combinazione di esoni diversi, creando diverse varianti di mRNA e proteine."
 
@@ -4534,10 +4534,10 @@
   kind: mc
   text: "Che cosa si intende per traduzione nel contesto della biologia molecolare?"
   options:
-    - A) La replicazione del DNA
-    - B) La sintesi dell'mRNA
-    - C) Il processo di sintesi proteica a partire dall'mRNA
-    - D) La degradazione del RNA
+    - La replicazione del DNA
+    - La sintesi dell'mRNA
+    - Il processo di sintesi proteica a partire dall'mRNA
+    - La degradazione del RNA
   correct: 2
   curiosity: "La traduzione è il processo mediante il quale l'informazione contenuta nell'mRNA viene utilizzata per sintetizzare una proteina."
 
@@ -4545,10 +4545,10 @@
   kind: mc
   text: "Qual è il ruolo principale dei ribosomi nella traduzione?"
   options:
-    - A) Trascrivere il DNA
-    - B) Sintetizzare RNA
-    - C) Tradurre l'mRNA in una sequenza di aminoacidi
-    - D) Aggiungere un cappuccio all'mRNA
+    - Trascrivere il DNA
+    - Sintetizzare RNA
+    - Tradurre l'mRNA in una sequenza di aminoacidi
+    - Aggiungere un cappuccio all'mRNA
   correct: 2
   curiosity: "I ribosomi sono responsabili di tradurre l'informazione genetica contenuta nell'mRNA in una sequenza di aminoacidi per formare una proteina."
 
@@ -4556,10 +4556,10 @@
   kind: mc
   text: "Quale tipo di RNA porta le istruzioni genetiche ai ribosomi?"
   options:
-    - A) RNA ribosomiale (rRNA)
-    - B) RNA di trasferimento (tRNA)
-    - C) RNA messaggero (mRNA)
-    - D) RNA nucleare (snRNA)
+    - RNA ribosomiale (rRNA)
+    - RNA di trasferimento (tRNA)
+    - RNA messaggero (mRNA)
+    - RNA nucleare (snRNA)
   correct: 2
   curiosity: "L'mRNA è il tipo di RNA che trasporta le istruzioni genetiche dal nucleo ai ribosomi per la sintesi proteica."
 
@@ -4567,10 +4567,10 @@
   kind: mc
   text: "Qual è la funzione del tRNA nella traduzione?"
   options:
-    - A) Stabilizzare il DNA
-    - B) Sintetizzare l'mRNA
-    - C) Trasportare gli aminoacidi ai ribosomi
-    - D) Tradurre l'mRNA in proteine
+    - Stabilizzare il DNA
+    - Sintetizzare l'mRNA
+    - Trasportare gli aminoacidi ai ribosomi
+    - Tradurre l'mRNA in proteine
   correct: 2
   curiosity: "Il tRNA trasporta gli aminoacidi ai ribosomi, dove vengono aggiunti alla catena polipeptidica in crescita durante la traduzione."
 
@@ -4578,10 +4578,10 @@
   kind: mc
   text: "Cosa rappresenta un codone?"
   options:
-    - A) Una singola base nucleotidica
-    - B) Un gruppo di aminoacidi
-    - C) Una sequenza di tre nucleotidi nell'mRNA che codifica per un aminoacido
-    - D) Un tipo di introne
+    - Una singola base nucleotidica
+    - Un gruppo di aminoacidi
+    - Una sequenza di tre nucleotidi nell'mRNA che codifica per un aminoacido
+    - Un tipo di introne
   correct: 2
   curiosity: "Un codone è una sequenza di tre nucleotidi nell'mRNA che corrisponde a un aminoacido specifico o segnala un'azione durante la traduzione."
 
@@ -4589,10 +4589,10 @@
   kind: mc
   text: "Qual è la fase iniziale della traduzione?"
   options:
-    - A) Inizio
-    - B) Terminazione
-    - C) Inizio della sintesi proteica
-    - D) Splicing
+    - Inizio
+    - Terminazione
+    - Inizio della sintesi proteica
+    - Splicing
   correct: 2
   curiosity: "La fase iniziale della traduzione è l'inizio della sintesi proteica, che coinvolge il legame tra l'mRNA e il ribosoma."
 
@@ -4600,10 +4600,10 @@
   kind: mc
   text: "Che cosa avviene durante l'inizio della traduzione?"
   options:
-    - A) Gli aminoacidi vengono uniti
-    - B) L'mRNA si lega al ribosoma
-    - C) Gli introni vengono rimossi
-    - D) Il DNA viene replicato
+    - Gli aminoacidi vengono uniti
+    - L'mRNA si lega al ribosoma
+    - Gli introni vengono rimossi
+    - Il DNA viene replicato
   correct: 1
   curiosity: "Durante l'inizio della traduzione, l'mRNA si lega al ribosoma e il processo di sintesi proteica comincia con l'unione degli aminoacidi."
 
@@ -4611,10 +4611,10 @@
   kind: mc
   text: "Quale struttura dell'ribosoma è responsabile dell'accoppiamento tra codoni e anticodoni?"
   options:
-    - A) La subunità maggiore
-    - B) La subunità minore
-    - C) La catena polipeptidica
-    - D) Il sito A
+    - La subunità maggiore
+    - La subunità minore
+    - La catena polipeptidica
+    - Il sito A
   correct: 1
   curiosity: "La subunità minore del ribosoma è responsabile dell'accoppiamento tra codoni nell'mRNA e anticodoni nel tRNA durante la traduzione."
 
@@ -4622,10 +4622,10 @@
   kind: mc
   text: "Cosa significa il termine 'anticodone'?"
   options:
-    - A) Una sequenza di DNA
-    - B) Un tipo di aminoacido
-    - C) Una sequenza di tre nucleotidi nel tRNA che è complementare a un codone nell'mRNA
-    - D) Un nucleotide libero
+    - Una sequenza di DNA
+    - Un tipo di aminoacido
+    - Una sequenza di tre nucleotidi nel tRNA che è complementare a un codone nell'mRNA
+    - Un nucleotide libero
   correct: 2
   curiosity: "L'anticodone è una sequenza di tre nucleotidi nel tRNA che è complementare a un codone specifico nell'mRNA."
 
@@ -4633,10 +4633,10 @@
   kind: mc
   text: "Quale dei seguenti eventi avviene durante l'allungamento della traduzione?"
   options:
-    - A) L'mRNA viene degradato
-    - B) I ribosomi si disassemblano
-    - C) Gli aminoacidi vengono uniti per formare una catena polipeptidica
-    - D) Gli introni vengono rimossi
+    - L'mRNA viene degradato
+    - I ribosomi si disassemblano
+    - Gli aminoacidi vengono uniti per formare una catena polipeptidica
+    - Gli introni vengono rimossi
   correct: 2
   curiosity: "Durante l'allungamento della traduzione, gli aminoacidi vengono uniti tra loro per formare una catena polipeptidica in crescita."
 
@@ -4644,10 +4644,10 @@
   kind: mc
   text: "Qual è la funzione del sito A nel ribosoma?"
   options:
-    - A) Iniziare la traduzione
-    - B) Legare l'mRNA
-    - C) Accogliere il tRNA con l'aminoacido successivo
-    - D) Terminare la traduzione
+    - Iniziare la traduzione
+    - Legare l'mRNA
+    - Accogliere il tRNA con l'aminoacido successivo
+    - Terminare la traduzione
   correct: 2
   curiosity: "Il sito A del ribosoma è dove il tRNA con l'aminoacido successivo si lega per essere aggiunto alla catena polipeptidica."
 
@@ -4655,10 +4655,10 @@
   kind: mc
   text: "Cosa avviene alla fine della traduzione?"
   options:
-    - A) L'mRNA viene trascritto di nuovo
-    - B) Il ribosoma si dissocia
-    - C) La catena polipeptidica viene rilasciata
-    - D) Gli aminoacidi vengono separati
+    - L'mRNA viene trascritto di nuovo
+    - Il ribosoma si dissocia
+    - La catena polipeptidica viene rilasciata
+    - Gli aminoacidi vengono separati
   correct: 2
   curiosity: "Alla fine della traduzione, il ribosoma si dissocia e la catena polipeptidica appena sintetizzata viene rilasciata."
 
@@ -4666,10 +4666,10 @@
   kind: mc
   text: "Cosa rappresenta un 'codone di stop'?"
   options:
-    - A) Un codone che inizia la traduzione
-    - B) Un codone che segnala la terminazione della sintesi proteica
-    - C) Un codone che codifica per un aminoacido
-    - D) Un codone che stabilizza l'mRNA
+    - Un codone che inizia la traduzione
+    - Un codone che segnala la terminazione della sintesi proteica
+    - Un codone che codifica per un aminoacido
+    - Un codone che stabilizza l'mRNA
   correct: 1
   curiosity: "Un codone di stop è un codone nell'mRNA che segnala la fine della sintesi proteica, indicando che la catena polipeptidica è completa."
 
@@ -4677,10 +4677,10 @@
   kind: mc
   text: "Qual è l'importanza della sequenza 5' UTR nell'mRNA?"
   options:
-    - A) Non ha alcuna importanza
-    - B) Regola l'inizio della traduzione e la stabilità dell'mRNA
-    - C) Codifica per una proteina
-    - D) Rimuove gli introni
+    - Non ha alcuna importanza
+    - Regola l'inizio della traduzione e la stabilità dell'mRNA
+    - Codifica per una proteina
+    - Rimuove gli introni
   correct: 2
   curiosity: "La sequenza 5' UTR (Untranslated Region) nell'mRNA gioca un ruolo nel controllo dell'inizio della traduzione e nella stabilità dell'mRNA."
 
@@ -4688,10 +4688,10 @@
   kind: mc
   text: "Quale dei seguenti è un esempio di modifica post-traduzionale?"
   options:
-    - A) Splicing
-    - B) Replicazione del DNA
-    - C) Fosforilazione di una proteina
-    - D) Trascrizione dell'mRNA
+    - Splicing
+    - Replicazione del DNA
+    - Fosforilazione di una proteina
+    - Trascrizione dell'mRNA
   correct: 2
   curiosity: "La fosforilazione è una modifica post-traduzionale che comporta l'aggiunta di gruppi fosfato a una proteina, influenzando la sua attività e funzione."
 
@@ -4699,10 +4699,10 @@
   kind: mc
   text: "Cosa succede se un codone di stop è presente nell'mRNA?"
   options:
-    - A) L'mRNA verrà degradato
-    - B) La traduzione continua
-    - C) La sintesi proteica termina
-    - D) Gli aminoacidi vengono rilasciati
+    - L'mRNA verrà degradato
+    - La traduzione continua
+    - La sintesi proteica termina
+    - Gli aminoacidi vengono rilasciati
   correct: 2
   curiosity: "Quando un codone di stop viene incontrato durante la traduzione, segnala la fine della sintesi proteica."
 
@@ -4710,10 +4710,10 @@
   kind: mc
   text: "Qual è la funzione del fattore di allungamento nella traduzione?"
   options:
-    - A) Iniziare la traduzione
-    - B) Stabilizzare il ribosoma
-    - C) Facilitare l'aggiunta di aminoacidi alla catena polipeptidica
-    - D) Rimuovere gli introni
+    - Iniziare la traduzione
+    - Stabilizzare il ribosoma
+    - Facilitare l'aggiunta di aminoacidi alla catena polipeptidica
+    - Rimuovere gli introni
   correct: 2
   curiosity: "I fattori di allungamento aiutano a stabilizzare il ribosoma e facilitano l'aggiunta di aminoacidi alla catena polipeptidica durante l'allungamento della traduzione."
 
@@ -4721,10 +4721,10 @@
   kind: mc
   text: "Cosa significa 'terminazione' nella traduzione?"
   options:
-    - A) Inizio della sintesi proteica
-    - B) Completamento della trascrizione
-    - C) Processo in cui la sintesi proteica si conclude e la catena polipeptidica viene rilasciata
-    - D) Aggiunta di una coda di poli-A
+    - Inizio della sintesi proteica
+    - Completamento della trascrizione
+    - Processo in cui la sintesi proteica si conclude e la catena polipeptidica viene rilasciata
+    - Aggiunta di una coda di poli-A
   correct: 2
   curiosity: "La terminazione della traduzione è il processo che conclude la sintesi proteica, durante il quale la catena polipeptidica viene rilasciata dal ribosoma."
 
@@ -4732,10 +4732,10 @@
   kind: mc
   text: "Quale dei seguenti è un ribosoma?"
   options:
-    - A) Un tipo di DNA
-    - B) Un tipo di RNA
-    - C) Un complesso proteico-RNA che svolge un ruolo nella traduzione
-    - D) Un aminoacido
+    - Un tipo di DNA
+    - Un tipo di RNA
+    - Un complesso proteico-RNA che svolge un ruolo nella traduzione
+    - Un aminoacido
   correct: 2
   curiosity: "Il ribosoma è un complesso di proteine e RNA che catalizza il processo di traduzione, sintetizzando proteine a partire dall'mRNA."
 
@@ -4743,10 +4743,10 @@
   kind: mc
   text: "Cosa accade all'mRNA dopo la traduzione?"
   options:
-    - A) Rimane nel nucleo
-    - B) Viene replicato
-    - C) Viene degradato o riutilizzato per la traduzione di altre proteine
-    - D) Viene convertito in DNA
+    - Rimane nel nucleo
+    - Viene replicato
+    - Viene degradato o riutilizzato per la traduzione di altre proteine
+    - Viene convertito in DNA
   correct: 2
   curiosity: "Dopo la traduzione, l'mRNA viene degradato o riutilizzato in un altro ciclo di traduzione per sintetizzare altre proteine."
 
@@ -4754,10 +4754,10 @@
   kind: mc
   text: "Cosa si intende per modifiche post-traduzionali?"
   options:
-    - A) Modifiche al DNA
-    - B) Modifiche all'mRNA
-    - C) Modifiche chimiche che avvengono alle proteine dopo la loro sintesi
-    - D) Modifiche alle membrane cellulari
+    - Modifiche al DNA
+    - Modifiche all'mRNA
+    - Modifiche chimiche che avvengono alle proteine dopo la loro sintesi
+    - Modifiche alle membrane cellulari
   correct: 2
   curiosity: "Le modifiche post-traduzionali sono modifiche chimiche che avvengono alle proteine dopo la loro sintesi, come fosforilazione, glicolizzazione, e ubiquitinazione."
 
@@ -4765,10 +4765,10 @@
   kind: mc
   text: "Qual è la funzione principale della fosforilazione delle proteine?"
   options:
-    - A) Stabilizzare il DNA
-    - B) Aumentare la stabilità dell'mRNA
-    - C) Regolare l'attività enzimatica e le interazioni proteiche
-    - D) Degradare le proteine
+    - Stabilizzare il DNA
+    - Aumentare la stabilità dell'mRNA
+    - Regolare l'attività enzimatica e le interazioni proteiche
+    - Degradare le proteine
   correct: 2
   curiosity: "La fosforilazione è un'importante modifica post-traduzionale che regola l'attività di molte proteine, incluse quelle coinvolte nel segnalamento cellulare."
 
@@ -4776,10 +4776,10 @@
   kind: mc
   text: "Quale enzima è responsabile della fosforilazione delle proteine?"
   options:
-    - A) Proteasi
-    - B) Ligasi
-    - C) Chinasia
-    - D) RNA polimerasi
+    - Proteasi
+    - Ligasi
+    - Chinasia
+    - RNA polimerasi
   correct: 2
   curiosity: "Le chinasi sono enzimi che aggiungono gruppi fosfato a proteine specifiche, alterandone la loro attività."
 
@@ -4787,10 +4787,10 @@
   kind: mc
   text: "Cosa rappresenta la glicolizzazione delle proteine?"
   options:
-    - A) Aggiunta di gruppi fosfato
-    - B) Aggiunta di gruppi metilici
-    - C) Aggiunta di zuccheri a una proteina
-    - D) Aggiunta di amminoacidi
+    - Aggiunta di gruppi fosfato
+    - Aggiunta di gruppi metilici
+    - Aggiunta di zuccheri a una proteina
+    - Aggiunta di amminoacidi
   correct: 2
   curiosity: "La glicolizzazione è una modifica post-traduzionale in cui zuccheri vengono legati a una proteina, influenzando la sua funzione e localizzazione."
 
@@ -4798,10 +4798,10 @@
   kind: mc
   text: "Qual è il risultato principale della metilazione delle proteine?"
   options:
-    - A) Diminuzione della stabilità
-    - B) Regolazione dell'espressione genica e interazioni proteiche
-    - C) Rimozione di gruppi funzionali
-    - D) Stabilizzazione dell'mRNA
+    - Diminuzione della stabilità
+    - Regolazione dell'espressione genica e interazioni proteiche
+    - Rimozione di gruppi funzionali
+    - Stabilizzazione dell'mRNA
   correct: 1
   curiosity: "La metilazione delle proteine regola l'espressione genica e le interazioni tra proteine, influenzando il comportamento cellulare."
 
@@ -4809,10 +4809,10 @@
   kind: mc
   text: "Che cosa implica l'acetilazione delle proteine?"
   options:
-    - A) Aggiunta di aminoacidi
-    - B) Degradazione della proteina
-    - C) Aggiunta di gruppi acetile a specifici residui di amminoacidi
-    - D) Rimozione di un gruppo fosfato
+    - Aggiunta di aminoacidi
+    - Degradazione della proteina
+    - Aggiunta di gruppi acetile a specifici residui di amminoacidi
+    - Rimozione di un gruppo fosfato
   correct: 2
   curiosity: "L'acetilazione aggiunge gruppi acetile a specifici residui di amminoacidi, influenzando la funzione delle proteine, come la regolazione dell'espressione genica."
 
@@ -4820,10 +4820,10 @@
   kind: mc
   text: "Qual è la funzione della ubiquitinazione nelle modifiche post-traduzionali?"
   options:
-    - A) Stabilizzare le proteine
-    - B) Promuovere la sintesi proteica
-    - C) Segnalare per la degradazione della proteina nel proteasoma
-    - D) Aggiungere zuccheri alle proteine
+    - Stabilizzare le proteine
+    - Promuovere la sintesi proteica
+    - Segnalare per la degradazione della proteina nel proteasoma
+    - Aggiungere zuccheri alle proteine
   correct: 2
   curiosity: "L'ubiquitinazione segna una proteina per la degradazione nel proteasoma, un processo essenziale per il controllo della qualità proteica."
 
@@ -4831,10 +4831,10 @@
   kind: mc
   text: "Quale tipo di modifiche post-traduzionali può influenzare la localizzazione subcellulare delle proteine?"
   options:
-    - A) Splicing
-    - B) Mutazioni
-    - C) Modifiche lipidiche
-    - D) Replicazione
+    - Splicing
+    - Mutazioni
+    - Modifiche lipidiche
+    - Replicazione
   correct: 2
   curiosity: "Le modifiche lipidiche delle proteine possono influenzare la loro localizzazione all'interno della cellula, come l'integrazione nelle membrane."
 
@@ -4842,10 +4842,10 @@
   kind: mc
   text: "Quale delle seguenti è una modifica post-traduzionale che può attivare o disattivare un enzima?"
   options:
-    - A) Replicazione
-    - B) Trascrizione
-    - C) Fosforilazione
-    - D) Degradazione
+    - Replicazione
+    - Trascrizione
+    - Fosforilazione
+    - Degradazione
   correct: 2
   curiosity: "La fosforilazione può attivare o disattivare molti enzimi, regolando la loro funzione all'interno della cellula."
 
@@ -4853,10 +4853,10 @@
   kind: mc
   text: "Cosa succede a una proteina dopo la ubiquitinazione?"
   options:
-    - A) Viene stabilizzata
-    - B) Viene esportata nel nucleo
-    - C) Viene riconosciuta e degradata dal proteasoma
-    - D) Viene utilizzata per la sintesi di RNA
+    - Viene stabilizzata
+    - Viene esportata nel nucleo
+    - Viene riconosciuta e degradata dal proteasoma
+    - Viene utilizzata per la sintesi di RNA
   correct: 2
   curiosity: "L'ubiquitinazione segna una proteina per la degradazione da parte del proteasoma, un meccanismo per regolare la quantità di proteine nella cellula."
 
@@ -4864,10 +4864,10 @@
   kind: mc
   text: "Qual è il ruolo delle chinasie nella regolazione delle proteine?"
   options:
-    - A) Degradare le proteine
-    - B) Stabilizzare il DNA
-    - C) Aggiungere gruppi fosfato alle proteine per modificarne l'attività
-    - D) Trascrivere il DNA
+    - Degradare le proteine
+    - Stabilizzare il DNA
+    - Aggiungere gruppi fosfato alle proteine per modificarne l'attività
+    - Trascrivere il DNA
   correct: 2
   curiosity: "Le chinasi sono enzimi che aggiungono gruppi fosfato alle proteine, modificando la loro attività e facilitando regolazioni cellulari."
 
@@ -4875,10 +4875,10 @@
   kind: mc
   text: "Qual è il significato della terminologia 'isoforme proteiche'?"
   options:
-    - A) Proteine identiche
-    - B) Proteine che non hanno alcuna funzione
-    - C) Varianti di una proteina generate da modifiche post-traduzionali o splicing alternativo
-    - D) Sequenze di DNA che non vengono trascritte
+    - Proteine identiche
+    - Proteine che non hanno alcuna funzione
+    - Varianti di una proteina generate da modifiche post-traduzionali o splicing alternativo
+    - Sequenze di DNA che non vengono trascritte
   correct: 2
   curiosity: "Le isoforme proteiche sono varianti di una proteina che possono risultare da splicing alternativo o modifiche post-traduzionali."
 
@@ -4886,10 +4886,10 @@
   kind: mc
   text: "Quale modifica post-traduzionale è essenziale per la maturazione di alcune proteine ormonali?"
   options:
-    - A) Glicolizzazione
-    - B) Proteolisi
-    - C) Fosforilazione
-    - D) Metilazione
+    - Glicolizzazione
+    - Proteolisi
+    - Fosforilazione
+    - Metilazione
   correct: 1
   curiosity: "La glicolizzazione è importante per la maturazione di proteine ormonali come l'insulina, che richiedono la corretta aggiunta di zuccheri per la loro attività."
 
@@ -4897,10 +4897,10 @@
   kind: mc
   text: "Che cosa implica la proteolisi nelle modifiche post-traduzionali?"
   options:
-    - A) L'aggiunta di gruppi funzionali
-    - B) La stabilizzazione dell'mRNA
-    - C) La rimozione di segmenti proteici per attivare o disattivare una proteina
-    - D) La replicazione del DNA
+    - L'aggiunta di gruppi funzionali
+    - La stabilizzazione dell'mRNA
+    - La rimozione di segmenti proteici per attivare o disattivare una proteina
+    - La replicazione del DNA
   correct: 2
   curiosity: "La proteolisi rimuove segmenti proteici per attivare o disattivare una proteina, un passo cruciale in molte vie di regolazione cellulare."
 
@@ -4908,10 +4908,10 @@
   kind: mc
   text: "Quale dei seguenti effetti può avere la metilazione su una proteina?"
   options:
-    - A) Ridurre la stabilità
-    - B) Aumentare la degradazione
-    - C) Modificare l'interazione della proteina con il DNA o altre proteine
-    - D) Non avere alcun effetto
+    - Ridurre la stabilità
+    - Aumentare la degradazione
+    - Modificare l'interazione della proteina con il DNA o altre proteine
+    - Non avere alcun effetto
   correct: 2
   curiosity: "La metilazione può influenzare l'interazione delle proteine con il DNA e altre proteine, spesso alterando la loro funzione."
 
@@ -4919,10 +4919,10 @@
   kind: mc
   text: "Qual è la conseguenza della malfunzione nelle vie di modifiche post-traduzionali?"
   options:
-    - A) Maggiore stabilità delle proteine
-    - B) Nessun effetto sulla cellula
-    - C) Malattie e disfunzioni cellulari
-    - D) Aumento dell'espressione genica
+    - Maggiore stabilità delle proteine
+    - Nessun effetto sulla cellula
+    - Malattie e disfunzioni cellulari
+    - Aumento dell'espressione genica
   correct: 2
   curiosity: "I malfunzionamenti nelle vie di modifiche post-traduzionali sono legati a numerose malattie, come il cancro e le malattie neurodegenerative."
 
@@ -4930,10 +4930,10 @@
   kind: mc
   text: "Quale delle seguenti è una modifica chimica comune che avviene in risposta a segnali esterni?"
   options:
-    - A) Glicolizzazione
-    - B) Mutazione
-    - C) Fosforilazione
-    - D) Inibizione
+    - Glicolizzazione
+    - Mutazione
+    - Fosforilazione
+    - Inibizione
   correct: 2
   curiosity: "La fosforilazione è una modifica chimica che avviene in risposta a segnali esterni come fattori di crescita, regolando così molte funzioni cellulari."
 
@@ -4941,10 +4941,10 @@
   kind: mc
   text: "Quale modifica post-traduzionale può influenzare la proteina in modo da permettere l'interazione con altre molecole?"
   options:
-    - A) Splicing
-    - B) Degradazione
-    - C) Glicolizzazione
-    - D) Replicazione
+    - Splicing
+    - Degradazione
+    - Glicolizzazione
+    - Replicazione
   correct: 2
   curiosity: "La glicolizzazione può influenzare l'interazione della proteina con altre molecole, come anticorpi e recettori cellulari."
 
@@ -4952,10 +4952,10 @@
   kind: mc
   text: "Che ruolo hanno le modifiche lipidiche nelle proteine?"
   options:
-    - A) Stabilizzare il DNA
-    - B) Non hanno alcun ruolo
-    - C) Influenzare la localizzazione e l'attività delle proteine
-    - D) Promuovere la sintesi proteica
+    - Stabilizzare il DNA
+    - Non hanno alcun ruolo
+    - Influenzare la localizzazione e l'attività delle proteine
+    - Promuovere la sintesi proteica
   correct: 2
   curiosity: "Le modifiche lipidiche alle proteine influenzano la loro localizzazione nelle membrane cellulari e la loro attività."
 
@@ -4963,10 +4963,10 @@
   kind: mc
   text: "Quale delle seguenti affermazioni è vera riguardo alle modifiche post-traduzionali?"
   options:
-    - A) Sono eventi casuali che non influenzano la proteina
-    - B) Non avvengono mai in cellule normali
-    - C) Sono cruciali per il funzionamento e la regolazione delle proteine
-    - D) Riducono sempre l'attività proteica
+    - Sono eventi casuali che non influenzano la proteina
+    - Non avvengono mai in cellule normali
+    - Sono cruciali per il funzionamento e la regolazione delle proteine
+    - Riducono sempre l'attività proteica
   correct: 2
   curiosity: "Le modifiche post-traduzionali sono essenziali per la regolazione della funzione proteica e per l'adattamento della cellula ai cambiamenti ambientali."
 
@@ -4974,10 +4974,10 @@
   kind: mc
   text: "Quale delle seguenti è una delle quattro principali strutture delle proteine?"
   options:
-    - A) Struttura lipidica
-    - B) Struttura cellulare
-    - C) Struttura secondaria
-    - D) Struttura nucleotidica
+    - Struttura lipidica
+    - Struttura cellulare
+    - Struttura secondaria
+    - Struttura nucleotidica
   correct: 2
   curiosity: "Le quattro principali strutture delle proteine sono la primaria, secondaria, terziaria e quaternaria, ognuna delle quali svolge un ruolo cruciale nella funzione proteica."
 
@@ -4985,10 +4985,10 @@
   kind: mc
   text: "Qual è la caratteristica principale della struttura primaria di una proteina?"
   options:
-    - A) È la forma tridimensionale della proteina
-    - B) È la sequenza di aminoacidi
-    - C) È la catena di aminoacidi legati da legami peptidici
-    - D) È l'organizzazione in eliche e foglietti piegati
+    - È la forma tridimensionale della proteina
+    - È la sequenza di aminoacidi
+    - È la catena di aminoacidi legati da legami peptidici
+    - È l'organizzazione in eliche e foglietti piegati
   correct: 2
   curiosity: "La struttura primaria di una proteina è la sequenza di aminoacidi legati da legami peptidici, ed è determinante per la forma finale della proteina."
 
@@ -4996,10 +4996,10 @@
   kind: mc
   text: "Cosa determina la struttura secondaria delle proteine?"
   options:
-    - A) Interazioni tra catene laterali di aminoacidi
-    - B) Interazioni con il DNA
-    - C) Legami idrogeno tra il gruppo amminico e il gruppo carbonilico della catena principale
-    - D) Legami ionici tra aminoacidi
+    - Interazioni tra catene laterali di aminoacidi
+    - Interazioni con il DNA
+    - Legami idrogeno tra il gruppo amminico e il gruppo carbonilico della catena principale
+    - Legami ionici tra aminoacidi
   correct: 2
   curiosity: "La struttura secondaria delle proteine è stabilita principalmente dai legami idrogeno tra il gruppo amminico e il gruppo carbonilico della catena principale."
 
@@ -5007,10 +5007,10 @@
   kind: mc
   text: "Quali sono le due principali forme di struttura secondaria nelle proteine?"
   options:
-    - A) Struttura primaria e terziaria
-    - B) Elica alfa e foglietto beta
-    - C) Struttura quaternaria e primaria
-    - D) Elica beta e foglietto alfa
+    - Struttura primaria e terziaria
+    - Elica alfa e foglietto beta
+    - Struttura quaternaria e primaria
+    - Elica beta e foglietto alfa
   correct: 1
   curiosity: "Le due principali forme di struttura secondaria sono l'elica alfa e il foglietto beta, entrambe stabili grazie ai legami idrogeno."
 
@@ -5018,10 +5018,10 @@
   kind: mc
   text: "Cosa rappresenta la struttura terziaria di una proteina?"
   options:
-    - A) La sequenza di aminoacidi
-    - B) La disposizione degli aminoacidi in eliche e foglietti
-    - C) La conformazione tridimensionale della proteina risultante da interazioni tra le catene laterali
-    - D) L'unione di più catene polipeptidiche
+    - La sequenza di aminoacidi
+    - La disposizione degli aminoacidi in eliche e foglietti
+    - La conformazione tridimensionale della proteina risultante da interazioni tra le catene laterali
+    - L'unione di più catene polipeptidiche
   correct: 2
   curiosity: "La struttura terziaria di una proteina è la sua forma tridimensionale, determinata dalle interazioni tra le catene laterali degli aminoacidi."
 
@@ -5029,10 +5029,10 @@
   kind: mc
   text: "Quale delle seguenti interazioni contribuisce alla stabilità della struttura terziaria di una proteina?"
   options:
-    - A) Legami peptidici
-    - B) Legami idrogeno
-    - C) Tutte le precedenti (legami peptidici, idrogeno, ionici e idrofobici)
-    - D) Solo legami ionici
+    - Legami peptidici
+    - Legami idrogeno
+    - Tutte le precedenti (legami peptidici, idrogeno, ionici e idrofobici)
+    - Solo legami ionici
   correct: 2
   curiosity: "La stabilità della struttura terziaria è dovuta a una combinazione di legami peptidici, idrogeno, ionici e idrofobici."
 
@@ -5040,10 +5040,10 @@
   kind: mc
   text: "Che cosa caratterizza la struttura quaternaria delle proteine?"
   options:
-    - A) L'organizzazione in eliche
-    - B) L'assenza di subunità
-    - C) La combinazione di più catene polipeptidiche in un complesso funzionale
-    - D) La sequenza di aminoacidi
+    - L'organizzazione in eliche
+    - L'assenza di subunità
+    - La combinazione di più catene polipeptidiche in un complesso funzionale
+    - La sequenza di aminoacidi
   correct: 2
   curiosity: "La struttura quaternaria di una proteina è caratterizzata dalla combinazione di più catene polipeptidiche che formano un complesso funzionale."
 
@@ -5051,10 +5051,10 @@
   kind: mc
   text: "Qual è il ruolo delle proteine chaperoni?"
   options:
-    - A) Degradare le proteine
-    - B) Trascrivere l'RNA
-    - C) Aiutare nella piegatura corretta delle proteine durante la sintesi
-    - D) Stabilizzare il DNA
+    - Degradare le proteine
+    - Trascrivere l'RNA
+    - Aiutare nella piegatura corretta delle proteine durante la sintesi
+    - Stabilizzare il DNA
   correct: 2
   curiosity: "Le proteine chaperoni aiutano le proteine nascenti a piegarsi correttamente durante la loro sintesi, prevenendo il malfolding."
 
@@ -5062,10 +5062,10 @@
   kind: mc
   text: "Cosa significa denaturazione di una proteina?"
   options:
-    - A) Modifica della sequenza di aminoacidi
-    - B) Creazione di legami peptidici
-    - C) Perdita della struttura tridimensionale e conseguente perdita di funzionalità
-    - D) Aggiunta di gruppi chimici
+    - Modifica della sequenza di aminoacidi
+    - Creazione di legami peptidici
+    - Perdita della struttura tridimensionale e conseguente perdita di funzionalità
+    - Aggiunta di gruppi chimici
   correct: 2
   curiosity: "La denaturazione di una proteina implica la perdita della sua struttura tridimensionale, il che ne compromette la funzionalità."
 
@@ -5073,10 +5073,10 @@
   kind: mc
   text: "Quale delle seguenti condizioni può causare la denaturazione di una proteina?"
   options:
-    - A) Cambiamenti di temperatura
-    - B) Cambiamenti di pH
-    - C) Entrambe le precedenti (cambiamenti di temperatura e pH)
-    - D) Nessuna delle precedenti
+    - Cambiamenti di temperatura
+    - Cambiamenti di pH
+    - Entrambe le precedenti (cambiamenti di temperatura e pH)
+    - Nessuna delle precedenti
   correct: 2
   curiosity: "Cambiamenti nella temperatura o nel pH possono causare denaturazione delle proteine, alterando la loro struttura e funzione."
 
@@ -5084,10 +5084,10 @@
   kind: mc
   text: "Cosa si intende per 'dominio' in una proteina?"
   options:
-    - A) La sequenza di aminoacidi
-    - B) La struttura primaria
-    - C) Una regione della proteina che può avere una funzione specifica o una struttura autonoma
-    - D) Una modifica post-traduzionale
+    - La sequenza di aminoacidi
+    - La struttura primaria
+    - Una regione della proteina che può avere una funzione specifica o una struttura autonoma
+    - Una modifica post-traduzionale
   correct: 2
   curiosity: "Un dominio di una proteina è una regione che può avere una funzione specifica o una struttura autonoma, ed è spesso associata a un'attività biologica."
 
@@ -5095,10 +5095,10 @@
   kind: mc
   text: "Quale dei seguenti è un esempio di proteina con struttura quaternaria?"
   options:
-    - A) Insulina
-    - B) Mioglobina
-    - C) Emoglobina
-    - D) Cheratina
+    - Insulina
+    - Mioglobina
+    - Emoglobina
+    - Cheratina
   correct: 2
   curiosity: "L'emoglobina è un esempio di proteina con struttura quaternaria, poiché è composta da più subunità polipeptidiche."
 
@@ -5106,10 +5106,10 @@
   kind: mc
   text: "Qual è la funzione della mioglobina?"
   options:
-    - A) Trasporto di ossigeno nel sangue
-    - B) Catalisi di reazioni chimiche
-    - C) Stoccaggio di ossigeno nei muscoli
-    - D) Sintesi di proteine
+    - Trasporto di ossigeno nel sangue
+    - Catalisi di reazioni chimiche
+    - Stoccaggio di ossigeno nei muscoli
+    - Sintesi di proteine
   correct: 2
   curiosity: "La mioglobina è una proteina che si trova nei muscoli e ha la funzione di stoccare ossigeno, rilasciandolo quando necessario."
 
@@ -5117,10 +5117,10 @@
   kind: mc
   text: "Cosa determina la specificità della funzione di una proteina?"
   options:
-    - A) Solo la sua struttura primaria
-    - B) Solo la sua struttura secondaria
-    - C) La sua struttura tridimensionale e la conformazione
-    - D) Solo la sua composizione chimica
+    - Solo la sua struttura primaria
+    - Solo la sua struttura secondaria
+    - La sua struttura tridimensionale e la conformazione
+    - Solo la sua composizione chimica
   correct: 2
   curiosity: "La specificità della funzione di una proteina dipende dalla sua struttura tridimensionale, che è determinata dalle interazioni tra i suoi aminoacidi."
 
@@ -5128,10 +5128,10 @@
   kind: mc
   text: "Qual è la principale differenza tra una proteina fibrosa e una proteina globulare?"
   options:
-    - A) La loro sequenza di aminoacidi
-    - B) La loro solubilità in acqua
-    - C) La loro forma e funzione (fibrose è allungata, globulare è compatta)
-    - D) La loro origine
+    - La loro sequenza di aminoacidi
+    - La loro solubilità in acqua
+    - La loro forma e funzione (fibrose è allungata, globulare è compatta)
+    - La loro origine
   correct: 2
   curiosity: "Le proteine fibrose sono allungate e insolubili in acqua, mentre le proteine globulari sono compatte e solubili."
 
@@ -5139,10 +5139,10 @@
   kind: mc
   text: "Cosa sono le interazioni idrofobiche in una proteina?"
   options:
-    - A) Legami forti tra aminoacidi
-    - B) Interazioni tra catene laterali idrofobiche che si allontanano dall'acqua
-    - C) Legami ionici tra cariche opposte
-    - D) Legami idrogeno tra amminoacidi
+    - Legami forti tra aminoacidi
+    - Interazioni tra catene laterali idrofobiche che si allontanano dall'acqua
+    - Legami ionici tra cariche opposte
+    - Legami idrogeno tra amminoacidi
   correct: 2
   curiosity: "Le interazioni idrofobiche si verificano quando le catene laterali idrofobiche di aminoacidi si raggruppano per evitare il contatto con l'acqua."
 
@@ -5150,10 +5150,10 @@
   kind: mc
   text: "Quale ruolo hanno i legami disolfuro nella struttura delle proteine?"
   options:
-    - A) Stabilizzano la struttura primaria
-    - B) Stabilizzano la struttura secondaria
-    - C) Stabilizzano la struttura terziaria e quaternaria
-    - D) Non hanno alcun ruolo
+    - Stabilizzano la struttura primaria
+    - Stabilizzano la struttura secondaria
+    - Stabilizzano la struttura terziaria e quaternaria
+    - Non hanno alcun ruolo
   correct: 2
   curiosity: "I legami disolfuro stabilizzano la struttura terziaria e quaternaria delle proteine, legando covalentemente due residui di cisteina."
 
@@ -5161,10 +5161,10 @@
   kind: mc
   text: "Che cosa determina la folding (piegatura) di una proteina?"
   options:
-    - A) Solo la sequenza di aminoacidi
-    - B) Solo le interazioni ambientali
-    - C) Le interazioni tra le catene laterali e la sequenza di aminoacidi
-    - D) Solo la temperatura
+    - Solo la sequenza di aminoacidi
+    - Solo le interazioni ambientali
+    - Le interazioni tra le catene laterali e la sequenza di aminoacidi
+    - Solo la temperatura
   correct: 2
   curiosity: "Il folding di una proteina è determinato dalle interazioni tra la sequenza di aminoacidi e le forze ambientali."
 
@@ -5172,10 +5172,10 @@
   kind: mc
   text: "Qual è la funzione principale della cheratina?"
   options:
-    - A) Trasporto di ossigeno
-    - B) Catalisi di reazioni chimiche
-    - C) Fornire struttura e resistenza a peli, unghie e pelle
-    - D) Stoccaggio di nutrienti
+    - Trasporto di ossigeno
+    - Catalisi di reazioni chimiche
+    - Fornire struttura e resistenza a peli, unghie e pelle
+    - Stoccaggio di nutrienti
   correct: 2
   curiosity: "La cheratina è una proteina strutturale che conferisce resistenza e rigidità a peli, unghie e pelle."
 
@@ -5183,9 +5183,9 @@
   kind: mc
   text: "Qual è l'importanza della struttura delle proteine in biologia?"
   options:
-    - A) Non ha alcuna importanza
-    - B) Influisce solo sulla loro sintesi
-    - C) Determina la funzione e l'attività biologica delle proteine
-    - D) Rende le proteine più fragili
+    - Non ha alcuna importanza
+    - Influisce solo sulla loro sintesi
+    - Determina la funzione e l'attività biologica delle proteine
+    - Rende le proteine più fragili
   correct: 2
   curiosity: "La struttura di una proteina è fondamentale per la sua funzione e per l'attività biologica che svolge all'interno della cellula."

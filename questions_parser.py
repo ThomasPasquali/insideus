@@ -5,6 +5,7 @@ import tempfile
 import argparse
 from dataclasses import dataclass
 from pathlib import Path
+import random
 
 @dataclass
 class Card:
@@ -14,6 +15,13 @@ class Card:
     correct: int | None
     curiosity: str | None
 
+    def shuffle_options(self):
+        if self.correct is not None:
+            correct_text = self.options[self.correct]
+        random.shuffle(self.options)
+        if self.correct is not None:
+            self.correct = self.options.index(correct_text)
+
 def generate_tex(cards: list[Card]) -> str:
     tex = r"""
     \documentclass[parskip]{scrartcl}
@@ -21,6 +29,7 @@ def generate_tex(cards: list[Card]) -> str:
     \usepackage{tikz}
     \usepackage{graphicx}
     \usepackage[shortlabels]{enumitem}
+    \usepackage{setspace}
 
     \begin{document}
 
@@ -40,37 +49,39 @@ def generate_tex(cards: list[Card]) -> str:
             \draw[rounded corners=\cardroundingradius, fill=green!20] (0,0) rectangle (\cardwidth,\cardheight);
             % Text node
             \node[below right,fill=blue!20,
-                    minimum height=(\cardheight-2*\textpadding)*1mm,
+                    % minimum height=(\cardheight-2*\textpadding)*1mm,
                     minimum width=(\cardwidth-2*\textpadding)*1mm,
-                    text width=(\cardwidth-3.5*\textpadding)*1mm,
+                    text width=(\cardwidth-3*\textpadding)*1mm,
                     align=left
                 ] 
                 at (\textpadding,\cardheight-\textpadding) {
-                \begin{center}{\questionfontsize\textbf{\textit{#1}}}\end{center}
+                {\questionfontsize\textbf{\textit{#1}}}\\[-2mm]
                 % Separator line
-                \tikz{\fill (0,0) rectangle (\cardwidth-4*\textpadding,\ruleheight);}\\[1mm]
-                % Options text               
-                \vspace{\fill}
+                \tikz{\fill (0,0) rectangle (\cardwidth-4*\textpadding,\ruleheight);}\\[0mm]
+                % Options text
+                \vspace{-3mm}
                 {\optionfontsize #2}
             };
             % Curiosity node
             \node[
                     above right, fill=blue!10,
                     minimum width=(\cardwidth-2*\textpadding)*1mm,
-                    text width=(\cardwidth-3.5*\textpadding)*1mm,
-                    align=left
+                    text width=(\cardwidth-3*\textpadding)*1mm,
+                    align=left,
+                    execute at begin node=\setlength{\baselineskip}{0.5em}
                 ] 
                 at (\textpadding, \textpadding) {
-                {\curiosityfontsize \textit{#3}}
+                \curiosityfontsize\textit{#3}
             };
         \end{tikzpicture}
     }
     """
 
     for i, c in enumerate(cards):
+        #FIXME c.shuffle_options()
         card_tex = r"""\card
             {QUESTION}
-            {\begin{enumerate}[A)]
+            {\begin{enumerate}[A),leftmargin=*]
                 \setlength{\itemsep}{0pt}
                 \setlength{\parskip}{0pt}
                 \setlength{\parsep}{0pt}
@@ -84,7 +95,7 @@ def generate_tex(cards: list[Card]) -> str:
             for j, o in enumerate(c.options):
                 correct = c.correct is not None and c.correct == j
                 # options_tex.append(f'\\item {"\\textbf{" if correct else ""}{o}{"}" if correct else ""}')
-                options_tex.append(('\\bfseries ' if correct else '') + '\\item ' + o + ('\\mdseries' if correct else ''))
+                options_tex.append(('\\bfseries ' if correct else '') + '\\item ' + str(o) + ('\\mdseries' if correct else ''))
             card_tex = card_tex.replace('OPTIONS', '\n'.join(options_tex))
         tex += card_tex
         if (i+1)%3 == 0:
