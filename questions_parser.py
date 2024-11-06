@@ -2,13 +2,13 @@ import yaml
 import subprocess
 import os
 import tempfile
-import shutil
 import argparse
 from dataclasses import dataclass
 from pathlib import Path
 
 @dataclass
 class Card:
+    key: str
     text: str
     options: list[str]
     correct: int | None
@@ -84,7 +84,7 @@ def generate_tex(cards: list[Card]) -> str:
             for j, o in enumerate(c.options):
                 correct = c.correct is not None and c.correct == j
                 # options_tex.append(f'\\item {"\\textbf{" if correct else ""}{o}{"}" if correct else ""}')
-                options_tex.append(f'{"\\bfseries " if correct else ""}\\item {o}{"\\mdseries" if correct else ""}')
+                options_tex.append(('\\bfseries ' if correct else '') + '\\item ' + o + ('\\mdseries' if correct else ''))
             card_tex = card_tex.replace('OPTIONS', '\n'.join(options_tex))
         tex += card_tex
         if (i+1)%3 == 0:
@@ -107,28 +107,29 @@ def generate_pdf(pdfname: str, cards: list[Card]):
         os.remove(f'{f_stem}.aux')
         os.remove(f'{f_stem}.log')
 
+def generate_cards_from_file(filename: str) -> list[Card]:
+    cards = []
+    with open(filename, 'r') as file:
+        questions = yaml.safe_load(file)
+        #print(questions)
+        for q in questions.keys():
+            question = questions[q]
+            #print(q)
+            #print(question)
+            match question['kind']:
+                case 'mc':
+                    cards.append(Card(key=q, text=question['text'], options=question['options'], correct=question['correct'], curiosity=question.get('curiosity')))
+                case 'tf':
+                    cards.append(Card(key=q, text=question['text'], options=['Vero', 'Falso'], correct=question['correct'], curiosity=question.get('curiosity')))
+                case 'enum':
+                    cards.append(Card(key=q, text=question['text'], options=question['options'], correct=None, curiosity=question.get('curiosity')))
+                case _ as a:
+                    raise Exception(f'kind {a} not found')
+    return cards
+
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(prog='')
     parser.add_argument('file', help='specify the questions yaml file.')
     args = parser.parse_args()
 
-    cards = []
-
-    with open(args.file, 'r') as file:
-        questions = yaml.safe_load(file)
-        print(questions)
-        for q in questions.keys():
-            question = questions[q]
-            print(q)
-            print(question)
-            match question['kind']:
-                case 'mc':
-                    cards.append(Card(text=question['text'], options=question['options'], correct=question['correct'], curiosity=question.get('curiosity')))
-                case 'tf':
-                    cards.append(Card(text=question['text'], options=['Vero', 'Falso'], correct=question['correct'], curiosity=question.get('curiosity')))
-                case 'enum':
-                    cards.append(Card(text=question['text'], options=question['options'], correct=None, curiosity=question.get('curiosity')))
-                case _ as a:
-                    raise Exception(f'kind {a} not found')
-    
-    generate_pdf(f'{Path(args.file).stem}.pdf', cards)
+    generate_pdf(f'{Path(args.file).stem}.pdf', generate_cards_from_file(args.file))
