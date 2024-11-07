@@ -35,7 +35,7 @@
   kind: mc
   text: Qual è la dimensione tipica delle cellule procariote?
   options:
-    - 1-10 micrometri
+    - 0,1-10 micrometri
     - 10-100 micrometri
     - 100-1000 micrometri
     - Nessuna delle precedenti
@@ -178,12 +178,14 @@
   kind: mc
   text: Quale delle seguenti affermazioni è vera riguardo ai procarioti?
   options:
-    - Hanno sempre una parete cellulare
+    - Hanno quasi sempre una parete cellulare
     - Non contengono ribosomi
     - Possiedono un apparato di Golgi
     - Hanno il DNA all'interno del nucleo
   correct: 0
   curiosity: 
+
+#FIXCURIOSITYABOVE
 
 18:
   kind: mc
@@ -301,7 +303,7 @@
   options:
     - Attraverso la divisione dei procarioti
     - Grazie alla mutazione dei batteri
-    - Per l'incorporazione di batteri da parte di un progenitore eucariotico primitivo
+    - Per l'incorporazione di batteri aerobici e fotosintetici, che si sono evoluti in mitocondri e cloroplasti
     - Per duplicazione del DNA nucleare
   correct: 2
   curiosity: 
@@ -405,16 +407,7 @@
   correct: 0
   curiosity: 
 
-38:
-  kind: mc
-  text: Qual è la caratteristica principale che distingue le cellule eucariotiche dalle procariotiche?
-  options:
-    - La presenza di una parete cellulare
-    - La presenza di un nucleo delimitato da una membrana
-    - La capacità di compiere la fotosintesi
-    - La mancanza di organelli
-  correct: 1
-  curiosity: 
+#FIXCURIOSITYABOVE
 
 39:
   kind: mc
@@ -680,6 +673,8 @@
   correct: 1
   curiosity: 
 
+#FIXCURIOSITYABOVE
+
 63:
   kind: mc
   text: Quale tra i seguenti è un legame forte che si forma tra atomi condividendo coppie di elettroni?
@@ -899,6 +894,8 @@
     - Condivisione di elettroni
   correct: 1
   curiosity: 
+
+#FIXCURIOSITYABOVE
 
 83:
   kind: mc
@@ -1175,6 +1172,8 @@
   correct: 0
   curiosity: 
 
+#FIXCURIOSITYABOVE
+
 108:
   kind: mc
   text: Quale tipo di reazione chimica è alla base della sintesi delle macromolecole biologiche?
@@ -1450,6 +1449,8 @@
   correct: 3
   curiosity: 
 
+#FIXCURIOSITYABOVE
+
 133:
   kind: mc
   text: Quali sono le quattro principali classi di macromolecole biologiche?
@@ -1492,28 +1493,6 @@
     - Acidi nucleici
     - Proteine
   correct: 0
-  curiosity: 
-
-137:
-  kind: mc
-  text: Qual è il ruolo principale dei carboidrati?
-  options:
-    - Catalizzare reazioni chimiche
-    - Fornire energia
-    - Trasportare informazioni genetiche
-    - Fornire struttura alle cellule
-  correct: 1
-  curiosity: 
-
-138:
-  kind: mc
-  text: Qual è la principale funzione delle proteine strutturali come il collagene?
-  options:
-    - Trasportare energia
-    - Fornire supporto e struttura ai tessuti
-    - Archiviare informazioni genetiche
-    - Facilitare il trasporto di molecole
-  correct: 1
   curiosity: 
 
 139:
@@ -1725,6 +1704,8 @@
   correct: 1
   curiosity: 
 
+#FIXCURIOSITYABOVE
+
 158:
   kind: mc
   text: Quali sono i monomeri principali dei carboidrati?
@@ -1789,17 +1770,6 @@
     - Saccarosio
     - Glicogeno
   correct: 2
-  curiosity: 
-
-164:
-  kind: mc
-  text: Qual è il principale zucchero presente nel sangue umano?
-  options:
-    - Fruttosio
-    - Glucosio
-    - Lattosio
-    - Saccarosio
-  correct: 1
   curiosity: 
 
 165:
@@ -2000,6 +1970,8 @@
   correct: 1
   curiosity: 
 
+#FIXCURIOSITYABOVE
+
 183:
   kind: mc
   text: Quali sono i principali componenti dei trigliceridi?
@@ -2108,17 +2080,6 @@
     - Contribuire alla stabilità delle membrane cellulari
     - Aumentare la pressione osmotica
   correct: 2
-  curiosity: 
-
-193:
-  kind: mc
-  text: Qual è la differenza principale tra un grasso saturo e uno insaturo?
-  options:
-    - I grassi insaturi contengono doppi legami tra atomi di carbonio
-    - I grassi saturi hanno doppi legami tra atomi di carbonio
-    - I grassi insaturi contengono solo legami singoli tra atomi di carbonio
-    - I grassi saturi sono liquidi a temperatura ambiente
-  correct: 0
   curiosity: 
 
 194:
@@ -2274,6 +2235,8 @@
     - Fornire rigidità alla membrana
   correct: 2
   curiosity: 
+
+#FIXCURIOSITYABOVE
 
 208:
   kind: mc
@@ -2605,6 +2568,8 @@
   correct: 2
   curiosity: "Le proteine di trasporto, come l'emoglobina, hanno il compito di trasportare ossigeno e altre molecole vitali nel corpo."
 
+#FINALFIX
+
 238:
   kind: mc
   text: "Quali sono i due principali tipi di acidi nucleici?"
@@ -2758,17 +2723,6 @@
     - Idrolisi
   correct: 1
   curiosity: "La trascrizione è il processo attraverso il quale l'RNA viene sintetizzato a partire da un modello di DNA."
-
-252:
-  kind: mc
-  text: "Durante la sintesi proteica, qual è il ruolo del ribosoma?"
-  options:
-    - Conservare l'informazione genetica
-    - Leggere l'mRNA e assemblare amminoacidi
-    - Sintetizzare DNA
-    - Modificare il DNA
-  correct: 1
-  curiosity: "Il ribosoma è responsabile di leggere l'mRNA e assemblare gli amminoacidi in una catena polipeptidica durante la sintesi proteica."
 
 253:
   kind: mc
@@ -2934,6 +2888,8 @@
     - Il ribosoma
   correct: 1
   curiosity: "La sequenza degli amminoacidi in una proteina è determinata dalla sequenza di nucleotidi nel DNA, che viene trascritta in mRNA."
+
+#FINALFIX
 
 268:
   kind: mc
@@ -3166,17 +3122,6 @@
   correct: 1
   curiosity: "Nel DNA, le basi azotate si trovano all'interno della doppia elica, mentre lo scheletro zucchero-fosfato è all'esterno."
 
-289:
-  kind: mc
-  text: "Cosa determina la sequenza degli amminoacidi in una proteina?"
-  options:
-    - La struttura terziaria del DNA
-    - La sequenza dei nucleotidi nel DNA
-    - La posizione del tRNA
-    - Il ribosoma
-  correct: 1
-  curiosity: "La sequenza degli amminoacidi in una proteina è determinata dalla sequenza di nucleotidi nel DNA, che è trascritta nell'mRNA."
-
 290:
   kind: mc
   text: "Quale parte del DNA è coinvolta nella regolazione dell'espressione genica?"
@@ -3209,6 +3154,8 @@
     - È prodotto durante la replicazione
   correct: 0
   curiosity: "Il DNA mitocondriale è ereditato esclusivamente dalla madre, poiché gli spermatozoi contribuiscono solo con il loro nucleo durante la fecondazione, mentre i mitocondri sono ereditati dalla cellula uovo."
+
+#FINALFIX
 
 293:
   kind: mc
@@ -3430,6 +3377,8 @@
   correct: 2
   curiosity: "Le proteine SSB si legano ai filamenti di DNA separati durante la replicazione per impedirne la riassociazione e stabilizzarli."
 
+#FINALFIX
+
 313:
   kind: mc
   text: "Quale è la struttura fondamentale del DNA?"
@@ -3650,6 +3599,8 @@
   correct: 2
   curiosity: "La condensina è una proteina che gioca un ruolo fondamentale nella condensazione della cromatina in cromosomi durante la mitosi."
 
+#FINALFIX
+
 333:
   kind: mc
   text: "Cosa rappresenta un gene?"
@@ -3702,7 +3653,7 @@
     - Regolare l'inizio della trascrizione
     - Legare il ribosoma
     - Stabilizzare la molecola di DNA
-  correct: 2
+  correct: 1
   curiosity: "Il promotore è una sequenza di DNA che segnala l'inizio della trascrizione di un gene, permettendo la sintesi di RNA."
 
 338:
@@ -3713,7 +3664,7 @@
     - Trascrizione
     - Replicazione
     - Compattazione
-  correct: 2
+  correct: 1
   curiosity: "La trascrizione è il processo che copia l'informazione contenuta nel DNA in RNA messaggero (mRNA)."
 
 339:
@@ -3735,7 +3686,7 @@
     - Proteina
     - DNA
     - Ribosoma
-  correct: 2
+  correct: 1
   curiosity: "Durante la traduzione, il mRNA viene utilizzato per sintetizzare una proteina, che esegue specifiche funzioni nella cellula."
 
 341:
@@ -3823,7 +3774,7 @@
     - Mutazioni e ricombinazione genetica
     - Solo la selezione naturale
     - Solo l'ambiente
-  correct: 2
+  correct: 1
   curiosity: "La variabilità genetica è influenzata da mutazioni, ricombinazione genetica e selezione naturale."
 
 349:
@@ -3834,7 +3785,7 @@
     - Comprendere l'eredità e la variazione nei caratteri
     - Analizzare i fenomeni fisici
     - Studiare la chimica dei nutrienti
-  correct: 2
+  correct: 1
   curiosity: "Lo scopo principale della genetica è comprendere come i caratteri vengono ereditati e come varianti genetiche influenzano gli organismi."
 
 350:
@@ -3856,7 +3807,7 @@
     - Il processo attraverso il quale le informazioni di un gene vengono utilizzate per sintetizzare un prodotto genico
     - La traduzione dell'RNA in DNA
     - La modificazione delle proteine
-  correct: 2
+  correct: 1
   curiosity: "L'espressione genica è il processo attraverso il quale le informazioni contenute in un gene vengono utilizzate per sintetizzare proteine o altri prodotti genici."
 
 352:
@@ -3870,6 +3821,8 @@
   correct: 2
   curiosity: "L'RNA messaggero (mRNA) trasmette l'informazione genetica dai geni ai ribosomi, dove avviene la sintesi proteica."
 
+#FINALFIX
+
 353:
   kind: mc
   text: "Qual è il primo passo della trascrizione del DNA?"
@@ -3878,7 +3831,7 @@
     - Legame dell'RNA polimerasi al promotore
     - Sintesi di proteine
     - Replicazione del DNA
-  correct: 2
+  correct: 1
   curiosity: "Il primo passo della trascrizione è il legame dell'RNA polimerasi al promotore, una sequenza specifica di DNA che segnala l'inizio della trascrizione."
 
 354:
@@ -3905,7 +3858,7 @@
 
 356:
   kind: mc
-  text: "Dove avviene la trascrizione nel tipo di cellula eucariotica?"
+  text: "Dove avviene la trascrizione nelle cellule eucariotiche?"
   options:
     - Nucleo
     - Citoplasma
@@ -3922,7 +3875,7 @@
     - Tradurre il mRNA in proteine
     - Sintetizzare RNA a partire da un filamento di DNA
     - Legare ribosomi all'RNA
-  correct: 3
+  correct: 2
   curiosity: "La RNA polimerasi è l'enzima responsabile della sintesi di RNA a partire da un filamento di DNA durante la trascrizione."
 
 358:
@@ -3933,7 +3886,7 @@
     - Una proteina che stabilizza il DNA
     - Una sequenza di DNA che segna l'inizio della trascrizione
     - Una molecola di RNA
-  correct: 3
+  correct: 2
   curiosity: "Un promotore è una sequenza di DNA che segnala l'inizio della trascrizione di un gene."
 
 359:
@@ -3944,7 +3897,7 @@
     - Il DNA viene completamente copiato
     - Solo una parte del DNA viene trascritta in RNA
     - L'RNA polimerasi non richiede un primer
-  correct: 3
+  correct: 2
   curiosity: "Durante la trascrizione, solo una parte specifica del DNA viene trascritta in RNA, mentre il resto del DNA rimane intatto."
 
 360:
@@ -3955,7 +3908,7 @@
     - Non hanno alcuna funzione
     - Vengono rimossi dal mRNA durante il processo di splicing
     - Stabilizzano il mRNA
-  correct: 3
+  correct: 2
   curiosity: "Gli introni sono sequenze non codificanti che vengono rimossi dal mRNA durante lo splicing per formare l'mRNA maturo."
 
 361:
@@ -3966,7 +3919,7 @@
     - Il processo di rimozione degli introni dal pre-mRNA
     - La sintesi di proteine
     - La traduzione del mRNA in aminoacidi
-  correct: 2
+  correct: 1
   curiosity: "Lo splicing è il processo che rimuove gli introni dal pre-mRNA, unendo gli esoni per formare l'mRNA maturo."
 
 362:
@@ -3977,7 +3930,7 @@
     - Una sequenza di tre nucleotidi che codifica per un aminoacido
     - Una proteina
     - Un introne
-  correct: 2
+  correct: 1
   curiosity: "Un codone è una sequenza di tre nucleotidi nel mRNA che codifica per un aminoacido specifico durante la traduzione."
 
 363:
@@ -3988,7 +3941,7 @@
     - RNA ribosomiale
     - Spliceosoma
     - RNA polimerasi II
-  correct: 3
+  correct: 2
   curiosity: "Lo splicing del pre-mRNA è mediato dallo spliceosoma, un complesso di proteine e RNA che rimuove gli introni."
 
 364:
@@ -3999,7 +3952,7 @@
     - Una proteina
     - Una molecola di mRNA
     - Un filamento di tRNA
-  correct: 3
+  correct: 2
   curiosity: "Il risultato finale della trascrizione è una molecola di mRNA, che trasporta le informazioni dal DNA ai ribosomi per la sintesi proteica."
 
 365:
@@ -4010,7 +3963,7 @@
     - Rimane nel nucleo
     - Viene esportata nel citoplasma
     - Viene tradotta immediatamente
-  correct: 3
+  correct: 2
   curiosity: "Dopo la trascrizione, l'mRNA maturo viene esportato nel citoplasma, dove verrà tradotto in una proteina."
 
 366:
@@ -4021,7 +3974,7 @@
     - Da 5' a 3'
     - In entrambe le direzioni
     - Da 5' a 5'
-  correct: 2
+  correct: 1
   curiosity: "La sintesi dell'mRNA avviene nella direzione 5' -> 3', in modo che i nucleotidi vengano aggiunti all'estremità 3' della catena."
 
 367:
@@ -4032,7 +3985,7 @@
     - Viene replicato
     - Subisce modifiche come la coda di poli-A e il cappuccio 5'
     - Viene utilizzato come DNA
-  correct: 3
+  correct: 2
   curiosity: "Dopo la trascrizione, l'mRNA subisce modifiche come l'aggiunta di un cappuccio 5' e una coda di poli-A, che lo stabilizzano e ne facilitano l'esportazione."
 
 368:
@@ -4043,7 +3996,7 @@
     - Una sequenza di codoni
     - Una serie di adenine aggiunte per stabilizzare l'mRNA
     - Una sequenza di introni
-  correct: 3
+  correct: 2
   curiosity: "La coda di poli-A è una serie di adenine aggiunte all'estremità 3' dell'mRNA che aiuta a stabilizzare la molecola e a regolare la sua durata."
 
 369:
@@ -4054,7 +4007,7 @@
     - rRNA
     - tRNA
     - snRNA
-  correct: 3
+  correct: 2
   curiosity: "Il tRNA (RNA di trasferimento) è responsabile per il trasporto degli aminoacidi ai ribosomi, dove avviene la sintesi proteica."
 
 370:
@@ -4065,7 +4018,7 @@
     - La traduzione dell'RNA in proteine
     - La sintesi di DNA a partire da RNA
     - La duplicazione del DNA
-  correct: 3
+  correct: 2
   curiosity: "La trascrizione inversa è il processo mediante il quale viene sintetizzato il DNA a partire da RNA, come nel caso dei retrovirus."
 
 371:
@@ -4076,7 +4029,7 @@
     - La traduzione del mRNA
     - L'aggiunta di un cappuccio alla fine 5' dell'mRNA
     - L'eliminazione degli introni
-  correct: 3
+  correct: 2
   curiosity: "'Capping' si riferisce all'aggiunta di una guanosina modificata all'estremità 5' dell'mRNA, che aiuta nella protezione della molecola e nell'inizio della traduzione."
 
 372:
@@ -4087,8 +4040,10 @@
     - Duplicare DNA
     - Tradurre il mRNA in una sequenza di aminoacidi
     - Stabilizzare il DNA
-  correct: 3
+  correct: 2
   curiosity: "Il ribosoma è il sito dove avviene la traduzione del mRNA in una sequenza di aminoacidi, che formeranno la proteina finale."
+
+#FINALFIX
 
 373:
   kind: mc
@@ -4098,7 +4053,7 @@
     - La duplicazione del DNA
     - Il processo di modifica del pre-mRNA in mRNA maturo
     - La trascrizione del DNA
-  correct: 3
+  correct: 2
   curiosity: "La maturazione del mRNA è il processo in cui il pre-mRNA viene modificato (con aggiunta del cappuccio 5', splicing e coda di poli-A) per diventare mRNA maturo, pronto per la traduzione."
 
 374:
@@ -4109,7 +4064,7 @@
     - Aggiunta della coda di poli-A
     - Aggiunta del cappuccio 5'
     - Traduzione
-  correct: 3
+  correct: 2
   curiosity: "Il primo passo nella maturazione dell'mRNA è l'aggiunta del cappuccio 5', che aiuta a proteggere l'mRNA e facilita il suo trasporto."
 
 375:
@@ -4120,7 +4075,7 @@
     - Sequenza di introni
     - Cappuccio 5'
     - Codoni
-  correct: 3
+  correct: 2
   curiosity: "Durante la maturazione, un cappuccio 5' è aggiunto all'estremità 5' dell'mRNA per proteggerlo dalla degradazione."
 
 376:
@@ -4131,7 +4086,7 @@
     - Proteggere l'mRNA dalla degradazione
     - Codificare per proteine
     - Aggiungere sequenze di aminoacidi
-  correct: 2
+  correct: 1
   curiosity: "Il cappuccio 5' ha una funzione protettiva: previene la degradazione dell'mRNA e facilita il suo riconoscimento durante la traduzione."
 
 377:
@@ -4142,7 +4097,7 @@
     - Sequenze di RNA codificanti
     - Parti del pre-mRNA che vengono rimosse durante lo splicing
     - Nucleotidi liberi nel citoplasma
-  correct: 3
+  correct: 2
   curiosity: "Gli introni sono le sequenze non codificanti che vengono rimosse durante il processo di splicing, lasciando solo gli esoni codificanti."
 
 378:
@@ -4153,7 +4108,7 @@
     - Traduzione dell'mRNA
     - Rimozione degli introni e unione degli esoni
     - Sintesi di RNA
-  correct: 3
+  correct: 2
   curiosity: "Lo splicing è il processo in cui gli introni vengono rimossi e gli esoni, che codificano per proteine, vengono uniti insieme."
 
 379:
@@ -4164,7 +4119,7 @@
     - Iniziare la traduzione
     - Proteggere l'mRNA dalla degradazione e facilitare il suo trasporto
     - Codificare per una proteina
-  correct: 3
+  correct: 2
   curiosity: "La coda di poli-A, una lunga sequenza di adenine, protegge l'mRNA dalla degradazione e ne facilita l'esportazione nel citoplasma."
 
 380:
@@ -4175,7 +4130,7 @@
     - Sequenze di nucleotidi liberi
     - Parti del gene che vengono mantenute nel mRNA maturo
     - Sequenze di introni
-  correct: 3
+  correct: 2
   curiosity: "Gli esoni sono le sequenze codificanti del gene, che vengono mantenute nell'mRNA maturo e sono responsabili della produzione della proteina."
 
 381:
@@ -4186,7 +4141,7 @@
     - Ligasi
     - Spliceosoma
     - Topoisomerasi
-  correct: 3
+  correct: 2
   curiosity: "Lo spliceosoma è un complesso di proteine e RNA che svolge il processo di splicing, rimuovendo gli introni dall'mRNA."
 
 382:
@@ -4197,7 +4152,7 @@
     - Viene replicato
     - Subisce modifiche per diventare mRNA maturo
     - Viene utilizzato come DNA
-  correct: 3
+  correct: 2
   curiosity: "Dopo la trascrizione, il pre-mRNA subisce modifiche, come lo splicing e l'aggiunta della coda di poli-A e del cappuccio 5', per diventare mRNA maturo."
 
 383:
@@ -4208,7 +4163,7 @@
     - Viene esportato nel citoplasma
     - Viene distrutto
     - Viene utilizzato per la replicazione del DNA
-  correct: 2
+  correct: 1
   curiosity: "Dopo la maturazione, l'mRNA maturo viene esportato dal nucleo nel citoplasma, dove viene tradotto in proteina."
 
 384:
@@ -4219,7 +4174,7 @@
     - Non avrà alcun effetto
     - L'mRNA potrebbe essere degradato più rapidamente
     - La sintesi di proteine sarà più efficiente
-  correct: 3
+  correct: 2
   curiosity: "Se il cappuccio 5' non viene aggiunto correttamente, l'mRNA potrebbe essere riconosciuto come difettoso e degradato più rapidamente."
 
 385:
@@ -4230,7 +4185,7 @@
     - Spliceosoma
     - Polyadenilato polimerasi
     - Ligasi
-  correct: 3
+  correct: 2
   curiosity: "La polyadenilato polimerasi è l'enzima che aggiunge la coda di poli-A all'estremità 3' dell'mRNA durante la maturazione."
 
 386:
@@ -4241,7 +4196,7 @@
     - Una sequenza di tre nucleotidi che codifica per un aminoacido
     - Un filamento di RNA
     - Una sequenza di DNA
-  correct: 2
+  correct: 1
   curiosity: "Un codone è una sequenza di tre nucleotidi nell'mRNA che codifica per un aminoacido specifico durante la traduzione."
 
 387:
@@ -4252,7 +4207,7 @@
     - rRNA
     - tRNA
     - snRNA
-  correct: 3
+  correct: 2
   curiosity: "Il tRNA (RNA di trasferimento) è il tipo di RNA che trasporta gli aminoacidi ai ribosomi per la sintesi proteica."
 
 388:
@@ -4263,7 +4218,7 @@
     - Rimozione di introni dal DNA
     - Rimozione di introni dal pre-mRNA durante lo splicing
     - Trascrizione di introni in mRNA
-  correct: 3
+  correct: 2
   curiosity: "L'esclusione degli introni significa che questi vengono rimossi dal pre-mRNA durante lo splicing, lasciando solo gli esoni."
 
 389:
@@ -4274,7 +4229,7 @@
     - RNA ribosomiale
     - RNA nucleare piccolo coinvolto nello splicing
     - RNA di trasferimento
-  correct: 3
+  correct: 2
   curiosity: "Lo snRNA (small nuclear RNA) è un tipo di RNA che svolge un ruolo fondamentale nel processo di splicing, facilitando la rimozione degli introni."
 
 390:
@@ -4285,7 +4240,7 @@
     - Stabilizzare il DNA
     - Trasportare informazioni genetiche ai ribosomi per la sintesi proteica
     - Viene utilizzato per la replicazione
-  correct: 3
+  correct: 2
   curiosity: "L'mRNA maturo trasporta l'informazione genetica dal nucleo ai ribosomi, dove viene tradotto in proteina."
 
 391:
@@ -4296,7 +4251,7 @@
     - Gli introni vengono sempre conservati
     - Include splicing e modifiche 5' e 3'
     - Non avviene nel nucleo
-  correct: 3
+  correct: 2
   curiosity: "Negli eucarioti, la maturazione dell'mRNA include lo splicing e modifiche sia all'estremità 5' (cappuccio) che all'estremità 3' (coda di poli-A)."
 
 392:
@@ -4307,8 +4262,10 @@
     - Non influenzerà la traduzione
     - Potrebbe portare a proteine non funzionali o difettose
     - Migliorerà l'efficienza della traduzione
-  correct: 3
+  correct: 2
   curiosity: "Errori nella maturazione dell'mRNA, come splicing incompleto o mancanza del cappuccio 5', possono portare a proteine difettose o non funzionali."
+
+#FINALFIX
 
 393:
   kind: mc
@@ -4318,7 +4275,7 @@
     - La sintesi di RNA
     - Un processo che consente di produrre diverse varianti di mRNA da un singolo gene
     - La traduzione delle proteine
-  correct: 3
+  correct: 2
   curiosity: "Lo splicing alternativo è un processo che permette a un singolo gene di produrre diverse varianti di mRNA, aumentando la diversità proteica."
 
 394:
@@ -4329,7 +4286,7 @@
     - Riduce il tempo di trascrizione
     - Permette la produzione di diverse proteine a partire dallo stesso gene
     - Stabilizza l'mRNA
-  correct: 3
+  correct: 2
   curiosity: "Il principale vantaggio dello splicing alternativo è che permette la produzione di molteplici proteine diverse dallo stesso gene."
 
 395:
@@ -4340,7 +4297,7 @@
     - Si verifica solo in alcuni tipi di cellule
     - Contribuisce alla diversità proteica degli organismi
     - Non ha impatti sulla funzionalità delle proteine
-  correct: 3
+  correct: 2
   curiosity: "Lo splicing alternativo aumenta la diversità proteica, poiché consente la generazione di diverse isoforme proteiche a partire da un singolo gene."
 
 396:
@@ -4351,7 +4308,7 @@
     - Trascrivere il DNA
     - Rimuovere introni e unire esoni in varianti di mRNA
     - Stabilizzare l'mRNA
-  correct: 3
+  correct: 2
   curiosity: "Lo spliceosoma è il complesso di proteine e RNA che catalizza lo splicing alternativo, rimuovendo introni e combinando esoni in modo differente."
 
 397:
@@ -4362,7 +4319,7 @@
     - Elementi regolatori nel pre-mRNA
     - La temperatura cellulare
     - Il tipo di RNA polimerasi utilizzato
-  correct: 2
+  correct: 1
   curiosity: "La selezione degli esoni durante lo splicing alternativo è regolata da specifici elementi nel pre-mRNA e da fattori proteici."
 
 398:
@@ -4373,7 +4330,7 @@
     - Aggiunta di esoni
     - Combinazione di esoni diversi per produrre varianti di mRNA
     - Replicazione del gene
-  correct: 3
+  correct: 2
   curiosity: "Lo splicing alternativo consente la combinazione di esoni diversi per produrre varianti di mRNA e, quindi, diverse isoforme proteiche."
 
 399:
@@ -4384,7 +4341,7 @@
     - Sequenze che stabilizzano l'mRNA
     - Sequenze nel pre-mRNA che segnalano dove avviene lo splicing
     - Sequenze di DNA che non vengono trascritte
-  correct: 3
+  correct: 2
   curiosity: "I motivi di riconoscimento dello splicing sono sequenze nel pre-mRNA che segnano i punti di inizio e fine degli introni."
 
 400:
@@ -4395,7 +4352,7 @@
     - Non ha alcun effetto
     - Aumenta la diversità proteica consentendo la produzione di diverse isoforme
     - Riduce il numero di proteine prodotte
-  correct: 3
+  correct: 2
   curiosity: "Lo splicing alternativo aumenta la diversità proteica, permettendo la produzione di più isoforme proteiche da un singolo gene."
 
 401:
@@ -4406,7 +4363,7 @@
     - Non ha alcun effetto
     - Viene prodotta una proteina con diverse funzioni o caratteristiche
     - Si genera una mutazione nel DNA
-  correct: 3
+  correct: 2
   curiosity: "L'unione differente degli esoni durante lo splicing alternativo può produrre proteine con funzioni o caratteristiche diverse."
 
 402:
@@ -4417,7 +4374,7 @@
     - Ligasi
     - Proteine di legame all'RNA (RBPs)
     - DNA ligasi
-  correct: 3
+  correct: 2
   curiosity: "Le proteine di legame all'RNA (RBPs) sono fondamentali nel processo di splicing alternativo, regolando la selezione degli esoni."
 
 403:
@@ -4428,7 +4385,7 @@
     - Stabilizzano il DNA
     - Regolano quali esoni vengono inclusi o esclusi
     - Aggiungono una coda di poli-A
-  correct: 3
+  correct: 2
   curiosity: "Le sequenze di controllo nel pre-mRNA regolano l'inclusione o l'esclusione di esoni specifici durante lo splicing alternativo."
 
 404:
@@ -4439,7 +4396,7 @@
     - RNA ribosomiale (rRNA)
     - RNA nucleare piccolo (snRNA)
     - RNA di trasferimento (tRNA)
-  correct: 3
+  correct: 2
   curiosity: "Lo splicing alternativo coinvolge principalmente snRNA (small nuclear RNA), che aiuta a catalizzare il processo di splicing."
 
 405:
@@ -4450,7 +4407,7 @@
     - Migliorerà l'efficienza dello splicing
     - Potrebbe portare a errori nello splicing e alterare le proteine risultanti
     - Nessun cambiamento nella diversità proteica
-  correct: 3
+  correct: 2
   curiosity: "Una mutazione nelle sequenze di riconoscimento dello splicing può causare errori nello splicing, che portano a proteine alterate."
 
 406:
@@ -4461,7 +4418,7 @@
     - Non ha ruolo nel processo di sviluppo
     - Contribuisce a creare specificità cellulare producendo diverse proteine
     - Aumenta il numero di cellule
-  correct: 3
+  correct: 2
   curiosity: "Lo splicing alternativo contribuisce alla specializzazione delle cellule, permettendo la produzione di proteine specifiche per ciascun tipo cellulare."
 
 407:
@@ -4472,7 +4429,7 @@
     - Viene prodotta una proteina con parti mancanti
     - Non ci sono cambiamenti nella proteina
     - Viene eliminato l'intero gene
-  correct: 2
+  correct: 1
   curiosity: "Quando gli esoni vengono saltati durante lo splicing alternativo, l'mRNA risultante codifica per una proteina con parti mancanti."
 
 408:
@@ -4483,7 +4440,7 @@
     - Diminuzione della diversità proteica
     - Malattie genetiche e disfunzioni cellulari
     - Maggiore stabilità dell'mRNA
-  correct: 3
+  correct: 2
   curiosity: "I difetti nello splicing alternativo possono portare a malattie genetiche e disfunzioni cellulari, poiché le proteine prodotte sono alterate."
 
 409:
@@ -4494,7 +4451,7 @@
     - Solo sequenze genetiche
     - Fattori proteici e sequenze nel pre-mRNA
     - Fattori di crescita
-  correct: 3
+  correct: 2
   curiosity: "Lo splicing alternativo è regolato da una combinazione di fattori proteici e sequenze regolatorie nel pre-mRNA."
 
 410:
@@ -4505,7 +4462,7 @@
     - Proteine con identiche sequenze di aminoacidi
     - Diverse varianti di proteine derivanti dallo stesso gene
     - Proteine che non hanno alcuna funzione
-  correct: 3
+  correct: 2
   curiosity: "Le isoforme proteiche sono varianti di proteine prodotte dallo stesso gene attraverso lo splicing alternativo."
 
 411:
@@ -4516,7 +4473,7 @@
     - PCR e analisi dell'mRNA
     - Analisi proteomica
     - Citometria a flusso
-  correct: 2
+  correct: 1
   curiosity: "La PCR combinata con l'analisi dell'mRNA è utilizzata per studiare lo splicing alternativo e le isoforme proteiche risultanti."
 
 412:
@@ -4527,8 +4484,10 @@
     - Riproduzione sessuale
     - Combinazione di esoni diversi per creare varianti di mRNA e proteine
     - Infezioni virali
-  correct: 3
+  correct: 2
   curiosity: "Lo splicing alternativo aumenta la variabilità genica attraverso la combinazione di esoni diversi, creando diverse varianti di mRNA e proteine."
+
+#FINALFIX
 
 413:
   kind: mc
@@ -4681,7 +4640,7 @@
     - Regola l'inizio della traduzione e la stabilità dell'mRNA
     - Codifica per una proteina
     - Rimuove gli introni
-  correct: 2
+  correct: 1
   curiosity: "La sequenza 5' UTR (Untranslated Region) nell'mRNA gioca un ruolo nel controllo dell'inizio della traduzione e nella stabilità dell'mRNA."
 
 427:
@@ -4750,6 +4709,8 @@
   correct: 2
   curiosity: "Dopo la traduzione, l'mRNA viene degradato o riutilizzato in un altro ciclo di traduzione per sintetizzare altre proteine."
 
+#FINALFIX
+
 433:
   kind: mc
   text: "Cosa si intende per modifiche post-traduzionali?"
@@ -4778,7 +4739,7 @@
   options:
     - Proteasi
     - Ligasi
-    - Chinasia
+    - Chinasi
     - RNA polimerasi
   correct: 2
   curiosity: "Le chinasi sono enzimi che aggiungono gruppi fosfato a proteine specifiche, alterandone la loro attività."
@@ -4970,6 +4931,8 @@
   correct: 2
   curiosity: "Le modifiche post-traduzionali sono essenziali per la regolazione della funzione proteica e per l'adattamento della cellula ai cambiamenti ambientali."
 
+#FINALFIX
+
 453:
   kind: mc
   text: "Quale delle seguenti è una delle quattro principali strutture delle proteine?"
@@ -5143,7 +5106,7 @@
     - Interazioni tra catene laterali idrofobiche che si allontanano dall'acqua
     - Legami ionici tra cariche opposte
     - Legami idrogeno tra amminoacidi
-  correct: 2
+  correct: 1
   curiosity: "Le interazioni idrofobiche si verificano quando le catene laterali idrofobiche di aminoacidi si raggruppano per evitare il contatto con l'acqua."
 
 469:
@@ -5189,3 +5152,4423 @@
     - Rende le proteine più fragili
   correct: 2
   curiosity: "La struttura di una proteina è fondamentale per la sua funzione e per l'attività biologica che svolge all'interno della cellula."
+
+#FINALFIX
+
+  473:
+    kind: mc
+    text: "Quale delle seguenti è una funzione principale delle proteine?"
+    options:
+      - Sintesi del DNA
+      - Stoccaggio di energia
+      - Catalisi di reazioni chimiche come enzimi
+      - Trasporto di acqua
+    correct: 2
+    curiosity: "Molte proteine funzionano come enzimi, catalizzando reazioni chimiche fondamentali per il metabolismo."
+  
+  474:
+    kind: mc
+    text: "Quale tipo di proteina è responsabile della contrazione muscolare?"
+    options:
+      - Anticorpi
+      - Enzimi
+      - Proteine contrattili (es. actina e miosina)
+      - Proteine di trasporto
+    correct: 2
+    curiosity: "Le proteine contrattili, come l'actina e la miosina, sono essenziali per la contrazione muscolare."
+  
+  475:
+    kind: mc
+    text: "Cosa sono gli anticorpi?"
+    options:
+      - Proteine che catalizzano reazioni chimiche
+      - Proteine che forniscono struttura alle cellule
+      - Proteine del sistema immunitario che riconoscono e neutralizzano gli agenti patogeni
+      - Proteine di stoccaggio
+    correct: 2
+    curiosity: "Gli anticorpi sono proteine prodotte dal sistema immunitario per identificare e neutralizzare agenti patogeni come batteri e virus."
+  
+  476:
+    kind: mc
+    text: "Qual è la funzione principale delle proteine di trasporto?"
+    options:
+      - Catalizzare reazioni chimiche
+      - Fornire supporto strutturale
+      - Trasportare molecole, come ossigeno e nutrienti, attraverso le membrane cellulari
+      - Neutralizzare tossine
+    correct: 2
+    curiosity: "Le proteine di trasporto facilitano il passaggio di molecole specifiche, come ossigeno e nutrienti, attraverso le membrane cellulari."
+  
+  477:
+    kind: mc
+    text: "Qual è il ruolo delle proteine ormonali?"
+    options:
+      - Costituire il citoscheletro
+      - Fornire energia
+      - Regolare le funzioni fisiologiche attraverso segnali chimici
+      - Degradare altre proteine
+    correct: 2
+    curiosity: "Le proteine ormonali, come l'insulina, regolano processi fisiologici attraverso segnali chimici."
+  
+  478:
+    kind: mc
+    text: "Quale proteina è coinvolta nella coagulazione del sangue?"
+    options:
+      - Emoglobina
+      - Insulina
+      - Fibrinogeno
+      - Actina
+    correct: 2
+    curiosity: "Il fibrinogeno è una proteina cruciale per la coagulazione del sangue, formando una rete che blocca il sanguinamento."
+  
+  479:
+    kind: mc
+    text: "Qual è la funzione delle proteine strutturali?"
+    options:
+      - Catalizzare reazioni chimiche
+      - Trasportare molecole
+      - Fornire supporto e forma alle cellule e ai tessuti
+      - Regolare l'attività enzimatica
+    correct: 2
+    curiosity: "Le proteine strutturali come il collagene danno resistenza e forma ai tessuti e alle cellule."
+  
+  480:
+    kind: mc
+    text: "Cosa rappresenta l'attività enzimatica di una proteina?"
+    options:
+      - La sua capacità di legarsi all'ossigeno
+      - La sua stabilità nella cellula
+      - La sua capacità di accelerare le reazioni chimiche abbassando l'energia di attivazione
+      - La sua forma tridimensionale
+    correct: 2
+    curiosity: "L'attività enzimatica consente a una proteina di catalizzare reazioni chimiche, riducendo l'energia necessaria per avviarle."
+  
+  481:
+    kind: mc
+    text: "Qual è la funzione principale della mioglobina?"
+    options:
+      - Trasportare il glucosio
+      - Catalizzare reazioni chimiche
+      - Stoccare ossigeno nei muscoli
+      - Fornire supporto strutturale
+    correct: 2
+    curiosity: "La mioglobina si trova nei muscoli e immagazzina ossigeno, rilasciandolo quando è necessario durante l'attività fisica."
+  
+  482:
+    kind: mc
+    text: "Qual è il ruolo delle proteine recettoriali?"
+    options:
+      - Trasportare molecole attraverso le membrane
+      - Catalizzare reazioni chimiche
+      - Riconoscere e legarsi a specifiche molecole segnale per attivare risposte cellulari
+      - Degradare altre proteine
+    correct: 2
+    curiosity: "Le proteine recettoriali sulla membrana cellulare legano molecole segnale, innescando risposte cellulari specifiche."
+  
+  483:
+    kind: mc
+    text: "Qual è la funzione principale degli enzimi?"
+    options:
+      - Fornire struttura
+      - Trasportare nutrienti
+      - Accelerare le reazioni chimiche all'interno delle cellule
+      - Neutralizzare tossine
+    correct: 2
+    curiosity: "Gli enzimi sono proteine che accelerano le reazioni chimiche necessarie per la vita, come la digestione e il metabolismo."
+  
+  484:
+    kind: mc
+    text: "Quale proteina è coinvolta nel trasporto di ossigeno nel sangue?"
+    options:
+      - Fibrinogeno
+      - Insulina
+      - Emoglobina
+      - Collagene
+    correct: 2
+    curiosity: "L'emoglobina è una proteina che trasporta ossigeno dai polmoni ai tessuti e rimuove l'anidride carbonica."
+  
+  485:
+    kind: mc
+    text: "Qual è la funzione delle proteine di segnalazione?"
+    options:
+      - Fornire supporto strutturale
+      - Catalizzare reazioni chimiche
+      - Trasmettere segnali tra le cellule per coordinare le risposte fisiologiche
+      - Stoccare energia
+    correct: 2
+    curiosity: "Le proteine di segnalazione come gli ormoni trasmettono messaggi tra le cellule, coordinando le funzioni fisiologiche."
+  
+  486:
+    kind: mc
+    text: "Cosa fanno le proteine di stoccaggio?"
+    options:
+      - Catalizzano reazioni chimiche
+      - Forniscono supporto strutturale
+      - Conservano nutrienti o altre molecole per utilizzi futuri
+      - Degradano altre proteine
+    correct: 2
+    curiosity: "Le proteine di stoccaggio conservano nutrienti come il ferro e il calcio per utilizzi futuri dell'organismo."
+  
+  487:
+    kind: mc
+    text: "Qual è la funzione principale del collagene?"
+    options:
+      - Trasporto di ossigeno
+      - Catalisi di reazioni chimiche
+      - Fornire resistenza e struttura ai tessuti connettivi
+      - Stoccare energia
+    correct: 2
+    curiosity: "Il collagene è una proteina strutturale che fornisce resistenza e integrità ai tessuti connettivi come pelle, ossa e tendini."
+  
+  488:
+    kind: mc
+    text: "Qual è il ruolo delle proteine motorie?"
+    options:
+      - Stabilizzare il DNA
+      - Degradare le molecole
+      - Fornire movimento all'interno delle cellule e tra le cellule
+      - Trasportare ossigeno
+    correct: 2
+    curiosity: "Le proteine motorie, come la chinesina e la dineina, permettono il movimento all'interno della cellula e tra le cellule, trasportando molecole e organelli."
+  
+  489:
+    kind: mc
+    text: "Qual è la funzione delle proteine di difesa?"
+    options:
+      - Stabilizzare le membrane
+      - Trasportare nutrienti
+      - Proteggere l'organismo da agenti patogeni e tossine
+      - Fornire energia
+    correct: 2
+    curiosity: "Le proteine di difesa, come gli anticorpi, proteggono il corpo da agenti patogeni e tossine."
+  
+  490:
+    kind: mc
+    text: "Cosa significa che una proteina è 'specifica' per un substrato?"
+    options:
+      - Può legarsi a qualsiasi molecola
+      - È stabile a temperature elevate
+      - Può catalizzare solo reazioni specifiche con un particolare substrato
+      - Può degradare qualsiasi proteina
+    correct: 2
+    curiosity: "La specificità enzimatica indica che una proteina può catalizzare reazioni solo con substrati particolari, influenzando la selettività biochimica."
+  
+  491:
+    kind: mc
+    text: "Quale proteina è coinvolta nella risposta infiammatoria?"
+    options:
+      - Mioglobina
+      - Insulina
+      - Anticorpi
+      - Emoglobina
+    correct: 2
+    curiosity: "Gli anticorpi sono coinvolti nelle risposte immunitarie e infiammatorie, contribuendo alla protezione dell'organismo da infezioni."
+  
+  492:
+    kind: mc
+    text: "Qual è l'importanza delle proteine nella regolazione metabolica?"
+    options:
+      - Non hanno importanza
+      - Forniscono solo energia
+      - Regolano il metabolismo attraverso l'attività enzimatica e la segnalazione
+      - Stabilizzano il DNA
+    correct: 2
+    curiosity: "Le proteine regolano il metabolismo tramite enzimi e segnali chimici, contribuendo a mantenere l'omeostasi e a coordinare le funzioni cellulari."
+  
+  #FINALFIX
+
+  493:
+  kind: mc
+  text: "Cosa sono gli enzimi?"
+  options:
+    - Carboidrati
+    - Lipidi
+    - Proteine che catalizzano reazioni chimiche
+    - Acidi nucleici
+  correct: 2
+  curiosity: "Gli enzimi sono proteine specializzate che accelerano reazioni chimiche vitali per il funzionamento delle cellule."
+
+494:
+  kind: mc
+  text: "Qual è la funzione principale di un enzima?"
+  options:
+    - Conservare energia
+    - Stabilizzare il DNA
+    - Accelerare la velocità delle reazioni chimiche
+    - Trasportare molecole
+  correct: 2
+  curiosity: "Gli enzimi abbassano l'energia di attivazione necessaria, aumentando la velocità delle reazioni chimiche."
+
+495:
+  kind: mc
+  text: "Quale termine descrive il sito in cui un substrato si lega a un enzima?"
+  options:
+    - Sito attivo
+    - Sito di unione
+    - Sito di costruzione
+    - Sito di regolazione
+  correct: 0
+  curiosity: "Il sito attivo di un enzima è specifico per il substrato e facilita la reazione chimica."
+
+496:
+  kind: mc
+  text: "Cosa determina la specificità di un enzima?"
+  options:
+    - La sua temperatura
+    - La sua posizione nella cellula
+    - La sua struttura tridimensionale
+    - La sua quantità
+  correct: 2
+  curiosity: "La struttura tridimensionale di un enzima crea un sito attivo specifico per determinati substrati."
+
+497:
+  kind: mc
+  text: "Quale fattore può influenzare l'attività di un enzima?"
+  options:
+    - Solo la temperatura
+    - Solo il pH
+    - Sia la temperatura che il pH
+    - Nessuno dei precedenti
+  correct: 2
+  curiosity: "Temperatura e pH possono modificare la struttura dell'enzima, influenzandone l'attività."
+
+498:
+  kind: mc
+  text: "Cosa succede a un enzima a temperature molto elevate?"
+  options:
+    - Aumenta la sua attività
+    - Non subisce alcun cambiamento
+    - Denaturazione, perdendo la sua attività
+    - Diventa più efficiente
+  correct: 2
+  curiosity: "Temperature elevate possono causare la denaturazione di un enzima, alterando la sua struttura e funzione."
+
+499:
+  kind: mc
+  text: "Cosa rappresenta l'energia di attivazione in una reazione chimica?"
+  options:
+    - L'energia totale necessaria per la reazione
+    - L'energia necessaria per produrre enzimi
+    - L'energia necessaria per avviare una reazione chimica
+    - L'energia rilasciata durante una reazione
+  correct: 2
+  curiosity: "L'energia di attivazione è l'energia minima necessaria affinché una reazione chimica abbia inizio."
+
+500:
+  kind: mc
+  text: "Qual è il ruolo dei cofattori negli enzimi?"
+  options:
+    - Catalizzare reazioni da soli
+    - Stabilizzare le proteine
+    - Assistere gli enzimi nella catalisi di reazioni
+    - Degradare substrati
+  correct: 2
+  curiosity: "I cofattori sono molecole che aiutano gli enzimi nella catalisi di reazioni, rendendole più efficienti."
+
+501:
+  kind: mc
+  text: "Quali sono gli enzimi che catalizzano la sintesi di molecole?"
+  options:
+    - Lipasi
+    - Amilasi
+    - Sintetasi
+    - Proteasi
+  correct: 2
+  curiosity: "Le sintetasi sono enzimi che facilitano la costruzione di molecole complesse a partire da più semplici."
+
+502:
+  kind: mc
+  text: "Cosa fa una proteasi?"
+  options:
+    - Degrada gli acidi nucleici
+    - Degrada i carboidrati
+    - Degrada le proteine
+    - Degrada i lipidi
+  correct: 2
+  curiosity: "Le proteasi sono enzimi che scindono le proteine in aminoacidi, facilitando la digestione e il riciclo proteico."
+
+503:
+  kind: mc
+  text: "Quale termine descrive l'inibizione di un enzima da parte di una molecola che si lega al sito attivo?"
+  options:
+    - Inibizione competitiva
+    - Inibizione non competitiva
+    - Inibizione reversibile
+    - Inibizione allosterica
+  correct: 2
+  curiosity: "Nell'inibizione competitiva, una molecola si lega al sito attivo dell'enzima, bloccando l'accesso del substrato."
+
+504:
+  kind: mc
+  text: "Cosa fa un inibitore allosterico?"
+  options:
+    - Si lega al sito attivo
+    - Aumenta l'attività enzimatica
+    - Si lega a un sito diverso dal sito attivo, modificando la forma dell'enzima
+    - Rimuove il substrato
+  correct: 2
+  curiosity: "Gli inibitori allosterici si legano a un sito alternativo, alterando la struttura dell'enzima e influenzandone l'attività."
+
+505:
+  kind: mc
+  text: "Cosa sono le isoenzimi?"
+  options:
+    - Enzimi identici con funzioni diverse
+    - Enzimi che degradano le stesse sostanze
+    - Varianti di un enzima che catalizzano la stessa reazione ma con diverse caratteristiche
+    - Enzimi che non hanno alcuna funzione
+  correct: 2
+  curiosity: "Le isoenzimi sono varianti di un enzima che eseguono la stessa reazione, ma con proprietà diverse, adattate a specifiche condizioni."
+
+506:
+  kind: mc
+  text: "Quale di queste affermazioni è vera riguardo agli enzimi?"
+  options:
+    - Gli enzimi sono consumati durante la reazione
+    - Gli enzimi possono catalizzare reazioni in entrambe le direzioni
+    - Gli enzimi funzionano solo in ambienti acidi
+    - Gli enzimi sono sempre attivi
+  correct: 1
+  curiosity: "Molti enzimi possono catalizzare reazioni in entrambe le direzioni, facilitando l'equilibrio chimico."
+
+507:
+  kind: mc
+  text: "Qual è il ruolo della catalasi?"
+  options:
+    - Degradare i lipidi
+    - Degradare i carboidrati
+    - Decomporre il perossido di idrogeno in acqua e ossigeno
+    - Sintetizzare glucosio
+  correct: 2
+  curiosity: "La catalasi è un enzima che scompone il perossido di idrogeno, proteggendo le cellule dai danni ossidativi."
+
+508:
+  kind: mc
+  text: "Qual è l'importanza del pH nell'attività enzimatica?"
+  options:
+    - Non ha alcuna importanza
+    - Stabilizza il substrato
+    - Influenza la carica delle molecole e quindi l'attività enzimatica
+    - Cambia solo la temperatura
+  correct: 2
+  curiosity: "Il pH influisce sull'attività enzimatica alterando la carica delle molecole, essenziale per il legame enzima-substrato."
+
+509:
+  kind: mc
+  text: "Cosa succede a un enzima quando viene denaturato?"
+  options:
+    - Aumenta la sua attività
+    - Rimane inalterato
+    - Perde la sua struttura e la sua funzione
+    - Si attiva per altre reazioni
+  correct: 2
+  curiosity: "La denaturazione altera la struttura tridimensionale dell'enzima, rendendolo inefficace per la catalisi."
+
+510:
+  kind: mc
+  text: "Cosa sono gli inibitori competitivi?"
+  options:
+    - Molecole che aumentano l'attività enzimatica
+    - Molecole che non si legano al sito attivo
+    - Molecole che competono con il substrato per il sito attivo
+    - Molecole che si legano solo a siti allosterici
+  correct: 2
+  curiosity: "Gli inibitori competitivi bloccano temporaneamente il sito attivo dell'enzima, impedendo al substrato di legarsi."
+
+511:
+  kind: mc
+  text: "Qual è la funzione della lipasi?"
+  options:
+    - Catalizzare reazioni del glucosio
+    - Degradare gli acidi nucleici
+    - Degradare i lipidi
+    - Sintetizzare proteine
+  correct: 2
+  curiosity: "Le lipasi sono enzimi che scindono i lipidi, facilitando la digestione dei grassi nel sistema digestivo."
+
+512:
+  kind: mc
+  text: "Cosa si intende per 'attivazione enzimatica'?"
+  options:
+    - La degradazione dell'enzima
+    - La formazione di nuovi enzimi
+    - L'attivazione di un enzima per catalizzare una reazione dopo il legame con il substrato
+    - La produzione di enzimi in eccesso
+  correct: 2
+  curiosity: "L'attivazione enzimatica si verifica quando un enzima è pronto a catalizzare una reazione dopo aver interagito con il suo substrato o altri attivatori."
+
+#FINALFIX
+
+513:
+  kind: mc
+  text: "Dove si trovano principalmente le proteine nel citoplasma di una cellula?"
+  options:
+    - Solo nei mitocondri
+    - Solo nel nucleo
+    - In tutte le parti del citoplasma, inclusi i ribosomi
+    - Solo nella membrana plasmatica
+  correct: 2
+  curiosity: "Le proteine si trovano in diverse aree del citoplasma, inclusi i ribosomi dove avviene la sintesi proteica."
+
+514:
+  kind: mc
+  text: "Quale delle seguenti strutture cellulari è responsabile della sintesi proteica?"
+  options:
+    - Lisosoma
+    - Mitocondrio
+    - Ribosoma
+    - Reticolo endoplasmatico
+  correct: 2
+  curiosity: "I ribosomi sono organelli che traducono l'informazione genetica per produrre proteine."
+
+515:
+  kind: mc
+  text: "Qual è la funzione del reticolo endoplasmatico rugoso (RER) nella cellula?"
+  options:
+    - Sintetizzare lipidi
+    - Sintetizzare e modificare le proteine destinate alla secrezione
+    - Degradare i rifiuti cellulari
+    - Fornire energia
+  correct: 1
+  curiosity: "Il reticolo endoplasmatico rugoso è rivestito di ribosomi e svolge un ruolo chiave nella sintesi delle proteine destinate alla secrezione."
+
+516:
+  kind: mc
+  text: "Qual è il ruolo del reticolo endoplasmatico liscio (REL)?"
+  options:
+    - Sintesi delle proteine
+    - Degradazione delle proteine
+    - Sintesi dei lipidi e detossificazione
+    - Produzione di ATP
+  correct: 2
+  curiosity: "Il reticolo endoplasmatico liscio è coinvolto nella sintesi di lipidi e nella detossificazione delle cellule."
+
+517:
+  kind: mc
+  text: "Dove vengono smistate le proteine dopo essere state modificate nel reticolo endoplasmatico?"
+  options:
+    - Nella membrana plasmatica
+    - Nei lisosomi
+    - Nel Golgi apparato
+    - Nei mitocondri
+  correct: 2
+  curiosity: "Dopo essere modificate, le proteine vengono trasportate all'apparato di Golgi per ulteriori modifiche e smistamento."
+
+518:
+  kind: mc
+  text: "Qual è la funzione del Golgi apparato?"
+  options:
+    - Sintetizzare RNA
+    - Degradare le sostanze
+    - Modificare, impacchettare e distribuire le proteine
+    - Produrre ATP
+  correct: 2
+  curiosity: "L'apparato di Golgi modifica, impacchetta e indirizza le proteine verso le loro destinazioni finali."
+
+519:
+  kind: mc
+  text: "Cosa determina il destino finale di una proteina nella cellula?"
+  options:
+    - Solo la sua sequenza di amminoacidi
+    - Le sequenze segnale presenti sulla proteina
+    - La sua attività enzimatica
+    - La sua posizione iniziale
+  correct: 1
+  curiosity: "Le sequenze segnale sulle proteine indicano la loro destinazione e funzione all'interno della cellula."
+
+520:
+  kind: mc
+  text: "Quale organello è responsabile della produzione di energia attraverso la respirazione cellulare?"
+  options:
+    - Golgi apparato
+    - Reticolo endoplasmatico
+    - Mitocondrio
+    - Lisosoma
+  correct: 2
+  curiosity: "I mitocondri sono noti come le centrali energetiche della cellula, producendo ATP attraverso la respirazione cellulare."
+
+521:
+  kind: mc
+  text: "Dove si trovano le proteine di membrana?"
+  options:
+    - Solo nel citoplasma
+    - Solo nel nucleo
+    - Sulla membrana plasmatica e in organelli come i mitocondri e i lisosomi
+    - Solo nel Golgi apparato
+  correct: 2
+  curiosity: "Le proteine di membrana si trovano sulla membrana plasmatica e su quelle degli organelli, regolando il trasporto e la comunicazione."
+
+522:
+  kind: mc
+  text: "Qual è il ruolo delle proteine nella membrana plasmatica?"
+  options:
+    - Fornire energia
+    - Catalizzare reazioni chimiche
+    - Regolare il trasporto di sostanze dentro e fuori dalla cellula
+    - Conservare il DNA
+  correct: 2
+  curiosity: "Le proteine di membrana controllano il passaggio di molecole, mantenendo l'equilibrio tra l'interno e l'esterno della cellula."
+
+523:
+  kind: mc
+  text: "Cosa sono le proteine di ancoraggio?"
+  options:
+    - Proteine che si legano solo al DNA
+    - Proteine che collegano il citoscheletro alla membrana plasmatica
+    - Proteine che catalizzano reazioni
+    - Proteine che sintetizzano altri proteine
+  correct: 1
+  curiosity: "Le proteine di ancoraggio stabilizzano la cellula collegando il citoscheletro alla membrana, fornendo struttura e supporto."
+
+524:
+  kind: mc
+  text: "Quale tipo di proteina è coinvolto nel riconoscimento cellulare?"
+  options:
+    - Enzimi
+    - Proteine strutturali
+    - Proteine di superficie o recettoriali
+    - Proteine di trasporto
+  correct: 2
+  curiosity: "Le proteine di superficie o recettori sono essenziali per il riconoscimento cellulare, come nella risposta immunitaria."
+
+525:
+  kind: mc
+  text: "Qual è la funzione delle proteine chaperoni?"
+  options:
+    - Degradare proteine danneggiate
+    - Sintetizzare RNA
+    - Aiutare le altre proteine a piegarsi correttamente
+    - Catalizzare reazioni chimiche
+  correct: 2
+  curiosity: "Le proteine chaperoni assistono le altre proteine nel raggiungere la conformazione corretta, fondamentale per la loro funzione."
+
+526:
+  kind: mc
+  text: "Quali sono le proteine che si trovano nel citoscheletro?"
+  options:
+    - Solo le proteine di trasporto
+    - Solo le proteine di membrana
+    - Proteine filamentose come actina e tubulina
+    - Solo le proteine enzimatica
+  correct: 2
+  curiosity: "Il citoscheletro è composto da proteine come actina e tubulina, che forniscono struttura e supporto alle cellule."
+
+527:
+  kind: mc
+  text: "Dove vengono degradate le proteine danneggiate o inutilizzate?"
+  options:
+    - Nel Golgi apparato
+    - Nel reticolo endoplasmatico
+    - Nei lisosomi o nei proteasomi
+    - Nei mitocondri
+  correct: 2
+  curiosity: "Le proteine danneggiate vengono smaltite nei lisosomi o nei proteasomi per mantenere la salute cellulare."
+
+528:
+  kind: mc
+  text: "Qual è il destino delle proteine destinate a rimanere nel citoplasma?"
+  options:
+    - Vengono sempre esportate
+    - Vengono sempre degradate
+    - Rimangono nel citoplasma per svolgere le loro funzioni
+    - Vengono trasportate nel nucleo
+  correct: 2
+  curiosity: "Le proteine destinate al citoplasma vi rimangono per svolgere ruoli specifici come la catalisi e il supporto strutturale."
+
+529:
+  kind: mc
+  text: "Qual è il ruolo delle proteine di trasporto nelle cellule?"
+  options:
+    - Sintetizzare energia
+    - Degradare substrati
+    - Trasportare molecole attraverso le membrane cellulari
+    - Stabilizzare la membrana plasmatica
+  correct: 2
+  curiosity: "Le proteine di trasporto regolano il movimento di molecole e ioni attraverso le membrane cellulari."
+
+530:
+  kind: mc
+  text: "Cosa sono le proteine secretorie?"
+  options:
+    - Proteine che rimangono nel nucleo
+    - Proteine che non hanno funzione
+    - Proteine destinate a essere esportate dalla cellula
+    - Proteine che degradano altre proteine
+  correct: 2
+  curiosity: "Le proteine secretorie sono destinate all'esportazione e sono spesso coinvolte nella comunicazione e nel trasporto tra cellule."
+
+531:
+  kind: mc
+  text: "Quale tipo di proteina è coinvolta nella risposta immunitaria?"
+  options:
+    - Proteine di trasporto
+    - Enzimi
+    - Anticorpi
+    - Proteine di sintesi
+  correct: 2
+  curiosity: "Gli anticorpi sono proteine del sistema immunitario che identificano e neutralizzano i patogeni."
+
+532:
+  kind: mc
+  text: "Cosa determina il segnale di localizzazione di una proteina?"
+  options:
+    - Solo la sua struttura primaria
+    - Solo il suo pH
+    - Sequenze specifiche di amminoacidi che indicano dove deve andare nella cellula
+    - Solo la sua carica
+  correct: 2
+  curiosity: "Il segnale di localizzazione di una proteina è determinato da sequenze specifiche di amminoacidi che dirigono la proteina verso la sua destinazione."
+
+#FINALFIX
+
+533:
+  kind: mc
+  text: "Cosa rappresenta l'ATP?"
+  options:
+    - Adenosina trifosfato
+    - Adenosina difosfato
+    - Adenosina trifosfato, la principale molecola di energia della cellula
+    - Adenosina monofosfato
+  correct: 2
+  curiosity: "L'ATP (adenosina trifosfato) è la principale molecola energetica della cellula, fondamentale per alimentare diverse reazioni cellulari."
+
+534:
+  kind: mc
+  text: "Qual è la funzione principale dell'ATP nelle cellule?"
+  options:
+    - Trasportare ossigeno
+    - Sintetizzare proteine
+    - Fornire energia per le reazioni cellulari
+    - Conservare il DNA
+  correct: 2
+  curiosity: "L'ATP è essenziale per alimentare le reazioni cellulari, fornendo energia per processi vitali come la sintesi di biomolecole e il movimento."
+
+535:
+  kind: mc
+  text: "Quale processo produce ATP?"
+  options:
+    - Fotosintesi
+    - Respirazione cellulare
+    - Sia fotosintesi che respirazione cellulare
+    - Solo fermentazione
+  correct: 2
+  curiosity: "Sia la respirazione cellulare che la fotosintesi producono ATP, ma in modo diverso; la respirazione ossidativa avviene nei mitocondri, mentre la fotosintesi avviene nei cloroplasti delle piante."
+
+536:
+  kind: mc
+  text: "Dove viene principalmente sintetizzato l'ATP nelle cellule eucariote?"
+  options:
+    - Nucleo
+    - Citoplasma
+    - Mitocondri
+    - Reticolo endoplasmatico
+  correct: 2
+  curiosity: "Nei mitocondri, noti come le centrali energetiche della cellula, avviene la sintesi principale di ATP attraverso la respirazione cellulare."
+
+537:
+  kind: mc
+  text: "Cosa avviene durante l'idrolisi dell'ATP?"
+  options:
+    - Viene sintetizzato più ATP
+    - Viene convertito in glucosio
+    - Viene rilasciata energia e si forma ADP e un fosfato inorganico
+    - Viene rimosso un amminoacido
+  correct: 2
+  curiosity: "L'idrolisi dell'ATP rilascia energia trasformandosi in ADP (adenosina difosfato) e un fosfato libero, processo essenziale per molte reazioni cellulari."
+
+538:
+  kind: mc
+  text: "Quale delle seguenti affermazioni è vera riguardo all'ATP?"
+  options:
+    - È una molecola stabile a lungo termine
+    - Può essere utilizzata direttamente dalle cellule senza modifiche
+    - È una molecola instabile che fornisce energia rapidamente
+    - È presente solo nei mitocondri
+  correct: 2
+  curiosity: "L'ATP è una molecola instabile progettata per rilasciare rapidamente energia, ideale per sostenere le esigenze energetiche immediate della cellula."
+
+539:
+  kind: mc
+  text: "Qual è la relazione tra ATP e ADP?"
+  options:
+    - L'ADP è più energetico dell'ATP
+    - L'ADP non ha alcuna relazione con l'ATP
+    - L'ADP è il prodotto della degradazione dell'ATP e può essere riciclato per formare ATP
+    - L'ADP viene sempre degradato senza formare ATP
+  correct: 2
+  curiosity: "Quando l'ATP rilascia energia, si converte in ADP. L'ADP può essere ricaricato per formare di nuovo ATP, in un ciclo continuo di produzione di energia."
+
+540:
+  kind: mc
+  text: "Quale processo avviene nella catena di trasporto degli elettroni?"
+  options:
+    - Sintesi di RNA
+    - Sintesi di glucosio
+    - Produzione di ATP attraverso l'ossidazione del NADH e FADH2
+    - Fermentazione alcolica
+  correct: 2
+  curiosity: "Nella catena di trasporto degli elettroni, l'ossidazione di NADH e FADH2 genera ATP tramite un gradiente di protoni nei mitocondri."
+
+541:
+  kind: mc
+  text: "Qual è il ruolo del ciclo di Krebs nella produzione di ATP?"
+  options:
+    - Degradare il glucosio
+    - Produrre NADH e FADH2 che alimentano la produzione di ATP nella catena di trasporto degli elettroni
+    - Sintetizzare proteine
+    - Produrre ATP direttamente
+  correct: 1
+  curiosity: "Il ciclo di Krebs produce NADH e FADH2, molecole che alimentano la catena di trasporto degli elettroni per generare ATP in modo efficiente."
+
+542:
+  kind: mc
+  text: "Qual è la formula chimica dell'ATP?"
+  options:
+    - C10H12N5O7P3
+    - C6H10N5O13P3
+    - C10H16N5O13P3
+    - C9H13N5O12P3
+  correct: 2
+  curiosity: "L'ATP ha la formula chimica C10H16N5O13P3 e contiene tre gruppi fosfato che rilasciano energia quando uno di essi viene rimosso."
+
+543:
+  kind: mc
+  text: "Quale enzima è coinvolto nella sintesi dell'ATP?"
+  options:
+    - Amilasi
+    - ATP sintasi
+    - Lipasi
+    - Proteasi
+  correct: 1
+  curiosity: "L'enzima ATP sintasi, situato nella membrana mitocondriale, sintetizza ATP sfruttando il gradiente di protoni durante la respirazione cellulare."
+
+544:
+  kind: mc
+  text: "In quale fase della respirazione cellulare viene prodotto ATP?"
+  options:
+    - Solo nella glicolisi
+    - Nella glicolisi, nel ciclo di Krebs e nella catena di trasporto degli elettroni
+    - Solo nel ciclo di Krebs
+    - Solo nella fermentazione
+  correct: 1
+  curiosity: "L'ATP viene prodotto in più fasi della respirazione cellulare, inclusa la glicolisi, il ciclo di Krebs e la catena di trasporto degli elettroni."
+
+545:
+  kind: mc
+  text: "Qual è il principale substrato utilizzato per la produzione di ATP?"
+  options:
+    - Lipidi
+    - Aminoacidi
+    - Glucosio
+    - Acidi nucleici
+  correct: 2
+  curiosity: "Il glucosio è il principale substrato per la produzione di ATP, poiché viene rapidamente metabolizzato per generare energia attraverso la glicolisi e la respirazione."
+
+546:
+  kind: mc
+  text: "Cosa succede quando la cellula ha un eccesso di ATP?"
+  options:
+    - Viene utilizzato immediatamente
+    - Viene degradato in modo inefficiente
+    - Può essere convertito in glicogeno o grasso per stoccaggio
+    - Viene esportato all'esterno della cellula
+  correct: 2
+  curiosity: "Quando vi è un eccesso di ATP, può essere convertito in glicogeno o grasso per l'accumulo di energia a lungo termine."
+
+547:
+  kind: mc
+  text: "Qual è la differenza tra ATP e ADP in termini di fosfati?"
+  options:
+    - L'ATP ha due fosfati, l'ADP uno
+    - L'ATP ha un fosfato, l'ADP tre
+    - L'ATP ha tre fosfati, l'ADP due
+    - Non c'è differenza tra ATP e ADP
+  correct: 2
+  curiosity: "La differenza tra ATP e ADP è il numero di gruppi fosfato: l'ATP ha tre gruppi fosfato, mentre l'ADP ne ha due."
+
+548:
+  kind: mc
+  text: "Quale tipo di energia viene rilasciata dall'idrolisi dell'ATP?"
+  options:
+    - Energia termica
+    - Energia elettrica
+    - Energia chimica
+    - Energia meccanica
+  correct: 2
+  curiosity: "L'idrolisi dell'ATP rilascia energia chimica, utilizzata per alimentare varie reazioni e processi cellulari."
+
+549:
+  kind: mc
+  text: "Come viene chiamato il processo di produzione di ATP nella fotosintesi?"
+  options:
+    - Ciclo di Krebs
+    - Ossidazione
+    - Fase luminosa della fotosintesi
+    - Fermentazione
+  correct: 2
+  curiosity: "Durante la fase luminosa della fotosintesi, l'energia solare viene utilizzata per produrre ATP, necessario per la successiva fase oscura."
+
+550:
+  kind: mc
+  text: "Quale molecola è un prodotto secondario della reazione di idrolisi dell'ATP?"
+  options:
+    - Glucosio
+    - Ossigeno
+    - Fosfato inorganico
+    - Acido piruvico
+  correct: 2
+  curiosity: "La reazione di idrolisi dell'ATP produce fosfato inorganico come prodotto secondario, rilasciando energia utile per le attività cellulari."
+
+551:
+  kind: mc
+  text: "Qual è il principale scopo dell'ATP nei muscoli?"
+  options:
+    - Fornire nutrienti
+    - Stabilizzare il DNA
+    - Fornire energia per la contrazione muscolare
+    - Catalizzare reazioni chimiche
+  correct: 2
+  curiosity: "L'ATP è essenziale per la contrazione muscolare, poiché fornisce l'energia necessaria per l'attivazione delle proteine contrattili."
+
+552:
+  kind: mc
+  text: "Qual è l'importanza dell'ATP per il metabolismo cellulare?"
+  options:
+    - Non ha alcuna importanza
+    - È l'unica fonte di energia per la cellula
+    - È la principale molecola energetica che alimenta tutte le reazioni biochimiche
+    - È un prodotto finale del metabolismo
+  correct: 2
+  curiosity: "L'ATP è centrale per il metabolismo cellulare, fornendo l'energia per tutte le reazioni biochimiche necessarie alla sopravvivenza della cellula."
+
+#FINALFIX
+
+553:
+  kind: mc
+  text: "Cosa rappresenta NADH?"
+  options:
+    - Nicotinamide adenina difosfato
+    - Nicotinamide adenina trifosfato
+    - Nicotinamide adenina dinucleotide ridotto
+    - Nicotinamide dinucleotide
+  correct: 2
+  curiosity: "Il NADH è la forma ridotta del nicotinamide adenina dinucleotide, fondamentale per il trasporto di elettroni nelle reazioni cellulari."
+
+554:
+  kind: mc
+  text: "Qual è la funzione principale del NAD+ nelle cellule?"
+  options:
+    - Fornire energia
+    - Degradare proteine
+    - Agire come coenzima e trasportatore di elettroni nelle reazioni redox
+    - Sintetizzare lipidi
+  correct: 2
+  curiosity: "Il NAD+ funge da coenzima trasportatore di elettroni nelle reazioni redox, facilitando la produzione di energia."
+
+555:
+  kind: mc
+  text: "Quale molecola viene prodotta durante la glicolisi oltre al NADH?"
+  options:
+    - ATP
+    - Piruvato
+    - Entrambe le precedenti
+    - Solo NAD+
+  correct: 2
+  curiosity: "Durante la glicolisi, oltre al NADH, vengono prodotte molecole di ATP e piruvato, che entrano nei successivi processi metabolici."
+
+556:
+  kind: mc
+  text: "Cosa accade al NADH durante la respirazione cellulare?"
+  options:
+    - Viene degradato in modo permanente
+    - Non ha alcun ruolo
+    - Viene ossidato a NAD+ nel ciclo di Krebs e nella catena di trasporto degli elettroni
+    - Viene convertito in ATP
+  correct: 2
+  curiosity: "Durante la respirazione, il NADH si ossida a NAD+, rilasciando elettroni che aiutano nella produzione di ATP."
+
+557:
+  kind: mc
+  text: "In quale processo si genera NADH?"
+  options:
+    - Solo nella fotosintesi
+    - Solo nella fermentazione
+    - In processi come la glicolisi, il ciclo di Krebs e la fermentazione
+    - Solo nella respirazione aerobica
+  correct: 2
+  curiosity: "Il NADH viene prodotto in diversi processi metabolici, inclusi glicolisi, ciclo di Krebs e fermentazione, come parte della produzione energetica della cellula."
+
+558:
+  kind: mc
+  text: "Qual è il principale scopo del NADH nella cellula?"
+  options:
+    - Funzionare come substrato
+    - Stabilizzare il DNA
+    - Trasportare elettroni per produrre ATP
+    - Catalizzare reazioni chimiche
+  correct: 2
+  curiosity: "Il NADH trasporta elettroni alla catena di trasporto degli elettroni, dove contribuisce alla produzione di ATP, la principale fonte di energia della cellula."
+
+559:
+  kind: mc
+  text: "Cosa succede al NAD+ durante la riduzione?"
+  options:
+    - Viene convertito in ATP
+    - Si trasforma in un substrato
+    - Si riduce a NADH
+    - Viene degradato
+  correct: 2
+  curiosity: "Durante la riduzione, il NAD+ accetta elettroni e si converte in NADH, pronto per trasportare elettroni nelle reazioni successive."
+
+560:
+  kind: mc
+  text: "Quale coenzima è coinvolto nella sintesi degli acidi grassi?"
+  options:
+    - Coenzima A
+    - NADH
+    - NADPH
+    - FADH2
+  correct: 2
+  curiosity: "Il NADPH è fondamentale nella sintesi degli acidi grassi, fornendo potere riducente per costruire molecole complesse."
+
+561:
+  kind: mc
+  text: "Quale di queste affermazioni è vera riguardo al NADH e al NAD+?"
+  options:
+    - Sono identici
+    - NADH è più stabile di NAD+
+    - NADH è la forma ridotta, mentre NAD+ è la forma ossidata
+    - NAD+ è più energetico di NADH
+  correct: 2
+  curiosity: "Il NADH è la forma ridotta e immagazzina energia sotto forma di elettroni, mentre il NAD+ è la forma ossidata, pronta per accettare nuovi elettroni."
+
+562:
+  kind: mc
+  text: "Qual è il ruolo del NAD+ nel ciclo di Krebs?"
+  options:
+    - Produrre ATP direttamente
+    - Catalizzare reazioni
+    - Accettare elettroni e diventare NADH durante le reazioni redox
+    - Degradare proteine
+  correct: 2
+  curiosity: "Nel ciclo di Krebs, il NAD+ accetta elettroni e si converte in NADH, che poi trasporta elettroni alla catena di trasporto per generare ATP."
+
+563:
+  kind: mc
+  text: "Cosa indica la sigla NAD+?"
+  options:
+    - Nicotinamide adenina trifosfato
+    - Nicotinamide dinucleotide
+    - Nicotinamide adenina dinucleotide ossidato
+    - Nicotinamide adenina difosfato
+  correct: 2
+  curiosity: "La sigla NAD+ sta per nicotinamide adenina dinucleotide nella sua forma ossidata, pronto a ricevere elettroni nei processi cellulari."
+
+564:
+  kind: mc
+  text: "Quale processo di fermentazione produce NAD+ da NADH?"
+  options:
+    - Fermentazione alcolica
+    - Fermentazione lattica
+    - Entrambi i precedenti
+    - Solo fermentazione alcolica
+  correct: 2
+  curiosity: "Sia la fermentazione alcolica che quella lattica rigenerano NAD+ da NADH, permettendo alla glicolisi di continuare in condizioni anaerobiche."
+
+565:
+  kind: mc
+  text: "Qual è la differenza principale tra NADH e FADH2?"
+  options:
+    - NADH è una molecola di carboidrato, FADH2 no
+    - FADH2 non ha alcun ruolo nella respirazione cellulare
+    - NADH trasporta più energia per molecola rispetto a FADH2
+    - NADH è prodotto solo nella fermentazione
+  correct: 2
+  curiosity: "NADH trasporta più energia per molecola rispetto a FADH2 e contribuisce a generare più ATP nella catena di trasporto degli elettroni."
+
+566:
+  kind: mc
+  text: "In quale parte della cellula avviene principalmente l'ossidazione di NADH?"
+  options:
+    - Nucleo
+    - Citoplasma
+    - Mitocondri
+    - Reticolo endoplasmatico
+  correct: 2
+  curiosity: "Nei mitocondri, il NADH viene ossidato nella catena di trasporto degli elettroni, producendo ATP come fonte energetica per la cellula."
+
+567:
+  kind: mc
+  text: "Cosa succede a NADH nella catena di trasporto degli elettroni?"
+  options:
+    - Viene degradato
+    - Non ha alcun ruolo
+    - Viene ossidato, rilasciando elettroni che vengono utilizzati per produrre ATP
+    - Viene convertito in glucosio
+  correct: 2
+  curiosity: "Nella catena di trasporto degli elettroni, il NADH si ossida e rilascia elettroni che generano ATP, fornendo energia essenziale per la cellula."
+
+568:
+  kind: mc
+  text: "Qual è il risultato finale della riduzione di NAD+?"
+  options:
+    - Si produce ATP
+    - Si sintetizzano lipidi
+    - Si forma NADH
+    - Si degradano proteine
+  correct: 2
+  curiosity: "Il NAD+ si riduce a NADH, che serve come trasportatore di elettroni in vari processi metabolici."
+
+569:
+  kind: mc
+  text: "Cosa sono i coenzimi?"
+  options:
+    - Proteine che catalizzano reazioni
+    - Molecole di DNA
+    - Molecole organiche che assistono gli enzimi nelle loro funzioni
+    - Solo vitamine
+  correct: 2
+  curiosity: "I coenzimi sono molecole organiche che assistono gli enzimi, spesso trasportando gruppi chimici o elettroni nelle reazioni biochimiche."
+
+570:
+  kind: mc
+  text: "Quale coenzima è importante per la sintesi del colesterolo?"
+  options:
+    - NAD+
+    - FADH2
+    - Coenzima A
+    - NADH
+  correct: 2
+  curiosity: "Il coenzima A (CoA) è cruciale per la sintesi del colesterolo, fornendo i gruppi acetilici necessari nella biosintesi lipidica."
+
+571:
+  kind: mc
+  text: "Qual è la funzione del NADPH?"
+  options:
+    - Fornire energia
+    - Ridurre i substrati durante la biosintesi
+    - Agire come agente riducente nelle reazioni di biosintesi e nei processi di difesa antiossidante
+    - Stabilizzare il DNA
+  correct: 2
+  curiosity: "Il NADPH è fondamentale come agente riducente nella biosintesi e nella difesa antiossidante, aiutando a mantenere l'equilibrio redox nelle cellule."
+
+572:
+  kind: mc
+  text: "Qual è il ruolo del coenzima A (CoA) nel metabolismo?"
+  options:
+    - Produrre ATP
+    - Trasportare elettroni
+    - Trasportare gruppi acetilici e partecipare alla sintesi di molecole come acidi grassi e colesterolo
+    - Degradare proteine
+  correct: 2
+  curiosity: "Il CoA trasporta gruppi acetilici, essenziali per il metabolismo energetico e la sintesi di molecole complesse come gli acidi grassi."
+
+#FINALFIX
+
+573:
+  kind: mc
+  text: "Qual è l'obiettivo principale della glicolisi?"
+  options:
+    - Produrre acidi grassi
+    - Ridurre il NAD+
+    - Degradare il glucosio per produrre energia
+    - Sintetizzare proteine
+  correct: 2
+  curiosity: "La glicolisi è il processo di degradazione del glucosio per produrre energia sotto forma di ATP e NADH."
+
+574:
+  kind: mc
+  text: "Dove avviene la glicolisi nelle cellule?"
+  options:
+    - Nucleo
+    - Mitocondri
+    - Citoplasma
+    - Reticolo endoplasmatico
+  correct: 2
+  curiosity: "La glicolisi avviene nel citoplasma della cellula, dove il glucosio viene scisso in piruvato."
+
+575:
+  kind: mc
+  text: "Quale molecola è il principale prodotto finale della glicolisi?"
+  options:
+    - NADH
+    - FADH2
+    - Piruvato
+    - ATP
+  correct: 2
+  curiosity: "Il principale prodotto finale della glicolisi è il piruvato, che può entrare nel ciclo di Krebs per ulteriori processi di produzione di energia."
+
+576:
+  kind: mc
+  text: "Quante molecole di ATP vengono prodotte nella glicolisi?"
+  options:
+    - 2
+    - 4
+    - 2 netti (4 totali, 2 consumati)
+    - 0
+  correct: 2
+  curiosity: "Nella glicolisi vengono prodotte 4 molecole di ATP, ma poiché se ne consumano 2, il guadagno netto è di 2 ATP."
+
+577:
+  kind: mc
+  text: "Quale coenzima è ridotto durante la glicolisi?"
+  options:
+    - FAD
+    - Coenzima A
+    - NAD+
+    - ATP
+  correct: 2
+  curiosity: "Durante la glicolisi, il NAD+ viene ridotto a NADH, che poi trasporta elettroni alla catena di trasporto degli elettroni."
+
+578:
+  kind: mc
+  text: "Quale reazione è catalizzata dall'enzima esochinasi nella glicolisi?"
+  options:
+    - Conversione del piruvato in acetil-CoA
+    - Idrolisi dell'ATP
+    - Fosforilazione del glucosio a glucosio-6-fosfato
+    - Conversione dell'ADP in ATP
+  correct: 2
+  curiosity: "L'enzima esochinasi catalizza la fosforilazione del glucosio, trasformandolo in glucosio-6-fosfato, il primo passo della glicolisi."
+
+579:
+  kind: mc
+  text: "Qual è la funzione del fruttosio-1,6-bisfosfato nella glicolisi?"
+  options:
+    - È un prodotto finale
+    - Stabilizza l'enzima
+    - È un intermediario che regola la glicolisi
+    - Non ha alcuna funzione
+  correct: 2
+  curiosity: "Il fruttosio-1,6-bisfosfato è un intermediario chiave che regola la velocità della glicolisi, influenzando l'attività degli enzimi coinvolti."
+
+580:
+  kind: mc
+  text: "Quale enzima è responsabile della conversione del glucosio-6-fosfato in fruttosio-6-fosfato?"
+  options:
+    - Aldolasi
+    - Fosfofruttochinasi
+    - Fosfoglucosi isomerasi
+    - Esokinasi
+  correct: 2
+  curiosity: "L'enzima fosfoglucosi isomerasi catalizza la conversione del glucosio-6-fosfato in fruttosio-6-fosfato, un passaggio fondamentale della glicolisi."
+
+581:
+  kind: mc
+  text: "Quale molecola è utilizzata come substrato nella prima fase della glicolisi?"
+  options:
+    - Fruttosio
+    - Galattosio
+    - Glucosio
+    - Acido piruvico
+  correct: 2
+  curiosity: "Il glucosio è il substrato principale nella prima fase della glicolisi, dove viene scisso in piruvato."
+
+582:
+  kind: mc
+  text: "Cosa succede al piruvato prodotto dalla glicolisi in condizioni anaerobiche?"
+  options:
+    - Viene completamente ossidato
+    - Viene convertito in lattato o etanolo
+    - Viene convertito in acido citrico
+    - Rimane immutato
+  correct: 1
+  curiosity: "In condizioni anaerobiche, il piruvato viene convertito in lattato nei muscoli o in etanolo nei lieviti per rigenerare NAD+."
+
+583:
+  kind: mc
+  text: "Qual è il ruolo dell'enzima fosfofruttochinasi nella glicolisi?"
+  options:
+    - Inizia la glicolisi
+    - Regola il passo chiave della glicolisi
+    - Degrada il piruvato
+    - Produce ATP
+  correct: 1
+  curiosity: "La fosfofruttochinasi è un enzima chiave che regola il passo critico della glicolisi, la fosforilazione del fruttosio-6-fosfato."
+
+584:
+  kind: mc
+  text: "Durante quale fase della glicolisi viene prodotta la maggior parte dell'ATP?"
+  options:
+    - Fase di investimento
+    - Fase di preparazione
+    - Fase di recupero
+    - Fase finale
+  correct: 2
+  curiosity: "La fase di recupero della glicolisi produce la maggior parte dell'ATP, attraverso la fosforilazione a livello di substrato."
+
+585:
+  kind: mc
+  text: "Quale molecola è prodotta durante la decarbossilazione ossidativa del piruvato?"
+  options:
+    - Glucosio
+    - NADH
+    - Acetil-CoA
+    - ATP
+  correct: 2
+  curiosity: "Durante la decarbossilazione ossidativa del piruvato, il piruvato viene trasformato in acetil-CoA, che entra nel ciclo di Krebs."
+
+586:
+  kind: mc
+  text: "Cosa avviene durante la fase di investimento della glicolisi?"
+  options:
+    - Produzione di NADH
+    - Produzione di ATP
+    - Consumo di ATP per attivare il glucosio
+    - Degradazione del piruvato
+  correct: 2
+  curiosity: "Durante la fase di investimento della glicolisi, vengono consumate 2 molecole di ATP per attivare il glucosio e avviare il processo."
+
+587:
+  kind: mc
+  text: "Qual è l'importanza della glicolisi per la respirazione cellulare?"
+  options:
+    - È l'unico processo energetico
+    - Produce direttamente ATP in grandi quantità
+    - Fornisce piruvato e NADH per il ciclo di Krebs
+    - Non ha alcuna importanza
+  correct: 2
+  curiosity: "La glicolisi è importante per la respirazione cellulare perché fornisce piruvato e NADH, che sono essenziali per il ciclo di Krebs."
+
+588:
+  kind: mc
+  text: "Qual è l'enzima chiave che catalizza la reazione di fosforilazione del fruttosio-6-fosfato?"
+  options:
+    - Aldolasi
+    - Isomerasi
+    - Fosfofruttochinasi
+    - Esokinasi
+  correct: 2
+  curiosity: "La fosfofruttochinasi è l'enzima chiave che catalizza la fosforilazione del fruttosio-6-fosfato, regolando il ritmo della glicolisi."
+
+589:
+  kind: mc
+  text: "In condizioni aerobiche, cosa avviene al piruvato prodotto dalla glicolisi?"
+  options:
+    - Viene convertito in lattato
+    - Viene rimosso dalla cellula
+    - Viene ossidato in acetil-CoA per entrare nel ciclo di Krebs
+    - Viene degradato in ATP
+  correct: 2
+  curiosity: "In condizioni aerobiche, il piruvato prodotto dalla glicolisi viene ossidato in acetil-CoA e introdotto nel ciclo di Krebs."
+
+590:
+  kind: mc
+  text: "Qual è il prodotto della glicolisi in condizioni anaerobiche nei muscoli umani?"
+  options:
+    - Acetil-CoA
+    - Acido citrico
+    - Acido lattico
+    - Glucosio
+  correct: 2
+  curiosity: "In condizioni anaerobiche, il piruvato prodotto dalla glicolisi viene convertito in acido lattico nei muscoli per rigenerare NAD+."
+
+591:
+  kind: mc
+  text: "Quante molecole di NADH vengono prodotte durante la glicolisi?"
+  options:
+    - 1
+    - 2
+    - 2
+    - 4
+  correct: 2
+  curiosity: "Durante la glicolisi vengono prodotte 2 molecole di NADH, che successivamente trasferiscono elettroni alla catena di trasporto degli elettroni."
+
+592:
+  kind: mc
+  text: "Quale composto è un inibitore allosterico della fosfofruttochinasi?"
+  options:
+    - ADP
+    - NADH
+    - Citrato
+    - ATP
+  correct: 2
+  curiosity: "Il citrato è un inibitore allosterico della fosfofruttochinasi, rallentando la glicolisi quando i livelli di energia sono sufficienti."
+
+#FINALFIX
+
+593:
+  kind: mc
+  text: "Qual è il principale obiettivo della fermentazione?"
+  options:
+    - Produzione di ATP in assenza di ossigeno
+    - Degradazione completa del glucosio
+    - Generare energia senza ossigeno
+    - Sintesi di acidi nucleici
+  correct: 2
+  curiosity: "La fermentazione è un processo anaerobico che consente alle cellule di generare energia senza ossigeno."
+
+594:
+  kind: mc
+  text: "Quale dei seguenti è un prodotto comune della fermentazione alcolica?"
+  options:
+    - Acido lattico
+    - Acido acetico
+    - Etanolo
+    - Acido citrico
+  correct: 2
+  curiosity: "La fermentazione alcolica produce principalmente etanolo e anidride carbonica come sottoprodotti."
+
+595:
+  kind: mc
+  text: "In quale tipo di organismi avviene tipicamente la fermentazione lattica?"
+  options:
+    - Solo nei lieviti
+    - Solo nei batteri
+    - Nei muscoli degli animali e in alcuni batteri
+    - Solo nelle piante
+  correct: 2
+  curiosity: "La fermentazione lattica si verifica nei muscoli degli animali, come nei muscoli umani durante sforzi intensi, e in alcuni batteri."
+
+596:
+  kind: mc
+  text: "Qual è la molecola di partenza principale per la fermentazione?"
+  options:
+    - Acido lattico
+    - NADH
+    - Piruvato
+    - Glucosio
+  correct: 2
+  curiosity: "Il piruvato è il prodotto finale della glicolisi e il principale substrato per la fermentazione."
+
+597:
+  kind: mc
+  text: "Quale processo avviene durante la fermentazione alcolica?"
+  options:
+    - Ossidazione del NADH a NAD+
+    - Produzione di ATP
+    - Conversione del piruvato in etanolo e anidride carbonica
+    - Degradazione del glucosio in acidi grassi
+  correct: 2
+  curiosity: "Durante la fermentazione alcolica, il piruvato viene decarbossilato e convertito in etanolo e CO2."
+
+598:
+  kind: mc
+  text: "Cosa succede al NADH durante la fermentazione?"
+  options:
+    - Viene completamente degradato
+    - Viene convertito in ATP
+    - Viene ossidato a NAD+ per rigenerare i coenzimi
+    - Non ha alcun ruolo
+  correct: 2
+  curiosity: "Il NADH viene ossidato a NAD+ durante la fermentazione, permettendo alla glicolisi di continuare senza ossigeno."
+
+599:
+  kind: mc
+  text: "Quale delle seguenti affermazioni è vera riguardo alla fermentazione?"
+  options:
+    - È un processo aerobico
+    - Produce grandi quantità di ATP
+    - Si verifica in assenza di ossigeno
+    - Non coinvolge enzimi
+  correct: 2
+  curiosity: "La fermentazione è un processo anaerobico, che avviene in assenza di ossigeno e consente la produzione di piccole quantità di ATP."
+
+600:
+  kind: mc
+  text: "Quale enzima è coinvolto nella fermentazione alcolica?"
+  options:
+    - Lattato deidrogenasi
+    - Alcol deidrogenasi
+    - Piruvato decarbossilasi
+    - Aldolasi
+  correct: 2
+  curiosity: "La piruvato decarbossilasi e l'alcol deidrogenasi sono enzimi chiave nella fermentazione alcolica, che converte il piruvato in etanolo."
+
+601:
+  kind: mc
+  text: "Qual è il prodotto finale della fermentazione lattica?"
+  options:
+    - Etanolo
+    - Acido acetico
+    - Acido lattico
+    - Piruvato
+  correct: 2
+  curiosity: "Il prodotto finale della fermentazione lattica è l'acido lattico, che si forma quando il piruvato viene ridotto."
+
+602:
+  kind: mc
+  text: "Qual è la reazione chimica principale della fermentazione alcolica?"
+  options:
+    - Glucosio → Etanolo + CO2
+    - Piruvato → Acido lattico
+    - Glucosio → Etanolo + CO2
+    - NADH → NAD+ + ATP
+  correct: 2
+  curiosity: "La fermentazione alcolica converte il glucosio in etanolo e anidride carbonica, con il rilascio di una piccola quantità di ATP."
+
+603:
+  kind: mc
+  text: "Cosa accade al piruvato in condizioni anaerobiche?"
+  options:
+    - Viene completamente ossidato
+    - Viene convertito in acido citrico
+    - Viene ridotto in acido lattico o etanolo
+    - Rimane immutato
+  correct: 2
+  curiosity: "In assenza di ossigeno, il piruvato viene ridotto a acido lattico (fermentazione lattica) o etanolo (fermentazione alcolica)."
+
+604:
+  kind: mc
+  text: "Qual è il principale svantaggio della fermentazione rispetto alla respirazione cellulare?"
+  options:
+    - Produce meno ATP
+    - Non utilizza NAD+
+    - Produce sottoprodotti tossici
+    - Avviene solo in piante
+  correct: 0
+  curiosity: "La fermentazione produce molto meno ATP rispetto alla respirazione cellulare, che è più efficiente nel generare energia."
+
+605:
+  kind: mc
+  text: "In quali condizioni si verifica la fermentazione lattica nei muscoli umani?"
+  options:
+    - Solo a riposo
+    - Solo durante l'esercizio leggero
+    - In condizioni di intensa attività fisica quando l'ossigeno è limitato
+    - Solo durante il sonno
+  correct: 2
+  curiosity: "La fermentazione lattica nei muscoli umani avviene durante l'esercizio intenso quando l'apporto di ossigeno non è sufficiente."
+
+606:
+  kind: mc
+  text: "Qual è la funzione del NAD+ nella fermentazione?"
+  options:
+    - Fornire energia
+    - Agire come substrato
+    - Permettere la continuazione della glicolisi
+    - Degradare il glucosio
+  correct: 2
+  curiosity: "Il NAD+ è rigenerato durante la fermentazione per consentire il continuo svolgimento della glicolisi in assenza di ossigeno."
+
+607:
+  kind: mc
+  text: "Qual è una delle principali applicazioni della fermentazione alcolica?"
+  options:
+    - Produzione di ATP
+    - Sintesi di acidi nucleici
+    - Produzione di bevande alcoliche e pane
+    - Produzione di energia per le cellule vegetali
+  correct: 2
+  curiosity: "La fermentazione alcolica è ampiamente utilizzata per produrre bevande alcoliche e pane grazie alla produzione di etanolo e CO2."
+
+608:
+  kind: mc
+  text: "Quale tipo di fermentazione avviene negli organismi unicellulari come i lieviti?"
+  options:
+    - Fermentazione lattica
+    - Fermentazione acetica
+    - Fermentazione alcolica
+    - Fermentazione malolattica
+  correct: 2
+  curiosity: "Nei lieviti, la fermentazione alcolica è il processo principale attraverso cui il glucosio viene convertito in etanolo e CO2."
+
+609:
+  kind: mc
+  text: "Qual è l'importanza della fermentazione per gli organismi anaerobi?"
+  options:
+    - Permette la respirazione cellulare
+    - Produce più ATP rispetto alla respirazione
+    - Fornisce energia in assenza di ossigeno
+    - Non ha alcuna importanza
+  correct: 2
+  curiosity: "La fermentazione è fondamentale per gli organismi anaerobi poiché consente la produzione di energia senza la necessità di ossigeno."
+
+610:
+  kind: mc
+  text: "Cosa produce la fermentazione lattica nei batteri?"
+  options:
+    - Acido lattico
+    - Etanolo
+    - Entrambi i precedenti
+    - Acido acetico
+  correct: 2
+  curiosity: "La fermentazione lattica nei batteri produce principalmente acido lattico come sottoprodotto."
+
+611:
+  kind: mc
+  text: "Quale molecola è essenziale per il ciclo di Krebs e non è direttamente prodotta dalla fermentazione?"
+  options:
+    - Piruvato
+    - Acido lattico
+    - Acetil-CoA
+    - Etanolo
+  correct: 2
+  curiosity: "L'acetil-CoA è essenziale per il ciclo di Krebs e viene prodotto dal piruvato in condizioni aerobiche, ma non dalla fermentazione."
+
+612:
+  kind: mc
+  text: "Quale tipo di fermentazione è comunemente utilizzata nella produzione di yogurt?"
+  options:
+    - Fermentazione alcolica
+    - Fermentazione lattica
+    - Fermentazione malolattica
+    - Fermentazione acetica
+  correct: 1
+  curiosity: "La fermentazione lattica, operata da batteri come il *Lactobacillus*, è utilizzata per produrre yogurt."
+
+#FINALFIX
+
+613:
+  kind: mc
+  text: "Qual è l'obiettivo principale della gluconeogenesi?"
+  options:
+    - Degradare il glucosio
+    - Produrre energia
+    - Sintetizzare glucosio da precursori non zuccherini
+    - Convertire l'ATP in ADP
+  correct: 2
+  curiosity: "La gluconeogenesi è il processo biologico che consente la sintesi del glucosio a partire da precursori non zuccherini."
+
+614:
+  kind: mc
+  text: "In quale organo avviene principalmente la gluconeogenesi?"
+  options:
+    - Cuore
+    - Polmoni
+    - Fegato
+    - Rene
+  correct: 2
+  curiosity: "La gluconeogenesi avviene principalmente nel fegato, ma anche nei reni, soprattutto durante il digiuno."
+
+615:
+  kind: mc
+  text: "Quali sono i principali precursori utilizzati nella gluconeogenesi?"
+  options:
+    - Acidi grassi
+    - Glicogeno
+    - Piruvato, lattato e aminoacidi
+    - Nessuna delle precedenti
+  correct: 2
+  curiosity: "Il piruvato e il lattato sono i principali precursori per la gluconeogenesi, insieme agli aminoacidi."
+
+616:
+  kind: mc
+  text: "Qual è la molecola di partenza per la gluconeogenesi?"
+  options:
+    - Glucosio
+    - Piruvato
+    - Acido lattico
+    - Acetil-CoA
+  correct: 1
+  curiosity: "La gluconeogenesi inizia con il piruvato, che viene convertito in glucosio."
+
+617:
+  kind: mc
+  text: "Qual è il ruolo dell'enzima piruvato carbossilasi nella gluconeogenesi?"
+  options:
+    - Ridurre il piruvato
+    - Convertire il piruvato in ossaloacetato
+    - Degradare il glucosio
+    - Produrre ATP
+  correct: 1
+  curiosity: "La piruvato carbossilasi converte il piruvato in ossaloacetato, una tappa fondamentale della gluconeogenesi."
+
+618:
+  kind: mc
+  text: "In quale parte della cellula avviene la gluconeogenesi?"
+  options:
+    - Nucleo
+    - Mitocondri
+    - Citoplasma e mitocondri
+    - Reticolo endoplasmatico
+  correct: 2
+  curiosity: "La gluconeogenesi avviene sia nei mitocondri che nel citoplasma, con diverse fasi che si svolgono in ciascuna di queste aree."
+
+619:
+  kind: mc
+  text: "Qual è l'importanza della gluconeogenesi durante il digiuno?"
+  options:
+    - Ridurre i livelli di glucosio nel sangue
+    - Produrre acidi grassi
+    - Mantenere i livelli di glucosio nel sangue per il cervello e i globuli rossi
+    - Non ha alcuna importanza
+  correct: 2
+  curiosity: "Durante il digiuno, la gluconeogenesi è essenziale per mantenere i livelli di glucosio nel sangue, particolarmente importanti per il cervello e i globuli rossi."
+
+620:
+  kind: mc
+  text: "Quale enzima è responsabile della conversione dell'ossaloacetato in fosfoenolpiruvato (PEP)?"
+  options:
+    - Piruvato chinasi
+    - Fumarasi
+    - PEP carbossichinasi
+    - Fruttosio-1,6-bisfosfatasi
+  correct: 2
+  curiosity: "La PEP carbossichinasi converte l'ossaloacetato in fosfoenolpiruvato (PEP), un passaggio cruciale nella gluconeogenesi."
+
+621:
+  kind: mc
+  text: "Cosa avviene al NADH durante la gluconeogenesi?"
+  options:
+    - Viene degradato
+    - Viene convertito in ATP
+    - Viene ossidato a NAD+
+    - Non ha alcun ruolo
+  correct: 2
+  curiosity: "Durante la gluconeogenesi, il NADH viene ossidato a NAD+ per consentire la continuazione del processo."
+
+622:
+  kind: mc
+  text: "Qual è una delle principali differenze tra glicolisi e gluconeogenesi?"
+  options:
+    - La glicolisi consuma ATP, mentre la gluconeogenesi lo produce
+    - La glicolisi avviene solo nel fegato
+    - La gluconeogenesi richiede enzimi diversi rispetto alla glicolisi
+    - Non ci sono differenze significative
+  correct: 2
+  curiosity: "La gluconeogenesi e la glicolisi sono processi opposti, con enzimi diversi coinvolti, nonostante entrambi condividano alcune reazioni."
+
+623:
+  kind: mc
+  text: "Quale composto è prodotto durante la gluconeogenesi a partire dal lattato?"
+  options:
+    - Glucosio
+    - Piruvato
+    - Glucosio-6-fosfato
+    - Acetil-CoA
+  correct: 2
+  curiosity: "Il lattato è convertito in glucosio-6-fosfato, che può poi essere trasformato in glucosio."
+
+624:
+  kind: mc
+  text: "In quali condizioni la gluconeogenesi è maggiormente attiva?"
+  options:
+    - Durante l'attività fisica intensa
+    - In presenza di abbondante glucosio
+    - Durante il digiuno o in stati di ipoglicemia
+    - Durante il sonno profondo
+  correct: 2
+  curiosity: "La gluconeogenesi è più attiva durante il digiuno o in condizioni di ipoglicemia, quando è necessario mantenere i livelli di glucosio."
+
+625:
+  kind: mc
+  text: "Qual è il ruolo dell'enzima fruttosio-1,6-bisfosfatasia nella gluconeogenesi?"
+  options:
+    - Aumentare il livello di fruttosio-2,6-bisfosfato
+    - Convertire il fruttosio in glucosio
+    - De-fosforilare il fruttosio-1,6-bisfosfato in fruttosio-6-fosfato
+    - Produrre ATP
+  correct: 2
+  curiosity: "L'enzima fruttosio-1,6-bisfosfatasia de-fosforila il fruttosio-1,6-bisfosfato, un passo chiave nella gluconeogenesi."
+
+626:
+  kind: mc
+  text: "Quale ormone stimola la gluconeogenesi?"
+  options:
+    - Insulina
+    - Glucagone
+    - Adrenalina
+    - Cortisolo
+  correct: 1
+  curiosity: "Il glucagone stimola la gluconeogenesi, specialmente durante il digiuno, per aumentare i livelli di glucosio nel sangue."
+
+627:
+  kind: mc
+  text: "Qual è l'effetto dell'insulina sulla gluconeogenesi?"
+  options:
+    - La stimola
+    - Non ha effetto
+    - La inibisce
+    - La converte in glicolisi
+  correct: 2
+  curiosity: "L'insulina inibisce la gluconeogenesi, poiché favorisce l'uso del glucosio e non la sua produzione."
+
+628:
+  kind: mc
+  text: "Qual è il prodotto finale della gluconeogenesi?"
+  options:
+    - Piruvato
+    - Lattato
+    - Glucosio
+    - Acetil-CoA
+  correct: 2
+  curiosity: "Il prodotto finale della gluconeogenesi è il glucosio, che viene rilasciato nel sangue per mantenere i livelli glicemici."
+
+629:
+  kind: mc
+  text: "Quale tipo di aminoacido può essere convertito in glucosio attraverso la gluconeogenesi?"
+  options:
+    - Alanina
+    - Leucina
+    - Aspartato
+    - Glutammato
+  correct: 0
+  curiosity: "L'alanina è un aminoacido che può essere convertito in glucosio attraverso la gluconeogenesi."
+
+630:
+  kind: mc
+  text: "Quale molecola serve come donatore di carbonio nella gluconeogenesi?"
+  options:
+    - Acido lattico
+    - Glicogeno
+    - Acetil-CoA
+    - Acido piruvico
+  correct: 3
+  curiosity: "Il piruvato è uno dei principali donatori di carbonio nella gluconeogenesi, che permette la sintesi del glucosio."
+
+631:
+  kind: mc
+  text: "Cosa succede al glucosio prodotto dalla gluconeogenesi?"
+  options:
+    - Viene eliminato
+    - Viene utilizzato per la sintesi degli acidi grassi
+    - Viene rilasciato nel sangue per mantenere i livelli di glucosio
+    - Viene convertito in ATP
+  correct: 2
+  curiosity: "Il glucosio prodotto dalla gluconeogenesi viene rilasciato nel sangue per mantenere i livelli di glucosio necessari per il cervello e altri tessuti."
+
+632:
+  kind: mc
+  text: "In che modo la gluconeogenesi e la glicolisi sono regolati reciprocamente?"
+  options:
+    - Non ci sono relazioni
+    - La glicolisi è inibita quando la gluconeogenesi è attiva e viceversa
+    - Entrambi i processi avvengono simultaneamente
+    - Sono sempre attivi indipendentemente dalla disponibilità di substrati
+  correct: 1
+  curiosity: "La glicolisi e la gluconeogenesi sono processi opposti e regolati in modo reciproco: quando uno è attivo, l'altro è inibito."
+
+#FINALFIX
+
+633:
+  kind: mc
+  text: "Che cos'è la regolazione allosterica?"
+  options:
+    - Un meccanismo di degradazione delle proteine
+    - Un tipo di mutazione genetica
+    - Un meccanismo di controllo dell'attività enzimatica tramite ligandi che si legano a siti diversi dal sito attivo
+    - Un processo di replicazione del DNA
+  correct: 2
+  curiosity: "La regolazione allosterica è un meccanismo che modula l'attività enzimatica attraverso legami di ligandi su siti distinti dal sito attivo."
+
+634:
+  kind: mc
+  text: "Quale delle seguenti affermazioni è vera riguardo agli enzimi allosterici?"
+  options:
+    - Hanno solo un sito attivo
+    - Non sono influenzati da fattori esterni
+    - Possono avere siti di legame sia per substrati che per regolatori
+    - Sono sempre attivi
+  correct: 2
+  curiosity: "Gli enzimi allosterici possiedono sia un sito attivo che uno o più siti allosterici dove si legano i regolatori."
+
+635:
+  kind: mc
+  text: "Qual è l'effetto tipico di un attivatore allosterico su un enzima?"
+  options:
+    - Inibisce l'attività enzimatica
+    - Riduce la quantità di prodotto
+    - Aumenta l'attività enzimatica
+    - Non ha alcun effetto
+  correct: 2
+  curiosity: "Un attivatore allosterico generalmente aumenta l'attività enzimatica, migliorando l'affinità per il substrato."
+
+636:
+  kind: mc
+  text: "Cosa succede a un enzima allosterico quando un inibitore si lega al suo sito allosterico?"
+  options:
+    - Viene attivato
+    - La sua attività non cambia
+    - Viene inibito
+    - Si denatura
+  correct: 2
+  curiosity: "Quando un inibitore si lega a un enzima allosterico, l'attività enzimatica viene generalmente inibita."
+
+637:
+  kind: mc
+  text: "Qual è un esempio di un enzima che è regolato allostericamente?"
+  options:
+    - Amilasi
+    - Lipasi
+    - Fosfofruttochinasi
+    - DNA polimerasi
+  correct: 2
+  curiosity: "La fosfofruttochinasi è un esempio di enzima regolato allostericamente, che gioca un ruolo chiave nella glicolisi."
+
+638:
+  kind: mc
+  text: "Quale ruolo svolge il fruttosio-2,6-bisfosfato nella regolazione allosterica della glicolisi?"
+  options:
+    - È un substrato
+    - È un prodotto finale
+    - È un attivatore della fosfofruttochinasi
+    - È un inibitore della glicolisi
+  correct: 2
+  curiosity: "Il fruttosio-2,6-bisfosfato è un potente attivatore allosterico della fosfofruttochinasi, promuovendo la glicolisi."
+
+639:
+  kind: mc
+  text: "Quale delle seguenti molecole è un tipico inibitore allosterico per la piruvato chinasi?"
+  options:
+    - ATP
+    - Fruttosio-1,6-bisfosfato
+    - Acetil-CoA
+    - NADH
+  correct: 2
+  curiosity: "L'ATP è un inibitore allosterico della piruvato chinasi, riducendo la sua attività quando i livelli di energia sono elevati."
+
+640:
+  kind: mc
+  text: "Che effetto ha l'AMP sull'enzima fosfofruttochinasi?"
+  options:
+    - Lo inibisce
+    - Non ha alcun effetto
+    - Lo attiva
+    - Lo denatura
+  correct: 2
+  curiosity: "L'AMP attiva la fosfofruttochinasi, stimolando la glicolisi in condizioni di bassa energia cellulare."
+
+641:
+  kind: mc
+  text: "Qual è la differenza principale tra la regolazione competitiva e quella allosterica?"
+  options:
+    - La regolazione competitiva avviene tramite inibitori, mentre quella allosterica no
+    - La regolazione competitiva è permanente, mentre quella allosterica è temporanea
+    - La regolazione competitiva avviene al sito attivo, mentre quella allosterica avviene in un sito diverso
+    - Non ci sono differenze significative
+  correct: 2
+  curiosity: "La regolazione competitiva avviene al sito attivo dell'enzima, mentre la regolazione allosterica coinvolge siti diversi."
+
+642:
+  kind: mc
+  text: "Qual è il significato biologico della regolazione allosterica?"
+  options:
+    - Incrementare la velocità di degradazione dei substrati
+    - Rendere gli enzimi più instabili
+    - Permettere il controllo fine dell'attività enzimatica in risposta a cambiamenti metabolici
+    - Bloccare completamente la reazione enzimatica
+  correct: 2
+  curiosity: "La regolazione allosterica permette di modulare l'attività degli enzimi in risposta alle necessità metaboliche cellulari."
+
+643:
+  kind: mc
+  text: "Quale fattore può agire come inibitore allosterico per la carbamilfosfato sintetasi?"
+  options:
+    - ATP
+    - AMP
+    - UTP
+    - Acido citrico
+  correct: 2
+  curiosity: "L'UTP è un inibitore allosterico per la carbamilfosfato sintetasi, regolando la sintesi di pirimidine."
+
+644:
+  kind: mc
+  text: "Qual è un effetto della regolazione allosterica sulla curva di Michaelis-Menten di un enzima?"
+  options:
+    - La curva diventa più ripida
+    - La curva diventa più piatta
+    - La curva può mostrare un comportamento sigmoide
+    - Non cambia la forma della curva
+  correct: 2
+  curiosity: "Gli enzimi regolati allostericamente possono mostrare una curva sigmoide, indicativa di un'attività enzimatica cooperativa."
+
+645:
+  kind: mc
+  text: "Qual è il meccanismo d'azione di un attivatore allosterico?"
+  options:
+    - Denatura l'enzima
+    - Si lega al sito attivo
+    - Modifica la struttura dell'enzima per aumentare l'affinità per il substrato
+    - Degrada il substrato
+  correct: 2
+  curiosity: "Un attivatore allosterico modifica la struttura dell'enzima per migliorarne l'affinità per il substrato e aumentare la sua attività."
+
+646:
+  kind: mc
+  text: "Qual è l'importanza della regolazione allosterica nel metabolismo cellulare?"
+  options:
+    - Aumenta la produzione di calore
+    - Stabilizza le proteine
+    - Consente una rapida risposta ai cambiamenti nelle esigenze metaboliche
+    - Non ha alcuna importanza
+  correct: 2
+  curiosity: "La regolazione allosterica consente una rapida risposta ai cambiamenti metabolici, ottimizzando l'attività enzimatica."
+
+647:
+  kind: mc
+  text: "Quale dei seguenti è un esempio di feedback negativo in un percorso metabolico?"
+  options:
+    - ATP attivante la glicolisi
+    - AMP inibente la gluconeogenesi
+    - Acido citrico inibente la fosfofruttochinasi
+    - NAD+ attivante la fermentazione
+  correct: 2
+  curiosity: "L'acido citrico inibisce la fosfofruttochinasi, un esempio di feedback negativo che regola la glicolisi."
+
+648:
+  kind: mc
+  text: "Qual è il ruolo del sito allosterico in un enzima?"
+  options:
+    - È il sito dove si lega il substrato
+    - È il sito dove avviene la reazione chimica
+    - È il sito dove si legano molecole regolatrici che modificano l'attività enzimatica
+    - Non ha alcuna funzione specifica
+  correct: 2
+  curiosity: "Il sito allosterico è dove si legano le molecole regolatrici, influenzando l'attività dell'enzima."
+
+649:
+  kind: mc
+  text: "Quale tipo di interazione avviene tra l'inibitore allosterico e l'enzima?"
+  options:
+    - Legame covalente
+    - Legame ionico
+    - Interazione non covalente (come legami idrogeno o interazioni idrofobiche)
+    - Nessuna interazione
+  correct: 2
+  curiosity: "Gli inibitori allosterici si legano all'enzima tramite interazioni non covalenti, come legami idrogeno o interazioni idrofobiche."
+
+650:
+  kind: mc
+  text: "Quale effetto ha un elevato livello di ATP sull'enzima fosfofruttochinasi?"
+  options:
+    - Lo attiva
+    - Non ha alcun effetto
+    - Lo inibisce
+    - Lo denatura
+  correct: 2
+  curiosity: "Un elevato livello di ATP inibisce la fosfofruttochinasi, rallentando la glicolisi quando l'energia è abbondante."
+
+651:
+  kind: mc
+  text: "Qual è il principale vantaggio della regolazione allosterica rispetto alla regolazione covalente?"
+  options:
+    - È più lenta
+    - Non può essere reversibile
+    - Permette una risposta più rapida alle variazioni ambientali
+    - Non richiede energia
+  correct: 2
+  curiosity: "La regolazione allosterica consente una risposta più rapida alle variazioni metaboliche rispetto alla regolazione covalente."
+
+652:
+  kind: mc
+  text: "Quale dei seguenti fattori può influenzare la regolazione allosterica di un enzima?"
+  options:
+    - Temperatura
+    - pH
+    - Concentrazione di substrato
+    - Tutti i precedenti
+  correct: 3
+  curiosity: "Temperatura, pH e concentrazione di substrato sono tutti fattori che possono influenzare la regolazione allosterica di un enzima."
+
+#FINALFIX
+
+653:
+  kind: mc
+  text: "Qual è la funzione principale dei mitocondri nella cellula?"
+  options:
+    - Sintesi di proteine
+    - Degradazione degli acidi nucleici
+    - Produzione di ATP attraverso la respirazione cellulare
+    - Sintesi di lipidi
+  correct: 2
+  curiosity: "I mitocondri sono noti come la centrale energetica della cellula, poiché producono ATP durante la respirazione cellulare."
+
+654:
+  kind: mc
+  text: "Quali sono le due membrane che delimitano i mitocondri?"
+  options:
+    - Membrana cellulare e membrana nucleare
+    - Membrana interna e membrana esterna
+    - Membrana interna e membrana esterna mitocondriale
+    - Membrana plasmatica e membrana lisosomiale
+  correct: 2
+  curiosity: "I mitocondri hanno una doppia membrana, la membrana interna e la membrana esterna, che giocano ruoli cruciali nella loro funzione."
+
+655:
+  kind: mc
+  text: "Dove avviene il ciclo di Krebs all'interno del mitocondrio?"
+  options:
+    - Nella matrice
+    - Sulla membrana esterna
+    - Nella matrice mitocondriale
+    - Sulla membrana interna
+  correct: 2
+  curiosity: "Il ciclo di Krebs si svolge nella matrice mitocondriale, dove vengono prodotte molecole ad alta energia."
+
+656:
+  kind: mc
+  text: "Qual è la funzione della membrana interna mitocondriale?"
+  options:
+    - Permettere il passaggio di tutte le molecole
+    - Isolare i mitocondri dal citoplasma
+    - Ospitare la catena di trasporto degli elettroni
+    - Produrre proteine mitocondriali
+  correct: 2
+  curiosity: "La membrana interna mitocondriale ospita la catena di trasporto degli elettroni e la ATP sintasi, fondamentali per la produzione di ATP."
+
+657:
+  kind: mc
+  text: "Cosa contiene la matrice mitocondriale?"
+  options:
+    - Solo acqua
+    - Solo enzimi
+    - Enzimi, DNA mitocondriale e ribosomi
+    - Solo lipidi
+  correct: 2
+  curiosity: "La matrice mitocondriale contiene enzimi per il ciclo di Krebs, il DNA mitocondriale e ribosomi per la sintesi proteica."
+
+658:
+  kind: mc
+  text: "Qual è il ruolo della catena di trasporto degli elettroni?"
+  options:
+    - Produrre glucosio
+    - Degradare i lipidi
+    - Trasferire elettroni per generare un gradiente di protoni
+    - Sintetizzare RNA
+  correct: 2
+  curiosity: "La catena di trasporto degli elettroni trasferisce elettroni lungo una serie di complessi proteici, creando un gradiente di protoni che alimenta la produzione di ATP."
+
+659:
+  kind: mc
+  text: "Qual è il prodotto finale della fosforilazione ossidativa?"
+  options:
+    - Piruvato
+    - Acido lattico
+    - ATP
+    - Acetil-CoA
+  correct: 2
+  curiosity: "Il prodotto finale della fosforilazione ossidativa è ATP, la principale fonte di energia per le cellule."
+
+660:
+  kind: mc
+  text: "Qual è la funzione principale dei pori nella membrana esterna mitocondriale?"
+  options:
+    - Bloccare il passaggio di ioni
+    - Permettere il passaggio di molecole di piccole dimensioni
+    - Ospitare enzimi mitocondriali
+    - Non hanno alcuna funzione specifica
+  correct: 1
+  curiosity: "I pori nella membrana esterna mitocondriale permettono il passaggio di piccole molecole e ioni, facilitando lo scambio con il citoplasma."
+
+661:
+  kind: mc
+  text: "Quale di queste affermazioni è vera riguardo al DNA mitocondriale?"
+  options:
+    - È identico a quello nucleare
+    - È completamente circolare
+    - È ereditato solo dalla madre
+    - Non è presente nei mitocondri
+  correct: 2
+  curiosity: "Il DNA mitocondriale è circolare e viene ereditato esclusivamente dalla madre, a differenza del DNA nucleare."
+
+662:
+  kind: mc
+  text: "Qual è il ruolo dell'ATP sintasi?"
+  options:
+    - Degradare ATP
+    - Trasportare elettroni
+    - Sintetizzare ATP utilizzando il gradiente di protoni
+    - Ospitare il ciclo di Krebs
+  correct: 2
+  curiosity: "L'ATP sintasi utilizza il gradiente di protoni generato dalla catena di trasporto degli elettroni per sintetizzare ATP."
+
+663:
+  kind: mc
+  text: "Quale processo avviene nello spazio intermembrana mitocondriale?"
+  options:
+    - Sintesi di glucosio
+    - Produzione di lipidi
+    - Accumulo di protoni durante la respirazione cellulare
+    - Sintesi di proteine
+  correct: 2
+  curiosity: "Durante la respirazione cellulare, la catena di trasporto degli elettroni accumula protoni nello spazio intermembrana mitocondriale."
+
+664:
+  kind: mc
+  text: "Che cosa genera il gradiente di protoni attraverso la membrana interna mitocondriale?"
+  options:
+    - Il ciclo di Krebs
+    - La glicolisi
+    - La catena di trasporto degli elettroni
+    - La fermentazione
+  correct: 2
+  curiosity: "La catena di trasporto degli elettroni genera un gradiente di protoni, che è utilizzato dall'ATP sintasi per produrre ATP."
+
+665:
+  kind: mc
+  text: "Quale di questi composti entra nei mitocondri per essere utilizzato nel ciclo di Krebs?"
+  options:
+    - Glucosio
+    - Piruvato
+    - Acetil-CoA
+    - Acido lattico
+  correct: 2
+  curiosity: "Il piruvato, prodotto dalla glicolisi, entra nei mitocondri e viene convertito in acetil-CoA per essere utilizzato nel ciclo di Krebs."
+
+666:
+  kind: mc
+  text: "Come si chiama il processo attraverso il quale il mitocondrio produce ATP?"
+  options:
+    - Glicolisi
+    - Fermentazione
+    - Fosforilazione ossidativa
+    - Beta-ossidazione
+  correct: 2
+  curiosity: "Il processo attraverso cui i mitocondri producono ATP è la fosforilazione ossidativa, che avviene grazie alla catena di trasporto degli elettroni."
+
+667:
+  kind: mc
+  text: "Qual è la funzione del complesso I nella catena di trasporto degli elettroni?"
+  options:
+    - Ridurre NAD+
+    - Trasportare ATP
+    - Ossidare NADH e trasferire elettroni
+    - Non ha alcuna funzione
+  correct: 2
+  curiosity: "Il complesso I ossida il NADH e trasferisce gli elettroni alla catena di trasporto, contribuendo alla creazione del gradiente di protoni."
+
+668:
+  kind: mc
+  text: "Cosa succede se i mitocondri non funzionano correttamente?"
+  options:
+    - Non ci sono effetti sulla cellula
+    - La produzione di proteine aumenta
+    - La produzione di ATP diminuisce, causando una mancanza di energia cellulare
+    - Si produce solo glucosio
+  correct: 2
+  curiosity: "Se i mitocondri non funzionano correttamente, la produzione di ATP diminuisce, causando carenza di energia cellulare."
+
+669:
+  kind: mc
+  text: "Qual è la funzione del citocromo c?"
+  options:
+    - Produrre ATP
+    - Legare il DNA
+    - Trasferire elettroni tra i complessi della catena di trasporto degli elettroni
+    - Ospitare il ciclo di Krebs
+  correct: 2
+  curiosity: "Il citocromo c trasferisce elettroni tra i complessi della catena di trasporto degli elettroni, contribuendo alla produzione di ATP."
+
+670:
+  kind: mc
+  text: "Che ruolo svolge il calcio nei mitocondri?"
+  options:
+    - Non ha alcun ruolo
+    - Regola il metabolismo e la produzione di ATP
+    - Viene degradato nei mitocondri
+    - È un prodotto finale della respirazione cellulare
+  correct: 1
+  curiosity: "Il calcio regola il metabolismo e la produzione di ATP nei mitocondri, influenzando anche la respirazione cellulare."
+
+671:
+  kind: mc
+  text: "Qual è l'importanza della compartimentalizzazione mitocondriale?"
+  options:
+    - Permette solo la respirazione cellulare
+    - Blocca il passaggio di tutte le molecole
+    - Consente di ottimizzare reazioni metaboliche diverse in spazi specifici
+    - Non ha alcuna importanza
+  correct: 2
+  curiosity: "La compartimentalizzazione mitocondriale ottimizza le reazioni metaboliche, separando diversi processi in spazi specifici come la matrice e lo spazio intermembrana."
+
+672:
+  kind: mc
+  text: "Cosa determina il potenziale di membrana mitocondriale?"
+  options:
+    - La temperatura
+    - La quantità di glucosio
+    - La distribuzione di protoni tra le due membrane
+    - La quantità di ossigeno disponibile
+  correct: 2
+  curiosity: "Il potenziale di membrana mitocondriale dipende dalla distribuzione di protoni tra le due membrane, che crea un gradiente necessario per la sintesi di ATP."
+
+#FINALFIX
+
+673:
+  kind: mc
+  text: "Qual è un altro nome per il ciclo dell'acido citrico?"
+  options:
+    - Ciclo di Calvin
+    - Ciclo di Krebs
+    - Ciclo dell'urea
+    - Nessuna delle precedenti
+  correct: 1
+  curiosity: "Il ciclo dell'acido citrico è anche conosciuto come ciclo di Krebs, dal nome del biochimico Hans Krebs che lo descrisse nel 1937."
+
+674:
+  kind: mc
+  text: "Dove avviene il ciclo dell'acido citrico nella cellula?"
+  options:
+    - Nel citoplasma
+    - Nella membrana plasmatica
+    - Nella matrice mitocondriale
+    - Nello spazio intermembrana mitocondriale
+  correct: 2
+  curiosity: "Il ciclo dell'acido citrico si svolge nella matrice mitocondriale, dove vengono elaborati i metaboliti per produrre energia."
+
+675:
+  kind: mc
+  text: "Quale composto inizia il ciclo dell'acido citrico?"
+  options:
+    - Piruvato
+    - Acetil-CoA
+    - Citrato
+    - Ossalacetato
+  correct: 2
+  curiosity: "Il ciclo dell'acido citrico inizia con l'ingresso dell'acetil-CoA, che si combina con l'ossalacetato per formare il citrato."
+
+676:
+  kind: mc
+  text: "Qual è la principale funzione del ciclo dell'acido citrico?"
+  options:
+    - Sintetizzare lipidi
+    - Degradare il DNA
+    - Produrre energia sotto forma di ATP e trasportatori ridotti (NADH e FADH2)
+    - Trasportare ossigeno
+  correct: 2
+  curiosity: "La funzione principale del ciclo dell'acido citrico è produrre energia, generando ATP, NADH, FADH2 e CO2 come sottoprodotti."
+
+677:
+  kind: mc
+  text: "Quali sono i prodotti finali di un giro completo del ciclo dell'acido citrico?"
+  options:
+    - ATP e glucosio
+    - NADH e ossigeno
+    - 3 NADH, 1 FADH2, 1 ATP (o GTP), e 2 CO2
+    - Piruvato e CO2
+  correct: 2
+  curiosity: "Ogni giro del ciclo dell'acido citrico produce 3 molecole di NADH, 1 FADH2, 1 ATP (o GTP) e 2 molecole di CO2."
+
+678:
+  kind: mc
+  text: "Quale enzima è responsabile della conversione di citrato in isocitrato?"
+  options:
+    - Citrato sintasi
+    - Succinato deidrogenasi
+    - Aconitasi
+    - Isocitrato deidrogenasi
+  correct: 2
+  curiosity: "L'enzima aconitasi catalizza la conversione del citrato in isocitrato, un passaggio fondamentale nel ciclo dell'acido citrico."
+
+679:
+  kind: mc
+  text: "Durante quale fase del ciclo dell'acido citrico viene liberato anidride carbonica (CO2)?"
+  options:
+    - Nella conversione di citrato in isocitrato
+    - Nella sintesi di succinato
+    - Nella conversione di isocitrato in alfa-chetoglutarato e di alfa-chetoglutarato in succinil-CoA
+    - Nella formazione di ossalacetato
+  correct: 2
+  curiosity: "L'anidride carbonica viene liberata quando l'isocitrato viene decarbossilato in alfa-chetoglutarato e successivamente durante la conversione di alfa-chetoglutarato in succinil-CoA."
+
+680:
+  kind: mc
+  text: "Qual è il ruolo dell'enzima isocitrato deidrogenasi?"
+  options:
+    - Trasformare il succinato in fumarato
+    - Produrre ATP
+    - Catalizzare la decarbossilazione dell'isocitrato in alfa-chetoglutarato
+    - Trasformare l'acetil-CoA in citrato
+  correct: 2
+  curiosity: "L'enzima isocitrato deidrogenasi catalizza la decarbossilazione dell'isocitrato, un passaggio chiave nella produzione di energia nel ciclo dell'acido citrico."
+
+681:
+  kind: mc
+  text: "Quale dei seguenti intermedi del ciclo dell'acido citrico è un precursore per la sintesi di aminoacidi?"
+  options:
+    - Succinato
+    - Fumarato
+    - Ossalacetato
+    - Citrato
+  correct: 2
+  curiosity: "L'ossalacetato è un precursore per la sintesi di aminoacidi, in particolare di aspartato, un aminoacido importante per le proteine."
+
+682:
+  kind: mc
+  text: "Come viene rigenerato l'ossalacetato nel ciclo dell'acido citrico?"
+  options:
+    - Dalla glicolisi
+    - Dalla fermentazione
+    - Da succinato attraverso l'enzima succinato deidrogenasi
+    - Dalla beta-ossidazione degli acidi grassi
+  correct: 2
+  curiosity: "L'ossalacetato viene rigenerato alla fine del ciclo dell'acido citrico attraverso la reazione di ossidazione del succinato."
+
+683:
+  kind: mc
+  text: "Quale coenzima è ridotto durante il ciclo dell'acido citrico?"
+  options:
+    - NAD+
+    - FAD
+    - NAD+ e FAD
+    - Coenzima A
+  correct: 2
+  curiosity: "Durante il ciclo dell'acido citrico, sia NAD+ che FAD vengono ridotti per formare NADH e FADH2, che sono poi utilizzati per produrre ATP."
+
+684:
+  kind: mc
+  text: "Qual è la fonte principale di acetil-CoA per il ciclo dell'acido citrico?"
+  options:
+    - Carboidrati
+    - Acidi grassi
+    - Degradazione di glucosio tramite la glicolisi
+    - Sintesi proteica
+  correct: 2
+  curiosity: "L'acetil-CoA può derivare dalla degradazione degli acidi grassi e dalla glicolisi, e fornisce il carbonio per il ciclo dell'acido citrico."
+
+685:
+  kind: mc
+  text: "Quale di queste affermazioni è vera riguardo al ciclo dell'acido citrico?"
+  options:
+    - Non produce ATP
+    - Avviene solo in condizioni aerobiche
+    - Contribuisce alla produzione di energia attraverso la respirazione cellulare
+    - Si svolge nel nucleo
+  correct: 2
+  curiosity: "Il ciclo dell'acido citrico è un processo aerobico che contribuisce alla produzione di energia sotto forma di ATP, NADH e FADH2."
+
+686:
+  kind: mc
+  text: "Cosa accade al succinato durante il ciclo dell'acido citrico?"
+  options:
+    - Viene convertito in malato
+    - Viene convertito in fumarato
+    - Viene ossidato a fumarato e produce FADH2
+    - Viene trasformato in citrato
+  correct: 2
+  curiosity: "Il succinato viene ossidato a fumarato, con la produzione di FADH2, che alimenta la catena di trasporto degli elettroni."
+
+687:
+  kind: mc
+  text: "Qual è l'importanza del ciclo dell'acido citrico nella respirazione cellulare?"
+  options:
+    - Produce solo CO2
+    - Rimuove l'ossigeno dal sistema
+    - Produce molecole energetiche e intermedi per altri processi metabolici
+    - Non ha importanza
+  correct: 2
+  curiosity: "Il ciclo dell'acido citrico è fondamentale per produrre molecole energetiche e intermedi che alimentano altre vie metaboliche, come la sintesi di aminoacidi."
+
+688:
+  kind: mc
+  text: "Qual è il principale ruolo dell'ATP prodotto nel ciclo dell'acido citrico?"
+  options:
+    - Attivare le proteine
+    - Inibire gli enzimi
+    - Fornire energia per le reazioni cellulari
+    - Trasportare ossigeno
+  correct: 2
+  curiosity: "L'ATP prodotto nel ciclo dell'acido citrico fornisce energia per una vasta gamma di processi cellulari, inclusi i movimenti e la sintesi molecolare."
+
+689:
+  kind: mc
+  text: "In quale fase del ciclo dell'acido citrico viene prodotto il GTP (che può essere convertito in ATP)?"
+  options:
+    - Durante la formazione di citrato
+    - Durante la decarbossilazione dell'ossalacetato
+    - Durante la conversione di succinil-CoA in succinato
+    - Durante la formazione di fumarato
+  correct: 2
+  curiosity: "Il GTP viene prodotto durante la conversione di succinil-CoA in succinato, che può essere convertito in ATP."
+
+690:
+  kind: mc
+  text: "Quale molecola viene utilizzata per rigenerare l'acetil-CoA?"
+  options:
+    - Amminoacidi
+    - Glucosio
+    - Acidi grassi
+    - Nessuna delle precedenti
+  correct: 2
+  curiosity: "Gli acidi grassi sono una fonte principale di acetil-CoA, che entra nel ciclo dell'acido citrico per produrre energia."
+
+691:
+  kind: mc
+  text: "Come interagisce il ciclo dell'acido citrico con la catena di trasporto degli elettroni?"
+  options:
+    - Non c'è alcuna interazione
+    - La catena di trasporto degli elettroni fornisce CO2 al ciclo
+    - I prodotti ridotti (NADH e FADH2) del ciclo alimentano la catena di trasporto degli elettroni
+    - Il ciclo utilizza ATP dalla catena di trasporto degli elettroni
+  correct: 2
+  curiosity: "I prodotti ridotti (NADH e FADH2) generati nel ciclo dell'acido citrico alimentano la catena di trasporto degli elettroni, dove viene prodotta ATP."
+
+692:
+  kind: mc
+  text: "Quale enzima catalizza la conversione di fumarato a malato?"
+  options:
+    - Succinato deidrogenasi
+    - Aconitasi
+    - Fumarasi
+    - Malato deidrogenasi
+  correct: 2
+  curiosity: "L'enzima fumarasi catalizza la conversione del fumarato in malato, un passaggio importante prima che il ciclo dell'acido citrico si chiuda."
+
+#FINALFIX
+
+693:
+  kind: mc
+  text: "Qual è la funzione principale del complesso mitocondriale?"
+  options:
+    - Sintesi di lipidi
+    - Produzione di proteine
+    - Produzione di ATP attraverso la respirazione cellulare
+    - Degradazione di acidi nucleici
+  correct: 2
+  curiosity: "Il complesso mitocondriale è essenziale per la produzione di ATP attraverso la respirazione cellulare, utilizzando l'ossigeno per generare energia."
+
+694:
+  kind: mc
+  text: "Dove si trova il complesso mitocondriale nella cellula?"
+  options:
+    - Nel citoplasma
+    - Nella membrana plasmatica
+    - Nella membrana interna dei mitocondri
+    - Nello spazio intermembrana
+  correct: 2
+  curiosity: "Il complesso mitocondriale si trova nella membrana interna dei mitocondri, dove avvengono le reazioni di respirazione cellulare."
+
+695:
+  kind: mc
+  text: "Quali sono i principali componenti della catena di trasporto degli elettroni nel complesso mitocondriale?"
+  options:
+    - Lipidi e carboidrati
+    - Acidi nucleici
+    - Proteine e coenzimi
+    - Aminoacidi e vitamine
+  correct: 2
+  curiosity: "La catena di trasporto degli elettroni è composta da una serie di proteine e coenzimi che trasferiscono gli elettroni per produrre ATP."
+
+696:
+  kind: mc
+  text: "Quale coenzima è fondamentale per il trasporto degli elettroni nel complesso mitocondriale?"
+  options:
+    - FAD
+    - NAD+
+    - Entrambi NAD+ e FAD
+    - Coenzima A
+  correct: 2
+  curiosity: "NAD+ e FAD sono coenzimi cruciali per il trasporto degli elettroni nella respirazione cellulare, riducendosi a NADH e FADH2."
+
+697:
+  kind: mc
+  text: "Qual è il ruolo della NADH nel complesso mitocondriale?"
+  options:
+    - Inibire la produzione di ATP
+    - Degradare il glucosio
+    - Fornire elettroni alla catena di trasporto degli elettroni
+    - Sintetizzare RNA
+  correct: 2
+  curiosity: "La NADH fornisce elettroni alla catena di trasporto degli elettroni, un passaggio fondamentale per la produzione di ATP."
+
+698:
+  kind: mc
+  text: "Quale complesso della catena di trasporto degli elettroni riduce il NAD+?"
+  options:
+    - Complesso II
+    - Complesso III
+    - Complesso I
+    - Complesso IV
+  correct: 2
+  curiosity: "Il Complesso I della catena di trasporto degli elettroni è responsabile della riduzione di NAD+ a NADH."
+
+699:
+  kind: mc
+  text: "Quale molecola viene prodotta durante il trasporto degli elettroni attraverso i complessi mitocondriali?"
+  options:
+    - Acido lattico
+    - Piruvato
+    - ATP
+    - Glucosio
+  correct: 2
+  curiosity: "Il principale prodotto della catena di trasporto degli elettroni è l'ATP, che è utilizzato dalle cellule come fonte di energia."
+
+700:
+  kind: mc
+  text: "Qual è la funzione dell'ATP sintasi nel complesso mitocondriale?"
+  options:
+    - Degradare ATP
+    - Trasportare protoni
+    - Sintetizzare ATP utilizzando un gradiente di protoni
+    - Ossidare NADH
+  correct: 2
+  curiosity: "L'ATP sintasi utilizza il gradiente di protoni (proton motive force) per sintetizzare ATP, che è essenziale per il metabolismo cellulare."
+
+701:
+  kind: mc
+  text: "Qual è la conseguenza di un blocco nel complesso IV della catena di trasporto degli elettroni?"
+  options:
+    - Aumento della produzione di ATP
+    - Maggiore consumo di glucosio
+    - Riduzione della produzione di ATP e accumulo di NADH
+    - Aumento della produzione di acido lattico
+  correct: 2
+  curiosity: "Il blocco del Complesso IV impedisce la riduzione dell'ossigeno a acqua, riducendo la produzione di ATP e causando l'accumulo di NADH."
+
+702:
+  kind: mc
+  text: "Qual è l'importanza del gradiente di protoni (proton motive force) generato dal complesso mitocondriale?"
+  options:
+    - Non ha importanza
+    - Serve solo per la produzione di glucosio
+    - Fornisce energia per la sintesi di ATP
+    - Favorisce il trasporto di lipidi
+  correct: 2
+  curiosity: "Il gradiente di protoni (proton motive force) fornisce l'energia necessaria per sintetizzare ATP, alimentando così i processi cellulari."
+
+703:
+  kind: mc
+  text: "Quale complesso mitocondriale è responsabile della riduzione di FAD a FADH2?"
+  options:
+    - Complesso I
+    - Complesso III
+    - Complesso II
+    - Complesso IV
+  correct: 2
+  curiosity: "Il Complesso II della catena di trasporto degli elettroni riduce il FAD a FADH2, che fornirà elettroni per la produzione di ATP."
+
+704:
+  kind: mc
+  text: "Qual è il prodotto finale della respirazione cellulare nei mitocondri?"
+  options:
+    - Piruvato
+    - Acido lattico
+    - ATP, acqua e CO2
+    - Glucosio
+  correct: 2
+  curiosity: "Il prodotto finale della respirazione cellulare è ATP, acqua e CO2. L'ossigeno agisce come accettore finale degli elettroni."
+
+705:
+  kind: mc
+  text: "Quale di queste affermazioni è vera riguardo al complesso mitocondriale?"
+  options:
+    - Non è coinvolto nella produzione di energia
+    - Funziona solo in assenza di ossigeno
+    - È essenziale per la produzione di ATP attraverso la fosforilazione ossidativa
+    - Produce solo NADH
+  correct: 2
+  curiosity: "Il complesso mitocondriale è essenziale per la produzione di ATP attraverso la fosforilazione ossidativa, che avviene in presenza di ossigeno."
+
+706:
+  kind: mc
+  text: "Qual è il ruolo del complesso III nella catena di trasporto degli elettroni?"
+  options:
+    - Trasportare ATP
+    - Produrre FADH2
+    - Trasferire elettroni dal coenzima Q al citocromo c
+    - Ridurre l'ossigeno
+  correct: 2
+  curiosity: "Il Complesso III trasferisce elettroni dal coenzima Q al citocromo c, un passaggio critico per la continuazione della catena di trasporto degli elettroni."
+
+708:
+  kind: mc
+  text: "Come si chiama il processo che utilizza l'energia dal gradiente di protoni per produrre ATP?"
+  options:
+    - Fosforilazione substrato
+    - Glicolisi
+    - Fosforilazione ossidativa
+    - Fermentazione
+  correct: 2
+  curiosity: "La fosforilazione ossidativa è il processo che utilizza il gradiente di protoni per produrre ATP, un passaggio cruciale nella respirazione cellulare."
+
+709:
+  kind: mc
+  text: "Qual è il ruolo dell'ossigeno nel complesso mitocondriale?"
+  options:
+    - Inibire la produzione di ATP
+    - Servire come substrato per la glicolisi
+    - Agire come accettore finale degli elettroni
+    - Degradare i lipidi
+  correct: 2
+  curiosity: "L'ossigeno agisce come accettore finale degli elettroni nella respirazione cellulare, riducendosi a acqua e consentendo la produzione di ATP."
+
+710:
+  kind: mc
+  text: "Che cosa accade ai complessi mitocondriali durante la mancanza di ossigeno?"
+  options:
+    - Produzione di ATP aumenta
+    - La catena di trasporto degli elettroni continua normalmente
+    - La produzione di ATP diminuisce e si avvia la fermentazione
+    - Non ci sono effetti
+  correct: 2
+  curiosity: "In assenza di ossigeno, la catena di trasporto degli elettroni si ferma, riducendo la produzione di ATP e avviando la fermentazione anaerobica."
+
+711:
+  kind: mc
+  text: "Quale enzima catalizza la conversione di ADP in ATP?"
+  options:
+    - Succinato deidrogenasi
+    - Citrato sintasi
+    - ATP sintasi
+    - Aconitasi
+  correct: 2
+  curiosity: "L'ATP sintasi catalizza la conversione di ADP in ATP utilizzando il gradiente di protoni generato durante la respirazione cellulare."
+
+712:
+  kind: mc
+  text: "Qual è l'importanza della compartimentalizzazione nel mitocondrio?"
+  options:
+    - Non ha importanza
+    - Permette solo la sintesi di proteine
+    - Ottimizza le reazioni metaboliche e la produzione di ATP
+    - Inibisce le reazioni chimiche
+  correct: 2
+  curiosity: "La compartimentalizzazione nel mitocondrio permette di ottimizzare le reazioni metaboliche e la produzione di ATP, separando i processi in spazi specifici."
+
+#FINALFIX
+
+713:
+  kind: mc
+  text: "Qual è la principale fonte di ATP per le cellule?"
+  options:
+    - Acidi grassi
+    - Aminoacidi
+    - Glucosio
+    - Acido lattico
+  correct: 2
+  curiosity: "Il glucosio è la principale fonte di ATP per le cellule, poiché la sua degradazione fornisce energia durante la respirazione cellulare."
+
+714:
+  kind: mc
+  text: "Dove avviene la produzione di ATP nella cellula?"
+  options:
+    - Nel nucleo
+    - Nel citoplasma
+    - Nei mitocondri
+    - Nella membrana plasmatica
+  correct: 2
+  curiosity: "La produzione di ATP avviene principalmente nei mitocondri, organelli specializzati per la respirazione cellulare."
+
+715:
+  kind: mc
+  text: "Qual è il processo attraverso il quale l'ATP viene sintetizzato nei mitocondri?"
+  options:
+    - Glicolisi
+    - Ciclo di Calvin
+    - Fosforilazione ossidativa
+    - Fermentazione
+  correct: 2
+  curiosity: "Nei mitocondri, l'ATP viene sintetizzato attraverso la fosforilazione ossidativa, che utilizza un gradiente di protoni."
+
+716:
+  kind: mc
+  text: "Qual è il ruolo della catena di trasporto degli elettroni nella produzione di ATP?"
+  options:
+    - Trasportare glucosio
+    - Produrre acidi grassi
+    - Generare un gradiente di protoni
+    - Degradare acidi nucleici
+  correct: 2
+  curiosity: "La catena di trasporto degli elettroni genera un gradiente di protoni che alimenta la sintesi di ATP attraverso l'ATP sintasi."
+
+717:
+  kind: mc
+  text: "Quale molecola funge da accettore finale di elettroni nella catena di trasporto degli elettroni?"
+  options:
+    - NADH
+    - FADH2
+    - O2 (ossigeno)
+    - CO2
+  correct: 2
+  curiosity: "L'ossigeno è l'accettore finale degli elettroni nella catena di trasporto, dove viene ridotto a acqua."
+
+718:
+  kind: mc
+  text: "Qual è la principale via attraverso cui il glucosio viene convertito in ATP?"
+  options:
+    - Ciclo di Calvin
+    - Ciclo dell'acido citrico
+    - Glicolisi
+    - Beta-ossidazione
+  correct: 2
+  curiosity: "Il glucosio viene principalmente convertito in ATP tramite la glicolisi, che avviene nel citoplasma della cellula."
+
+719:
+  kind: mc
+  text: "Quanti ATP vengono prodotti dalla glicolisi per ogni molecola di glucosio?"
+  options:
+    - 1
+    - 2
+    - 4 (netti: 2)
+    - 3
+  correct: 2
+  curiosity: "La glicolisi produce 4 ATP, ma ne consuma 2, portando a un guadagno netto di 2 ATP per molecola di glucosio."
+
+721:
+  kind: mc
+  text: "Quale di queste affermazioni è vera riguardo alla produzione di ATP?"
+  options:
+    - È un processo esclusivamente anaerobico
+    - Avviene solo nei mitocondri
+    - Può avvenire sia in presenza che in assenza di ossigeno
+    - Non è necessario alcun substrato
+  correct: 2
+  curiosity: "La produzione di ATP può avvenire sia in presenza che in assenza di ossigeno. In presenza di ossigeno, la respirazione cellulare è più efficiente."
+
+722:
+  kind: mc
+  text: "Durante quale fase della respirazione cellulare viene prodotto il maggior numero di ATP?"
+  options:
+    - Glicolisi
+    - Ciclo di Calvin
+    - Fosforilazione ossidativa
+    - Fermentazione
+  correct: 2
+  curiosity: "La fosforilazione ossidativa, che avviene nella membrana interna dei mitocondri, produce il maggior numero di ATP durante la respirazione cellulare."
+
+723:
+  kind: mc
+  text: "Qual è l'effetto della mancanza di ossigeno sulla produzione di ATP?"
+  options:
+    - Aumento della produzione di ATP
+    - Nessun cambiamento
+    - Riduzione della produzione di ATP e attivazione della fermentazione
+    - Produzione esclusiva di ATP da acidi grassi
+  correct: 2
+  curiosity: "In assenza di ossigeno, la produzione di ATP diminuisce, e la cellula avvia la fermentazione per generare ATP in modo anaerobico."
+
+724:
+  kind: mc
+  text: "Qual è la differenza tra fosforilazione substrato e fosforilazione ossidativa?"
+  options:
+    - La fosforilazione substrato avviene nei mitocondri
+    - La fosforilazione ossidativa non produce ATP
+    - La fosforilazione substrato produce ATP direttamente, mentre la fosforilazione ossidativa utilizza un gradiente di protoni
+    - Non ci sono differenze
+  correct: 2
+  curiosity: "La fosforilazione substrato produce ATP direttamente, mentre la fosforilazione ossidativa utilizza un gradiente di protoni per produrre ATP."
+
+725:
+  kind: mc
+  text: "Quanti ATP vengono prodotti dalla degradazione di un molecola di NADH nella catena di trasporto degli elettroni?"
+  options:
+    - 1
+    - 2
+    - 2,5
+    - 3
+  correct: 2
+  curiosity: "Ogni molecola di NADH produce circa 2,5 ATP durante il suo passaggio attraverso la catena di trasporto degli elettroni."
+
+726:
+  kind: mc
+  text: "Qual è il principale prodotto del ciclo dell'acido citrico oltre agli equivalenti ridotti?"
+  options:
+    - ATP
+    - Acido lattico
+    - CO2
+    - Piruvato
+  correct: 2
+  curiosity: "Il principale prodotto del ciclo dell'acido citrico, oltre agli equivalenti ridotti (NADH e FADH2), è il CO2, che viene espulso dalla cellula."
+
+727:
+  kind: mc
+  text: "Qual è la formula chimica dell'ATP?"
+  options:
+    - C6H12O6
+    - C5H10O5
+    - C10H12N5O13P3
+    - C4H10O4
+  correct: 2
+  curiosity: "La formula chimica dell'ATP è C10H12N5O13P3, che riflette la sua composizione di atomi di carbonio, idrogeno, azoto, ossigeno e fosforo."
+
+728:
+  kind: mc
+  text: "In quale parte del mitocondrio avviene la sintesi dell'ATP?"
+  options:
+    - Nella matrice
+    - Nello spazio intermembrana
+    - Nella membrana interna
+    - Nella membrana esterna
+  correct: 2
+  curiosity: "La sintesi dell'ATP avviene nella membrana interna del mitocondrio, dove si trova l'ATP sintasi."
+
+729:
+  kind: mc
+  text: "Qual è il ruolo della creatina fosfato nella produzione di ATP?"
+  options:
+    - Inibire la produzione di ATP
+    - Degradare il glucosio
+    - Fornire un gruppo fosfato per la sintesi rapida di ATP
+    - Ridurre l'ossigeno
+  correct: 2
+  curiosity: "La creatina fosfato fornisce un gruppo fosfato per la sintesi rapida di ATP, particolarmente utile nelle fasi iniziali dell'attività muscolare."
+
+730:
+  kind: mc
+  text: "Quale enzima è coinvolto nella fosforilazione ossidativa?"
+  options:
+    - Glicogeno fosforilasi
+    - Citocromo c
+    - ATP sintasi
+    - Aldolasi
+  correct: 2
+  curiosity: "L'ATP sintasi è l'enzima principale coinvolto nella fosforilazione ossidativa, catalizzando la sintesi di ATP."
+
+731:
+  kind: mc
+  text: "Qual è l'importanza del gradiente di protoni nella produzione di ATP?"
+  options:
+    - Non è importante
+    - Serve a ridurre l'ossigeno
+    - Fornisce energia per la sintesi di ATP
+    - Produce NADH
+  correct: 2
+  curiosity: "Il gradiente di protoni è fondamentale per la produzione di ATP, poiché fornisce l'energia necessaria per il funzionamento dell'ATP sintasi."
+
+732:
+  kind: mc
+  text: "Qual è il principale sottoprodotto della respirazione cellulare che avviene durante la produzione di ATP?"
+  options:
+    - Acido lattico
+    - Glucosio
+    - CO2
+    - Acidi grassi
+  correct: 2
+  curiosity: "Il principale sottoprodotto della respirazione cellulare è il CO2, che viene espulso dalla cellula come risultato del ciclo dell'acido citrico."
+
+#FINALFIX
+
+733:
+  kind: mc
+  text: "Qual è la funzione principale dei microtubuli nelle cellule?"
+  options:
+    - Trasporto di nutrienti
+    - Produzione di energia
+    - Supporto strutturale e movimento cellulare
+    - Sintesi proteica
+  correct: 2
+  curiosity: "I microtubuli forniscono supporto strutturale alla cellula e sono cruciali per il movimento cellulare e la divisione cellulare."
+
+734:
+  kind: mc
+  text: "Quali sono i principali componenti dei microtubuli?"
+  options:
+    - Actina
+    - Collagene
+    - Tubulina
+    - Cheratina
+  correct: 2
+  curiosity: "I microtubuli sono costituiti principalmente da tubulina, una proteina che forma strutture filiformi."
+
+735:
+  kind: mc
+  text: "Dove si trovano i microtubuli all'interno della cellula?"
+  options:
+    - Solo nel nucleo
+    - Nella membrana plasmatica
+    - Nel citoplasma e nel citoscheletro
+    - Solo negli organelli
+  correct: 2
+  curiosity: "I microtubuli si trovano principalmente nel citoplasma e fanno parte del citoscheletro, che conferisce forma e supporto alla cellula."
+
+736:
+  kind: mc
+  text: "Quale processo cellulare è facilitato dai microtubuli?"
+  options:
+    - Glicolisi
+    - Traduzione
+    - Divisione cellulare
+    - Trascrizione
+  correct: 2
+  curiosity: "I microtubuli sono fondamentali per la divisione cellulare, formando il fuso mitotico che separa i cromosomi."
+
+737:
+  kind: mc
+  text: "Quale struttura cellulare è formata da microtubuli?"
+  options:
+    - Membrana cellulare
+    - Rete endoplasmatica
+    - Fuso mitotico
+    - Apparato di Golgi
+  correct: 2
+  curiosity: "Il fuso mitotico è formato da microtubuli e svolge un ruolo chiave nel separare i cromosomi durante la mitosi."
+
+738:
+  kind: mc
+  text: "Qual è la proteina motrice che utilizza i microtubuli per il trasporto intracellulare?"
+  options:
+    - Actina
+    - Myosina
+    - Chinecina
+    - Dineina
+  correct: 2
+  curiosity: "La chinecina è una proteina motrice che utilizza i microtubuli per il trasporto di vescicole e organelli all'interno della cellula."
+
+739:
+  kind: mc
+  text: "Qual è il ruolo dei microtubuli nella divisione cellulare?"
+  options:
+    - Inibire la divisione
+    - Trasportare nutrienti
+    - Formare il fuso mitotico e separare i cromosomi
+    - Sintetizzare ATP
+  correct: 2
+  curiosity: "I microtubuli formano il fuso mitotico durante la divisione cellulare, che è fondamentale per separare i cromosomi."
+
+740:
+  kind: mc
+  text: "Quale di queste affermazioni è vera riguardo ai microtubuli?"
+  options:
+    - Sono stabili e non si modificano
+    - Sono formati da filamentosi di actina
+    - Sono dinamici e possono crescere e accorciarsi
+    - Non hanno alcuna funzione specifica
+  correct: 2
+  curiosity: "I microtubuli sono dinamici, in grado di crescere e accorciarsi rapidamente, il che è importante per il loro ruolo nei processi cellulari."
+
+741:
+  kind: mc
+  text: "Qual è la relazione tra microtubuli e centrioli?"
+  options:
+    - I centrioli sono composti da actina
+    - Non c'è relazione
+    - I centrioli sono organelli che organizzano i microtubuli
+    - I centrioli degradano i microtubuli
+  correct: 2
+  curiosity: "I centrioli sono organelli che organizzano i microtubuli durante la divisione cellulare, formando il fuso mitotico."
+
+742:
+  kind: mc
+  text: "Quale struttura cellulare è coinvolta nella motilità degli spermatozoi e contiene microtubuli?"
+  options:
+    - Flagello
+    - Ciglia
+    - Entrambi (flagello e ciglia)
+    - Citoplasma
+  correct: 2
+  curiosity: "Sia il flagello che le ciglia sono strutture cellulari che contengono microtubuli e sono coinvolte nei movimenti cellulari, come la motilità degli spermatozoi."
+
+743:
+  kind: mc
+  text: "Qual è il meccanismo di assemblaggio dei microtubuli?"
+  options:
+    - Associazione di molecole di actina
+    - Infiltrazione di lipidi
+    - Polimerizzazione della tubulina
+    - Degradazione di proteine
+  correct: 2
+  curiosity: "I microtubuli si assemblano attraverso la polimerizzazione della tubulina, una proteina che forma i filamenti."
+
+744:
+  kind: mc
+  text: "Quali sono le unità di base della tubulina?"
+  options:
+    - Dimero di actina
+    - Trimero di cheratina
+    - Dimero di tubulina (alfa e beta)
+    - Tetramero di colesterolo
+  correct: 2
+  curiosity: "Le unità di base della tubulina sono i dimero di tubulina, che consistono in una subunità alfa e una beta."
+
+745:
+  kind: mc
+  text: "Quale enzima è coinvolto nella disassemblaggio dei microtubuli?"
+  options:
+    - Glicogeno fosforilasi
+    - Proteasi
+    - Colchicina
+    - ATPasi
+  correct: 2
+  curiosity: "La colchicina è una sostanza che interferisce con la polimerizzazione della tubulina e blocca l'assemblaggio dei microtubuli."
+
+746:
+  kind: mc
+  text: "Qual è l'importanza dei microtubuli nella cellula?"
+  options:
+    - Non hanno funzione
+    - Sono coinvolti solo nella sintesi proteica
+    - Forniscono supporto strutturale e facilitano il movimento cellulare
+    - Sono esclusivamente per la trascrizione
+  correct: 2
+  curiosity: "I microtubuli sono cruciali per il supporto strutturale, il movimento cellulare, e la divisione cellulare."
+
+747:
+  kind: mc
+  text: "Quale struttura è responsabile dell'organizzazione dei microtubuli nel fuso mitotico?"
+  options:
+    - Nucleo
+    - Membrana plasmatica
+    - Centriolo
+    - Apparato di Golgi
+  correct: 2
+  curiosity: "I centrioli sono responsabili dell'organizzazione dei microtubuli nel fuso mitotico, necessario per separare i cromosomi."
+
+748:
+  kind: mc
+  text: "Come si chiamano le modifiche post-traduzionali che influenzano i microtubuli?"
+  options:
+    - Glicolisi
+    - Fosforilazione
+    - Acetilazione e destossificazione
+    - Deaminazione
+  correct: 2
+  curiosity: "Le modifiche post-traduzionali che influenzano i microtubuli includono fosforilazione e acetilazione, che regolano la loro stabilità."
+
+749:
+  kind: mc
+  text: "Quali malattie sono associate a disfunzioni nei microtubuli?"
+  options:
+    - Malattie cardiache
+    - Malattie infettive
+    - Malattie neurodegenerative e cancro
+    - Malattie respiratorie
+  correct: 2
+  curiosity: "Le disfunzioni nei microtubuli sono associate a malattie neurodegenerative come l'Alzheimer e anche a diversi tipi di cancro."
+
+750:
+  kind: mc
+  text: "Quale proteina lega i microtubuli per stabilizzarli?"
+  options:
+    - Actina
+    - Myosina
+    - MAP (proteine associate ai microtubuli)
+    - Clatrina
+  correct: 2
+  curiosity: "Le MAP (proteine associate ai microtubuli) legano i microtubuli per stabilizzarli e regolare il loro comportamento."
+
+751:
+  kind: mc
+  text: "Qual è la differenza tra microtubuli e microfilamenti?"
+  options:
+    - Non ci sono differenze
+    - I microtubuli sono più spessi dei microfilamenti
+    - I microtubuli sono formati da tubulina, mentre i microfilamenti sono formati da actina
+    - I microfilamenti sono più dinamici dei microtubuli
+  correct: 2
+  curiosity: "I microtubuli sono formati da tubulina, mentre i microfilamenti sono formati da actina, una proteina diversa."
+
+752:
+  kind: mc
+  text: "Qual è l'effetto della taxolo sui microtubuli?"
+  options:
+    - Stimola la loro formazione
+    - Non ha effetti
+    - Stabilizza i microtubuli e blocca la divisione cellulare
+    - Degrada i microtubuli
+  correct: 2
+  curiosity: "Il taxolo stabilizza i microtubuli e impedisce il loro disassemblaggio, bloccando la divisione cellulare, ed è usato come trattamento contro alcuni tumori."
+
+#FINALFIX
+
+753:
+  kind: mc
+  text: "Qual è la principale componente dei microfilamenti?"
+  options:
+    - Tubulina
+    - Cheratina
+    - Actina
+    - Collagene
+  correct: 2
+  curiosity: "I microfilamenti sono principalmente costituiti da actina, una proteina che forma filamenti sottili che supportano la cellula."
+
+754:
+  kind: mc
+  text: "Qual è la funzione principale dei microfilamenti nelle cellule?"
+  options:
+    - Supporto strutturale
+    - Produzione di ATP
+    - Movimento cellulare e contrazione muscolare
+    - Sintesi proteica
+  correct: 2
+  curiosity: "I microfilamenti sono coinvolti nel movimento cellulare e nella contrazione muscolare, contribuendo alla mobilità della cellula e dei muscoli."
+
+755:
+  kind: mc
+  text: "Dove si trovano principalmente i microfilamenti all'interno della cellula?"
+  options:
+    - Solo nel nucleo
+    - Nella membrana plasmatica
+    - Nel citoplasma e nel citoscheletro
+    - Solo negli organelli
+  correct: 2
+  curiosity: "I microfilamenti si trovano nel citoplasma e fanno parte del citoscheletro, che fornisce supporto alla cellula."
+
+756:
+  kind: mc
+  text: "Quale processo cellulare è facilitato dai microfilamenti?"
+  options:
+    - Glicolisi
+    - Divisione cellulare
+    - Cambiamento di forma e motilità cellulare
+    - Trascrizione
+  correct: 2
+  curiosity: "I microfilamenti sono cruciali per il cambiamento di forma e la motilità cellulare, contribuendo alla migrazione cellulare e ad altri processi dinamici."
+
+757:
+  kind: mc
+  text: "Quale di queste strutture è composta da microfilamenti?"
+  options:
+    - Microtubuli
+    - Centrioli
+    - Filopodi
+    - Ciglia
+  correct: 2
+  curiosity: "I filopodi sono estensioni cellulari che contengono microfilamenti e sono coinvolti nei movimenti di esplorazione della cellula."
+
+758:
+  kind: mc
+  text: "Qual è il ruolo dei microfilamenti nella motilità cellulare?"
+  options:
+    - Stabilizzare la membrana
+    - Trasportare nutrienti
+    - Fornire forza e forma alla cellula
+    - Degradare proteine
+  correct: 2
+  curiosity: "I microfilamenti conferiscono forza e forma alla cellula, supportando i movimenti di spostamento e la motilità."
+
+759:
+  kind: mc
+  text: "Qual è il processo attraverso il quale i microfilamenti si assemblano?"
+  options:
+    - Polimerizzazione dell'actina
+    - Degradazione della tubulina
+    - Associazione di monomeri di actina
+    - Sintesi proteica
+  correct: 2
+  curiosity: "I microfilamenti si assemblano attraverso l'associazione di monomeri di actina, che si polimerizzano per formare lunghe catene."
+
+760:
+  kind: mc
+  text: "Quale proteina motrice interagisce con i microfilamenti per il movimento cellulare?"
+  options:
+    - Dineina
+    - Tubulina
+    - Myosina
+    - Chinasi
+  correct: 2
+  curiosity: "La myosina è la proteina motrice che interagisce con i microfilamenti, facilitando il movimento cellulare, come nella contrazione muscolare."
+
+761:
+  kind: mc
+  text: "Qual è la funzione delle filopodie, che sono strutture derivate dai microfilamenti?"
+  options:
+    - Supporto strutturale
+    - Produzione di energia
+    - Movimenti di estensione e ricerca di substrati
+    - Sintesi di acidi nucleici
+  correct: 2
+  curiosity: "Le filopodie, derivate dai microfilamenti, aiutano la cellula a esplorare l'ambiente circostante e a cercare substrati per la motilità."
+
+762:
+  kind: mc
+  text: "Quale enzima è coinvolto nel rimodellamento dei microfilamenti?"
+  options:
+    - Proteasi
+    - Glicogeno fosforilasi
+    - Profilina
+    - ATPasi
+  correct: 2
+  curiosity: "La profilina è coinvolta nel rimodellamento dei microfilamenti, promuovendo l'assemblaggio di monomeri di actina."
+
+763:
+  kind: mc
+  text: "Qual è l'importanza dei microfilamenti nella divisione cellulare?"
+  options:
+    - Non hanno importanza
+    - Aiutano a trasportare il materiale genetico
+    - Formano il contratto anello durante la citodieresi
+    - Stabilizzano i microtubuli
+  correct: 2
+  curiosity: "Durante la divisione cellulare, i microfilamenti formano il contratto anello che separa le due cellule figlie durante la citodieresi."
+
+764:
+  kind: mc
+  text: "Quale delle seguenti affermazioni sui microfilamenti è vera?"
+  options:
+    - Sono stabili e non si modificano
+    - Sono formati da tubulina
+    - Sono dinamici e possono crescere e accorciarsi
+    - Non hanno alcuna funzione specifica
+  correct: 2
+  curiosity: "I microfilamenti sono dinamici e possono crescere o accorciarsi rapidamente, un processo che consente loro di rispondere ai cambiamenti cellulari."
+
+765:
+  kind: mc
+  text: "Come si chiamano le strutture contrattile presenti nei muscoli, costituite da microfilamenti?"
+  options:
+    - Microtubuli
+    - Sarcomeri
+    - Filamenti di actina e miosina
+    - Ciglia
+  correct: 2
+  curiosity: "I filamenti di actina e miosina formano i sarcomeri, le strutture contrattile dei muscoli, responsabili della contrazione muscolare."
+
+766:
+  kind: mc
+  text: "Qual è l'effetto della latrunculina sui microfilamenti?"
+  options:
+    - Stimola la loro formazione
+    - Stabilizza i microfilamenti
+    - Inibisce l'assemblaggio dei microfilamenti
+    - Non ha effetti
+  correct: 2
+  curiosity: "La latrunculina inibisce l'assemblaggio dei microfilamenti, interferendo con la polimerizzazione dell'actina."
+
+767:
+  kind: mc
+  text: "Quale proteina è coinvolta nella formazione di reti di microfilamenti?"
+  options:
+    - Tubulina
+    - Collagene
+    - Fodrina
+    - Glicogeno
+  correct: 2
+  curiosity: "La fodrina è una proteina che aiuta a formare reti di microfilamenti, contribuendo alla struttura e alla stabilità della cellula."
+
+768:
+  kind: mc
+  text: "Quale ruolo hanno i microfilamenti nella forma delle cellule?"
+  options:
+    - Non hanno alcun ruolo
+    - Stabilizzano la membrana
+    - Determinano la forma e la rigidità della cellula
+    - Facilitano il trasporto di materiali
+  correct: 2
+  curiosity: "I microfilamenti determinano la forma e la rigidità della cellula, conferendo stabilità e permettendo cambiamenti di forma durante i movimenti."
+
+769:
+  kind: mc
+  text: "Quali organelli utilizzano microfilamenti per il movimento?"
+  options:
+    - Mitocondri
+    - Lisosomi
+    - Vacuoli e cellule flagellate
+    - Ribosomi
+  correct: 2
+  curiosity: "Le vacuoli e le cellule flagellate utilizzano i microfilamenti per il movimento e la motilità."
+
+770:
+  kind: mc
+  text: "Qual è l'importanza dei microfilamenti nel processo di endocitosi?"
+  options:
+    - Non sono coinvolti
+    - Stabilizzano la membrana
+    - Aiutano a deformare la membrana per formare vescicole
+    - Degradano proteine
+  correct: 2
+  curiosity: "I microfilamenti aiutano a deformare la membrana cellulare durante il processo di endocitosi, facilitando la formazione di vescicole."
+
+771:
+  kind: mc
+  text: "Quale delle seguenti affermazioni è vera riguardo alla polimerizzazione degli actina?"
+  options:
+    - Avviene solo in condizioni anaerobiche
+    - Richiede solo ATP
+    - Avviene in presenza di ATP e ioni di magnesio
+    - Non è necessaria alcuna energia
+  correct: 2
+  curiosity: "La polimerizzazione dell'actina richiede ATP e ioni di magnesio, che forniscono l'energia necessaria per il processo."
+
+772:
+  kind: mc
+  text: "Qual è l'effetto della profilina sui microfilamenti?"
+  options:
+    - Inibisce la polimerizzazione
+    - Stabilizza i microfilamenti
+    - Promuove l'assemblaggio di actina
+    - Degrada i microfilamenti
+  correct: 2
+  curiosity: "La profilina promuove l'assemblaggio dei microfilamenti, facilitando la polimerizzazione dell'actina."
+
+#FINALFIX
+
+773:
+  kind: mc
+  text: "Qual è la funzione principale dei filamenti intermedi nelle cellule?"
+  options:
+    - Trasporto di nutrienti
+    - Produzione di energia
+    - Fornire supporto strutturale e stabilità
+    - Sintesi proteica
+  correct: 2
+  curiosity: "I filamenti intermedi sono essenziali per la stabilità strutturale delle cellule, fornendo resistenza meccanica contro stress fisici."
+
+774:
+  kind: mc
+  text: "Quali sono i principali componenti dei filamenti intermedi?"
+  options:
+    - Actina
+    - Tubulina
+    - Proteine fibrose (come cheratina e vimentina)
+    - Collagene
+  correct: 2
+  curiosity: "I filamenti intermedi sono composti da proteine fibrose come la cheratina e la vimentina, che forniscono resistenza e supporto alla cellula."
+
+775:
+  kind: mc
+  text: "Quale di queste affermazioni è vera riguardo ai filamenti intermedi?"
+  options:
+    - Sono dinamici e si assemblano rapidamente
+    - Sono composti principalmente da tubulina
+    - Hanno una funzione di supporto e resistenza meccanica
+    - Non hanno alcuna funzione specifica
+  correct: 2
+  curiosity: "I filamenti intermedi hanno una funzione di supporto strutturale e sono resistenti a forze di tensione, mantenendo la forma della cellula."
+
+776:
+  kind: mc
+  text: "Dove si trovano principalmente i filamenti intermedi all'interno della cellula?"
+  options:
+    - Solo nel nucleo
+    - Nella membrana plasmatica
+    - Nel citoplasma e nel nucleo
+    - Solo negli organelli
+  correct: 2
+  curiosity: "I filamenti intermedi sono distribuiti nel citoplasma e nel nucleo, formando una rete che sostiene la cellula."
+
+777:
+  kind: mc
+  text: "Quale tipo di cellule contiene filamenti intermedi di cheratina?"
+  options:
+    - Cellule muscolari
+    - Cellule nervose
+    - Cellule epiteliali
+    - Cellule adipose
+  correct: 2
+  curiosity: "Le cellule epiteliali contengono filamenti intermedi di cheratina, che forniscono resistenza e protezione contro le sollecitazioni meccaniche."
+
+778:
+  kind: mc
+  text: "Qual è il ruolo dei filamenti intermedi nella resistenza meccanica delle cellule?"
+  options:
+    - Non hanno alcun ruolo
+    - Trasportano nutrienti
+    - Forniscono un supporto strutturale contro le forze di tensione
+    - Stabilizzano i microtubuli
+  correct: 2
+  curiosity: "I filamenti intermedi forniscono supporto contro le forze di tensione, contribuendo alla resistenza meccanica delle cellule."
+
+779:
+  kind: mc
+  text: "Quale delle seguenti proteine è un componente dei filamenti intermedi?"
+  options:
+    - Actina
+    - Tubulina
+    - Vimentina
+    - Miosina
+  correct: 2
+  curiosity: "La vimentina è una proteina che compone i filamenti intermedi in cellule come quelle mesenchimali e alcuni tipi di cellule del tessuto connettivo."
+
+780:
+  kind: mc
+  text: "Quale tipo di filamento intermedio è presente nelle cellule nervose?"
+  options:
+    - Cheratina
+    - Vimentina
+    - Neurofilamenti
+    - Desmina
+  correct: 2
+  curiosity: "Le cellule nervose contengono neurofilamenti, che sono filamenti intermedi specifici per il supporto e la stabilità del citoscheletro neurale."
+
+781:
+  kind: mc
+  text: "Quale struttura è responsabile della formazione di giunzioni cellulari tramite filamenti intermedi?"
+  options:
+    - Microtubuli
+    - Membrana plasmatica
+    - Desmosomi
+    - Ciglia
+  correct: 2
+  curiosity: "I desmosomi sono strutture cellulari che ancorano i filamenti intermedi alle membrane cellulari, contribuendo alla coesione tra le cellule."
+
+782:
+  kind: mc
+  text: "Qual è l'effetto delle mutazioni nella proteina cheratina?"
+  options:
+    - Non hanno effetti
+    - Migliorano la stabilità cellulare
+    - Possono causare malattie della pelle come la epidermolisi bollosa
+    - Stimolano la divisione cellulare
+  correct: 2
+  curiosity: "Le mutazioni nella proteina cheratina possono causare malattie della pelle come l'epidermolisi bollosa, che porta a fragilità e danni alla pelle."
+
+783:
+  kind: mc
+  text: "Quale delle seguenti affermazioni è vera riguardo ai filamenti intermedi rispetto ai microtubuli?"
+  options:
+    - Sono più spessi dei microtubuli
+    - Sono meno stabili
+    - Sono meno dinamici e più resistenti
+    - Non hanno alcuna relazione
+  correct: 2
+  curiosity: "I filamenti intermedi sono meno dinamici e più resistenti rispetto ai microtubuli, che sono più coinvolti nel movimento cellulare."
+
+784:
+  kind: mc
+  text: "Come si chiamano le proteine che interagiscono con i filamenti intermedi per fornire stabilità?"
+  options:
+    - Actina
+    - Tubulina
+    - Proteine di legame come plectina
+    - Glicogeno
+  correct: 2
+  curiosity: "Le proteine di legame come la plectina interagiscono con i filamenti intermedi per stabilizzare e organizzare la struttura cellulare."
+
+785:
+  kind: mc
+  text: "Qual è il ruolo dei filamenti intermedi nel mantenimento della forma cellulare?"
+  options:
+    - Non hanno alcun ruolo
+    - Stabilizzano le membrane
+    - Forniscono supporto strutturale alla cellula
+    - Facilitano il trasporto di materiali
+  correct: 2
+  curiosity: "I filamenti intermedi sono cruciali per mantenere la forma e la stabilità strutturale della cellula, resistendo a forze meccaniche."
+
+786:
+  kind: mc
+  text: "Quale tipo di cellule utilizza filamenti intermedi di desmina?"
+  options:
+    - Cellule epiteliali
+    - Cellule nervose
+    - Cellule muscolari
+    - Cellule adipose
+  correct: 2
+  curiosity: "Le cellule muscolari utilizzano filamenti intermedi di desmina, che forniscono supporto strutturale durante la contrazione muscolare."
+
+787:
+  kind: mc
+  text: "Qual è l'effetto della colchicina sui filamenti intermedi?"
+  options:
+    - Stimola la loro formazione
+    - Stabilizza i filamenti intermedi
+    - Non ha effetto diretto sui filamenti intermedi, ma può influenzare i microtubuli
+    - Degrada i filamenti intermedi
+  correct: 2
+  curiosity: "La colchicina non ha effetto diretto sui filamenti intermedi, ma agisce sui microtubuli, interferendo con il loro assemblaggio."
+
+788:
+  kind: mc
+  text: "Quali malattie sono associate a disfunzioni nei filamenti intermedi?"
+  options:
+    - Malattie cardiache
+    - Malattie infettive
+    - Malattie della pelle e distrofie muscolari
+    - Malattie respiratorie
+  correct: 2
+  curiosity: "Disfunzioni nei filamenti intermedi sono associate a malattie della pelle e distrofie muscolari, come la epidermolisi bollosa e la distrofia muscolare."
+
+789:
+  kind: mc
+  text: "Qual è la relazione tra filamenti intermedi e citoscheletro?"
+  options:
+    - I filamenti intermedi non fanno parte del citoscheletro
+    - Sono esclusivamente per la sintesi proteica
+    - I filamenti intermedi sono una componente fondamentale del citoscheletro
+    - Stabilizzano i microtubuli e i microfilamenti
+  correct: 2
+  curiosity: "I filamenti intermedi sono una componente fondamentale del citoscheletro e contribuiscono alla stabilità e resistenza meccanica della cellula."
+
+790:
+  kind: mc
+  text: "Come si chiamano le proteine che formano i filamenti intermedi?"
+  options:
+    - Monomeri
+    - Dimero
+    - Tetramero di subunità proteiche
+    - Polimeri di zuccheri
+  correct: 2
+  curiosity: "I filamenti intermedi sono formati da tetrameri di subunità, che si assemblano in strutture resistenti alla tensione."
+
+791:
+  kind: mc
+  text: "Qual è l'importanza dei filamenti intermedi nella cellula?"
+  options:
+    - Non hanno alcuna funzione
+    - Sono coinvolti solo nella sintesi proteica
+    - Forniscono supporto strutturale e stabilizzano le cellule durante lo stress meccanico
+    - Sono esclusivamente per la trascrizione"
+  correct: 2
+  curiosity: "I filamenti intermedi forniscono supporto strutturale e proteggono le cellule dallo stress meccanico, garantendo la loro stabilità e resistenza."
+
+792:
+  kind: mc
+  text: "Quale proteina lega i filamenti intermedi alle giunzioni cellulari?"
+  options:
+    - Glicogeno
+    - Proteina di adesione
+    - Plectina
+    - Clatrina
+  correct: 2
+  curiosity: "La plectina è una proteina che lega i filamenti intermedi alle giunzioni cellulari, migliorando la stabilità della cellula."
+
+#FINALFIX
+
+793:
+  kind: mc
+  text: "Quali sono le fasi principali del ciclo cellulare?"
+  options:
+    - G1, S, G2 e M
+    - G1, M e G2
+    - S, M, G2
+    - Nessuna delle precedenti
+  correct: 0
+  curiosity: "Le fasi principali del ciclo cellulare sono G1 (crescita), S (replicazione del DNA), G2 (preparazione alla mitosi) e M (mitosi)."
+
+794:
+  kind: mc
+  text: "In quale fase del ciclo cellulare avviene la replicazione del DNA?"
+  options:
+    - G1
+    - S
+    - G2
+    - M
+  correct: 1
+  curiosity: "La fase S è dedicata alla replicazione del DNA, dove ogni cromosoma viene duplicato per prepararsi alla divisione."
+
+795:
+  kind: mc
+  text: "Qual è la funzione principale della fase G1 del ciclo cellulare?"
+  options:
+    - Divisione cellulare
+    - Replicazione del DNA
+    - Crescita cellulare e sintesi proteica
+    - Preparazione per la mitosi
+  correct: 2
+  curiosity: "Durante la fase G1, la cellula cresce e sintetizza proteine e altre molecole necessarie per la successiva divisione."
+
+796:
+  kind: mc
+  text: "Quale fase del ciclo cellulare è conosciuta come fase di sintesi?"
+  options:
+    - G1
+    - G2
+    - S
+    - M
+  correct: 2
+  curiosity: "La fase S è nota come la fase di sintesi, poiché durante questa fase avviene la replicazione del DNA."
+
+797:
+  kind: mc
+  text: "Durante quale fase avviene la mitosi?"
+  options:
+    - G1
+    - S
+    - G2
+    - M
+  correct: 3
+  curiosity: "La mitosi avviene durante la fase M, quando la cellula si divide in due cellule figlie identiche."
+
+798:
+  kind: mc
+  text: "Quale proteina regola il passaggio tra le diverse fasi del ciclo cellulare?"
+  options:
+    - DNA polimerasi
+    - RNA polimerasi
+    - Cicline
+    - Chinaso
+  correct: 2
+  curiosity: "Le cicline sono proteine che attivano le chinasi cicline-dipendenti (CDK), regolando così il passaggio tra le fasi del ciclo cellulare."
+
+799:
+  kind: mc
+  text: "Quale delle seguenti affermazioni è vera riguardo alla fase G2?"
+  options:
+    - È la fase di divisione cellulare
+    - Non avviene alcuna sintesi di proteine
+    - È una fase di preparazione per la mitosi
+    - La replicazione del DNA avviene in questa fase
+  correct: 2
+  curiosity: "La fase G2 è una fase di preparazione alla mitosi, durante la quale la cellula sintetizza proteine e verifica se il DNA è stato correttamente replicato."
+
+800:
+  kind: mc
+  text: "Quale di queste strutture è coinvolta nella separazione dei cromosomi durante la mitosi?"
+  options:
+    - Reticolo endoplasmatico
+    - Ribosomi
+    - Fuso mitotico
+    - Appartato di Golgi
+  correct: 2
+  curiosity: "Il fuso mitotico è una rete di microtubuli che separa i cromosomi durante la mitosi, assicurando che ogni cellula figlia riceva una copia identica del DNA."
+
+801:
+  kind: mc
+  text: "Qual è il ruolo delle cicline nel ciclo cellulare?"
+  options:
+    - Stabilizzano il DNA
+    - Degradano le proteine
+    - Attivano le chinasi cicline dipendenti (CDK)
+    - Inibiscono la mitosi
+  correct: 2
+  curiosity: "Le cicline attivano le CDK, che sono essenziali per regolare il passaggio delle cellule da una fase all'altra del ciclo cellulare."
+
+802:
+  kind: mc
+  text: "In quale fase del ciclo cellulare avviene la segregazione dei cromosomi?"
+  options:
+    - G1
+    - S
+    - M
+    - G2
+  correct: 2
+  curiosity: "La segregazione dei cromosomi avviene durante la mitosi, nella fase M, in cui i cromosomi si separano in due gruppi identici."
+
+803:
+  kind: mc
+  text: "Quale di queste fasi del ciclo cellulare è nota per la crescita cellulare?"
+  options:
+    - S
+    - M
+    - G1
+    - G2
+  correct: 2
+  curiosity: "La fase G1 è quella in cui la cellula cresce, accumulando risorse per la successiva replicazione del DNA."
+
+804:
+  kind: mc
+  text: "Cosa succede durante la fase di telofase?"
+  options:
+    - I cromosomi si condensano
+    - La mitosi inizia
+    - I nucleoli si riformano e il citoplasma inizia a dividersi
+    - La sintesi del DNA avviene
+  correct: 2
+  curiosity: "Durante la telofase, i nucleoli si riformano e inizia la divisione del citoplasma, completando la mitosi."
+
+805:
+  kind: mc
+  text: "Qual è il risultato finale del ciclo cellulare?"
+  options:
+    - Una cellula madre
+    - Due cellule figlie identiche
+    - Una cellula con DNA danneggiato
+    - Nessun cambiamento cellulare
+  correct: 1
+  curiosity: "Il ciclo cellulare si conclude con la divisione della cellula madre in due cellule figlie geneticamente identiche."
+
+806:
+  kind: mc
+  text: "Quale proteina è nota per inibire la progressione del ciclo cellulare in risposta a danni al DNA?"
+  options:
+    - Cicline
+    - CDK
+    - p53
+    - Ras
+  correct: 2
+  curiosity: "La proteina p53 rileva danni al DNA e arresta la progressione del ciclo cellulare per permettere la riparazione del DNA o l'apoptosi."
+
+807:
+  kind: mc
+  text: "Quale delle seguenti affermazioni sul ciclo cellulare è corretta?"
+  options:
+    - Il ciclo cellulare è un processo statico
+    - La mitosi avviene solo in cellule vegetali
+    - Il ciclo cellulare è regolato da segnali interni ed esterni
+    - La fase G1 è la fase di divisione cellulare
+  correct: 2
+  curiosity: "Il ciclo cellulare è regolato da segnali sia interni che esterni, che garantiscono che la cellula divida correttamente il suo materiale genetico."
+
+808:
+  kind: mc
+  text: "Qual è il ruolo del punto di controllo G1 nel ciclo cellulare?"
+  options:
+    - Controlla la replicazione del DNA
+    - Controlla la divisione cellulare
+    - Verifica se la cellula ha raggiunto una dimensione adeguata e non ha danni al DNA
+    - Verifica l'integrità dei cromosomi
+  correct: 2
+  curiosity: "Il punto di controllo G1 verifica se la cellula è pronta per iniziare la replicazione del DNA e passare alla fase S."
+
+809:
+  kind: mc
+  text: "Cosa accade durante la fase S del ciclo cellulare?"
+  options:
+    - La cellula cresce
+    - I cromosomi si separano
+    - Il DNA viene replicato
+    - La mitosi inizia
+  correct: 2
+  curiosity: "Durante la fase S, il DNA viene replicato per garantire che ogni cellula figlia abbia una copia completa del genoma."
+
+810:
+  kind: mc
+  text: "Quale tipo di divisione cellulare avviene nel ciclo cellulare?"
+  options:
+    - Mitosi
+    - Meiosi
+    - Entrambi
+    - Nessuno
+  correct: 2
+  curiosity: "Il ciclo cellulare culmina con la mitosi, che è la divisione cellulare per formare due cellule figlie identiche."
+
+811:
+  kind: mc
+  text: "Qual è la funzione principale della fase G2 del ciclo cellulare?"
+  options:
+    - Divisione cellulare
+    - Crescita cellulare
+    - Preparazione finale per la mitosi
+    - Sintesi di RNA
+  correct: 2
+  curiosity: "La fase G2 è una fase preparatoria per la mitosi, durante la quale la cellula verifica il DNA replicato e completa la preparazione per la divisione."
+
+812:
+  kind: mc
+  text: "Cosa segna l'inizio della mitosi nel ciclo cellulare?"
+  options:
+    - La fase G1
+    - La fase S
+    - La fase M
+    - La fase G2
+  correct: 2
+  curiosity: "La mitosi inizia con la fase M, dove la cellula inizia il processo di divisione del nucleo e dei cromosomi."
+
+#FINALFIX
+
+813:
+  kind: mc
+  text: "Qual è lo scopo principale della mitosi?"
+  options:
+    - Replicazione del DNA
+    - Sintesi proteica
+    - Divisione cellulare per generare cellule figlie identiche
+    - Trascrizione dell'RNA
+  correct: 2
+  curiosity: "Lo scopo della mitosi è la divisione della cellula madre in due cellule figlie identiche, garantendo la distribuzione corretta del materiale genetico."
+
+814:
+  kind: mc
+  text: "Quali sono le fasi principali della mitosi?"
+  options:
+    - G1, S, G2 e M
+    - G1, M e G2
+    - Profase, metafase, anafase e telofase
+    - S e G2
+  correct: 2
+  curiosity: "Le fasi principali della mitosi sono profase, metafase, anafase e telofase, che insieme portano alla divisione del nucleo."
+
+815:
+  kind: mc
+  text: "Durante quale fase della mitosi i cromosomi si allineano lungo il piano equatoriale della cellula?"
+  options:
+    - Profase
+    - Metafase
+    - Anafase
+    - Telofase
+  correct: 1
+  curiosity: "Durante la metafase, i cromosomi si allineano lungo il piano equatoriale della cellula, pronti per essere separati."
+
+816:
+  kind: mc
+  text: "Cosa avviene durante la profase della mitosi?"
+  options:
+    - I cromosomi si separano
+    - La membrana nucleare si ricompone
+    - I cromosomi si condensano e la membrana nucleare inizia a dissolversi
+    - La citocinesi inizia
+  correct: 2
+  curiosity: "Durante la profase, i cromosomi si condensano e la membrana nucleare inizia a dissolversi, preparando la cellula per le fasi successive della mitosi."
+
+817:
+  kind: mc
+  text: "Quale struttura è responsabile della separazione dei cromosomi durante la mitosi?"
+  options:
+    - Reticolo endoplasmatico
+    - Ribosomi
+    - Fuso mitotico
+    - Appartato di Golgi
+  correct: 2
+  curiosity: "Il fuso mitotico, formato da microtubuli, è la struttura che separa i cromosomi durante la mitosi."
+
+818:
+  kind: mc
+  text: "Durante quale fase della mitosi i centromeri si dividono e i cromosomi vengono tirati verso i poli opposti?"
+  options:
+    - Profase
+    - Metafase
+    - Anafase
+    - Telofase
+  correct: 2
+  curiosity: "Durante la anafase, i centromeri si dividono, e i cromatidi si separano e vengono tirati verso i poli opposti della cellula."
+
+819:
+  kind: mc
+  text: "Quale delle seguenti affermazioni è vera riguardo alla telofase?"
+  options:
+    - I cromosomi si condensano
+    - La mitosi inizia
+    - I cromosomi si decondensano e si formano nuove membrane nucleari
+    - La citocinesi inizia
+  correct: 2
+  curiosity: "Durante la telofase, i cromosomi si decondensano e si formano due nuove membrane nucleari attorno ai due set di cromosomi separati."
+
+820:
+  kind: mc
+  text: "Qual è il risultato finale della mitosi?"
+  options:
+    - Una cellula madre
+    - Due cellule figlie identiche
+    - Nessuna divisione cellulare
+    - Una cellula con DNA danneggiato
+  correct: 1
+  curiosity: "Il risultato finale della mitosi è la formazione di due cellule figlie identiche, ognuna con lo stesso numero di cromosomi della cellula madre."
+
+821:
+  kind: mc
+  text: "Qual è la differenza principale tra mitosi e meiosi?"
+  options:
+    - La mitosi si verifica solo nelle cellule vegetali
+    - La mitosi genera cellule aploidi
+    - La mitosi genera cellule diploidi identiche, mentre la meiosi genera cellule aploidi diverse
+    - Non ci sono differenze significative
+  correct: 2
+  curiosity: "La mitosi produce cellule diploidi identiche, mentre la meiosi produce cellule aploidi che sono geneticamente diverse, come negli spermatozoi e ovociti."
+
+822:
+  kind: mc
+  text: "Quale proteina è coinvolta nella formazione del fuso mitotico?"
+  options:
+    - Cheratina
+    - Actina
+    - Tubulina
+    - Collagene
+  correct: 2
+  curiosity: "La tubulina è una proteina che forma i microtubuli del fuso mitotico, che è essenziale per separare i cromosomi durante la mitosi."
+
+823:
+  kind: mc
+  text: "Durante quale fase della mitosi si forma il fuso mitotico?"
+  options:
+    - Profase
+    - Metafase
+    - Anafase
+    - Telofase
+  correct: 0
+  curiosity: "Il fuso mitotico si forma durante la profase, quando i microtubuli iniziano a organizzarsi per separare i cromosomi."
+
+824:
+  kind: mc
+  text: "Quale delle seguenti strutture scompare durante la profase?"
+  options:
+    - Nucleolo
+    - Membrana plasmatica
+    - Membrana nucleare
+    - Fuso mitotico
+  correct: 2
+  curiosity: "Durante la profase, la membrana nucleare si dissolve, permettendo ai cromosomi di essere separati dal resto della cellula."
+
+825:
+  kind: mc
+  text: "Cosa accade alla membrana nucleare durante la mitosi?"
+  options:
+    - Si espande
+    - Rimane inalterata
+    - Si disintegra durante la profase e si riforma durante la telofase
+    - Si ricompone durante la metafase
+  correct: 2
+  curiosity: "La membrana nucleare si disintegra durante la profase e si riforma durante la telofase, quando i cromosomi sono separati."
+
+826:
+  kind: mc
+  text: "Qual è il ruolo delle proteine cicline nella mitosi?"
+  options:
+    - Stimolare la replicazione del DNA
+    - Stabilizzare i microtubuli
+    - Regolare il passaggio attraverso le fasi del ciclo cellulare
+    - Degradare le cellule morte
+  correct: 2
+  curiosity: "Le cicline regolano il passaggio attraverso le fasi del ciclo cellulare attivando le chinasi cicline-dipendenti (CDK)."
+
+827:
+  kind: mc
+  text: "Cosa accade alla cellula durante la citocinesi?"
+  options:
+    - I cromosomi si separano
+    - La membrana nucleare si disintegra
+    - Il citoplasma si divide formando due cellule figlie
+    - I nucleoli si dissolvono
+  correct: 2
+  curiosity: "La citocinesi è il processo di divisione del citoplasma che porta alla formazione di due cellule figlie separate."
+
+828:
+  kind: mc
+  text: "Quale delle seguenti è una caratteristica distintiva della metafase?"
+  options:
+    - I cromosomi si decondensano
+    - La membrana nucleare è intatta
+    - I cromosomi sono allineati lungo il piano equatoriale
+    - I nucleoli si riformano
+  correct: 2
+  curiosity: "Durante la metafase, i cromosomi si allineano lungo il piano equatoriale della cellula, pronti per essere separati."
+
+829:
+  kind: mc
+  text: "Qual è la funzione dei microtubuli del fuso mitotico?"
+  options:
+    - Degradare i cromosomi
+    - Sintetizzare proteine
+    - Separare i cromosomi e tirali verso i poli opposti
+    - Stabilizzare la membrana nucleare
+  correct: 2
+  curiosity: "I microtubuli del fuso mitotico separano i cromosomi e li tirano verso i poli opposti della cellula."
+
+830:
+  kind: mc
+  text: "Quale di queste affermazioni è vera riguardo alla mitosi nelle cellule animali?"
+  options:
+    - Non avviene citocinesi
+    - I centrioli non sono presenti
+    - I filamenti di actina sono coinvolti nella citocinesi
+    - La mitosi avviene solo nelle cellule vegetali
+  correct: 2
+  curiosity: "Nei mammiferi, i filamenti di actina sono coinvolti nella citocinesi, aiutando a separare le due cellule figlie."
+
+831:
+  kind: mc
+  text: "Cosa succede ai cromosomi durante la telofase?"
+  options:
+    - Si condensano
+    - Rimangono in forma di cromatidi
+    - Si decondensano e la membrana nucleare si riforma
+    - Si duplicano
+  correct: 2
+  curiosity: "Durante la telofase, i cromosomi si decondensano e la membrana nucleare si riforma attorno ai due set di cromosomi."
+
+832:
+  kind: mc
+  text: "Qual è l'effetto della sostanza colchicina sulla mitosi?"
+  options:
+    - Stimola la formazione del fuso mitotico
+    - Promuove la mitosi
+    - Inibisce la formazione dei microtubuli e blocca la mitosi
+    - Non ha alcun effetto
+  correct: 2
+  curiosity: "La colchicina inibisce la formazione dei microtubuli, impedendo la separazione dei cromosomi e bloccando la mitosi."
+
+#FINALFIX
+
+833:
+  kind: mc
+  text: "Qual è lo scopo principale della meiosi?"
+  options:
+    - Replicazione del DNA
+    - Produzione di cellule somatiche
+    - Produzione di cellule aploidi per la riproduzione sessuale
+    - Divisione cellulare per la crescita
+  correct: 2
+  curiosity: "Lo scopo principale della meiosi è produrre cellule aploidi (spermatozoi e ovociti) per la riproduzione sessuale, riducendo il numero di cromosomi a metà."
+
+834:
+  kind: mc
+  text: "Quante divisioni cellulari avvengono durante il processo di meiosi?"
+  options:
+    - Una
+    - Due
+    - Tre
+    - Quattro
+  correct: 1
+  curiosity: "La meiosi comporta due divisioni cellulari, la meiosi I e la meiosi II, che portano alla formazione di quattro cellule aploidi."
+
+835:
+  kind: mc
+  text: "Durante quale fase della meiosi si verifica il crossing-over?"
+  options:
+    - Telofase I
+    - Metafase I
+    - Profase I
+    - Anafase II
+  correct: 2
+  curiosity: "Il crossing-over, o scambio di materiale genetico tra cromosomi omologhi, avviene durante la profase I della meiosi."
+
+836:
+  kind: mc
+  text: "Qual è il risultato finale della meiosi?"
+  options:
+    - Due cellule diploidi
+    - Una cellula diploide
+    - Quattro cellule aploidi
+    - Due cellule aploidi
+  correct: 2
+  curiosity: "Il risultato finale della meiosi è la produzione di quattro cellule aploidi, ognuna con metà del numero di cromosomi della cellula madre."
+
+837:
+  kind: mc
+  text: "Quale delle seguenti fasi è caratteristica della meiosi ma non della mitosi?"
+  options:
+    - Metafase
+    - Anafase
+    - Profase I con formazione di tetradi
+    - Telofase
+  correct: 2
+  curiosity: "La profase I della meiosi è unica, in quanto i cromosomi omologhi si associano per formare tetradi e avviene il crossing-over."
+
+838:
+  kind: mc
+  text: "Quale struttura è coinvolta nella separazione dei cromosomi durante la meiosi?"
+  options:
+    - Reticolo endoplasmatico
+    - Ribosomi
+    - Fuso meiotico
+    - Appartato di Golgi
+  correct: 2
+  curiosity: "Il fuso meiotico è responsabile della separazione dei cromosomi durante la meiosi, agendo attraverso i microtubuli."
+
+839:
+  kind: mc
+  text: "Durante quale fase della meiosi i cromosomi omologhi si separano?"
+  options:
+    - Profase I
+    - Metafase I
+    - Anafase I
+    - Telofase I
+  correct: 2
+  curiosity: "Durante la anafase I, i cromosomi omologhi si separano e vengono tirati verso i poli opposti della cellula."
+
+840:
+  kind: mc
+  text: "Qual è la differenza principale tra meiosi I e meiosi II?"
+  options:
+    - Solo meiosi I genera cellule aploidi
+    - Solo meiosi II coinvolge la replicazione del DNA
+    - Meiosi I separa cromosomi omologhi, mentre meiosi II separa cromatidi sorelle
+    - Meiosi I avviene solo negli organismi vegetali
+  correct: 2
+  curiosity: "La meiosi I separa i cromosomi omologhi, mentre la meiosi II separa i cromatidi sorelle, come avviene nella mitosi."
+
+841:
+  kind: mc
+  text: "Cosa avviene durante la metafase I della meiosi?"
+  options:
+    - I cromosomi si decondensano
+    - I cromosomi omologhi si allineano lungo il piano equatoriale
+    - I nucleoli si dissolvono
+    - La membrana nucleare si disintegra
+  correct: 1
+  curiosity: "Durante la metafase I, i cromosomi omologhi si allineano lungo il piano equatoriale della cellula, pronti per essere separati."
+
+842:
+  kind: mc
+  text: "Quale proteina è coinvolta nel mantenimento delle tetradi durante la profase I?"
+  options:
+    - Actina
+    - Tubulina
+    - Cohesina
+    - Chinaso
+  correct: 2
+  curiosity: "La cohesina è una proteina che tiene insieme i cromosomi omologhi, formando tetradi durante la profase I della meiosi."
+
+843:
+  kind: mc
+  text: "Cosa accade durante la telofase I della meiosi?"
+  options:
+    - I cromosomi si condensano
+    - La mitosi inizia
+    - I cromosomi si decondensano e si formano nuove membrane nucleari
+    - La citocinesi inizia
+  correct: 2
+  curiosity: "Durante la telofase I, i cromosomi si decondensano e si formano nuove membrane nucleari, preparando la cellula per la divisione finale."
+
+844:
+  kind: mc
+  text: "Qual è il ruolo del crossing-over nella meiosi?"
+  options:
+    - Produrre cellule somatiche
+    - Aumentare il numero di cromosomi
+    - Aumentare la variabilità genetica tra le cellule figlie
+    - Ridurre la diversità genetica
+  correct: 2
+  curiosity: "Il crossing-over aumenta la variabilità genetica, scambiando segmenti di cromosomi omologhi, il che porta a una maggiore diversità tra le cellule figlie."
+
+845:
+  kind: mc
+  text: "Durante quale fase della meiosi avviene la separazione dei cromatidi sorelle?"
+  options:
+    - Profase I
+    - Metafase I
+    - Anafase II
+    - Telofase I
+  correct: 2
+  curiosity: "La separazione dei cromatidi sorelle avviene durante la anafase II della meiosi, simile a quanto avviene nella mitosi."
+
+846:
+  kind: mc
+  text: "Quale delle seguenti affermazioni è vera riguardo alla meiosi?"
+  options:
+    - Produce cellule identiche
+    - Avviene solo in organismi unicellulari
+    - È un processo che genera diversità genetica
+    - Avviene solo nelle cellule vegetali
+  correct: 2
+  curiosity: "La meiosi è un processo fondamentale per la riproduzione sessuale e genera diversità genetica attraverso il crossing-over e la separazione dei cromosomi."
+
+847:
+  kind: mc
+  text: "Qual è il risultato finale della meiosi II?"
+  options:
+    - Due cellule diploidi
+    - Quattro cellule diploidi
+    - Quattro cellule aploidi
+    - Nessuna divisione cellulare
+  correct: 2
+  curiosity: "Il risultato finale della meiosi II è la formazione di quattro cellule aploidi, ognuna contenente metà del numero di cromosomi della cellula madre."
+
+848:
+  kind: mc
+  text: "Cosa rappresentano le tetradi durante la meiosi?"
+  options:
+    - Due cromatidi sorelle
+    - Due cromosomi omologhi
+    - Due cromosomi omologhi uniti da crossing-over
+    - Cromosomi duplicati
+  correct: 2
+  curiosity: "Le tetradi sono costituite da due cromosomi omologhi uniti da crossing-over, formando una struttura fondamentale per la profase I."
+
+849:
+  kind: mc
+  text: "Quale delle seguenti fasi della meiosi avviene dopo la meiosi I?"
+  options:
+    - Anafase I
+    - Metafase I
+    - Meiosi II
+    - Profase II
+  correct: 2
+  curiosity: "La meiosi II avviene dopo la fine della meiosi I e simula un processo simile alla mitosi, separando i cromatidi sorelle."
+
+850:
+  kind: mc
+  text: "Quale effetto ha la meiosi sulla variabilità genetica?"
+  options:
+    - La riduce
+    - La mantiene
+    - La aumenta
+    - Non ha alcun effetto
+  correct: 2
+  curiosity: "La meiosi aumenta la variabilità genetica, grazie al crossing-over e alla separazione casuale dei cromosomi."
+
+851:
+  kind: mc
+  text: "Cosa accade ai cromosomi durante la profase II?"
+  options:
+    - Si condensano
+    - Rimangono in forma di tetradi
+    - Si riassestano e la membrana nucleare inizia a dissolversi
+    - Si duplicano
+  correct: 2
+  curiosity: "Durante la profase II, i cromosomi si riassestano e la membrana nucleare inizia a dissolversi, preparando la cellula alla divisione finale."
+
+852:
+  kind: mc
+  text: "Qual è la funzione della citocinesi durante la meiosi?"
+  options:
+    - Separare i cromosomi
+    - Riunire i cromosomi
+    - Dividere il citoplasma tra le cellule figlie
+    - Allineare i cromosomi
+  correct: 2
+  curiosity: "La citocinesi durante la meiosi separa il citoplasma tra le cellule figlie, completando la divisione cellulare."
+
+#FINALFIX
+
+853:
+  kind: mc
+  text: "Cosa si intende per genoma non codificante?"
+  options:
+    - La parte del DNA che codifica per le proteine
+    - Il DNA presente solo negli organismi unicellulari
+    - La porzione di DNA che non codifica per proteine, ma può avere altre funzioni
+    - Il RNA che non partecipa alla sintesi proteica
+  correct: 2
+  curiosity: "Il genoma non codificante è costituito da porzioni di DNA che non codificano per proteine, ma possono avere funzioni importanti come la regolazione dell'espressione genica."
+
+854:
+  kind: mc
+  text: "Qual è una delle principali funzioni del genoma non codificante?"
+  options:
+    - Codificare gli enzimi
+    - Riparare il DNA danneggiato
+    - Regolare l'espressione genica
+    - Fornire energia alla cellula
+  correct: 2
+  curiosity: "Una delle funzioni principali del genoma non codificante è la regolazione dell'espressione genica, come avviene con microRNA e sequenze regolatrici."
+
+855:
+  kind: mc
+  text: "Quale tipo di RNA è prodotto da geni non codificanti?"
+  options:
+    - RNA messaggero (mRNA)
+    - RNA ribosomiale (rRNA)
+    - RNA non codificante (ncRNA)
+    - RNA di trasporto (tRNA)
+  correct: 2
+  curiosity: "I geni non codificanti producono RNA non codificanti (ncRNA), che ha ruoli regolatori e non codifica per proteine."
+
+856:
+  kind: mc
+  text: "Quale dei seguenti elementi è una parte significativa del genoma non codificante?"
+  options:
+    - Intron
+    - Esone
+    - Sequenze di ripetizione
+    - Codoni
+  correct: 2
+  curiosity: "Le sequenze di ripetizione, che comprendono regioni ripetitive nel genoma, sono una parte significativa del genoma non codificante e possono avere ruoli strutturali e regolatori."
+
+857:
+  kind: mc
+  text: "Cosa sono gli pseudogeni?"
+  options:
+    - Geni attivi che codificano proteine
+    - Geni che codificano RNA
+    - Geni non funzionali che hanno subito mutazioni
+    - Geni che hanno una funzione vitale
+  correct: 2
+  curiosity: "Gli pseudogeni sono geni che hanno subito mutazioni e non sono più funzionali, ma derivano da geni precedentemente attivi."
+
+858:
+  kind: mc
+  text: "Qual è il ruolo degli elementi trasponibili nel genoma non codificante?"
+  options:
+    - Codificare per proteine essenziali
+    - Stabilizzare la struttura del DNA
+    - Trasferirsi da una posizione all'altra nel genoma
+    - Regolare il metabolismo cellulare
+  correct: 2
+  curiosity: "Gli elementi trasponibili sono sequenze di DNA che si spostano all'interno del genoma, contribuendo alla variabilità genetica."
+
+859:
+  kind: mc
+  text: "Quali sono i microRNA (miRNA) e il loro ruolo?"
+  options:
+    - RNA che codificano per proteine
+    - RNA utilizzati per la sintesi di ribosomi
+    - RNA non codificanti che regolano l'espressione genica
+    - RNA coinvolti nella replicazione del DNA
+  correct: 2
+  curiosity: "I microRNA (miRNA) sono RNA non codificanti che regolano l'espressione genica, inibendo la traduzione di mRNA specifici."
+
+860:
+  kind: mc
+  text: "Cosa caratterizza i geni regolatori nel genoma non codificante?"
+  options:
+    - Sono tutti espressi in tutte le cellule
+    - Non sono coinvolti nella trascrizione
+    - Possono influenzare l'espressione di geni codificanti
+    - Non hanno alcuna funzione biologica
+  correct: 2
+  curiosity: "I geni regolatori non codificano per proteine ma influenzano l'espressione di altri geni, come accade con gli enhancer e i silencer."
+
+861:
+  kind: mc
+  text: "Quale percentuale del genoma umano è costituita da sequenze non codificanti?"
+  options:
+    - Circa il 1%
+    - Circa il 25%
+    - Circa il 98%
+    - Circa il 50%
+  correct: 2
+  curiosity: "Circa il 98% del genoma umano è costituito da sequenze non codificanti, la maggior parte delle quali svolge funzioni regolatorie."
+
+862:
+  kind: mc
+  text: "Cosa sono i long non-coding RNA (lncRNA)?"
+  options:
+    - RNA codificanti per proteine lunghe
+    - RNA di dimensioni medie che codificano per enzimi
+    - RNA non codificanti di lunghezza superiore a 200 nucleotidi
+    - RNA che partecipano alla traduzione
+  correct: 2
+  curiosity: "I long non-coding RNA (lncRNA) sono RNA non codificanti di lunghezza superiore a 200 nucleotidi, con ruoli regolatori complessi nell'espressione genica."
+
+863:
+  kind: mc
+  text: "Qual è la funzione principale delle sequenze di controllo (enhancer e silencer) nel genoma non codificante?"
+  options:
+    - Codificare per proteine di controllo
+    - Stabilizzare la struttura del DNA
+    - Regolare l'attività dei geni vicini
+    - Fornire energia alla cellula
+  correct: 2
+  curiosity: "Le sequenze di controllo come gli enhancer e i silencer regolano l'attività dei geni vicini, influenzando la loro espressione."
+
+864:
+  kind: mc
+  text: "Qual è una delle funzioni degli introni nel genoma?"
+  options:
+    - Non hanno alcuna funzione
+    - Sono utilizzati per la sintesi proteica
+    - Possono contenere sequenze che regolano l'espressione genica
+    - Sono sempre eliminati durante lo splicing
+  correct: 2
+  curiosity: "Gli introni, che vengono eliminati durante lo splicing, possono contenere sequenze che regolano l'espressione genica, influenzando la funzione del gene."
+
+865:
+  kind: mc
+  text: "Cosa rappresentano i centromeri nel genoma non codificante?"
+  options:
+    - Sequenze di DNA che codificano per proteine
+    - Regioni di RNA non codificante
+    - Regioni del DNA responsabili della separazione dei cromosomi durante la divisione cellulare
+    - Sequenze di DNA che partecipano alla replicazione
+  correct: 2
+  curiosity: "I centromeri sono regioni del DNA che non codificano per proteine, ma sono fondamentali per la separazione corretta dei cromosomi durante la divisione cellulare."
+
+866:
+  kind: mc
+  text: "Qual è il ruolo dei riboswitch nel genoma non codificante?"
+  options:
+    - Inibire la traduzione delle proteine
+    - Stabilizzare il DNA
+    - Regolare l'espressione genica in risposta a metaboliti
+    - Codificare per enzimi
+  correct: 2
+  curiosity: "I riboswitch sono sequenze non codificanti che regolano l'espressione genica in risposta alla presenza di metaboliti specifici."
+
+867:
+  kind: mc
+  text: "Cosa sono le sequenze di ripetizione nel genoma non codificante?"
+  options:
+    - Sequenze uniche che codificano per proteine
+    - Sequenze codificanti per RNA
+    - Sequenze che si ripetono più volte nel genoma, che possono avere ruoli strutturali e regolatori
+    - Sequenze che non vengono mai trascritte
+  correct: 2
+  curiosity: "Le sequenze di ripetizione si ripetono più volte nel genoma e possono avere funzioni strutturali o regolatorie, influenzando la stabilità del DNA."
+
+868:
+  kind: mc
+  text: "Qual è una funzione dei long interspersed nuclear elements (LINEs)?"
+  options:
+    - Codificare per proteine
+    - Stabilizzare il citoscheletro
+    - Agire come elementi trasponibili nel genoma
+    - Regolare il metabolismo cellulare
+  correct: 2
+  curiosity: "I long interspersed nuclear elements (LINEs) sono elementi trasponibili che si spostano all'interno del genoma, contribuendo alla variabilità genetica."
+
+869:
+  kind: mc
+  text: "Quale dei seguenti è un esempio di RNA non codificante?"
+  options:
+    - mRNA
+    - tRNA
+    - lncRNA
+    - rRNA
+  correct: 2
+  curiosity: "Il lncRNA (long non-coding RNA) è un esempio di RNA non codificante, che svolge un ruolo importante nella regolazione dell'espressione genica."
+
+870:
+  kind: mc
+  text: "Come possono le mutazioni nel genoma non codificante influenzare la salute?"
+  options:
+    - Non hanno alcun effetto
+    - Possono sempre portare a malattie genetiche
+    - Possono alterare l'espressione genica e contribuire a malattie complesse
+    - Hanno solo effetti positivi
+  correct: 2
+  curiosity: "Le mutazioni nel genoma non codificante possono alterare l'espressione genica, contribuendo a malattie complesse come il cancro e le malattie cardiovascolari."
+
+871:
+  kind: mc
+  text: "Quale dei seguenti è un metodo per studiare il genoma non codificante?"
+  options:
+    - Sequenziamento dell'intero genoma
+    - Analisi di proteine
+    - Analisi dell'espressione genica tramite RNA-Seq
+    - Studio della struttura cellulare
+  correct: 2
+  curiosity: "L'analisi dell'espressione genica tramite RNA-Seq permette di studiare il genoma non codificante, in particolare gli RNA non codificanti e i loro ruoli."
+
+872:
+  kind: mc
+  text: "Quale affermazione riguardo al genoma non codificante è vera?"
+  options:
+    - È completamente privo di funzione
+    - Non ha alcun effetto sull'evoluzione
+    - Ha ruoli fondamentali nella regolazione dell'espressione genica e nella diversità genetica
+    - È presente solo negli organismi unicellulari
+  correct: 2
+  curiosity: "Il genoma non codificante ha ruoli fondamentali nella regolazione dell'espressione genica e nella diversità genetica, influenzando l'evoluzione e la funzionalità cellulare."
+
+#FINALFIX
