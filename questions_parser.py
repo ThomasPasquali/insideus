@@ -1,6 +1,7 @@
 import yaml
 import subprocess
 import os
+import re
 import tempfile
 import argparse
 from dataclasses import dataclass
@@ -21,6 +22,28 @@ class Card:
         random.shuffle(self.options)
         if self.correct is not None:
             self.correct = self.options.index(correct_text)
+
+def tex_escape(text):
+    """
+        :param text: a plain text message
+        :return: the message escaped to appear correctly in LaTeX
+    """
+    conv = {
+        '&': r'\&',
+        '%': r'\%',
+        '$': r'\$',
+        '#': r'\#',
+        '_': r'\_',
+        '{': r'\{',
+        '}': r'\}',
+        '~': r'\textasciitilde{}',
+        '^': r'\^{}',
+        '\\': r'\textbackslash{}',
+        '<': r'\textless{}',
+        '>': r'\textgreater{}',
+    }
+    regex = re.compile('|'.join(re.escape(str(key)) for key in sorted(conv.keys(), key = lambda item: - len(item))))
+    return regex.sub(lambda match: conv[match.group()], text)
 
 def generate_tex(cards: list[Card]) -> str:
     tex = r"""
@@ -88,11 +111,12 @@ def generate_tex(cards: list[Card]) -> str:
                 OPTIONS
             \end{enumerate}}
             {CURIOSITY}"""
-        card_tex = card_tex.replace('QUESTION', c.text)
-        card_tex = card_tex.replace('CURIOSITY', c.curiosity if c.curiosity is not None else '')
+        card_tex = card_tex.replace('QUESTION', tex_escape(c.text))
+        card_tex = card_tex.replace('CURIOSITY', tex_escape(c.curiosity) if c.curiosity is not None else '')
         if c.options is not None:
             options_tex = []
             for j, o in enumerate(c.options):
+                o = tex_escape(str(o))
                 correct = c.correct is not None and c.correct == j
                 # options_tex.append(f'\\item {"\\textbf{" if correct else ""}{o}{"}" if correct else ""}')
                 options_tex.append(('\\bfseries ' if correct else '') + '\\item ' + str(o) + ('\\mdseries' if correct else ''))
@@ -106,10 +130,15 @@ def generate_tex(cards: list[Card]) -> str:
     return tex
 
 def generate_pdf(pdfname: str, cards: list[Card]):
-    print(generate_tex(cards))
+    tex = generate_tex(cards)
+    print(tex)
+
+    f = open("tmp.tex", "w+")
+    f.write(tex)
+    f.close()
     
     with tempfile.NamedTemporaryFile(delete_on_close=False) as f:
-        f.write(str.encode(generate_tex(cards)))
+        f.write(str.encode(tex))
         f.close()
         proc = subprocess.Popen(['pdflatex', f.name])
         proc.communicate()
