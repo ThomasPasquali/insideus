@@ -2,12 +2,12 @@
   kind: mc
   text: Qual è la principale differenza tra cellule procariote e cellule eucariote?
   options:
-    - Le cellule procariote non hanno nucleo
-    - Le cellule eucariote non hanno nucleo
+    - Le cellule procariote NON hanno nucleo
+    - Le cellule eucariote NON hanno nucleo
     - Entrambe hanno un nucleo
     - Nessuna delle precedenti
   correct: 0
-  curiosity: 
+  curiosity: Le cellule animali e vegetali sono eucariote
 
 2:
   kind: mc
@@ -18,18 +18,18 @@
     - Nei mitocondri
     - Nella membrana cellulare
   correct: 1
-  curiosity: 
+  curiosity: Il DNA nelle cellule procariote si trova in una regione specifica del citoplasma chiamata nucleoide
 
 3:
   kind: mc
   text: Quale delle seguenti strutture è presente solo nelle cellule eucariote?
   options:
     - Ribosomi
-    - Membrana cellulare
+    - Citoplasma
     - Mitocondri
-    - Parete cellulare
+    - Membrana cellulare
   correct: 2
-  curiosity: 
+  curiosity: Nella cellula procariote i ribosomi sono dispersi, mentre in quella eucariote sono addensati in un sistema di membrane
 
 4:
   kind: mc
@@ -40,18 +40,18 @@
     - 100-1000 micrometri
     - Nessuna delle precedenti
   correct: 0
-  curiosity: 
+  curiosity: La dimensione della cellula procariote rispetto a una mela è simile alla dimensione della mela rispetto alla Terra
 
-5:
-  kind: mc
-  text: Quale delle seguenti è una caratteristica delle cellule eucariote?
-  options:
-    - Sono prive di organelli membranosi
-    - Contengono il nucleo
-    - Sono più piccole delle cellule procariote
-    - Non contengono ribosomi
-  correct: 1
-  curiosity: 
+#5:
+ # kind: mc
+  #text: Quale delle seguenti è una caratteristica delle cellule eucariote?
+  #options:
+  #  - Sono prive di organelli membranosi
+  #  - Contengono il nucleo
+  #  - Sono più piccole delle cellule procariote
+  #  - NON contengono ribosomi
+  #correct: 1
+  #curiosity: 
 
 6:
   kind: mc
@@ -62,18 +62,18 @@
     - Batteri
     - Funghi
   correct: 2
-  curiosity: 
+  curiosity: "La cellula procariote è tipica di due gruppi di microorganismi: Batteri e Archaea"
 
 7:
   kind: mc
   text: Quale delle seguenti affermazioni è corretta?
   options:
-    - Le cellule eucariote sono esclusivamente unicellulari
-    - Le cellule procariote sono sempre pluricellulari
-    - Le cellule procariote possono essere sia unicellulari che pluricellulari
-    - Le cellule eucariote possono essere sia unicellulari che pluricellulari
+    - Gli eucarioti sono sempre unicellulari
+    - I procarioti sono sempre pluricellulari
+    - I procarioti possono essere sia unicellulari che pluricellulari
+    - Gli eucarioti possono essere sia unicellulari che pluricellulari
   correct: 3
-  curiosity: 
+  curiosity: Un organismo unicellulare è un organismo che svolge tutte le funzioni vitali in una sola cellula
 
 8:
   kind: mc
@@ -84,7 +84,7 @@
     - Entrambe
     - Nessuna
   correct: 0
-  curiosity: 
+  curiosity: Il sistema endomembranoso si occupa principalmente di produrre lipidi, enzimi e proteine
 
 9:
   kind: mc
@@ -93,31 +93,31 @@
     - Sintesi delle proteine
     - Riproduzione cellulare
     - Degradazione dei nutrienti
-    - Sintesi del DNA
-  correct: 0
-  curiosity: 
-
-10:
-  kind: mc
-  text: Quale delle seguenti strutture è tipicamente assente nelle cellule procariote?
-  options:
-    - Membrana cellulare
-    - Parete cellulare
-    - Nucleo
-    - Ribosomi
-  correct: 2
-  curiosity: 
-
-11:
-  kind: mc
-  text: Le cellule eucariote presentano…
-  options:
-    - DNA circolare
-    - DNA lineare
-    - DNA senza proteine
     - Nessuna delle precedenti
-  correct: 1
-  curiosity: 
+  correct: 0
+  curiosity: I ribosomi sono formati da 2 subunità
+
+# 10:
+#   kind: mc
+#   text: Quale delle seguenti strutture è tipicamente assente nelle cellule procariote?
+#   options:
+#     - Membrana cellulare
+#     - Parete cellulare
+#     - Nucleo
+#     - Ribosomi
+#   correct: 2
+#   curiosity: 
+
+# 11:
+#   kind: mc
+#   text: Le cellule eucariote presentano…
+#   options:
+#     - DNA circolare
+#     - DNA lineare
+#     - DNA senza proteine
+#     - Nessuna delle precedenti
+#   correct: 1
+#   curiosity: 
 
 12:
   kind: mc
@@ -128,86 +128,86 @@
     - Scissione binaria
     - Riproduzione sessuata
   correct: 2
-  curiosity: 
+  curiosity: La scissione binaria consiste nella divisione di una cellula in due cellule figlie uguali tra loro
 
-13:
-  kind: mc
-  text: Quale delle seguenti strutture è presente nelle cellule procariote ma non nelle eucariote?
-  options:
-    - Lisosomi
-    - Nucleo
-    - Nucleoide
-    - Apparato di Golgi
-  correct: 2
-  curiosity: 
+# 13:
+#   kind: mc
+#   text: Quale delle seguenti strutture è presente nelle cellule procariote ma non nelle eucariote?
+#   options:
+#     - Lisosomi
+#     - Nucleo
+#     - Nucleoide
+#     - Apparato di Golgi
+#   correct: 2
+#   curiosity: 
 
-14:
-  kind: mc
-  text: Dove avviene la respirazione cellulare nelle cellule procariote?
-  options:
-    - Nella membrana plasmatica
-    - Nei mitocondri
-    - Nei cloroplasti
-    - Nel nucleoide
-  correct: 0
-  curiosity: 
+# 14:
+#   kind: mc
+#   text: Dove avviene la respirazione cellulare nelle cellule procariote?
+#   options:
+#     - Nella membrana plasmatica
+#     - Nei mitocondri
+#     - Nei cloroplasti
+#     - Nel nucleoide
+#   correct: 0
+#   curiosity: 
 
 15:
   kind: mc
-  text: In quale delle seguenti cellule si trovano cloroplasti?
+  text: In quale delle seguenti cellule si trovano i cloroplasti?
   options:
-    - Cellule procariote fotosintetiche
+    - In tutte le cellule eucariote
     - Cellule eucariote vegetali
     - Cellule eucariote animali
-    - Tutte le cellule
+    - Sia nelle cellule eucariote che in quelle procariote
   correct: 1
-  curiosity: 
+  curiosity: I cloroplasti contengono la clorofilla che li rende di colore verde
 
-16:
-  kind: mc
-  text: I plasmidi sono…
-  options:
-    - Molecole di DNA accessorio presenti nelle cellule procariote
-    - Organelli delle cellule eucariote
-    - Parti del nucleo delle cellule eucariote
-    - Assenti in tutte le cellule
-  correct: 0
-  curiosity: 
+# 16:
+#   kind: mc
+#   text: I plasmidi sono…
+#   options:
+#     - Molecole di DNA accessorio presenti nelle cellule procariote
+#     - Organelli delle cellule eucariote
+#     - Parti del nucleo delle cellule eucariote
+#     - Assenti in tutte le cellule
+#   correct: 0
+#   curiosity: 
 
-17:
-  kind: mc
-  text: Quale delle seguenti affermazioni è vera riguardo ai procarioti?
-  options:
-    - Hanno quasi sempre una parete cellulare
-    - Non contengono ribosomi
-    - Possiedono un apparato di Golgi
-    - Hanno il DNA all'interno del nucleo
-  correct: 0
-  curiosity: 
+# 17:
+#   kind: mc
+#   text: Quale delle seguenti affermazioni è vera riguardo ai procarioti?
+#   options:
+#     - Hanno quasi sempre una parete cellulare
+#     - Non contengono ribosomi
+#     - Possiedono un apparato di Golgi
+#     - Hanno il DNA all'interno del nucleo
+#   correct: 0
+#   curiosity: 
 
-#FIXCURIOSITYABOVE
+#READY
 
-18:
-  kind: mc
-  text: Qual è la teoria principale sull'origine dei mitocondri e dei cloroplasti?
-  options:
-    - Si sono sviluppati dai lisosomi
-    - Derivano dall'endosimbiosi tra cellule primitive e batteri
-    - Sono derivati dall'evoluzione spontanea delle cellule eucariotiche
-    - Si sono formati grazie alla fotosintesi
-  correct: 1
-  curiosity: 
+# 18:
+#   kind: mc
+#   text: Qual è la teoria principale sull'origine dei mitocondri e dei cloroplasti?
+#   options:
+#     - Si sono sviluppati dai lisosomi
+#     - Derivano dall'endosimbiosi tra cellule primitive e batteri
+#     - Derivano dall'evoluzione spontanea delle cellule eucariotiche
+#     - Si sono formati grazie alla fotosintesi
+#   correct: 1
+#   curiosity: 
 
 19:
   kind: mc
   text: Quale tra questi organelli è direttamente coinvolto nell'origine endosimbiontica?
   options:
-    - Nucleo
-    - Apparato di Golgi
+    - Nucleo e cloroplasti
+    - Apparato di Golgi e mitocondri
     - Mitocondri e cloroplasti
-    - Ribosomi
+    - Ribosomi e nucleo
   correct: 2
-  curiosity: 
+  curiosity: L'endosimbiosi è una simbiosi in cui un organismo vive all'interno di un'altro organismo
 
 20:
   kind: mc
@@ -215,21 +215,21 @@
   options:
     - Cianobatteri
     - Archaea
-    - Batteri alfa-proteobatteri
+    - Proteobatteri
     - Clostridi
   correct: 2
-  curiosity: 
+  curiosity: In particolare si pensa che il mitocondrio derivi dal ``batterio viola'' , chiamato così per la sua pigmentazione rossastra
 
-21:
-  kind: mc
-  text: Quali prove supportano l'origine endosimbiontica dei mitocondri e dei cloroplasti?
-  options:
-    - Possiedono DNA circolare simile a quello batterico
-    - Sono organelli che svolgono la respirazione anaerobica
-    - Si trovano solo nelle cellule procariotiche
-    - Non hanno ribosomi
-  correct: 0
-  curiosity: 
+# 21:
+#   kind: mc
+#   text: Quali prove supportano l'origine endosimbiontica dei mitocondri e dei cloroplasti?
+#   options:
+#     - Possiedono DNA circolare simile a quello batterico
+#     - Sono organelli che svolgono la respirazione anaerobica
+#     - Si trovano solo nelle cellule procariotiche
+#     - Non hanno ribosomi
+#   correct: 0
+#   curiosity: 
 
 22:
   kind: mc
@@ -240,18 +240,18 @@
     - È circolare, come quello dei batteri
     - Non codifica proteine
   correct: 2
-  curiosity: 
+  curiosity: I mitocondri si replicano per scissione bianaria autonomamente rispetto alla cellula
 
-23:
-  kind: mc
-  text: Quale tra questi è un altro elemento che accomuna mitocondri, cloroplasti e batteri?
-  options:
-    - Non si dividono mai
-    - Si dividono per scissione binaria
-    - Non contengono ribosomi
-    - Sono presenti solo nelle piante
-  correct: 1
-  curiosity: 
+# 23:
+#   kind: mc
+#   text: Quale tra questi è un altro elemento che accomuna mitocondri, cloroplasti e batteri?
+#   options:
+#     - Non si dividono mai
+#     - Si dividono per scissione binaria
+#     - Non contengono ribosomi
+#     - Sono presenti solo nelle piante
+#   correct: 1
+#   curiosity: 
 
 24:
   kind: mc
@@ -262,7 +262,7 @@
     - Sintetizzano carboidrati
     - Immagazzinano acqua e sostanze di riserva
   correct: 0
-  curiosity: 
+  curiosity: I mitocondri furono scoperti nel 1857
 
 25:
   kind: mc
@@ -273,7 +273,7 @@
     - Sintetizzano proteine
     - Sono coinvolti nella digestione cellulare
   correct: 1
-  curiosity: 
+  curiosity: I cloroplasti hanno generalmente la forma di un disco piatto
 
 26:
   kind: mc
@@ -284,7 +284,7 @@
     - Clorofilla
     - Ribosomi
   correct: 2
-  curiosity: 
+  curiosity: Se una pianta cresce al buio si originano ezioplasti che contengono un precursore della clorofilla di colore giallo
 
 27:
   kind: mc
@@ -295,62 +295,62 @@
     - Non sono in grado di sintetizzare proteine
     - Sono più grandi di quelli degli eucarioti
   correct: 1
-  curiosity: 
+  curiosity: I ribosomi mitocondriali, come quelli batterici, sono sensibili ad alcuni antibiotici
 
-28:
-  kind: mc
-  text: Come si è formata la cellula eucariotica secondo la teoria endosimbiontica?
-  options:
-    - Attraverso la divisione dei procarioti
-    - Grazie alla mutazione dei batteri
-    - Per l'incorporazione di batteri aerobici e fotosintetici, che si sono evoluti in mitocondri e cloroplasti
-    - Per duplicazione del DNA nucleare
-  correct: 2
-  curiosity: 
+# 28:
+#   kind: mc
+#   text: Come si è formata la cellula eucariotica secondo la teoria endosimbiontica?
+#   options:
+#     - Attraverso la divisione dei procarioti
+#     - Grazie alla mutazione dei batteri
+#     - Per l'incorporazione di batteri aerobici e fotosintetici, che si sono evoluti in mitocondri e cloroplasti
+#     - Per duplicazione del DNA nucleare
+#   correct: 2
+#   curiosity: 
 
-29:
-  kind: mc
-  text: Quale organismo ha svolto un ruolo importante nell'origine dei cloroplasti?
-  options:
-    - Archaea
-    - Protozoi
-    - Funghi
-    - Cianobatteri
-  correct: 3
-  curiosity: 
+# 29:
+#   kind: mc
+#   text: Quale organismo ha svolto un ruolo importante nell'origine dei cloroplasti?
+#   options:
+#     - Archaea
+#     - Protozoi
+#     - Funghi
+#     - Cianobatteri
+#   correct: 3
+#   curiosity: 
 
-30:
-  kind: mc
-  text: Perché i mitocondri e i cloroplasti sono considerati semi-autonomi?
-  options:
-    - Contengono il proprio DNA e ribosomi
-    - Possono vivere autonomamente fuori dalla cellula
-    - Non dipendono dal nucleo per la produzione di energia
-    - Si dividono solo in condizioni anaerobiche
-  correct: 0
-  curiosity: 
+# 30:
+#   kind: mc
+#   text: Perché i mitocondri e i cloroplasti sono considerati semi-autonomi?
+#   options:
+#     - Contengono il proprio DNA e ribosomi
+#     - Possono vivere autonomamente fuori dalla cellula
+#     - Non dipendono dal nucleo per la produzione di energia
+#     - Si dividono solo in condizioni anaerobiche
+#   correct: 0
+#   curiosity: 
 
-31:
-  kind: mc
-  text: In quale tipo di cellula troviamo normalmente i cloroplasti?
-  options:
-    - Nelle cellule animali
-    - Nelle cellule vegetali e nelle alghe
-    - Nei batteri
-    - Nelle cellule fungine
-  correct: 1
-  curiosity: 
+# 31:
+#   kind: mc
+#   text: In quale tipo di cellula troviamo normalmente i cloroplasti?
+#   options:
+#     - Nelle cellule animali
+#     - Nelle cellule vegetali e nelle alghe
+#     - Nei batteri
+#     - Nelle cellule fungine
+#   correct: 1
+#   curiosity: 
 
-32:
-  kind: mc
-  text: Quale tra i seguenti processi è associato ai cloroplasti?
-  options:
-    - Ciclo di Krebs
-    - Catena di trasporto degli elettroni mitocondriale
-    - Ciclo di Calvin
-    - Sintesi di proteine
-  correct: 2
-  curiosity: 
+# 32:
+#   kind: mc
+#   text: Quale tra i seguenti processi è associato ai cloroplasti?
+#   options:
+#     - Ciclo di Krebs
+#     - Catena di trasporto degli elettroni mitocondriale
+#     - Ciclo di Calvin
+#     - Sintesi di proteine
+#   correct: 2
+#   curiosity: 
 
 33:
   kind: mc
@@ -361,53 +361,53 @@
     - Per scambio genetico diretto con i batteri
     - Attraverso l'endocitosi
   correct: 1
-  curiosity: 
+  curiosity: In alcuni casi si può ereditare il DNA mitocondriale anche dal padre
 
-34:
-  kind: mc
-  text: Cosa implica l'endosimbiosi seriale?
-  options:
-    - La fusione di due cellule eucariotiche
-    - L'ipotesi che i mitocondri si siano formati dopo i cloroplasti
-    - L'incorporazione sequenziale di vari simbionti nella cellula ospite
-    - La divisione dei mitocondri
-  correct: 2
-  curiosity: 
+# 34:
+#   kind: mc
+#   text: Cosa implica l'endosimbiosi seriale?
+#   options:
+#     - La fusione di due cellule eucariotiche
+#     - L'ipotesi che i mitocondri si siano formati dopo i cloroplasti
+#     - L'incorporazione sequenziale di vari simbionti nella cellula ospite
+#     - La divisione dei mitocondri
+#   correct: 2
+#   curiosity: 
 
-35:
-  kind: mc
-  text: "I mitocondri e i cloroplasti possiedono caratteristiche genetiche che ricordano:"
-  options:
-    - Le cellule animali
-    - I funghi
-    - I batteri
-    - Gli archeobatteri
-  correct: 2
-  curiosity: 
+# 35:
+#   kind: mc
+#   text: "I mitocondri e i cloroplasti possiedono caratteristiche genetiche che ricordano:"
+#   options:
+#     - Le cellule animali
+#     - I funghi
+#     - I batteri
+#     - Gli archeobatteri
+#   correct: 2
+#   curiosity: 
 
-36:
-  kind: mc
-  text: Perché si pensa che i mitocondri si siano formati prima dei cloroplasti?
-  options:
-    - Perché sono più complessi
-    - Perché la respirazione cellulare si è evoluta prima della fotosintesi
-    - Perché si trovano solo nelle piante
-    - Perché hanno più DNA
-  correct: 1
-  curiosity: 
+# 36:
+#   kind: mc
+#   text: Perché si pensa che i mitocondri si siano formati prima dei cloroplasti?
+#   options:
+#     - Perché sono più complessi
+#     - Perché la respirazione cellulare si è evoluta prima della fotosintesi
+#     - Perché si trovano solo nelle piante
+#     - Perché hanno più DNA
+#   correct: 1
+#   curiosity: 
 
-37:
-  kind: mc
-  text: Quale tra questi tipi di evidenze non è comunemente usato per supportare la teoria endosimbiontica?
-  options:
-    - Evidenze fossili
-    - Struttura e composizione del DNA
-    - Struttura dei ribosomi
-    - Modalità di divisione
-  correct: 0
-  curiosity: 
+# 37:
+#   kind: mc
+#   text: Quale tra questi tipi di evidenze non è comunemente usato per supportare la teoria endosimbiontica?
+#   options:
+#     - Evidenze fossili
+#     - Struttura e composizione del DNA
+#     - Struttura dei ribosomi
+#     - Modalità di divisione
+#   correct: 0
+#   curiosity: 
 
-#FIXCURIOSITYABOVE
+#READY
 
 39:
   kind: mc
@@ -418,29 +418,29 @@
     - Nei ribosomi
     - Nei mitocondri
   correct: 1
-  curiosity: 
+  curiosity: Se il DNA contenuto all'interno di una singola cellula venisse srotolato risulterebbe lungo 2 metri
 
-40:
-  kind: mc
-  text: Quale tra questi è un organello esclusivo delle cellule eucariotiche?
-  options:
-    - Ribosomi
-    - Apparato di Golgi
-    - Membrana cellulare
-    - Nucleoide
-  correct: 1
-  curiosity: 
+# 40:
+#   kind: mc
+#   text: Quale tra questi è un organello esclusivo delle cellule eucariotiche?
+#   options:
+#     - Ribosomi
+#     - Apparato di Golgi
+#     - Membrana cellulare
+#     - Nucleoide
+#   correct: 1
+#   curiosity: 
 
-41:
-  kind: mc
-  text: Qual è la funzione principale dei mitocondri nelle cellule eucariotiche?
-  options:
-    - Sintetizzare proteine
-    - Produrre energia sotto forma di ATP
-    - Degradare sostanze di rifiuto
-    - Riprodursi autonomamente
-  correct: 1
-  curiosity: 
+# 41:
+#   kind: mc
+#   text: Qual è la funzione principale dei mitocondri nelle cellule eucariotiche?
+#   options:
+#     - Sintetizzare proteine
+#     - Produrre energia sotto forma di ATP
+#     - Degradare sostanze di rifiuto
+#     - Riprodursi autonomamente
+#   correct: 1
+#   curiosity: 
 
 42:
   kind: mc
@@ -449,20 +449,20 @@
     - Piante
     - Batteri
     - Archaea
-    - Virus
+    - Tutte le precedenti
   correct: 0
-  curiosity: 
+  curiosity: Gli archei sono notevolmente impermeabili
 
-43:
-  kind: mc
-  text: Quale struttura cellulare è tipicamente presente solo nelle cellule vegetali eucariotiche?
-  options:
-    - Mitocondri
-    - Apparato di Golgi
-    - Cloroplasti
-    - Nucleo
-  correct: 2
-  curiosity: 
+# 43:
+#   kind: mc
+#   text: Quale struttura cellulare è tipicamente presente solo nelle cellule vegetali eucariotiche?
+#   options:
+#     - Mitocondri
+#     - Apparato di Golgi
+#     - Cloroplasti
+#     - Nucleo
+#   correct: 2
+#   curiosity: 
 
 44:
   kind: mc
@@ -473,7 +473,7 @@
     - Fosfolipidi
     - Glicogeno
   correct: 2
-  curiosity: 
+  curiosity: I fosfolipidi sono idrofobi da un lato e idrofili dall'altro
 
 45:
   kind: mc
@@ -484,29 +484,29 @@
     - Sintetizzare proteine
     - Degradare organelli danneggiati
   correct: 2
-  curiosity: 
+  curiosity: Il reticolo endoplasmatico rugoso si differenzia da quello liscio per la presenza di ribosomi
 
-46:
-  kind: mc
-  text: Dove avviene la sintesi delle proteine nella cellula eucariotica?
-  options:
-    - Nel nucleo
-    - Nei ribosomi
-    - Nei mitocondri
-    - Nell'apparato di Golgi
-  correct: 1
-  curiosity: 
+# 46:
+#   kind: mc
+#   text: Dove avviene la sintesi delle proteine nella cellula eucariotica?
+#   options:
+#     - Nel nucleo
+#     - Nei ribosomi
+#     - Nei mitocondri
+#     - Nell'apparato di Golgi
+#   correct: 1
+#   curiosity: 
 
-47:
-  kind: mc
-  text: Quale tra queste strutture è presente nelle cellule animali ma assente nelle cellule vegetali?
-  options:
-    - Parete cellulare
-    - Centrioli
-    - Nucleo
-    - Cloroplasti
-  correct: 1
-  curiosity: 
+# 47:
+#   kind: mc
+#   text: Quale tra queste strutture è presente nelle cellule animali ma assente nelle cellule vegetali?
+#   options:
+#     - Parete cellulare
+#     - Centrioli
+#     - Nucleo
+#     - Cloroplasti
+#   correct: 1
+#   curiosity: 
 
 48:
   kind: mc
@@ -517,7 +517,7 @@
     - Reticolo endoplasmatico liscio
     - Lisosoma
   correct: 1
-  curiosity: 
+  curiosity: L'apparato di Golgi è stato scoperto nel 1898
 
 49:
   kind: mc
@@ -528,18 +528,18 @@
     - Nelle cellule batteriche
     - Nelle cellule fungine
   correct: 0
-  curiosity: 
+  curiosity: "Nelle cellule vegetali mature il vacuolo arriva ad occupare tra l'80% e il 90% del volume interno della cellula"
 
-50:
-  kind: mc
-  text: Quale organello è responsabile della fotosintesi?
-  options:
-    - Mitocondrio
-    - Reticolo endoplasmatico liscio
-    - Cloroplasto
-    - Lisosoma
-  correct: 2
-  curiosity: 
+# 50:
+#   kind: mc
+#   text: Quale organello è responsabile della fotosintesi?
+#   options:
+#     - Mitocondrio
+#     - Reticolo endoplasmatico liscio
+#     - Cloroplasto
+#     - Lisosoma
+#   correct: 2
+#   curiosity: 
 
 51:
   kind: mc
@@ -550,7 +550,7 @@
     - Strato proteico
     - Strato glicoproteico
   correct: 0
-  curiosity: 
+  curiosity: Lo strato esterno della membrana nucleare e ricoperto di ribosomi
 
 52:
   kind: mc
@@ -561,18 +561,18 @@
     - Conservare energia
     - Sintetizzare DNA
   correct: 1
-  curiosity: 
+  curiosity: I lisosomi sono stati scoperti nel 1949
 
-53:
-  kind: mc
-  text: Quali delle seguenti strutture cellulari contengono DNA?
-  options:
-    - Lisosomi
-    - Mitocondri e nucleo
-    - Apparato di Golgi
-    - Reticolo endoplasmatico liscio
-  correct: 1
-  curiosity: 
+# 53:
+#   kind: mc
+#   text: Quali delle seguenti strutture cellulari contengono DNA?
+#   options:
+#     - Lisosomi
+#     - Mitocondri e nucleo
+#     - Apparato di Golgi
+#     - Reticolo endoplasmatico liscio
+#   correct: 1
+#   curiosity: 
 
 54:
   kind: mc
@@ -583,7 +583,7 @@
     - Reticolo endoplasmatico liscio
     - Apparato di Golgi
   correct: 2
-  curiosity: 
+  curiosity: Il reticolo endoplasmatico è formato da un sistema tridimensionale di membrane
 
 55:
   kind: mc
@@ -594,29 +594,29 @@
     - Degradare rifiuti cellulari
     - Sintetizzare proteine
   correct: 1
-  curiosity: 
+  curiosity: Il citoscheletro costituisce il fuso mitotico, essenziale per la divisione cellulare
 
-56:
-  kind: mc
-  text: Quale tra queste strutture è una caratteristica distintiva delle cellule eucariotiche?
-  options:
-    - Nucleoide
-    - Ribosomi 70S
-    - Nucleo
-    - Plasmide
-  correct: 2
-  curiosity: 
+# 56:
+#   kind: mc
+#   text: Quale tra queste strutture è una caratteristica distintiva delle cellule eucariotiche?
+#   options:
+#     - Nucleoide
+#     - Ribosomi 70S
+#     - Nucleo
+#     - Plasmide
+#   correct: 2
+#   curiosity: 
 
-57:
-  kind: mc
-  text: Dove si trovano i ribosomi nelle cellule eucariotiche?
-  options:
-    - Solo nel nucleo
-    - Nel citoplasma e sul reticolo endoplasmatico rugoso
-    - Solo nel citoplasma
-    - Solo all'interno dei mitocondri
-  correct: 1
-  curiosity: 
+# 57:
+#   kind: mc
+#   text: Dove si trovano i ribosomi nelle cellule eucariotiche?
+#   options:
+#     - Solo nel nucleo
+#     - Nel citoplasma e sul reticolo endoplasmatico rugoso
+#     - Solo nel citoplasma
+#     - Solo all'interno dei mitocondri
+#   correct: 1
+#   curiosity: 
 
 58:
   kind: mc
@@ -625,31 +625,31 @@
     - Non contengono organelli
     - Possono essere sia unicellulari che pluricellulari
     - Non hanno ribosomi
-    - Contengono DNA nel citoplasma
+    - Il loro DNA si trova esclusivamente nel citoplasma
   correct: 1
-  curiosity: 
+  curiosity: Il corpo umano è formato da circa 37,2 trilioni di cellule
 
-59:
-  kind: mc
-  text: Quale organello è responsabile della modificazione e del trasporto delle proteine?
-  options:
-    - Nucleo
-    - Apparato di Golgi
-    - Lisosoma
-    - Mitocondrio
-  correct: 1
-  curiosity: 
+# 59:
+#   kind: mc
+#   text: Quale organello è responsabile della modificazione e del trasporto delle proteine?
+#   options:
+#     - Nucleo
+#     - Apparato di Golgi
+#     - Lisosoma
+#     - Mitocondrio
+#   correct: 1
+#   curiosity: 
 
-60:
-  kind: mc
-  text: Quale tra queste cellule è un esempio di cellula eucariotica?
-  options:
-    - Cellula batterica
-    - Cellula fungina
-    - Cellula archea
-    - Virus
-  correct: 1
-  curiosity: 
+# 60:
+#   kind: mc
+#   text: Quale tra queste cellule è un esempio di cellula eucariotica?
+#   options:
+#     - Cellula batterica
+#     - Cellula fungina
+#     - Cellula archea
+#     - Virus
+#   correct: 1
+#   curiosity: 
 
 61:
   kind: mc
@@ -660,20 +660,20 @@
     - Parete cellulare
     - Lisosoma
   correct: 2
-  curiosity: 
+  curiosity: Le specie vegetali hanno una parete cellulare formata da 3 strati sovrapposti
 
-62:
-  kind: mc
-  text: Quale tra queste affermazioni è vera riguardo ai ribosomi delle cellule eucariotiche?
-  options:
-    - Sono identici ai ribosomi batterici
-    - Sono più grandi dei ribosomi procariotici
-    - Non sono necessari per la sintesi proteica
-    - Si trovano solo nel nucleo
-  correct: 1
-  curiosity: 
+# 62:
+#   kind: mc
+#   text: Quale tra queste affermazioni è vera riguardo ai ribosomi delle cellule eucariotiche?
+#   options:
+#     - Sono identici ai ribosomi batterici
+#     - Sono più grandi dei ribosomi procariotici
+#     - Non sono necessari per la sintesi proteica
+#     - Si trovano solo nel nucleo
+#   correct: 1
+#   curiosity: 
 
-#FIXCURIOSITYABOVE
+#READY
 
 63:
   kind: mc
@@ -684,7 +684,7 @@
     - Legame idrogeno
     - Forze di Van der Waals
   correct: 1
-  curiosity: 
+  curiosity: Gli atomi condividono gli elettroni finchè entrambi hanno 8 elettroni esterni
 
 64:
   kind: mc
@@ -692,22 +692,23 @@
   options:
     - Trasferimento di elettroni da un atomo a un altro
     - Condivisione di elettroni
-    - Presenza di un dipolo temporaneo
-    - Interazioni tra molecole polari
+    - Condivisione di protoni
+    - Tutte le precedenti
   correct: 0
-  curiosity: 
+  curiosity: Il costituente principale del sale da cucina è il cloruro di sodio ($NaCl$) che si forma grazie al legame ionico
 
-65:
-  kind: mc
-  text: Quale legame è più comune nelle molecole organiche?
-  options:
-    - Legame ionico
-    - Legame covalente
-    - Legame metallico
-    - Forze di Van der Waals
-  correct: 1
-  curiosity: 
+# 65:
+#   kind: mc
+#   text: Quale legame è più comune nelle molecole organiche?
+#   options:
+#     - Legame ionico
+#     - Legame covalente
+#     - Legame metallico
+#     - Forze di Van der Waals
+#   correct: 1
+#   curiosity: 
 
+  ############################################
 66:
   kind: mc
   text: Quale tipo di legame si forma tra molecole di acqua?

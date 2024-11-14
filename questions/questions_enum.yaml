@@ -1,0 +1,141 @@
+
+2001:
+  kind: enum
+  text: Elenca le differenze tra cellule procariote ed eucariote.
+  options:
+    - Le cellule eucariote hanno un nucleo delimitato da membrana
+    - Le cellule procariote NON contengono mitocondri
+    - I procarioti NON hanno citoscheletro
+    - Le cellule procariote sono più piccole di quelle eucariote
+
+2002:
+  kind: enum
+  text: Elenca le strutture presenti sia nelle cellule eucariote che in quelle procariote.
+  options:
+    - Ribosomi
+    - Membrana cellulare
+    - Citoplasma
+    - DNA
+
+2003:
+  kind: enum
+  text: Elenca i componenti del sistema endomembranoso.
+  options:
+    - Membrana cellulare
+    - Involucro nucleare
+    - Reticolo endoplasmatico
+    - Apparato del Golgi
+
+2004:
+  kind: enum
+  text: Elenca degli esempi di organismi unicellulari.
+  options:
+    - Eubatteri
+    - Archeobatteri
+    - Funghi unicellulari
+    - Alghe unicellulari
+
+#READY
+
+2005:
+  kind: enum
+  text: Elenca le caratteristiche che accomunano i mitocondri e i batteri
+  options:
+    - Contengono DNA circolare
+    - Contengono ribosomi propri
+    - Si replicano per scissione binaria
+    - I loro ribosomi sono sensibili ad alcuni antibiotici
+
+2006:
+  kind: enum
+  text: Elenca le differenze tra mitocondri e cloroplasti
+  options:
+    - I cloroplasti derivano da cianobatteri, i mitocondri da proteobatteri
+    - I cloroplasti si trovano solo nelle cellule animali/alghe 
+    - I cloroplasti contengono la clorofilla
+    - I cloroplasti svolgono la fotosintesi clorofilliana, i mitocondri la respirazione cellulare
+
+#READY
+
+2007:
+  kind: enum
+  text: Elenca cosa attraversa la membrana plasmatica delle cellule eucariotiche tramite ``libero passaggio''
+  options:
+    - Acqua ($H_2O$)
+    - Anidride carbonica ($CO_2$)
+    - Diossigeno ($O_2$)
+    - Etanolo ($C_2H_6O$)
+
+2008:
+  kind: enum
+  text: Elenca le funzioni del citoscheletro
+  options:
+    - Dare struttura e sostegno alla cellula
+    - Rinforza la membrana plasmatica
+    - Consente il movimento di alcuni organelli
+    - Costituisce i sarcomeri (che permettono la contrazione muscolare)
+
+#READY
+
+2009:
+  kind: enum
+  text: Elenca i legami chimici che si possono formare tra atomi
+  options:
+    - Legame ionico
+    - Legame covalente puro
+    - Legame idrogeno
+    - Legame covalente polare
+
+2010:
+  kind: enum
+  text: Elenca 
+  options:
+    - 
+    - 
+    - 
+    -
+
+2011:
+  kind: enum
+  text: Elenca 
+  options:
+    - 
+    - 
+    - 
+    -
+
+2012:
+  kind: enum
+  text: Elenca 
+  options:
+    - 
+    - 
+    - 
+    -
+
+20013:
+  kind: enum
+  text: Elenca 
+  options:
+    - 
+    - 
+    - 
+    -
+
+20014:
+  kind: enum
+  text: Elenca 
+  options:
+    - 
+    - 
+    - 
+    -
+
+2015:
+  kind: enum
+  text: Elenca 
+  options:
+    - 
+    - 
+    - 
+    -

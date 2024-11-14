@@ -1,0 +1,116 @@
+
+1001:
+  kind: tf
+  text: Le cellule procariote NON hanno il nucleo delimitato da membrana
+  correct: 0
+  curiosity: Le cellule procariote  hanno il DNA nel citoplasma, in una regione chiamata nucleoide
+
+1002:
+  kind: tf
+  text: Le cellule procariote NON hanno il citoplasma
+  correct: 1
+  curiosity: Le cellule procariote hanno il citoplasma ma il citoscheletro è presente in una forma più semplice e primitiva o assente
+
+1003:
+  kind: tf
+  text: Le cellule animali sono di tipo eucariote
+  correct: 0
+  curiosity: Nelle cellule animali NON sono presenti la parete cellulare, i cloroplasti e il vacuolo che invece sono presenti nelle cellule vegetali
+
+1004:
+  kind: tf
+  text: I mitocondri fanno parte del sistema endomembranoso
+  correct: 1
+  curiosity: Il DNA mitocondriale umano si eredita dalla madre
+
+1005:
+  kind: tf
+  text: I ribosomi sono responsabili della sintesi proteica
+  correct: 0
+  curiosity: Il termine ``ribosoma'' fu proposto nel 1958
+ 
+1006:
+  kind: tf
+  text: Le cellule procariote si riproducono principalmente per meiosi
+  correct: 1
+  curiosity: Nella meiosi una cellula diploide dà origine a 4 cellule figlie aploidi
+ 
+1007:
+  kind: tf
+  text: Le cellule eucariote vegetali contengono cloroplasti
+  correct: 0
+  curiosity: All'interno dei cloroplasti avviene la fotosintesi clorofilliana, cioè il processo in cui l'energia luminosa viene convertita in energia chimica
+ 
+ # READY
+ 
+1008:
+  kind: tf
+  text: I mitocondri derivano dai cianobatteri
+  correct: 1
+  curiosity: Sono i cloroplasti che derivano dai cianobatteri, i mitocondri derivano dai ``batteri viola''
+   
+1009:
+  kind: tf
+  text: I mitocondri si considerano la ``centrale elettrica della cellula''
+  correct: 0
+  curiosity: I mitocondri sono stati definiti in questo modo nel 1957
+     
+1010:
+  kind: tf
+  text: Il DNA delle cellule eucariote si trova nel nucleoide
+  correct: 1
+  curiosity: Se si srotolassero e mettessero in fila e tutte le molecole di DNA contenute nel nostro organismo, nel complesso sarebbero lunghe circa 107 miliardi di chilometri  
+     
+1011:
+  kind: tf
+  text: I mitocondri e i cloroplasti sono considerati semi-autonomi
+  correct: 0
+  curiosity: Si pensa che i mitocondri si siano formati prima dei cloroplasti
+     
+#READY
+
+1012:
+  kind: tf
+  text: I fosfolipidi sono esclusivamente idrofobi
+  correct: 1
+  curiosity: I fosfolipidi hanno la testa idrofila e la coda idrofoba
+     
+1013:
+  kind: tf
+  text: Al microscopio elettronico l'apparato di Golgi appare come una sfera
+  correct: 1
+  curiosity: L'apparato di Golgi appare come una serie di singoli foglietti membranosi compattati e impilati
+     
+1014:
+  kind: tf
+  text: I lisosomi rappresentano il sistema digerente della cellula
+  correct: 0
+  curiosity: I lisosomi si occupano del riciclaggio degli altri organelli della cellula stessa
+     
+1015:
+  kind: tf
+  text: Il citoscheletro dà struttura e supporto alla cellula
+  correct: 0
+  curiosity: Il citoscheletro interagisce con l'ambiente extracellulare
+     
+#READY
+
+1016:
+  kind: tf
+  text: Nel legame ionico gli atomi condividono elettroni
+  correct: 1
+  curiosity: Il legame covalente, nel quale gli atomi condividono elettroni, è il legame chimico più forte
+     
+1017:
+  kind: tf
+  text: Le forze di Van Der Waals sono interazioni elettromagnetiche deboli
+  correct: 0
+  curiosity: Le forze di Van Der Waals sono state descritte per la prima volta nel 1873
+     
+1018:
+  kind: tf
+  text: 
+  correct: 0
+  curiosity: 
+
+
