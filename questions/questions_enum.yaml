@@ -88,54 +88,284 @@
 
 2010:
   kind: enum
-  text: Elenca 
+  text: Elenca i principali elementi chimici che costituiscono gli esseri viventi
   options:
-    - 
-    - 
-    - 
-    -
+    - Carbonio
+    - Ossigeno
+    - Azoto
+    - Idrogeno
 
 2011:
   kind: enum
-  text: Elenca 
+  text: Elenca le proprietà dell'acqua
   options:
-    - 
-    - 
-    - 
-    -
+    - Tensione superficiale
+    - Ottimo solvente
+    - Capacità termica
+    - Capillarità
+
+#READY
 
 2012:
   kind: enum
-  text: Elenca 
+  text: Elenca soluzioni con il pH neutro
   options:
-    - 
-    - 
-    - 
-    -
-
-20013:
+    - Latte
+    - Acqua
+    - Sangue
+    - Saliva
+2013:
   kind: enum
-  text: Elenca 
+  text: Elenca soluzioni con il pH acido 
   options:
-    - 
-    - 
-    - 
-    -
+    - Succo gastrico
+    - Succo di limone
+    - Coca Cola
+    - Aceto
 
-20014:
+2014:
   kind: enum
-  text: Elenca 
+  text: Elenca soluzioni con il pH basico 
   options:
-    - 
-    - 
-    - 
-    -
+    - Candeggina
+    - Ammoniaca
+    - Varechina
+    - Soda caustica
 
 2015:
   kind: enum
-  text: Elenca 
+  text: Elenca come possono essere classificate le sostanze in base al loro pH
+  options:
+    - Basiche
+    - Neutre
+    - Acide
+    - Fortemente basiche
+
+#READY
+
+
+2016:
+  kind: enum
+  text: Elenca le tipologie di macromolecole
+  options:
+    - Polisaccaridi
+    - Lipidi
+    - Proteine
+    - Acidi nucleici
+
+2017:
+  kind: enum
+  text: Elenca le tipologie di monomeri
+  options:
+    - Monosaccaridi
+    - Nucleotidi
+    - Amminoacidi
+    - Acidi grassi
+
+2018:
+  kind: enum
+  text: Elenca i legami che si possono formare tra monomeri
+  options:
+    - Legame fosfodiesterico
+    - Legame peptidico
+    - Legame glicosidico
+    - Legame estere
+
+2019:
+  kind: enum
+  text: Elenca dei polisaccaridi
+  options:
+    - Amido
+    - Cellulosa
+    - Glicogeno
+    - Chitina
+
+2020:
+  kind: enum
+  text: Elenca dei nucleotidi
+  options:
+    - Adenina
+    - Guanina
+    - Citosina
+    - Uracile
+
+2021:
+  kind: enum
+  text: Elenca delle proteine
+  options:
+    - Collagene
+    - Emoglobina
+    - Cheratina
+    - Anticorpi
+
+#READY
+
+2022:
+  kind: enum
+  text: Elenca i vari tipi di RNA
+  options:
+    - RNA messaggero (mRNA)
+    - RNA ribosomiale (rRNA)
+    - RNA di trasporto (tRNA)
+    - microRNA (miRNA)
+
+#READY
+
+2023:
+  kind: enum
+  text: Elenca dei carboidrati
+  options:
+    - Saccarosio
+    - Fruttosio
+    - Glucosio
+    - Amido
+
+#READY
+
+2024:
+  kind: enum
+  text: Elenca le funzioni dei lipidi
+  options:
+    - Riserva energetica
+    - Isolamento termico
+    - Regolazione della crescita e dello sviluppo (steroidi)
+    - Formazione delle membrane cellulari
+
+2025:
+  kind: enum
+  text: Elenca dei steroidi
+  options:
+    - Testosterone
+    - Estradiolo
+    - Progesterone
+    - Cortisolo
+
+2026:
+  kind: enum
+  text: Elenca delle caratteristiche dei fosfolipidi
+  options:
+    - Possiedono un'estremità idrofila e due code idrofobiche
+    - Costituiscono le membrane cellulari
+    - La testa è polare
+    - La testa è formata da un gruppo fosfato e un gruppo amminico
+
+#READY
+
+2027:
+  kind: enum
+  text: Elenca le strutture proteiche
+  options:
+    - Struttura primaria
+    - Struttura secondaria
+    - Struttura terziaria
+    - Struttura quaternaria
+
+2028:
+  kind: enum
+  text: Elenca da cosa sono composti gli amminoacidi
+  options:
+    - Gruppo amminico ($NH_3^+$)
+    - Gruppo carbossilico ($COO^-$)
+    - Catena laterale
+    -  Atomo di idrogeno
+
+#READY
+
+2029:
+  kind: enum
+  text: Elenca le categorie dei lipidi
   options:
     - 
     - 
     - 
-    -
+    -  
+
+2030:
+  kind: enum
+  text: Elenca le categorie dei lipidi
+  options:
+    - 
+    - 
+    - 
+    -  
+
+2031:
+  kind: enum
+  text: Elenca le categorie dei lipidi
+  options:
+    - 
+    - 
+    - 
+    -  
+
+2032:
+  kind: enum
+  text: Elenca le categorie dei lipidi
+  options:
+    - 
+    - 
+    - 
+    -  
+
+2033:
+  kind: enum
+  text: Elenca le categorie dei lipidi
+  options:
+    - 
+    - 
+    - 
+    -  
+
+2034:
+  kind: enum
+  text: Elenca le categorie dei lipidi
+  options:
+    - 
+    - 
+    - 
+    -  
+
+2035:
+  kind: enum
+  text: Elenca le categorie dei lipidi
+  options:
+    - 
+    - 
+    - 
+    -  
+
+2036:
+  kind: enum
+  text: Elenca le categorie dei lipidi
+  options:
+    - 
+    - 
+    - 
+    -  
+
+2037:
+  kind: enum
+  text: Elenca le categorie dei lipidi
+  options:
+    - 
+    - 
+    - 
+    -  
+
+2038:
+  kind: enum
+  text: Elenca le categorie dei lipidi
+  options:
+    - 
+    - 
+    - 
+    -  
+
+2039:
+  kind: enum
+  text: Elenca le categorie dei lipidi
+  options:
+    - 
+    - 
+    - 
+    -  

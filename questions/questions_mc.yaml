@@ -708,7 +708,6 @@
 #   correct: 1
 #   curiosity: 
 
-  ############################################
 66:
   kind: mc
   text: Quale tipo di legame si forma tra molecole di acqua?
@@ -718,7 +717,7 @@
     - Legame a idrogeno
     - Legame ionico
   correct: 2
-  curiosity: 
+  curiosity: L'acqua è un ottimo solvente
 
 67:
   kind: mc
@@ -729,7 +728,7 @@
     - Legame a idrogeno
     - Legame metallico
   correct: 0
-  curiosity: 
+  curiosity: Quando si butta il sale in acqua, le molecole dell'acqua circondano gli ioni $Na+$ e $Cl-$ riducendo l'attrazione tra i due ``sciogliendo'' così il sale
 
 68:
   kind: mc
@@ -740,18 +739,18 @@
     - Forze di Van der Waals
     - Legame metallico
   correct: 2
-  curiosity: 
+  curiosity: Le forse di Van der Waals sono dovute alle fluttuazioni istantanee nella distribuzione degli elettroni attorno agli atomi
 
-69:
-  kind: mc
-  text: Che tipo di legame è tipico dei metalli, come il ferro o il rame?
-  options:
-    - Legame ionico
-    - Legame covalente
-    - Legame a idrogeno
-    - Legame metallico
-  correct: 3
-  curiosity: 
+# 69:
+#   kind: mc
+#   text: Che tipo di legame è tipico dei metalli, come il ferro o il rame?
+#   options:
+#     - Legame ionico
+#     - Legame covalente
+#     - Legame a idrogeno
+#     - Legame metallico
+#   correct: 3
+#   curiosity: 
 
 70:
   kind: mc
@@ -762,29 +761,29 @@
     - Una distribuzione simmetrica degli elettroni
     - La presenza di ioni
   correct: 1
-  curiosity: 
+  curiosity: La polarità di una molecola dipende dalla distribuzione geometrica degli atomi 
 
-71:
-  kind: mc
-  text: Cosa consente alle molecole polari di interagire tra loro?
-  options:
-    - Forze di Van der Waals
-    - Interazioni dipolo-dipolo
-    - Interazioni covalenti
-    - Legami metallici
-  correct: 1
-  curiosity: 
+# 71:
+#   kind: mc
+#   text: Cosa consente alle molecole polari di interagire tra loro?
+#   options:
+#     - Forze di Van der Waals
+#     - Interazioni dipolo-dipolo
+#     - Interazioni covalenti
+#     - Legami metallici
+#   correct: 1
+#   curiosity: 
 
 72:
   kind: mc
   text: Quale dei seguenti è un esempio di legame covalente non polare?
   options:
-    - HCl (cloruro di idrogeno)
-    - O2 (molecola di ossigeno)
-    - H2O (acqua)
-    - NH3 (ammoniaca)
+    - $HCl$ (cloruro di idrogeno)
+    - $O_2$ (molecola di ossigeno)
+    - $H_2O$ (acqua)
+    - $NH_3$ (ammoniaca)
   correct: 1
-  curiosity: 
+  curiosity: Carbonio, idrogeno, ossigeno e azoto sono i quattro elementi fondamentali per costruire la materia vivente
 
 73:
   kind: mc
@@ -795,7 +794,7 @@
     - Si formano tra molecole in cui l'idrogeno è legato a un atomo molto elettronegativo
     - Si trovano solo nelle proteine
   correct: 2
-  curiosity: 
+  curiosity: Il legame a idrogeno non è un vero e proprio legame ma un'attrazione elettromagnetica
 
 74:
   kind: mc
@@ -806,29 +805,29 @@
     - Legame ionico
     - Forze di Van der Waals
   correct: 1
-  curiosity: 
+  curiosity: Gazie alla fotografia a raggi X realizzata da Rosalind Franklin fu possibile accertare la struttura del DNA
 
-75:
-  kind: mc
-  text: Qual è la differenza principale tra legami covalenti e ionici?
-  options:
-    - I legami ionici sono deboli, i legami covalenti sono forti
-    - I legami covalenti si formano solo tra metalli
-    - I legami covalenti comportano la condivisione di elettroni, mentre i legami ionici comportano il trasferimento di elettroni
-    - I legami ionici sono presenti solo nelle molecole organiche
-  correct: 2
-  curiosity: 
+# 75:
+#   kind: mc
+#   text: Qual è la differenza principale tra legami covalenti e ionici?
+#   options:
+#     - I legami ionici sono deboli, i legami covalenti sono forti
+#     - I legami covalenti si formano solo tra metalli
+#     - I legami covalenti comportano la condivisione di elettroni, mentre i legami ionici comportano il trasferimento di elettroni
+#     - I legami ionici sono presenti solo nelle molecole organiche
+#   correct: 2
+#   curiosity: 
 
-76:
-  kind: mc
-  text: Quale tipo di legame è presente nella molecola dell'acqua tra gli atomi di ossigeno e idrogeno?
-  options:
-    - Legame ionico
-    - Legame covalente polare
-    - Legame a idrogeno
-    - Legame metallico
-  correct: 1
-  curiosity: 
+# 76:
+#   kind: mc
+#   text: Quale tipo di legame è presente nella molecola dell'acqua tra gli atomi di ossigeno e idrogeno?
+#   options:
+#     - Legame ionico
+#     - Legame covalente polare
+#     - Legame a idrogeno
+#     - Legame metallico
+#   correct: 1
+#   curiosity: 
 
 77:
   kind: mc
@@ -839,7 +838,7 @@
     - Forze di Van der Waals
     - Legame metallico
   correct: 2
-  curiosity: 
+  curiosity: Le molecole idrofobe tendono ad aggregarsi pur non essendo naturalmente attratte le une verso le altre
 
 78:
   kind: mc
@@ -850,53 +849,42 @@
     - Legame a idrogeno
     - Legame metallico
   correct: 2
-  curiosity: 
+  curiosity: L'incremento della temperatura aumenta il moto delle molecole , ostacolando la formazione dei legami a idrogeno
 
-79:
-  kind: mc
-  text: Quale proprietà è associata ai metalli a causa dei legami metallici?
-  options:
-    - Fragilità
-    - Scarsa conducibilità elettrica
-    - Elevata conducibilità termica e elettrica
-    - Trasparenza
-  correct: 2
-  curiosity: 
+# 79:
+#   kind: mc
+#   text: Quale proprietà è associata ai metalli a causa dei legami metallici?
+#   options:
+#     - Fragilità
+#     - Scarsa conducibilità elettrica
+#     - Elevata conducibilità termica e elettrica
+#     - Trasparenza
+#   correct: 2
+#   curiosity: 
 
-80:
-  kind: mc
-  text: In quale dei seguenti composti si trova un legame covalente polare?
-  options:
-    - H2O (acqua)
-    - O2 (ossigeno)
-    - NaCl (cloruro di sodio)
-    - CH4 (metano)
-  correct: 0
-  curiosity: 
+# 80:
+#   kind: mc
+#   text: In quale dei seguenti composti si trova un legame covalente polare?
+#   options:
+#     - H2O (acqua)
+#     - O2 (ossigeno)
+#     - NaCl (cloruro di sodio)
+#     - CH4 (metano)
+#   correct: 0
+#   curiosity: 
 
-81:
-  kind: mc
-  text: "Le forze di Van der Waals sono importanti per:"
-  options:
-    - L'adesione tra molecole non polari
-    - La formazione di legami ionici
-    - La trasmissione elettrica nei metalli
-    - La solubilità dei sali in acqua
-  correct: 0
-  curiosity: 
+# 81:
+#   kind: mc
+#   text: "Le forze di Van der Waals sono importanti per:"
+#   options:
+#     - L'adesione tra molecole non polari
+#     - La formazione di legami ionici
+#     - La trasmissione elettrica nei metalli
+#     - La solubilità dei sali in acqua
+#   correct: 0
+#   curiosity: 
 
-82:
-  kind: mc
-  text: Qual è la principale causa delle forze di Van der Waals?
-  options:
-    - Interazione tra ioni
-    - Fluttuazioni temporanee nella distribuzione degli elettroni
-    - Attrazione tra cariche opposte
-    - Condivisione di elettroni
-  correct: 1
-  curiosity: 
-
-#FIXCURIOSITYABOVE
+#READY
 
 83:
   kind: mc
@@ -907,7 +895,7 @@
     - La concentrazione di soluti in una soluzione
     - La capacità di una soluzione di condurre elettricità
   correct: 1
-  curiosity: 
+  curiosity: Il pH è la sigla di ``potenziale d'idrogeno''
 
 84:
   kind: mc
@@ -918,7 +906,7 @@
     - 7
     - 14
   correct: 2
-  curiosity: 
+  curiosity: Il simbolo pH fu creato nel 1909 
 
 85:
   kind: mc
@@ -929,18 +917,18 @@
     - Basica
     - Anfoterica
   correct: 1
-  curiosity: 
+  curiosity: Un anfotero è una sostanza che può manifestare sia un comportamento acido che uno basico
 
-86:
-  kind: mc
-  text: Qual è il pH tipico di una soluzione basica?
-  options:
-    - Inferiore a 7
-    - Superiore a 7
-    - Uguale a 7
-    - Dipende dalla temperatura
-  correct: 1
-  curiosity: 
+# 86:
+#   kind: mc
+#   text: Qual è il pH tipico di una soluzione basica?
+#   options:
+#     - Inferiore a 7
+#     - Superiore a 7
+#     - Uguale a 7
+#     - Dipende dalla temperatura
+#   correct: 1
+#   curiosity: 
 
 87:
   kind: mc
@@ -964,27 +952,27 @@
   correct: 2
   curiosity: 
 
-89:
-  kind: mc
-  text: Un pH di 7 corrisponde a quale tipo di soluzione?
-  options:
-    - Neutra
-    - Acida
-    - Basica
-    - Anfiprotica
-  correct: 0
-  curiosity: 
+# 89:
+#   kind: mc
+#   text: Un pH di 7 corrisponde a quale tipo di soluzione?
+#   options:
+#     - Neutra
+#     - Acida
+#     - Basica
+#     - Anfiprotica
+#   correct: 0
+#   curiosity: 
 
-90:
-  kind: mc
-  text: Cosa indica un pH inferiore a 7?
-  options:
-    - Che la soluzione è acida
-    - Che la soluzione è basica
-    - Che la soluzione è neutra
-    - Che la soluzione è un sale
-  correct: 0
-  curiosity: 
+# 90:
+#   kind: mc
+#   text: Cosa indica un pH inferiore a 7?
+#   options:
+#     - Che la soluzione è acida
+#     - Che la soluzione è basica
+#     - Che la soluzione è neutra
+#     - Che la soluzione è un sale
+#   correct: 0
+#   curiosity: 
 
 91:
   kind: mc
@@ -1052,27 +1040,27 @@
   correct: 2
   curiosity: 
 
-97:
-  kind: mc
-  text: Quale tra le seguenti soluzioni ha un pH neutro?
-  options:
-    - Succo di pomodoro
-    - Acido cloridrico diluito
-    - Acqua pura
-    - Latte di magnesia
-  correct: 2
-  curiosity: 
+# 97:
+#   kind: mc
+#   text: Quale tra le seguenti soluzioni ha un pH neutro?
+#   options:
+#     - Succo di pomodoro
+#     - Acido cloridrico diluito
+#     - Acqua pura
+#     - Latte di magnesia
+#   correct: 2
+#   curiosity: 
 
-98:
-  kind: mc
-  text: "Una soluzione con pH pari a 2 è:"
-  options:
-    - Fortemente basica
-    - Moderatamente basica
-    - Leggermente acida
-    - Fortemente acida
-  correct: 3
-  curiosity: 
+# 98:
+#   kind: mc
+#   text: "Una soluzione con pH pari a 2 è:"
+#   options:
+#     - Fortemente basica
+#     - Moderatamente basica
+#     - Leggermente acida
+#     - Fortemente acida
+#   correct: 3
+#   curiosity: 
 
 99:
   kind: mc
@@ -1096,16 +1084,16 @@
   correct: 1
   curiosity: 
 
-101:
-  kind: mc
-  text: Quale valore di pH indica una soluzione fortemente acida?
-  options:
-    - 6
-    - 5
-    - 4
-    - 1
-  correct: 3
-  curiosity: 
+# 101:
+#   kind: mc
+#   text: Quale valore di pH indica una soluzione fortemente acida?
+#   options:
+#     - 6
+#     - 5
+#     - 4
+#     - 1
+#   correct: 3
+#   curiosity: 
 
 102:
   kind: mc
@@ -1129,16 +1117,16 @@
   correct: 0
   curiosity: 
 
-104:
-  kind: mc
-  text: Qual è il pH del sapone comune?
-  options:
-    - Circa 3
-    - Circa 7
-    - Tra 9 e 10
-    - Meno di 2
-  correct: 2
-  curiosity: 
+# 104:
+#   kind: mc
+#   text: Qual è il pH del sapone comune?
+#   options:
+#     - Circa 3
+#     - Circa 7
+#     - Tra 9 e 10
+#     - Meno di 2
+#   correct: 2
+#   curiosity: 
 
 105:
   kind: mc
@@ -1151,20 +1139,20 @@
   correct: 0
   curiosity: 
 
-106:
-  kind: mc
-  text: Cosa indica un pH di 12?
-  options:
-    - Soluzione debolmente acida
-    - Soluzione fortemente basica
-    - Soluzione neutra
-    - Soluzione leggermente basica
-  correct: 1
-  curiosity: 
+#106:
+  # kind: mc
+  # text: Cosa indica un pH di 12?
+  # options:
+  #   - Soluzione debolmente acida
+  #   - Soluzione fortemente basica
+  #   - Soluzione neutra
+  #   - Soluzione leggermente basica
+  # correct: 1
+  # curiosity: 
 
 107:
   kind: mc
-  text: Che cosa si intende per "tamponi" in chimica?
+  text: Che cosa si intende per ``tamponi'' in chimica?
   options:
     - Soluzioni che resistono alle variazioni di pH
     - Soluzioni che riducono sempre il pH
@@ -1173,7 +1161,7 @@
   correct: 0
   curiosity: 
 
-#FIXCURIOSITYABOVE
+#FIXME
 
 108:
   kind: mc
@@ -1186,16 +1174,16 @@
   correct: 2
   curiosity: 
 
-109:
-  kind: mc
-  text: Qual è il processo che porta alla formazione di legami covalenti tra monomeri per creare una macromolecola?
-  options:
-    - Idrolisi
-    - Ossidazione
-    - Polimerizzazione
-    - Riduzione
-  correct: 2
-  curiosity: 
+# 109:
+#   kind: mc
+#   text: Qual è il processo che porta alla formazione di legami covalenti tra monomeri per creare una macromolecola?
+#   options:
+#     - Idrolisi
+#     - Ossidazione
+#     - Polimerizzazione
+#     - Riduzione
+#   correct: 2
+#   curiosity: 
 
 110:
   kind: mc
@@ -1302,8 +1290,8 @@
   options:
     - Monosaccaridi e amminoacidi
     - Glicerolo e nucleotidi
-    - Glicerolo e acidi grassi
-    - Monosaccaridi e fosfati
+    - Glicerolo, acidi grassi e steroidi
+    - Monosaccaridi, steroidi e fosfati
   correct: 2
   curiosity: 
 
@@ -1340,16 +1328,16 @@
   correct: 1
   curiosity: 
 
-123:
-  kind: mc
-  text: Quale tipo di reazione è responsabile della formazione di trigliceridi?
-  options:
-    - Condensazione
-    - Ossidazione
-    - Idrolisi
-    - Riduzione
-  correct: 0
-  curiosity: 
+# 123:
+#   kind: mc
+#   text: Quale tipo di reazione è responsabile della formazione di trigliceridi?
+#   options:
+#     - Condensazione
+#     - Ossidazione
+#     - Idrolisi
+#     - Riduzione
+#   correct: 0
+#   curiosity: 
 
 124:
   kind: mc
@@ -1386,7 +1374,7 @@
 
 127:
   kind: mc
-  text: Qual è la funzione principale delle proteine strutturali come il collagene?
+  text: Qual è la funzione principale del collagene?
   options:
     - Riserva energetica
     - Fornire supporto e struttura ai tessuti
@@ -1395,27 +1383,27 @@
   correct: 1
   curiosity: 
 
-128:
-  kind: mc
-  text: Quale tra questi processi richiede la scissione di ATP per fornire energia?
-  options:
-    - Ossidazione degli zuccheri
-    - Sintesi delle macromolecole
-    - Idrolisi dei polimeri
-    - Dissociazione di una base azotata
-  correct: 1
-  curiosity: 
+# 128:
+#   kind: mc
+#   text: Quale tra questi processi richiede la scissione di ATP per fornire energia?
+#   options:
+#     - Ossidazione degli zuccheri
+#     - Sintesi delle macromolecole
+#     - Idrolisi dei polimeri
+#     - Dissociazione di una base azotata
+#   correct: 1
+#   curiosity: 
 
-129:
-  kind: mc
-  text: In quale organulo si sintetizzano principalmente le proteine destinate all'esportazione?
-  options:
-    - Lisosoma
-    - Mitocondrio
-    - Reticolo endoplasmatico rugoso
-    - Apparato di Golgi
-  correct: 2
-  curiosity: 
+# 129:
+#   kind: mc
+#   text: In quale organulo si sintetizzano principalmente le proteine destinate all'esportazione?
+#   options:
+#     - Lisosoma
+#     - Mitocondrio
+#     - Reticolo endoplasmatico rugoso
+#     - Apparato di Golgi
+#   correct: 2
+#   curiosity: 
 
 130:
   kind: mc
@@ -1428,16 +1416,16 @@
   correct: 2
   curiosity: 
 
-131:
-  kind: mc
-  text: Quale tra queste molecole contiene informazioni genetiche?
-  options:
-    - Amido
-    - Glicogeno
-    - Trigliceridi
-    - DNA
-  correct: 3
-  curiosity: 
+# 131:
+#   kind: mc
+#   text: Quale tra queste molecole contiene informazioni genetiche?
+#   options:
+#     - Amido
+#     - Glicogeno
+#     - Trigliceridi
+#     - DNA
+#   correct: 3
+#   curiosity: 
 
 132:
   kind: mc
@@ -1450,7 +1438,7 @@
   correct: 3
   curiosity: 
 
-#FIXCURIOSITYABOVE
+#FIXME
 
 133:
   kind: mc
@@ -1463,71 +1451,71 @@
   correct: 2
   curiosity: 
 
-134:
-  kind: mc
-  text: Qual è il monomero delle proteine?
-  options:
-    - Nucleotidi
-    - Amminoacidi
-    - Monosaccaridi
-    - Acidi grassi
-  correct: 1
-  curiosity: 
+# 134:
+#   kind: mc
+#   text: Qual è il monomero delle proteine?
+#   options:
+#     - Nucleotidi
+#     - Amminoacidi
+#     - Monosaccaridi
+#     - Acidi grassi
+#   correct: 1
+#   curiosity: 
 
-135:
-  kind: mc
-  text: Quali sono i monomeri che costituiscono i carboidrati?
-  options:
-    - Amminoacidi
-    - Monosaccaridi
-    - Nucleotidi
-    - Acidi grassi
-  correct: 1
-  curiosity: 
+# 135:
+#   kind: mc
+#   text: Quali sono i monomeri che costituiscono i carboidrati?
+#   options:
+#     - Amminoacidi
+#     - Monosaccaridi
+#     - Nucleotidi
+#     - Acidi grassi
+#   correct: 1
+#   curiosity: 
 
-136:
-  kind: mc
-  text: Quale tra le seguenti macromolecole è idrofoba?
-  options:
-    - Lipidi
-    - Carboidrati
-    - Acidi nucleici
-    - Proteine
-  correct: 0
-  curiosity: 
+# 136:
+#   kind: mc
+#   text: Quale tra le seguenti macromolecole è idrofoba?
+#   options:
+#     - Lipidi
+#     - Carboidrati
+#     - Acidi nucleici
+#     - Proteine
+#   correct: 0
+#   curiosity: 
 
-139:
-  kind: mc
-  text: Quali sono i monomeri degli acidi nucleici?
-  options:
-    - Amminoacidi
-    - Monosaccaridi
-    - Nucleotidi
-    - Acidi grassi
-  correct: 2
-  curiosity: 
+# 139:
+#   kind: mc
+#   text: Quali sono i monomeri degli acidi nucleici?
+#   options:
+#     - Amminoacidi
+#     - Monosaccaridi
+#     - Nucleotidi
+#     - Acidi grassi
+#   correct: 2
+#   curiosity: 
 
-140:
-  kind: mc
-  text: Quale dei seguenti polisaccaridi funge da riserva energetica nelle piante?
-  options:
-    - Cellulosa
-    - Amido
-    - Glicogeno
-    - Chitina
-  correct: 1
-  curiosity: 
+# 140:
+#   kind: mc
+#   text: Quale dei seguenti polisaccaridi funge da riserva energetica nelle piante?
+#   options:
+#     - Cellulosa
+#     - Amido
+#     - Glicogeno
+#     - Chitina
+#   correct: 1
+#   curiosity: 
 
-141:
-  kind: mc
-  text: Quale macromolecola è coinvolta nel trasporto dell'ossigeno nel sangue?
-  options:
-    - Proteine (emoglobina)
-    - Carboidrati
-    - Lipidi
-    - Acidi nucleici
-  correct: 0
-  curiosity: 
+# 141:
+#   kind: mc
+#   text: Quale macromolecola è coinvolta nel trasporto dell'ossigeno nel sangue?
+#   options:
+#     - Proteine (emoglobina)
+#     - Carboidrati
+#     - Lipidi
+#     - Acidi nucleici
+#   correct: 0
+#   curiosity: 
 
 142:
   kind: mc
@@ -1547,20 +1535,20 @@
     - Proteine
     - Lipidi
     - Carboidrati
-    - Acidi nucleici (DNA e RNA)
+    - Acidi nucleici
   correct: 3
   curiosity: 
 
-144:
-  kind: mc
-  text: Che tipo di legame si forma tra due amminoacidi in una proteina?
-  options:
-    - Legame fosfodiesterico
-    - Legame peptidico
-    - Legame glicosidico
-    - Legame estere
-  correct: 1
-  curiosity: 
+# 144:
+#   kind: mc
+#   text: Che tipo di legame si forma tra due amminoacidi in una proteina?
+#   options:
+#     - Legame fosfodiesterico
+#     - Legame peptidico
+#     - Legame glicosidico
+#     - Legame estere
+#   correct: 1
+#   curiosity: 
 
 145:
   kind: mc
@@ -1582,29 +1570,29 @@
     - Trasmettere segnali genetici
     - Formare membrane cellulari
   correct: 0
-  curiosity: 
+  curiosity: "Gli enzimi sono catalizzatori biologici che accelerano le reazioni chimiche senza essere consumati"
 
-147:
-  kind: mc
-  text: Qual è il principale componente delle membrane cellulari?
-  options:
-    - Proteine
-    - Fosfolipidi
-    - Polisaccaridi
-    - DNA
-  correct: 1
-  curiosity: 
+# 147:
+#   kind: mc
+#   text: Qual è il principale componente delle membrane cellulari?
+#   options:
+#     - Proteine
+#     - Fosfolipidi
+#     - Polisaccaridi
+#     - DNA
+#   correct: 1
+#   curiosity: 
 
-148:
-  kind: mc
-  text: In quale delle seguenti molecole è presente il legame glicosidico?
-  options:
-    - Proteine
-    - Polisaccaridi
-    - Lipidi
-    - Acidi nucleici
-  correct: 1
-  curiosity: 
+# 148:
+#   kind: mc
+#   text: In quale delle seguenti molecole è presente il legame glicosidico?
+#   options:
+#     - Proteine
+#     - Polisaccaridi
+#     - Lipidi
+#     - Acidi nucleici
+#   correct: 1
+#   curiosity: 
 
 149:
   kind: mc
@@ -1619,7 +1607,7 @@
 
 150:
   kind: mc
-  text: Qual è la funzione dei nucleotidi ATP?
+  text: Qual è la funzione del nucleotide ATP?
   options:
     - Costituire la struttura delle membrane
     - Fornire energia per le reazioni cellulari
@@ -1628,27 +1616,27 @@
   correct: 1
   curiosity: 
 
-151:
-  kind: mc
-  text: Quale tra i seguenti carboidrati è una componente strutturale nelle piante?
-  options:
-    - Amido
-    - Glicogeno
-    - Cellulosa
-    - Fruttosio
-  correct: 2
-  curiosity: 
+# 151:
+#   kind: mc
+#   text: Quale tra i seguenti carboidrati è una componente strutturale nelle piante?
+#   options:
+#     - Amido
+#     - Glicogeno
+#     - Cellulosa
+#     - Fruttosio
+#   correct: 2
+#   curiosity: 
 
-152:
-  kind: mc
-  text: Quale tra queste molecole è una proteina strutturale?
-  options:
-    - Glicogeno
-    - Acido lattico
-    - Collagene
-    - Glucosio
-  correct: 2
-  curiosity: 
+# 152:
+#   kind: mc
+#   text: Quale tra queste molecole è una proteina strutturale?
+#   options:
+#     - Glicogeno
+#     - Acido lattico
+#     - Collagene
+#     - Glucosio
+#   correct: 2
+#   curiosity: 
 
 153:
   kind: mc
@@ -1672,16 +1660,16 @@
   correct: 1
   curiosity: 
 
-155:
-  kind: mc
-  text: Quale tra i seguenti lipidi è fondamentale per l'isolamento termico?
-  options:
-    - Trigliceridi
-    - Amminoacidi
-    - Polisaccaridi
-    - Nucleotidi
-  correct: 0
-  curiosity: 
+# 155:
+#   kind: mc
+#   text: Quale tra i seguenti lipidi è fondamentale per l'isolamento termico?
+#   options:
+#     - Trigliceridi
+#     - Amminoacidi
+#     - Polisaccaridi
+#     - Nucleotidi
+#   correct: 0
+#   curiosity: 
 
 156:
   kind: mc
@@ -1705,62 +1693,62 @@
   correct: 1
   curiosity: 
 
-#FIXCURIOSITYABOVE
+#FIXME
 
-158:
-  kind: mc
-  text: Quali sono i monomeri principali dei carboidrati?
-  options:
-    - Amminoacidi
-    - Monosaccaridi
-    - Acidi grassi
-    - Nucleotidi
-  correct: 1
-  curiosity: 
+# 158:
+#   kind: mc
+#   text: Quali sono i monomeri principali dei carboidrati?
+#   options:
+#     - Amminoacidi
+#     - Monosaccaridi
+#     - Acidi grassi
+#     - Nucleotidi
+#   correct: 1
+#   curiosity: 
 
 159:
   kind: mc
   text: Quale dei seguenti è un monosaccaride?
   options:
-    - Maltosio
+    - Saccarosio
     - Amido
     - Glucosio
-    - Lattosio
+    - Cellulosa
   correct: 2
   curiosity: 
 
-160:
-  kind: mc
-  text: Quale tra i seguenti carboidrati funge da riserva energetica negli esseri umani?
-  options:
-    - Cellulosa
-    - Glicogeno
-    - Amido
-    - Chitina
-  correct: 1
-  curiosity: 
+# 160:
+#   kind: mc
+#   text: Quale tra i seguenti carboidrati funge da riserva energetica negli esseri umani?
+#   options:
+#     - Cellulosa
+#     - Glicogeno
+#     - Amido
+#     - Chitina
+#   correct: 1
+#   curiosity: 
 
-161:
-  kind: mc
-  text: Quale tipo di legame unisce i monosaccaridi in un disaccaride?
-  options:
-    - Legame peptidico
-    - Legame glicosidico
-    - Legame fosfodiesterico
-    - Legame estere
-  correct: 1
-  curiosity: 
+# 161:
+#   kind: mc
+#   text: Quale tipo di legame unisce i monosaccaridi in un disaccaride?
+#   options:
+#     - Legame peptidico
+#     - Legame glicosidico
+#     - Legame fosfodiesterico
+#     - Legame estere
+#   correct: 1
+#   curiosity: 
 
-162:
-  kind: mc
-  text: Qual è la funzione principale dei carboidrati nel corpo umano?
-  options:
-    - Costruire membrane cellulari
-    - Fornire energia
-    - Trasportare informazioni genetiche
-    - Regolare il pH
-  correct: 1
-  curiosity: 
+# 162:
+#   kind: mc
+#   text: Qual è la funzione principale dei carboidrati nel corpo umano?
+#   options:
+#     - Costruire membrane cellulari
+#     - Fornire energia
+#     - Trasportare informazioni genetiche
+#     - Regolare il pH
+#   correct: 1
+#   curiosity: 
 
 163:
   kind: mc
@@ -1769,20 +1757,20 @@
     - Glucosio
     - Amido
     - Saccarosio
-    - Glicogeno
+    - Fruttosio
   correct: 2
   curiosity: 
 
-165:
-  kind: mc
-  text: Quale dei seguenti polisaccaridi è un componente strutturale nelle piante?
-  options:
-    - Amido
-    - Glicogeno
-    - Cellulosa
-    - Glucosio
-  correct: 2
-  curiosity: 
+# 165:
+#   kind: mc
+#   text: Quale dei seguenti polisaccaridi è un componente strutturale nelle piante?
+#   options:
+#     - Amido
+#     - Glicogeno
+#     - Cellulosa
+#     - Glucosio
+#   correct: 2
+#   curiosity: 
 
 166:
   kind: mc
@@ -1842,7 +1830,7 @@
 171:
   kind: mc
   text: Il saccarosio è formato da quali due monosaccaridi?
-  options:
+  options:$
     - Glucosio e glucosio
     - Glucosio e fruttosio
     - Glucosio e galattosio
@@ -1850,27 +1838,27 @@
   correct: 1
   curiosity: 
 
-172:
-  kind: mc
-  text: Qual è la funzione principale della cellulosa nelle piante?
-  options:
-    - Fornire struttura e supporto
-    - Riserva energetica
-    - Trasportare zuccheri
-    - Catalizzare reazioni
-  correct: 0
-  curiosity: 
+# 172:
+#   kind: mc
+#   text: Qual è la funzione principale della cellulosa nelle piante?
+#   options:
+#     - Fornire struttura e supporto
+#     - Riserva energetica
+#     - Trasportare zuccheri
+#     - Catalizzare reazioni
+#   correct: 0
+#   curiosity: 
 
-173:
-  kind: mc
-  text: Quale zucchero si trova comunemente nel latte?
-  options:
-    - Glucosio
-    - Lattosio
-    - Maltosio
-    - Fruttosio
-  correct: 1
-  curiosity: 
+# 173:
+#   kind: mc
+#   text: Quale zucchero si trova comunemente nel latte?
+#   options:
+#     - Glucosio
+#     - Lattosio
+#     - Maltosio
+#     - Fruttosio
+#   correct: 1
+#   curiosity: 
 
 174:
   kind: mc
@@ -1883,20 +1871,20 @@
   correct: 0
   curiosity: 
 
-175:
-  kind: mc
-  text: Quale tra questi è il polisaccaride più abbondante in natura?
-  options:
-    - Glicogeno
-    - Cellulosa
-    - Amido
-    - Chitina
-  correct: 1
-  curiosity: 
+# 175:
+#   kind: mc
+#   text: Quale tra questi è il polisaccaride più abbondante in natura?
+#   options:
+#     - Glicogeno
+#     - Cellulosa
+#     - Amido
+#     - Chitina
+#   correct: 1
+#   curiosity: 
 
 176:
   kind: mc
-  text: Quale tra i seguenti carboidrati è comunemente noto come “zucchero da tavola”?
+  text: Quale tra i seguenti carboidrati è comunemente noto come ``zucchero da tavola''?
   options:
     - Saccarosio
     - Glucosio
@@ -1938,16 +1926,16 @@
   correct: 0
   curiosity: 
 
-180:
-  kind: mc
-  text: Quale tra i seguenti è un esempio di oligosaccaride?
-  options:
-    - Glucosio
-    - Raffinosio
-    - Glicogeno
-    - Amido
-  correct: 1
-  curiosity: 
+# 180:
+#   kind: mc
+#   text: Quale tra i seguenti è un esempio di oligosaccaride?
+#   options:
+#     - Glucosio
+#     - Raffinosio
+#     - Glicogeno
+#     - Amido
+#   correct: 1
+#   curiosity: 
 
 181:
   kind: mc
@@ -1971,7 +1959,7 @@
   correct: 1
   curiosity: 
 
-#FIXCURIOSITYABOVE
+#FIXME
 
 183:
   kind: mc
@@ -1999,7 +1987,7 @@
   kind: mc
   text: Quale delle seguenti è una categoria di lipidi?
   options:
-    - Fosfolipidi
+    - Steroidi
     - Proteine
     - Polisaccaridi
     - Nucleotidi
@@ -2054,11 +2042,11 @@
   kind: mc
   text: Quale dei seguenti lipidi è un ormone steroideo?
   options:
-    - Trigliceride
-    - Fosfolipide
+    - Cortisolo
+    - Estradiolo
     - Testosterone
-    - Glicerolo
-  correct: 2
+    - Tutte le precedenti
+  correct: 3
   curiosity: 
 
 191:
@@ -2066,8 +2054,8 @@
   text: Quale tra le seguenti affermazioni sui grassi saturi è corretta?
   options:
     - Contengono doppi legami tra atomi di carbonio
-    - Sono liquidi a temperatura ambiente
-    - Sono solidi a temperatura ambiente
+    - Sono perlopiù liquidi a temperatura ambiente
+    - Sono perlopiù solidi a temperatura ambiente
     - Sono sempre di origine vegetale
   correct: 2
   curiosity: 
@@ -2094,27 +2082,27 @@
   correct: 2
   curiosity: 
 
-195:
-  kind: mc
-  text: Quale acido grasso è considerato essenziale e deve essere ottenuto dalla dieta?
-  options:
-    - Acido linoleico
-    - Acido oleico
-    - Acido palmitico
-    - Acido stearico
-  correct: 0
-  curiosity: 
+# 195:
+#   kind: mc
+#   text: Quale acido grasso è considerato essenziale e deve essere ottenuto dalla dieta?
+#   options:
+#     - Acido linoleico
+#     - Acido oleico
+#     - Acido palmitico
+#     - Acido stearico
+#   correct: 0
+#   curiosity: 
 
-196:
-  kind: mc
-  text: Qual è la funzione dei lipidi nel sistema nervoso?
-  options:
-    - Catalizzare reazioni enzimatiche
-    - Isolare e proteggere le cellule nervose
-    - Trasportare ossigeno
-    - Regolare l’equilibrio elettrolitico
-  correct: 1
-  curiosity: 
+# 196:
+#   kind: mc
+#   text: Qual è la funzione dei lipidi nel sistema nervoso?
+#   options:
+#     - Catalizzare reazioni enzimatiche
+#     - Isolare e proteggere le cellule nervose
+#     - Trasportare ossigeno
+#     - Regolare l’equilibrio elettrolitico
+#   correct: 1
+#   curiosity: 
 
 197:
   kind: mc
@@ -2138,38 +2126,38 @@
   correct: 2
   curiosity: 
 
-199:
-  kind: mc
-  text: Gli acidi grassi trans sono...
-  options:
-    - Formati tramite idrogenazione parziale di oli vegetali
-    - Formati naturalmente nei muscoli
-    - Sempre benefici per il corpo
-    - Una fonte primaria di energia immediata
-  correct: 0
-  curiosity: 
+# 199:
+#   kind: mc
+#   text: Gli acidi grassi trans sono...
+#   options:
+#     - Formati tramite idrogenazione parziale di oli vegetali
+#     - Formati naturalmente nei muscoli
+#     - Sempre benefici per il corpo
+#     - Una fonte primaria di energia immediata
+#   correct: 0
+#   curiosity: 
 
-200:
-  kind: mc
-  text: Dove si trovano principalmente i lipidi nel corpo umano?
-  options:
-    - Nel tessuto adiposo
-    - Nei cromosomi
-    - Nei ribosomi
-    - Nella matrice extracellulare
-  correct: 0
-  curiosity: 
+# 200:
+#   kind: mc
+#   text: Dove si trovano principalmente i lipidi nel corpo umano?
+#   options:
+#     - Nel tessuto adiposo
+#     - Nei cromosomi
+#     - Nei ribosomi
+#     - Nella matrice extracellulare
+#   correct: 0
+#   curiosity: 
 
-201:
-  kind: mc
-  text: Quale dei seguenti grassi è generalmente considerato più salutare per il cuore?
-  options:
-    - Grassi saturi
-    - Grassi insaturi
-    - Grassi trans
-    - Grassi idrogenati
-  correct: 1
-  curiosity: 
+# 201:
+#   kind: mc
+#   text: Quale dei seguenti grassi è generalmente considerato più salutare per il cuore?
+#   options:
+#     - Grassi saturi
+#     - Grassi insaturi
+#     - Grassi trans
+#     - Grassi idrogenati
+#   correct: 1
+#   curiosity: 
 
 202:
   kind: mc
@@ -2226,51 +2214,51 @@
   correct: 0
   curiosity: 
 
-207:
-  kind: mc
-  text: Qual è la funzione principale dei lipidi nella mielina?
-  options:
-    - Fornire energia ai neuroni
-    - Regolare l’equilibrio ionico
-    - Isolare e proteggere le fibre nervose
-    - Fornire rigidità alla membrana
-  correct: 2
-  curiosity: 
+# 207:
+#   kind: mc
+#   text: Qual è la funzione principale dei lipidi nella mielina?
+#   options:
+#     - Fornire energia ai neuroni
+#     - Regolare l’equilibrio ionico
+#     - Isolare e proteggere le fibre nervose
+#     - Fornire rigidità alla membrana
+#   correct: 2
+#   curiosity: 
 
-#FIXCURIOSITYABOVE
+#FIXME
 
-208:
-  kind: mc
-  text: "Quali sono i monomeri che compongono le proteine?"
-  options:
-    - Monosaccaridi
-    - Amminoacidi
-    - Acidi grassi
-    - Nucleotidi
-  correct: 1
-  curiosity: "Gli amminoacidi sono i mattoni fondamentali delle proteine, che si legano tramite legami peptidici."
+# 208:
+#   kind: mc
+#   text: "Quali sono i monomeri che compongono le proteine?"
+#   options:
+#     - Monosaccaridi
+#     - Amminoacidi
+#     - Acidi grassi
+#     - Nucleotidi
+#   correct: 1
+#   curiosity: "Gli amminoacidi sono i mattoni fondamentali delle proteine, che si legano tramite legami peptidici."
 
-209:
-  kind: mc
-  text: "Quale legame unisce gli amminoacidi per formare una proteina?"
-  options:
-    - Legame fosfodiesterico
-    - Legame peptidico
-    - Legame glicosidico
-    - Legame estere
-  correct: 1
-  curiosity: "Il legame peptidico è la connessione chimica che unisce due amminoacidi durante la sintesi proteica."
+# 209:
+#   kind: mc
+#   text: "Quale legame unisce gli amminoacidi per formare una proteina?"
+#   options:
+#     - Legame fosfodiesterico
+#     - Legame peptidico
+#     - Legame glicosidico
+#     - Legame estere
+#   correct: 1
+#   curiosity: "Il legame peptidico è la connessione chimica che unisce due amminoacidi durante la sintesi proteica."
 
-210:
-  kind: mc
-  text: "Quale tra le seguenti funzioni è svolta dalle proteine?"
-  options:
-    - Riserva energetica
-    - Catalizzare reazioni biochimiche
-    - Trasportare informazioni genetiche
-    - Formare lipidi
-  correct: 1
-  curiosity: "Le proteine, in particolare gli enzimi, svolgono un ruolo fondamentale nel catalizzare le reazioni chimiche."
+# 210:
+#   kind: mc
+#   text: "Quale tra le seguenti funzioni è svolta dalle proteine?"
+#   options:
+#     - Riserva energetica
+#     - Catalizzare reazioni biochimiche
+#     - Trasportare informazioni genetiche
+#     - Formare lipidi
+#   correct: 1
+#   curiosity: "Le proteine, in particolare gli enzimi, svolgono un ruolo fondamentale nel catalizzare le reazioni chimiche."
 
 211:
   kind: mc
@@ -2281,7 +2269,7 @@
     - Struttura primaria
     - Struttura secondaria
   correct: 2
-  curiosity: "La struttura primaria è semplicemente la sequenza di amminoacidi nella proteina."
+  curiosity: "La struttura primaria è semplicemente la sequenza di amminoacidi nella proteina"
 
 212:
   kind: mc
@@ -2292,29 +2280,29 @@
     - Interazioni idrofobiche
     - Legami ionici
   correct: 0
-  curiosity: "I legami a idrogeno stabilizzano le strutture secondarie come alfa-eliche e foglietti beta."
+  curiosity: "I legami a idrogeno stabilizzano le strutture secondarie come $\alpha -eliche$ e $foglietti- \beta$"
 
-213:
-  kind: mc
-  text: "Quale dei seguenti amminoacidi contiene zolfo?"
-  options:
-    - Alanina
-    - Cisteina
-    - Prolina
-    - Serina
-  correct: 1
-  curiosity: "La cisteina è l'unico amminoacido contenente zolfo, che forma legami disolfuro nelle proteine."
+# 213:
+#   kind: mc
+#   text: "Quale dei seguenti amminoacidi contiene zolfo?"
+#   options:
+#     - Alanina
+#     - Cisteina
+#     - Prolina
+#     - Serina
+#   correct: 1
+#   curiosity: "La cisteina è l'unico amminoacido contenente zolfo, che forma legami disolfuro nelle proteine."
 
 214:
-  kind: mc
-  text: "Qual è la principale funzione dell'enzima?"
-  options:
-    - Catalizzare le reazioni chimiche
-    - Trasportare ossigeno
-    - Riserva di energia
-    - Isolare le cellule
-  correct: 0
-  curiosity: "Gli enzimi sono catalizzatori biologici che accelerano le reazioni chimiche senza essere consumati."
+  # kind: mc
+  # text: "Qual è la principale funzione dell'enzima?"
+  # options:
+  #   - Catalizzare le reazioni chimiche
+  #   - Trasportare ossigeno
+  #   - Riserva di energia
+  #   - Isolare le cellule
+  # correct: 0
+  # curiosity: "Gli enzimi sono catalizzatori biologici che accelerano le reazioni chimiche senza essere consumati."
 
 215:
   kind: mc
@@ -2325,7 +2313,7 @@
     - Struttura terziaria
     - Struttura quaternaria
   correct: 2
-  curiosity: "La struttura terziaria è la configurazione tridimensionale della catena amminoacidica di una proteina."
+  curiosity: 
 
 216:
   kind: mc
@@ -2336,18 +2324,18 @@
     - Legami fosfodiesterici
     - Legami tra monosaccaridi
   correct: 1
-  curiosity: "La struttura quaternaria delle proteine è stabilizzata da interazioni idrofobiche, legami ionici e legami idrogeno tra subunità polipeptidiche."
+  curiosity: 
 
-217:
-  kind: mc
-  text: "Quale tra le seguenti proteine trasporta ossigeno nel sangue?"
-  options:
-    - Emoglobina
-    - Actina
-    - Collagene
-    - Pepsina
-  correct: 0
-  curiosity: "L'emoglobina è la proteina responsabile del trasporto dell'ossigeno nei globuli rossi."
+# 217:
+#   kind: mc
+#   text: "Quale tra le seguenti proteine trasporta ossigeno nel sangue?"
+#   options:
+#     - Emoglobina
+#     - Actina
+#     - Collagene
+#     - Pepsina
+#   correct: 0
+#   curiosity: "L'emoglobina è la proteina responsabile del trasporto dell'ossigeno nei globuli rossi."
 
 218:
   kind: mc
@@ -2358,7 +2346,7 @@
     - Lisina
     - Serina
   correct: 2
-  curiosity: "Gli amminoacidi essenziali, come la lisina, non possono essere sintetizzati dal corpo e devono essere assunti con la dieta."
+  curiosity: "Gli amminoacidi essenziali, come la lisina, non possono essere sintetizzati dal corpo e devono essere assunti con la dieta"
 
 219:
   kind: mc
@@ -2369,18 +2357,18 @@
     - La formazione di legami peptidici
     - La conversione in zuccheri semplici
   correct: 0
-  curiosity: "La denaturazione di una proteina comporta la perdita della sua forma tridimensionale, rendendola non funzionale."
+  curiosity: "La denaturazione di una proteina la rende non funzionale"
 
-220:
-  kind: mc
-  text: "Qual è la principale funzione del collagene?"
-  options:
-    - Fornire struttura e supporto ai tessuti
-    - Trasportare ossigeno
-    - Catalizzare reazioni biochimiche
-    - Riserva di energia
-  correct: 0
-  curiosity: "Il collagene è la proteina strutturale principale che fornisce supporto e resistenza ai tessuti connettivi."
+# 220:
+#   kind: mc
+#   text: "Qual è la principale funzione del collagene?"
+#   options:
+#     - Fornire struttura e supporto ai tessuti
+#     - Trasportare ossigeno
+#     - Catalizzare reazioni biochimiche
+#     - Riserva di energia
+#   correct: 0
+#   curiosity: "Il collagene è la proteina strutturale principale che fornisce supporto e resistenza ai tessuti connettivi."
 
 221:
   kind: mc
@@ -2391,7 +2379,7 @@
     - Amilasi
     - Lipasi
   correct: 0
-  curiosity: "La pepsina è l'enzima principale che scompone le proteine nello stomaco durante la digestione."
+  curiosity: 
 
 222:
   kind: mc
@@ -2402,7 +2390,7 @@
     - Triptofano
     - Glicina
   correct: 2
-  curiosity: "Il triptofano è l'amminoacido da cui viene sintetizzata la serotonina, un neurotrasmettitore coinvolto nel controllo dell'umore."
+  curiosity: "La serotonina è un neurotrasmettitore coinvolto nel controllo dell'umore"
 
 223:
   kind: mc
@@ -2413,18 +2401,18 @@
     - Ha gruppi laterali che formano legami a idrogeno
     - Ha una struttura idrofobica
   correct: 2
-  curiosity: "Gli amminoacidi polari hanno gruppi laterali che possono formare legami a idrogeno, rendendoli solubili in acqua."
+  curiosity: "I legami a idrogeno rendono questi amminoacidi solubili in acqua"
 
-224:
-  kind: mc
-  text: "Che cosa si intende per struttura primaria di una proteina?"
-  options:
-    - La sequenza lineare di amminoacidi
-    - La disposizione tridimensionale
-    - Le interazioni tra più subunità
-    - La formazione di alfa-eliche e foglietti beta
-  correct: 0
-  curiosity: "La struttura primaria di una proteina è la sequenza specifica di amminoacidi che la compongono."
+# 224:
+#   kind: mc
+#   text: "Che cosa si intende per struttura primaria di una proteina?"
+#   options:
+#     - La sequenza lineare di amminoacidi
+#     - La disposizione tridimensionale
+#     - Le interazioni tra più subunità
+#     - La formazione di alfa-eliche e foglietti beta
+#   correct: 0
+#   curiosity: "La struttura primaria di una proteina è la sequenza specifica di amminoacidi che la compongono."
 
 225:
   kind: mc
@@ -2435,18 +2423,18 @@
     - Emoglobina
     - Actina
   correct: 0
-  curiosity: "Le immunoglobuline sono anticorpi prodotti dal sistema immunitario per riconoscere e neutralizzare patogeni."
+  curiosity: "Le immunoglobuline sono anticorpi prodotti dal sistema immunitario per riconoscere e neutralizzare patogeni"
 
-226:
-  kind: mc
-  text: "Quale dei seguenti amminoacidi può formare legami disolfuro?"
-  options:
-    - Prolina
-    - Glicina
-    - Cisteina
-    - Serina
-  correct: 2
-  curiosity: "La cisteina è l'amminoacido che può formare legami disolfuro, importanti per stabilizzare la struttura delle proteine."
+# 226:
+#   kind: mc
+#   text: "Quale dei seguenti amminoacidi può formare legami disolfuro?"
+#   options:
+#     - Prolina
+#     - Glicina
+#     - Cisteina
+#     - Serina
+#   correct: 2
+#   curiosity: "La cisteina è l'amminoacido che può formare legami disolfuro, importanti per stabilizzare la struttura delle proteine."
 
 227:
   kind: mc
@@ -2457,7 +2445,7 @@
     - Mitocondri
     - Apparato di Golgi
   correct: 0
-  curiosity: "La sintesi proteica avviene nei ribosomi, che possono essere liberi nel citoplasma o legati al reticolo endoplasmatico."
+  curiosity: "I ribosomi possono essere liberi nel citoplasma o legati al reticolo endoplasmatico"
 
 228:
   kind: mc
@@ -2468,7 +2456,7 @@
     - Pepsina
     - Insulina
   correct: 1
-  curiosity: "L'actina è una proteina fondamentale per la contrazione muscolare, lavorando insieme alla miosina."
+  curiosity:
 
 229:
   kind: mc
@@ -2479,7 +2467,7 @@
     - Trasportare ossigeno
     - Agire come riserva energetica
   correct: 1
-  curiosity: "L'insulina è un ormone che regola i livelli di glucosio nel sangue, consentendo l'ingresso del glucosio nelle cellule."
+  curiosity: "L'insulina è un ormone che consente l'ingresso del glucosio nelle cellule"
 
 230:
   kind: mc
@@ -2490,7 +2478,7 @@
     - La struttura del gruppo laterale (R)
     - La posizione del gruppo amminico
   correct: 2
-  curiosity: "Gli amminoacidi si differenziano per il gruppo laterale (R), che determina le loro proprietà chimiche e fisiche."
+  curiosity: "Il gruppo laterale (R) determina le proprietà chimiche e fisiche degli amminoacidi"
 
 231:
   kind: mc
@@ -2501,18 +2489,18 @@
     - Caseina
     - Insulina
   correct: 2
-  curiosity: "La caseina è una proteina di riserva presente nel latte, che fornisce amminoacidi essenziali."
+  curiosity: "La caseina è presente nel latte e fornisce amminoacidi essenziali"
 
-232:
-  kind: mc
-  text: "Che cosa caratterizza gli enzimi?"
-  options:
-    - Aumentano la velocità delle reazioni senza essere consumati
-    - Forniscono energia direttamente alla reazione
-    - Vengono modificati durante la reazione
-    - Richiedono elevate temperature per funzionare
-  correct: 0
-  curiosity: "Gli enzimi accelerano le reazioni chimiche senza essere consumati nel processo."
+# 232:
+#   kind: mc
+#   text: "Che cosa caratterizza gli enzimi?"
+#   options:
+#     - Aumentano la velocità delle reazioni senza essere consumati
+#     - Forniscono energia direttamente alla reazione
+#     - Vengono modificati durante la reazione
+#     - Richiedono elevate temperature per funzionare
+#   correct: 0
+#   curiosity: "Gli enzimi accelerano le reazioni chimiche senza essere consumati nel processo."
 
 233:
   kind: mc
@@ -2523,53 +2511,53 @@
     - Si formano solo legami peptidici
     - La proteina si denatura
   correct: 1
-  curiosity: "La struttura quaternaria si forma quando più catene polipeptidiche si uniscono per formare una proteina funzionale."
+  curiosity: 
 
-234:
-  kind: mc
-  text: "Quale tra i seguenti amminoacidi è aromatico?"
-  options:
-    - Fenilalanina
-    - Glicina
-    - Lisina
-    - Alanina
-  correct: 0
-  curiosity: "La fenilalanina è un amminoacido aromatico che contiene un anello benzenico nel suo gruppo laterale."
+# 234:
+#   kind: mc
+#   text: "Quale tra i seguenti amminoacidi è aromatico?"
+#   options:
+#     - Fenilalanina
+#     - Glicina
+#     - Lisina
+#     - Alanina
+#   correct: 0
+#   curiosity: "La fenilalanina è un amminoacido aromatico che contiene un anello benzenico nel suo gruppo laterale."
 
 235:
   kind: mc
-  text: "Che cosa rappresenta l’alfa-elica in una proteina?"
+  text: Che cosa rappresenta l’$\alpha-elica$ in una proteina?
   options:
     - Una forma di struttura secondaria
     - Una parte della struttura primaria
     - Una caratteristica della struttura terziaria
     - Un insieme di catene polipeptidiche
   correct: 0
-  curiosity: "L'alfa-elica è una tipica struttura secondaria delle proteine, stabilizzata da legami a idrogeno."
+  curiosity: L'$\alpha-elica$ è stabilizzata da legami a idrogeno
 
-236:
-  kind: mc
-  text: "Qual è il risultato della deamidazione di un amminoacido?"
-  options:
-    - Rimozione del gruppo amminico
-    - Rimozione del gruppo carbossilico
-    - Rimozione del gruppo laterale (R)
-    - Modifica della struttura primaria
-  correct: 0
-  curiosity: "La deamidazione è una reazione che rimuove un gruppo amminico da un amminoacido."
+# 236:
+#   kind: mc
+#   text: "Qual è il risultato della deamidazione di un amminoacido?"
+#   options:
+#     - Rimozione del gruppo amminico
+#     - Rimozione del gruppo carbossilico
+#     - Rimozione del gruppo laterale (R)
+#     - Modifica della struttura primaria
+#   correct: 0
+#   curiosity: "La deamidazione è una reazione che rimuove un gruppo amminico da un amminoacido."
 
-237:
-  kind: mc
-  text: "Qual è la funzione principale delle proteine di trasporto come l'emoglobina?"
-  options:
-    - Catalizzare reazioni biochimiche
-    - Fornire supporto strutturale
-    - Trasportare molecole specifiche nel corpo
-    - Regolare i livelli di pH
-  correct: 2
-  curiosity: "Le proteine di trasporto, come l'emoglobina, hanno il compito di trasportare ossigeno e altre molecole vitali nel corpo."
+# 237:
+#   kind: mc
+#   text: "Qual è la funzione principale delle proteine di trasporto come l'emoglobina?"
+#   options:
+#     - Catalizzare reazioni biochimiche
+#     - Fornire supporto strutturale
+#     - Trasportare molecole specifiche nel corpo
+#     - Regolare i livelli di pH
+#   correct: 2
+#   curiosity: "Le proteine di trasporto, come l'emoglobina, hanno il compito di trasportare ossigeno e altre molecole vitali nel corpo."
 
-#FINALFIX
+#FIXME
 
 238:
   kind: mc
@@ -2578,9 +2566,9 @@
     - RNA e ATP
     - DNA e RNA
     - mRNA e tRNA
-    - Proteine e RNA
+    - ATP e DNA
   correct: 1
-  curiosity: "I due principali tipi di acidi nucleici sono il DNA, che conserva l'informazione genetica, e l'RNA, che la trasferisce e la utilizza per la sintesi proteica."
+  curiosity: "Il DNA conserva l'informazione genetica e l'RNA la trasferisce e la utilizza per la sintesi proteica"
 
 239:
   kind: mc

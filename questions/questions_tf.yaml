@@ -109,8 +109,333 @@
      
 1018:
   kind: tf
+  text: Il legame covalente NON può essere polare
+  correct: 1
+  curiosity: Nella molecola di acqua $H_2O$ si ha una carica parziale positiva sugli atomi di idrogeno e una negativa sull'atomo di ossigeno
+
+1019:
+  kind: tf
+  text: Il legame a idrogeno è responsabile della struttura a doppia elica del DNA
+  correct: 0
+  curiosity: Nel 1962 James Watson, Francis Crick e Maurice Wilkins ricevettero il premio Nobel per la medicina per la scoperta della struttura del DNA
+
+#READY
+
+1020:
+  kind: tf
+  text: Il pH misura la capacità di una soluzione di condurre elettricità
+  correct: 1
+  curiosity: 
+
+1021:
+  kind: tf
+  text: Il pH di una soluzione neutra a temperatura ambiente è di 7
+  correct: 0
+  curiosity: 
+
+1022:
+  kind: tf
+  text: Una soluzione con un pH di 11 è considerata acida
+  correct: 1
+  curiosity: 
+
+1023:
+  kind: tf
+  text: Il range della scala del pH va da 0 a 14
+  correct: 0
+  curiosity:
+
+1024:
+  kind: tf
+  text: Quando la concentrazione di ioni idrogeno ($H^+$) aumenta il pH aumenta
+  correct: 1
+  curiosity:
+
+1025:
+  kind: tf
+  text: Il pH influisce sull'attività degli enzimi
+  correct: 0
+  curiosity:         
+
+
+1026:
+  kind: tf
+  text: I ``tamponi'' sono soluzioni con pH fortemente basico
+  correct: 1
+  curiosity:
+
+#FIXME
+
+1027:
+  kind: tf
+  text: La reazione di condensazione è alla base della sintesi delle macromolecole
+  correct: 0
+  curiosity:
+
+1028:
+  kind: tf
+  text: Durante la sintesi di proteine, tra due amminoacidi si forma un legame fosfodiesterico
+  correct: 1
+  curiosity:
+
+1029:
+  kind: tf
+  text: Il processo di idrolisi comporta la rottura di macromolecole in monomeri
+  correct: 0
+  curiosity:      
+
+1030:
+  kind: tf
+  text: I monomeri dei polisaccaridi sono gli amminoacidi
+  correct: 1
+  curiosity: 
+
+1031:
+  kind: tf
+  text: I nucleotidi compongono gli acidi nucleici
+  correct: 0
+  curiosity: 
+
+1032:
+  kind: tf
+  text: Il legame peptidico unisce i nucleotidi in una catena di DNA
+  correct: 1
+  curiosity: 
+
+1033:
+  kind: tf
+  text: I ponti disolfuro sono dei legami coinvolti nella struttura terziaria delle proteine
+  correct: 0
+  curiosity: 
+
+1034:
+  kind: tf
+  text: I componenti principali dei lipidi sono gli acidi grassi e i monosaccaridi
+  correct: 1
+  curiosity: 
+
+1035:
+  kind: tf
+  text: La condensazione richiede energia per formare legami covalenti
+  correct: 0
+  curiosity: 
+
+1036:
+  kind: tf
+  text: I lipidi sono solubili in acqua 
+  correct: 1
+  curiosity: 
+
+1037:
+  kind: tf
+  text: Il collagene è una proteina strutturale
+  correct: 0
+  curiosity: 
+
+1038:
+  kind: tf
+  text: Gli enzimi sono polisaccaridi
+  correct: 1
+  curiosity: 
+
+#FIXME
+
+1039:
+  kind: tf
+  text: L'emoglobina è una proteina che è coinvolta nel trasporto dell'ossigeno nel sangue
+  correct: 0
+  curiosity: 
+
+1040:
+  kind: tf
+  text: Le proteine immagazzinano informazioni genetiche
+  correct: 1
+  curiosity: 
+
+1041:
+  kind: tf
+  text: Le proteine enzimatiche catalizzano reazioni biochimiche
+  correct: 0
+  curiosity: 
+
+1042:
+  kind: tf
+  text: L'adenosintrifosfato (ATP) è una proteina
+  correct: 1
+  curiosity: 
+
+1043:
+  kind: tf
+  text: Il glicogeno funge da riserva energetica
+  correct: 0
+  curiosity: 
+
+#FIXME
+
+1044:
+  kind: tf
+  text: Il fruttosio è un polisaccaride
+  correct: 1
+  curiosity: 
+
+1045:
+  kind: tf
+  text: Nelle piante l'amido è utilizzato riserva energetica
+  correct: 0
+  curiosity: 
+
+1046:
+  kind: tf
+  text: Il fruttosio è comunemente noto come ``zucchero da tavola''
+  correct: 1
+  curiosity: 
+
+1047:
+  kind: tf
+  text: La forma molecolare dei carboidrati è $C_n(H_2O)_n$
+  correct: 0
+  curiosity: 
+
+1048:
+  kind: tf
+  text: Nel corpo umano, il glicogeno funge da riserva energetica a lungo termine
+  correct: 1
+  curiosity: 
+
+1049:
+  kind: tf
+  text: La glicolisi avviene principalmente nel citoplasma
+  correct: 0
+  curiosity: 
+
+#FIXME
+
+1050:
+  kind: tf
+  text: I trigliceridi contengono un acido grasso unito a tre molecole di glicerolo
+  correct: 1
+  curiosity: 
+
+1051:
+  kind: tf
+  text: Gli steroidi sono una categoria dei lipidi
+  correct: 0
+  curiosity: 
+
+1052:
+  kind: tf
+  text: Gli steroidi hanno una struttura a due anelli di carbonio
+  correct: 1
+  curiosity: 
+
+1053:
+  kind: tf
+  text: La vitamina D è strutturalmente uno steroide
+  correct: 0
+  curiosity: 
+
+1054:
+  kind: tf
+  text: I grassi saturi contengono doppi legami tra atomi di carbonio
+  correct: 1
+  curiosity: 
+
+1055:
+  kind: tf
+  text: Il legame cis determina una curvatura nella catena carboniosa dell'acido grasso, mentre la geometria del legame trans raddrizza la catena
+  correct: 0
+  curiosity: 
+
+1056:
+  kind: tf
+  text: I lipidi contengono meno energia per grammo rispetto ai carboidrati
+  correct: 1
+  curiosity: 
+
+1057:
+  kind: tf
+  text: Gli acidi grassi essenziali devono essere introdotti con la dieta
+  correct: 0
+  curiosity: 
+
+#FIXME
+
+1058:
+  kind: tf
+  text: La struttura primaria è la sequenza di amminoacidi nella proteina
+  correct: 0
+  curiosity: 
+
+1059:
+  kind: tf
+  text: Le $\alpha -eliche$ e i %foglietti- \beta% sono strutture terziarie delle proteine
+  correct: 1
+  curiosity: 
+
+1060:
+  kind: tf
+  text: La struttura secondaria delle proteine si riferisce all'organizzazione tridimensionale della catena amminoacidica
+  correct: 1
+  curiosity: 
+
+1061:
+  kind: tf
+  text: La struttura terziaria di una proteina è fondamentale per la sua funzionalità
+  correct: 0
+  curiosity: 
+
+1062:
+  kind: tf
+  text: I legami a idrogeno stabilizzano la struttura primaria di una proteina
+  correct: 1
+  curiosity: 
+
+1063:
+  kind: tf
+  text: L'immunoglobulina è un anticorpo 
+  correct: 0
+  curiosity: 
+
+1064:
+  kind: tf
+  text: L'insulina aumenta il livello di glucosio nel sangue
+  correct: 1
+  curiosity: 
+
+1065:
+  kind: tf
+  text: Il glucagone aumenta il livello di glucosio nel sangue
+  correct: 0
+  curiosity: 
+
+1066:
+  kind: tf
+  text: Tutte le proteine formano strutture quaternarie
+  correct: 1
+  curiosity: 
+
+1067:
+  kind: tf
+  text: Gli amminoacidi si differenziano tra loro principalmente per la struttura del gruppo laterale
+  correct: 0
+  curiosity: 
+
+#FIXME
+
+1068:
+  kind: tf
   text: 
   correct: 0
   curiosity: 
 
+1069:
+  kind: tf
+  text: 
+  correct: 0
+  curiosity: 
 
+1070:
+  kind: tf
+  text: 
+  correct: 0
+  curiosity: 
