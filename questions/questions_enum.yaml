@@ -273,57 +273,64 @@
 
 2029:
   kind: enum
-  text: Elenca le categorie dei lipidi
+  text: Elenca gli enzimi coinvolti nella replicazione del DNA
   options:
-    - 
-    - 
-    - 
-    -  
+    - elicasi
+    - DNA polimerasi
+    - topoisomerasi
+    - DNA girasi
 
 2030:
   kind: enum
-  text: Elenca le categorie dei lipidi
+  text: Elenca le modalità dallo splicing alternativo
   options:
-    - 
-    - 
-    - 
-    -  
+    - Esone saltato
+    - Esone esteso
+    - Introne mantenuto
+    - Esoni alternativi
+
+#READY
 
 2031:
   kind: enum
-  text: Elenca le categorie dei lipidi
+  text: Elenca i livelli di compattazione del DNA
   options:
-    - 
-    - 
-    - 
-    -  
+    - DNA a doppia elica
+    - ``collana di perle''
+    - Fibra ad ansa
+    - Cromosoma 
 
 2032:
   kind: enum
-  text: Elenca le categorie dei lipidi
+  text: Elenca le fasi del ciclo cellulare
   options:
-    - 
-    - 
-    - 
-    -  
+    - Fase G1
+    - Fase S
+    - Fase G2
+    - Fase M
+
+#READY
+#READY
 
 2033:
   kind: enum
-  text: Elenca le categorie dei lipidi
+  text: Elenca delle modifiche post-traduzionali degli istoni
   options:
-    - 
-    - 
-    - 
-    -  
+    - Metilazione
+    - Acetilazione
+    - Fosforilazione
+    - Ubiquitinazione
 
 2034:
   kind: enum
-  text: Elenca le categorie dei lipidi
+  text: Elenca le proteine istoniche presenti nel nucleosoma
   options:
-    - 
-    - 
-    - 
-    -  
+    - H2A
+    - H2B
+    - H3
+    - H4
+
+#READY
 
 2035:
   kind: enum

@@ -3,5 +3,6 @@
 *.aux
 *.log
 *.txt
+*.xcf
 __pycache__/
 .venv/

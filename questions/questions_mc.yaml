@@ -2570,16 +2570,16 @@
   correct: 1
   curiosity: "Il DNA conserva l'informazione genetica e l'RNA la trasferisce e la utilizza per la sintesi proteica"
 
-239:
-  kind: mc
-  text: "Qual è la funzione principale del DNA?"
-  options:
-    - Trasportare energia alle cellule
-    - Catalizzare reazioni chimiche
-    - Conservare e trasmettere l'informazione genetica
-    - Formare le membrane cellulari
-  correct: 2
-  curiosity: "Il DNA è fondamentale per conservare e trasmettere l'informazione genetica necessaria alla crescita e al funzionamento delle cellule."
+# 239:
+#   kind: mc
+#   text: "Qual è la funzione principale del DNA?"
+#   options:
+#     - Trasportare energia alle cellule
+#     - Catalizzare reazioni chimiche
+#     - Conservare e trasmettere l'informazione genetica
+#     - Formare le membrane cellulari
+#   correct: 2
+#   curiosity: 
 
 240:
   kind: mc
@@ -2590,7 +2590,7 @@
     - Il DNA è composto da quattro basi, mentre l'RNA da cinque
     - L'RNA non contiene azoto
   correct: 0
-  curiosity: "La principale differenza tra DNA e RNA è il tipo di zucchero: il DNA contiene desossiribosio, mentre l'RNA contiene ribosio."
+  curiosity: 
 
 241:
   kind: mc
@@ -2601,29 +2601,29 @@
     - Uracile
     - Timina
   correct: 2
-  curiosity: "L'uracile è una base azotata che si trova solo nell'RNA, sostituendo la timina presente nel DNA."
+  curiosity: 
 
-242:
-  kind: mc
-  text: "Quale legame unisce i nucleotidi in una catena polinucleotidica?"
-  options:
-    - Legame peptidico
-    - Legame idrogeno
-    - Legame fosfodiesterico
-    - Legame disolfuro
-  correct: 2
-  curiosity: "I nucleotidi in una catena polinucleotidica sono uniti da legami fosfodiesterici tra il gruppo fosfato di un nucleotide e il zucchero del successivo."
+# 242:
+#   kind: mc
+#   text: "Quale legame unisce i nucleotidi in una catena polinucleotidica?"
+#   options:
+#     - Legame peptidico
+#     - Legame idrogeno
+#     - Legame fosfodiesterico
+#     - Legame disolfuro
+#   correct: 2
+#   curiosity: "I nucleotidi in una catena polinucleotidica sono uniti da legami fosfodiesterici tra il gruppo fosfato di un nucleotide e il zucchero del successivo."
 
-243:
-  kind: mc
-  text: "In quale parte della cellula si trova principalmente il DNA?"
-  options:
-    - Mitocondri
-    - Nucleo
-    - Apparato di Golgi
-    - Reticolo endoplasmatico
-  correct: 1
-  curiosity: "Nel nucleo delle cellule eucariotiche si trova la maggior parte del DNA, mentre nei mitocondri c'è una piccola quantità di DNA mitocondriale."
+# 243:
+#   kind: mc
+#   text: "In quale parte della cellula si trova principalmente il DNA?"
+#   options:
+#     - Mitocondri
+#     - Nucleo
+#     - Apparato di Golgi
+#     - Reticolo endoplasmatico
+#   correct: 1
+#   curiosity: "Nel nucleo delle cellule eucariotiche si trova la maggior parte del DNA, mentre nei mitocondri c'è una piccola quantità di DNA mitocondriale."
 
 244:
   kind: mc
@@ -2632,9 +2632,9 @@
     - Doppia elica
     - Singolo filamento lineare
     - Tripla elica
-    - Doppio strato lipidico
+    - Doppio filamento lineare
   correct: 0
-  curiosity: "Il DNA nelle cellule eucariotiche ha una struttura a doppia elica, composta da due filamenti avvolti tra loro."
+  curiosity: 
 
 245:
   kind: mc
@@ -2645,29 +2645,29 @@
     - Uracile
     - Timina
   correct: 1
-  curiosity: "Nel DNA, la guanina si appaia con la citosina, formando legami a tre idrogeno."
+  curiosity: 
 
 246:
   kind: mc
-  text: "Quale tipo di RNA trasporta gli amminoacidi ai ribosomi?"
+  text: "Quale tipo di RNA trasporta gli amminoacidi ai siti ribosomiali?"
   options:
     - mRNA
     - rRNA
     - tRNA
     - snRNA
   correct: 2
-  curiosity: "Il tRNA è responsabile del trasporto degli amminoacidi ai ribosomi durante la sintesi proteica."
+  curiosity: 
 
-247:
-  kind: mc
-  text: "Quale base azotata si trova nel DNA ma non nell'RNA?"
-  options:
-    - Uracile
-    - Guanina
-    - Citosina
-    - Timina
-  correct: 3
-  curiosity: "La timina è una base azotata presente nel DNA, ma non nell'RNA, dove viene sostituita dall'uracile."
+# 247:
+#   kind: mc
+#   text: "Quale base azotata si trova nel DNA ma non nell'RNA?"
+#   options:
+#     - Uracile
+#     - Guanina
+#     - Citosina
+#     - Timina
+#   correct: 3
+#   curiosity: "La timina è una base azotata presente nel DNA, ma non nell'RNA, dove viene sostituita dall'uracile."
 
 248:
   kind: mc
@@ -2678,7 +2678,7 @@
     - Glucosio
     - Fruttosio
   correct: 0
-  curiosity: "L'RNA contiene ribosio, uno zucchero a cinque atomi di carbonio, mentre il DNA contiene desossiribosio."
+  curiosity: 
 
 249:
   kind: mc
@@ -2689,7 +2689,7 @@
     - Ligasi
     - Trascrittasi inversa
   correct: 0
-  curiosity: "La DNA polimerasi è l'enzima principale che catalizza la sintesi del DNA durante la replicazione."
+  curiosity: 
 
 250:
   kind: mc
@@ -2700,7 +2700,7 @@
     - Legare gli amminoacidi
     - Costituire la struttura dei ribosomi
   correct: 1
-  curiosity: "L'mRNA trasporta l'informazione genetica dal DNA ai ribosomi per la sintesi proteica."
+  curiosity: 
 
 251:
   kind: mc
@@ -2711,18 +2711,18 @@
     - Replicazione
     - Idrolisi
   correct: 1
-  curiosity: "La trascrizione è il processo attraverso il quale l'RNA viene sintetizzato a partire da un modello di DNA."
+  curiosity: 
 
-253:
-  kind: mc
-  text: "Quale dei seguenti è un nucleotide?"
-  options:
-    - Adenosina trifosfato (ATP)
-    - Glicina
-    - Glucosio
-    - Amminoacido
-  correct: 0
-  curiosity: "L'adenosina trifosfato (ATP) è un nucleotide che svolge un ruolo fondamentale nel fornire energia alle cellule."
+# 253:
+#   kind: mc
+#   text: "Quale dei seguenti è un nucleotide?"
+#   options:
+#     - Adenosina trifosfato (ATP)
+#     - Glicina
+#     - Glucosio
+#     - Amminoacido
+#   correct: 0
+#   curiosity: "L'adenosina trifosfato (ATP) è un nucleotide che svolge un ruolo fondamentale nel fornire energia alle cellule."
 
 254:
   kind: mc
@@ -2733,29 +2733,29 @@
     - Creando copie identiche in singolo filamento
     - Con l'aggiunta casuale di nuovi nucleotidi
   correct: 1
-  curiosity: "La replicazione del DNA avviene in modo semiconservativo, cioè ogni nuova molecola di DNA contiene un filamento originale e uno nuovo."
+  curiosity: 
 
-255:
-  kind: mc
-  text: "Qual è il ruolo del tRNA nella sintesi proteica?"
-  options:
-    - Sintetizzare DNA
-    - Stabilizzare la struttura del ribosoma
-    - Trasportare amminoacidi ai ribosomi
-    - Leggere il codice genetico
-  correct: 2
-  curiosity: "Il tRNA trasporta gli amminoacidi necessari alla sintesi proteica verso il ribosoma."
+# 255:
+#   kind: mc
+#   text: "Qual è il ruolo del tRNA nella sintesi proteica?"
+#   options:
+#     - Sintetizzare DNA
+#     - Stabilizzare la struttura del ribosoma
+#     - Trasportare amminoacidi ai ribosomi
+#     - Leggere il codice genetico
+#   correct: 2
+#   curiosity: "Il tRNA trasporta gli amminoacidi necessari alla sintesi proteica verso il ribosoma."
 
 256:
   kind: mc
   text: "Che cos'è un gene?"
   options:
-    - Una sequenza di DNA che codifica per una proteina
+    - Una sequenza di DNA che codifica per una proteina o una molecola di RNA
     - Un insieme di proteine
     - Un tipo di RNA
-    - Una molecola di glucosio
+    - Una sequenza di DNA che codifica una proteina
   correct: 0
-  curiosity: "Un gene è una sequenza di DNA che contiene le informazioni per la sintesi di una proteina."
+  curiosity: 
 
 257:
   kind: mc
@@ -2766,18 +2766,18 @@
     - Trascrizione
     - Trasferimento
   correct: 1
-  curiosity: "La traduzione è il processo che converte l'informazione genetica contenuta nell'mRNA in una proteina."
+  curiosity: 
 
 258:
   kind: mc
   text: "Qual è la funzione dell'RNA polimerasi?"
   options:
-    - Replicare il DNA
+    - Replicare l'RNA
     - Sintetizzare RNA a partire da un modello di DNA
     - Unire nucleotidi di DNA
     - Catalizzare reazioni biochimiche generiche
   correct: 1
-  curiosity: "L'RNA polimerasi è l'enzima che sintetizza RNA a partire da un modello di DNA durante la trascrizione."
+  curiosity: 
 
 259:
   kind: mc
@@ -2788,7 +2788,7 @@
     - Formano le catene di zuccheri e fosfati
     - Stabilizzano la doppia elica attraverso legami covalenti
   correct: 0
-  curiosity: "Le basi azotate nel DNA contengono l'informazione genetica e la loro sequenza determina la sintesi proteica."
+  curiosity: 
 
 260:
   kind: mc
@@ -2799,40 +2799,40 @@
     - Non cambia mai in nessun organismo
     - Può codificare solo per poche proteine
   correct: 0
-  curiosity: "Il codice genetico è universale perché è utilizzato da quasi tutti gli organismi viventi per codificare le proteine."
+  curiosity: 
 
 261:
   kind: mc
   text: "Cosa sono gli introni nel DNA?"
   options:
-    - Sequenze non codificanti che vengono rimosse durante il processo di splicing
+    - Sequenze NON codificanti che vengono rimosse durante il processo di splicing
     - Sequenze che codificano per proteine
-    - Enzimi che degradano l'mRNA
-    - Regioni terminali di una molecola di DNA
+    - Sequenze codificanti che vengono mantenute durante il processo di splicing
+    - Sequenze di 3 nucleotidi
   correct: 0
-  curiosity: "Gli introni sono sequenze non codificanti del DNA che vengono rimosse durante il processo di splicing dell'mRNA."
+  curiosity: 
 
 262:
   kind: mc
-  text: "La trascrizione avviene principalmente:"
+  text: "Nelle cellule eucariote, la trascrizione avviene principalmente:"
   options:
-    - Nel nucleo delle cellule eucariotiche
+    - Nel nucleo 
     - Nei mitocondri
     - Nel citoplasma
-    - Nel Golgi
+    - Nell'appartato di Golgi
   correct: 0
-  curiosity: "La trascrizione avviene nel nucleo delle cellule eucariotiche, dove l'RNA viene sintetizzato a partire dal DNA."
+  curiosity: 
 
 263:
   kind: mc
   text: "Qual è la funzione degli esoni?"
   options:
-    - Codificare per gli amminoacidi
+    - Preservare la sequenza del DNA
     - Codificare per le proteine dopo lo splicing dell'mRNA
     - Agire come interruzioni nel DNA
     - Connettere i nucleotidi
   correct: 1
-  curiosity: "Gli esoni sono le sequenze di DNA che codificano per proteine e rimangono nel mRNA maturo dopo lo splicing."
+  curiosity: 
 
 264:
   kind: mc
@@ -2843,18 +2843,18 @@
     - Timina
     - Uracile
   correct: 0
-  curiosity: "L'adenina è una base purinica che si appaia con la timina nel DNA e con l'uracile nell'RNA."
+  curiosity: 
 
 265:
   kind: mc
   text: "La traduzione avviene principalmente:"
   options:
     - Nel nucleo
-    - Nei ribosomi, nel citoplasma
+    - Nel citoplasma
     - Nell'apparato di Golgi
     - Nei mitocondri
   correct: 1
-  curiosity: "La traduzione avviene nei ribosomi, nel citoplasma, dove l'mRNA viene utilizzato per sintetizzare proteine."
+  curiosity: 
 
 266:
   kind: mc
@@ -2865,7 +2865,7 @@
     - Modificare il codice genetico
     - Convertire l'energia in ATP
   correct: 0
-  curiosity: "Il ribosoma legge il messaggio dell'mRNA e assembla gli amminoacidi in una catena polipeptidica durante la sintesi proteica."
+  curiosity: 
 
 267:
   kind: mc
@@ -2876,31 +2876,31 @@
     - La posizione del tRNA
     - Il ribosoma
   correct: 1
-  curiosity: "La sequenza degli amminoacidi in una proteina è determinata dalla sequenza di nucleotidi nel DNA, che viene trascritta in mRNA."
+  curiosity: 
 
-#FINALFIX
+#FIXME
 
-268:
-  kind: mc
-  text: "Qual è la struttura fondamentale del DNA?"
-  options:
-    - Doppia elica
-    - Struttura lineare
-    - Singola elica
-    - Spirale alfa
-  correct: 0
-  curiosity: "Il DNA ha una struttura a doppia elica, in cui due catene di nucleotidi si avvolgono tra loro."
+# 268:
+#   kind: mc
+#   text: "Qual è la struttura fondamentale del DNA?"
+#   options:
+#     - Doppia elica
+#     - Struttura lineare
+#     - Singola elica
+#     - Spirale alfa
+#   correct: 0
+#   curiosity: "Il DNA ha una struttura a doppia elica, in cui due catene di nucleotidi si avvolgono tra loro."
 
 269:
   kind: mc
   text: "Chi ha scoperto la struttura a doppia elica del DNA?"
   options:
-    - Rosalind Franklin e Gregor Mendel
+    - Marie Curie e Gregor Mendel
     - James Watson e Francis Crick
     - Albert Einstein e Charles Darwin
     - Marie Curie e Max Planck
   correct: 1
-  curiosity: "James Watson e Francis Crick sono noti per aver scoperto la struttura a doppia elica del DNA nel 1953, grazie anche ai dati di Rosalind Franklin."
+  curiosity: 
 
 270:
   kind: mc
@@ -2911,18 +2911,18 @@
     - Legame ionico
     - Legame metallico
   correct: 1
-  curiosity: "Le basi azotate nel DNA sono tenute insieme da legami a idrogeno, che sono più deboli rispetto ai legami covalenti, permettendo la separazione delle eliche."
+  curiosity: 
 
-271:
-  kind: mc
-  text: "Quale zucchero è presente nella struttura del DNA?"
-  options:
-    - Desossiribosio
-    - Ribosio
-    - Fruttosio
-    - Glucosio
-  correct: 0
-  curiosity: "Il DNA contiene desossiribosio, uno zucchero a cinque atomi di carbonio, che è privo di un atomo di ossigeno rispetto al ribosio nell'RNA."
+# 271:
+#   kind: mc
+#   text: "Quale zucchero è presente nella struttura del DNA?"
+#   options:
+#     - Desossiribosio
+#     - Ribosio
+#     - Fruttosio
+#     - Glucosio
+#   correct: 0
+#   curiosity: "Il DNA contiene desossiribosio, uno zucchero a cinque atomi di carbonio, che è privo di un atomo di ossigeno rispetto al ribosio nell'RNA."
 
 272:
   kind: mc
@@ -2933,7 +2933,7 @@
     - Adenina con Guanina e Citosina con Timina
     - Adenina con Uracile e Citosina con Guanina
   correct: 0
-  curiosity: "Nel DNA, l'adenina si appaia con la timina e la citosina con la guanina tramite legami a idrogeno."
+  curiosity: 
 
 273:
   kind: mc
@@ -2944,18 +2944,18 @@
     - Sono antiparallele
     - Sono ortogonali
   correct: 2
-  curiosity: "Le due eliche del DNA sono antiparallele, il che significa che corrono in direzioni opposte."
+  curiosity: 
 
-274:
-  kind: mc
-  text: "Quale base azotata è presente nel DNA, ma non nell’RNA?"
-  options:
-    - Adenina
-    - Guanina
-    - Citosina
-    - Timina
-  correct: 3
-  curiosity: "La timina è presente solo nel DNA, mentre nell'RNA viene sostituita dall'uracile."
+# 274:
+#   kind: mc
+#   text: "Quale base azotata è presente nel DNA, ma non nell’RNA?"
+#   options:
+#     - Adenina
+#     - Guanina
+#     - Citosina
+#     - Timina
+#   correct: 3
+#   curiosity: "La timina è presente solo nel DNA, mentre nell'RNA viene sostituita dall'uracile."
 
 275:
   kind: mc
@@ -2966,18 +2966,18 @@
     - Lipidi
     - Molecole di ATP
   correct: 1
-  curiosity: "Nel processo di compattamento del DNA, le eliche si avvolgono attorno a proteine istoniche per formare una struttura compatta chiamata cromatina."
+  curiosity: 
 
-276:
-  kind: mc
-  text: "Qual è la funzione principale del DNA?"
-  options:
-    - Produrre energia per la cellula
-    - Rimuovere le tossine cellulari
-    - Codificare le informazioni genetiche
-    - Trasportare ossigeno
-  correct: 2
-  curiosity: "Il DNA codifica le informazioni genetiche che sono essenziali per la sintesi proteica e il funzionamento delle cellule."
+# 276:
+#   kind: mc
+#   text: "Qual è la funzione principale del DNA?"
+#   options:
+#     - Produrre energia per la cellula
+#     - Rimuovere le tossine cellulari
+#     - Codificare le informazioni genetiche
+#     - Trasportare ossigeno
+#   correct: 2
+#   curiosity: "Il DNA codifica le informazioni genetiche che sono essenziali per la sintesi proteica e il funzionamento delle cellule."
 
 277:
   kind: mc
@@ -2988,18 +2988,18 @@
     - 10 coppie
     - 12 coppie
   correct: 2
-  curiosity: "In un giro completo della doppia elica del DNA ci sono circa 10 coppie di basi azotate."
+  curiosity: 
 
-278:
-  kind: mc
-  text: "Qual è la lunghezza media di un gene umano in coppie di basi?"
-  options:
-    - Circa 500 coppie
-    - Circa 10.000 coppie
-    - Circa 1.000-2.000 coppie
-    - Circa 100 coppie
-  correct: 2
-  curiosity: "La lunghezza media di un gene umano è di circa 1.000-2.000 coppie di basi, anche se può variare considerevolmente."
+# 278:
+#   kind: mc
+#   text: "Qual è la lunghezza media di un gene umano in coppie di basi?"
+#   options:
+#     - Circa 500 coppie
+#     - Circa 10.000 coppie
+#     - Circa 1.000-2.000 coppie
+#     - Circa 100 coppie
+#   correct: 2
+#   curiosity: 
 
 279:
   kind: mc
@@ -3010,7 +3010,7 @@
     - Rosalind Franklin
     - Maurice Wilkins
   correct: 2
-  curiosity: "Rosalind Franklin ha ottenuto le prime immagini di diffrazione a raggi X del DNA, che sono state fondamentali per la scoperta della sua struttura a doppia elica."
+  curiosity: 
 
 280:
   kind: mc
@@ -3021,18 +3021,18 @@
     - Alfa e Omega
     - Zeta e Gamma
   correct: 0
-  curiosity: "Le estremità di un filamento di DNA sono chiamate 3' e 5', riferendosi alla posizione dei gruppi fosfato e zucchero."
+  curiosity: 
 
-281:
-  kind: mc
-  text: "Quale enzima è responsabile della sintesi del nuovo filamento di DNA durante la replicazione?"
-  options:
-    - RNA polimerasi
-    - Elicasi
-    - DNA polimerasi
-    - Ligasi
-  correct: 2
-  curiosity: "La DNA polimerasi è l'enzima principale che catalizza la sintesi di nuovi filamenti di DNA durante la replicazione."
+# 281:
+#   kind: mc
+#   text: "Quale enzima è responsabile della sintesi del nuovo filamento di DNA durante la replicazione?"
+#   options:
+#     - RNA polimerasi
+#     - Elicasi
+#     - DNA polimerasi
+#     - Ligasi
+#   correct: 2
+#   curiosity: "La DNA polimerasi è l'enzima principale che catalizza la sintesi di nuovi filamenti di DNA durante la replicazione."
 
 282:
   kind: mc
@@ -3043,7 +3043,7 @@
     - Fase S
     - Fase G2
   correct: 2
-  curiosity: "La replicazione del DNA avviene durante la fase S del ciclo cellulare, prima della divisione cellulare."
+  curiosity: 
 
 283:
   kind: mc
@@ -3054,62 +3054,62 @@
     - Unisce i nucleotidi ai filamenti
     - Sintetizza RNA
   correct: 1
-  curiosity: "L'enzima elicasi separa i due filamenti di DNA rompendo i legami a idrogeno tra le basi azotate."
+  curiosity: 
 
 284:
   kind: mc
   text: "Qual è la differenza tra il filamento leading e il filamento lagging nella replicazione del DNA?"
   options:
     - Il filamento leading è replicato a pezzi
-    - Il filamento leading è sintetizzato in modo continuo, il lagging in modo discontinuo
-    - Il filamento lagging è più lungo
-    - Il filamento leading contiene solo basi puriniche
+    - Il filamento lagging è replicato a pezzi
+    - Il nome serve solo per distinguere il filamneto che va da 5' a 3' da quello che va da 3' a 5'
+    - Nessuna delle precedenti
   correct: 1
-  curiosity: "Il filamento leading è sintetizzato in modo continuo, mentre il filamento lagging è sintetizzato in frammenti (frammenti di Okazaki)."
+  curiosity: 
 
-285:
-  kind: mc
-  text: "In quale organismo è presente il DNA circolare?"
-  options:
-    - Umano
-    - Batteri
-    - Animali
-    - Piante
-  correct: 1
-  curiosity: "Il DNA circolare si trova principalmente nei batteri e in alcuni organelli, come i mitocondri e i cloroplasti."
+# 285:
+#   kind: mc
+#   text: "In quale organismo è presente il DNA circolare?"
+#   options:
+#     - Umano
+#     - Batteri
+#     - Animali
+#     - Piante
+#   correct: 1
+#   curiosity: "Il DNA circolare si trova principalmente nei batteri e in alcuni organelli, come i mitocondri e i cloroplasti."
 
-286:
-  kind: mc
-  text: "Cos’è un gene?"
-  options:
-    - Una proteina
-    - Una molecola di zucchero
-    - Una sequenza di DNA che codifica per una proteina
-    - Una molecola di RNA
-  correct: 2
-  curiosity: "Un gene è una sequenza di DNA che contiene le informazioni necessarie per la sintesi di una proteina."
+# 286:
+#   kind: mc
+#   text: "Cos’è un gene?"
+#   options:
+#     - Una proteina
+#     - Una molecola di zucchero
+#     - Una sequenza di DNA che codifica per una proteina
+#     - Una molecola di RNA
+#   correct: 2
+#   curiosity: "Un gene è una sequenza di DNA che contiene le informazioni necessarie per la sintesi di una proteina."
 
-287:
-  kind: mc
-  text: "Qual è la principale differenza tra DNA e RNA?"
-  options:
-    - Il DNA contiene uracile, mentre l'RNA contiene timina
-    - Il DNA contiene desossiribosio, mentre l'RNA contiene ribosio
-    - Il DNA è a singola elica, mentre l'RNA è a doppia elica
-    - L'RNA è più stabile del DNA
-  correct: 1
-  curiosity: "La principale differenza tra DNA e RNA è che il DNA contiene desossiribosio, mentre l'RNA contiene ribosio."
+# 287:
+#   kind: mc
+#   text: "Qual è la principale differenza tra DNA e RNA?"
+#   options:
+#     - Il DNA contiene uracile, mentre l'RNA contiene timina
+#     - Il DNA contiene desossiribosio, mentre l'RNA contiene ribosio
+#     - Il DNA è a singola elica, mentre l'RNA è a doppia elica
+#     - L'RNA è più stabile del DNA
+#   correct: 1
+#   curiosity: "La principale differenza tra DNA e RNA è che il DNA contiene desossiribosio, mentre l'RNA contiene ribosio."
 
-288:
-  kind: mc
-  text: "Quale affermazione è vera riguardo alla struttura del DNA?"
-  options:
-    - Le basi azotate si trovano sulla parte esterna della doppia elica
-    - Le basi azotate si trovano all'interno della doppia elica, mentre lo scheletro zucchero-fosfato è all'esterno
-    - Gli zuccheri si trovano al centro della doppia elica
-    - Le basi azotate si trovano solo su un filamento
-  correct: 1
-  curiosity: "Nel DNA, le basi azotate si trovano all'interno della doppia elica, mentre lo scheletro zucchero-fosfato è all'esterno."
+# 288:
+#   kind: mc
+#   text: "Quale affermazione è vera riguardo alla struttura del DNA?"
+#   options:
+#     - Le basi azotate si trovano sulla parte esterna della doppia elica
+#     - Le basi azotate si trovano all'interno della doppia elica, mentre lo scheletro zucchero-fosfato è all'esterno
+#     - Gli zuccheri si trovano al centro della doppia elica
+#     - Le basi azotate si trovano solo su un filamento
+#   correct: 1
+#   curiosity: "Nel DNA, le basi azotate si trovano all'interno della doppia elica, mentre lo scheletro zucchero-fosfato è all'esterno."
 
 290:
   kind: mc
@@ -3120,53 +3120,53 @@
     - I telomeri
     - I centromeri
   correct: 1
-  curiosity: "I promotori sono sequenze di DNA che si trovano prima del gene e regolano l'inizio della trascrizione, influenzando l'espressione genica."
+  curiosity: 
 
-291:
-  kind: mc
-  text: "Dove si trova il DNA nei procarioti?"
-  options:
-    - Nel citoplasma
-    - Nel nucleo
-    - Nei mitocondri
-    - Nel reticolo endoplasmatico
-  correct: 0
-  curiosity: "Nei procarioti, come i batteri, il DNA si trova nel citoplasma, in una regione chiamata nucleoide, poiché non hanno un nucleo definito."
+# 291:
+#   kind: mc
+#   text: "Dove si trova il DNA nei procarioti?"
+#   options:
+#     - Nel citoplasma
+#     - Nel nucleo
+#     - Nei mitocondri
+#     - Nel reticolo endoplasmatico
+#   correct: 0
+#   curiosity: "Nei procarioti, come i batteri, il DNA si trova nel citoplasma, in una regione chiamata nucleoide, poiché non hanno un nucleo definito."
 
 292:
   kind: mc
   text: "Quale delle seguenti affermazioni è corretta sul DNA mitocondriale?"
   options:
-    - È ereditato esclusivamente dalla madre
+    - È ereditato dalla madre
     - È ereditato da entrambi i genitori
-    - È ereditato esclusivamente dal padre
+    - È ereditato dal padre
     - È prodotto durante la replicazione
   correct: 0
-  curiosity: "Il DNA mitocondriale è ereditato esclusivamente dalla madre, poiché gli spermatozoi contribuiscono solo con il loro nucleo durante la fecondazione, mentre i mitocondri sono ereditati dalla cellula uovo."
+  curiosity: 
 
-#FINALFIX
+#FIXME
 
-293:
-  kind: mc
-  text: "Quale enzima è responsabile della sintesi del DNA durante la duplicazione?"
-  options:
-    - DNA ligasi
-    - RNA polimerasi
-    - DNA polimerasi
-    - Helicasi
-  correct: 2
-  curiosity: "La DNA polimerasi è l'enzima principale che aggiunge nucleotidi al filamento in crescita durante la duplicazione del DNA."
+# 293:
+#   kind: mc
+#   text: "Quale enzima è responsabile della sintesi del DNA durante la duplicazione?"
+#   options:
+#     - DNA ligasi
+#     - RNA polimerasi
+#     - DNA polimerasi
+#     - Helicasi
+#   correct: 2
+#   curiosity: "La DNA polimerasi è l'enzima principale che aggiunge nucleotidi al filamento in crescita durante la duplicazione del DNA."
 
-294:
-  kind: mc
-  text: "Durante quale fase del ciclo cellulare avviene la duplicazione del DNA?"
-  options:
-    - Fase S
-    - Fase G1
-    - Fase G2
-    - Fase M
-  correct: 0
-  curiosity: "La duplicazione del DNA avviene durante la fase S (Sintesi) del ciclo cellulare, prima della divisione cellulare."
+# 294:
+#   kind: mc
+#   text: "Durante quale fase del ciclo cellulare avviene la duplicazione del DNA?"
+#   options:
+#     - Fase S
+#     - Fase G1
+#     - Fase G2
+#     - Fase M
+#   correct: 0
+#   curiosity: "La duplicazione del DNA avviene durante la fase S (Sintesi) del ciclo cellulare, prima della divisione cellulare."
 
 295:
   kind: mc
@@ -3177,29 +3177,29 @@
     - Separazione dei filamenti di DNA
     - Formazione di nucleotidi
   correct: 2
-  curiosity: "Il primo passo nella duplicazione del DNA è la separazione dei due filamenti di DNA, che apre la doppia elica."
+  curiosity: 
 
 296:
   kind: mc
   text: "Cosa si forma alla fine della duplicazione del DNA?"
   options:
     - Due molecole di RNA
-    - Una molecola di DNA
+    - Una molecola di DNA 
     - Due molecole di DNA identiche
     - Due molecole di proteine
   correct: 2
-  curiosity: "Alla fine della duplicazione, si formano due molecole di DNA identiche, ciascuna composta da un filamento originale e uno nuovo."
+  curiosity: 
 
 297:
   kind: mc
   text: "Quale dei seguenti è un segnale di inizio della duplicazione del DNA?"
   options:
-    - Complesso di mitosi
-    - Origine di replicazione
     - Centromero
+    - Origine di replicazione
+    - Entrambe le precedenti
     - Telomero
   correct: 1
-  curiosity: "L'origine di replicazione è il sito in cui inizia la duplicazione del DNA, dove si separano i filamenti di DNA."
+  curiosity: 
 
 298:
   kind: mc
@@ -3210,29 +3210,29 @@
     - Unire i frammenti di Okazaki
     - Stabilizzare il filamento
   correct: 2
-  curiosity: "La DNA ligasi unisce i frammenti di Okazaki, che si formano sul filamento ritardato durante la replicazione del DNA."
+  curiosity: 
 
-299:
-  kind: mc
-  text: "Quale modello descrive il meccanismo di duplicazione del DNA?"
-  options:
-    - Modello dispersivo
-    - Modello semiconservativo
-    - Modello conservativo
-    - Modello catalitico
-  correct: 1
-  curiosity: "Il modello semiconservativo della duplicazione del DNA implica che ogni molecola figlia contenga un filamento originale e uno nuovo."
+# 299:
+#   kind: mc
+#   text: "Quale modello descrive il meccanismo di duplicazione del DNA?"
+#   options:
+#     - Modello dispersivo
+#     - Modello semiconservativo
+#     - Modello conservativo
+#     - Modello catalitico
+#   correct: 1
+#   curiosity: "Il modello semiconservativo della duplicazione del DNA implica che ogni molecola figlia contenga un filamento originale e uno nuovo."
 
-300:
-  kind: mc
-  text: "Quali sono i frammenti di DNA che si formano sul filamento ritardato durante la replicazione?"
-  options:
-    - Frammenti di Okazaki
-    - Frammenti di RNA
-    - Frammenti di mRNA
-    - Frammenti di proteine
-  correct: 0
-  curiosity: "I frammenti di Okazaki sono brevi segmenti di DNA che si formano sul filamento ritardato durante la replicazione del DNA."
+# 300:
+#   kind: mc
+#   text: "Quali sono i frammenti di DNA che si formano sul filamento ritardato durante la replicazione?"
+#   options:
+#     - Frammenti di Okazaki
+#     - Frammenti di RNA
+#     - Frammenti di mRNA
+#     - Frammenti di proteine
+#   correct: 0
+#   curiosity: "I frammenti di Okazaki sono brevi segmenti di DNA che si formano sul filamento ritardato durante la replicazione del DNA."
 
 301:
   kind: mc
@@ -3243,18 +3243,18 @@
     - Correggere errori
     - Tagliare il DNA
   correct: 1
-  curiosity: "La primasi sintetizza un primer di RNA che fornisce l'estremità 3' per l'inizio della sintesi del filamento di DNA."
+  curiosity: 
 
-302:
-  kind: mc
-  text: "Cosa determina la direzione di sintesi della nuova catena di DNA?"
-  options:
-    - La temperatura del sistema
-    - La presenza di nucleotidi
-    - La direzione del filamento di stampo
-    - L'enzima RNA polimerasi
-  correct: 2
-  curiosity: "La sintesi del DNA avviene in direzione 5' verso 3', in base alla direzione del filamento stampo."
+# 302:
+#   kind: mc
+#   text: "Cosa determina la direzione di sintesi della nuova catena di DNA?"
+#   options:
+#     - La temperatura del sistema
+#     - La presenza di nucleotidi
+#     - La direzione del filamento di stampo
+#     - L'enzima RNA polimerasi
+#   correct: 2
+#   curiosity: "La sintesi del DNA avviene in direzione 5' verso 3', in base alla direzione del filamento stampo."
 
 303:
   kind: mc
@@ -3265,7 +3265,7 @@
     - Cromatidi
     - DNA nucleosomiale
   correct: 1
-  curiosity: "I telomeri sono le estremità dei cromosomi che proteggono il DNA dalla perdita di informazioni durante la replicazione."
+  curiosity: 
 
 304:
   kind: mc
@@ -3276,7 +3276,7 @@
     - Helicasi
     - Topoisomerasi
   correct: 2
-  curiosity: "La helicasi è l'enzima che separa i due filamenti di DNA durante la replicazione, creando una bolla di replicazione."
+  curiosity: 
 
 305:
   kind: mc
@@ -3287,18 +3287,18 @@
     - Ridurre la tensione torsionale
     - Stabilizzare il DNA
   correct: 2
-  curiosity: "La topoisomerasi allevia la tensione torsionale che si forma quando il DNA viene separato durante la replicazione."
+  curiosity: 
 
-306:
-  kind: mc
-  text: "Durante la replicazione del DNA, quale filamento è sintetizzato in modo discontinuo?"
-  options:
-    - Filamento leader
-    - Filamento ritardato
-    - Filamento di template
-    - Filamento di RNA
-  correct: 1
-  curiosity: "Il filamento ritardato viene sintetizzato in modo discontinuo attraverso i frammenti di Okazaki, mentre il filamento leader è sintetizzato in modo continuo."
+# 306:
+#   kind: mc
+#   text: "Durante la replicazione del DNA, quale filamento è sintetizzato in modo discontinuo?"
+#   options:
+#     - Filamento leader
+#     - Filamento ritardato
+#     - Filamento di template
+#     - Filamento di RNA
+#   correct: 1
+#   curiosity: "Il filamento ritardato viene sintetizzato in modo discontinuo attraverso i frammenti di Okazaki, mentre il filamento leader è sintetizzato in modo continuo."
 
 307:
   kind: mc
@@ -3309,18 +3309,18 @@
     - DNA polimerasi
     - Primasi
   correct: 2
-  curiosity: "La DNA polimerasi rimuove i primer di RNA e li sostituisce con nucleotidi di DNA durante la replicazione."
+  curiosity: 
 
-308:
-  kind: mc
-  text: "Quale tipo di legame unisce i nucleotidi all'interno di un filamento di DNA?"
-  options:
-    - Legami idrogeno
-    - Legami ionici
-    - Legami covalenti
-    - Legami metallici
-  correct: 2
-  curiosity: "I nucleotidi all'interno di un filamento di DNA sono uniti da legami covalenti tra il gruppo fosfato di un nucleotide e il carbonio 3' del nucleotide successivo."
+# 308:
+#   kind: mc
+#   text: "Quale tipo di legame unisce i nucleotidi all'interno di un filamento di DNA?"
+#   options:
+#     - Legami idrogeno
+#     - Legami ionici
+#     - Legami covalenti
+#     - Legami metallici
+#   correct: 2
+#   curiosity: "I nucleotidi all'interno di un filamento di DNA sono uniti da legami covalenti tra il gruppo fosfato di un nucleotide e il carbonio 3' del nucleotide successivo."
 
 309:
   kind: mc
@@ -3331,7 +3331,7 @@
     - Duplicazione del DNA
     - Sintesi proteica
   correct: 2
-  curiosity: "Durante la fase S del ciclo cellulare, avviene la duplicazione del DNA, preparando la cellula alla divisione."
+  curiosity: 
 
 310:
   kind: mc
@@ -3342,42 +3342,42 @@
     - Promotori
     - Codoni
   correct: 1
-  curiosity: "Gli introni sono sequenze di DNA che non codificano per proteine e vengono rimossi durante il processo di splicing."
+  curiosity: 
 
-311:
-  kind: mc
-  text: "Cosa si intende per 'replicazione bidirezionale' nel contesto della duplicazione del DNA?"
-  options:
-    - La duplicazione avviene solo in un verso
-    - La duplicazione avviene solo su un filamento
-    - La duplicazione avviene in due direzioni contemporaneamente
-    - La duplicazione avviene solo in presenza di RNA
-  correct: 2
-  curiosity: "La replicazione bidirezionale significa che la duplicazione del DNA avviene in due direzioni, partendo dall'origine di replicazione."
+# 311:
+#   kind: mc
+#   text: "Cosa si intende per 'replicazione bidirezionale' nel contesto della duplicazione del DNA?"
+#   options:
+#     - La duplicazione avviene solo in un verso
+#     - La duplicazione avviene solo su un filamento
+#     - La duplicazione avviene in due direzioni contemporaneamente
+#     - La duplicazione avviene solo in presenza di RNA
+#   correct: 2
+#   curiosity: "La replicazione bidirezionale significa che la duplicazione del DNA avviene in due direzioni, partendo dall'origine di replicazione."
 
 312:
   kind: mc
-  text: "Quale proteina si lega al DNA per stabilizzare i filamenti durante la replicazione?"
+  text: "Cosa si lega al DNA per stabilizzare i filamenti durante la replicazione?"
   options:
     - DNA polimerasi
     - Helicasi
     - Proteine SSB (Single-Strand Binding)
     - Ligasi
   correct: 2
-  curiosity: "Le proteine SSB si legano ai filamenti di DNA separati durante la replicazione per impedirne la riassociazione e stabilizzarli."
+  curiosity: 
 
-#FINALFIX
+#FIXME
 
-313:
-  kind: mc
-  text: "Quale è la struttura fondamentale del DNA?"
-  options:
-    - Singolo filamento
-    - Molecola di RNA
-    - Doppia elica
-    - Tripla elica
-  correct: 2
-  curiosity: "La struttura fondamentale del DNA è la doppia elica, costituita da due filamenti di nucleotidi avvolti uno attorno all'altro."
+# 313:
+#   kind: mc
+#   text: "Quale è la struttura fondamentale del DNA?"
+#   options:
+#     - Singolo filamento
+#     - Molecola di RNA
+#     - Doppia elica
+#     - Tripla elica
+#   correct: 2
+#   curiosity: "La struttura fondamentale del DNA è la doppia elica, costituita da due filamenti di nucleotidi avvolti uno attorno all'altro."
 
 314:
   kind: mc
@@ -3388,7 +3388,7 @@
     - Cromatina
     - Ribosomi
   correct: 2
-  curiosity: "Il DNA nei cromosomi è organizzato in cromatina, una combinazione di DNA e proteine, principalmente istoni."
+  curiosity: 
 
 315:
   kind: mc
@@ -3399,18 +3399,18 @@
     - Unità di base della cromatina
     - Segmenti di DNA non codificante
   correct: 2
-  curiosity: "I nucleosomi sono strutture composte da DNA avvolto attorno a un nucleo di proteine istoniche, che costituiscono la cromatina."
+  curiosity: 
 
-316:
-  kind: mc
-  text: "Qual è il ruolo delle proteine istoniche nella compattazione del DNA?"
-  options:
-    - Sintetizzare il DNA
-    - Legare i ribosomi
-    - Stabilizzare e impacchettare il DNA
-    - Correggere gli errori nella replicazione
-  correct: 2
-  curiosity: "Le proteine istoniche aiutano a compattare e stabilizzare il DNA all'interno del nucleo, formando la cromatina."
+# 316:
+#   kind: mc
+#   text: "Qual è il ruolo delle proteine istoniche nella compattazione del DNA?"
+#   options:
+#     - Sintetizzare il DNA
+#     - Legare i ribosomi
+#     - Stabilizzare e impacchettare il DNA
+#     - Correggere gli errori nella replicazione
+#   correct: 2
+#   curiosity: "Le proteine istoniche aiutano a compattare e stabilizzare il DNA all'interno del nucleo, formando la cromatina."
 
 317:
   kind: mc
@@ -3421,7 +3421,7 @@
     - Può essere sia eucromatina che eterocromatina
     - È sempre in uno stato compatto
   correct: 2
-  curiosity: "La cromatina può esistere in due forme principali: eucromatina, attivamente trascritta, ed eterocromatina, più compatta e meno attiva."
+  curiosity: 
 
 318:
   kind: mc
@@ -3432,7 +3432,7 @@
     - Compattazione del DNA
     - Traduzione del DNA
   correct: 2
-  curiosity: "Durante la mitosi, il DNA si compatta per formare i cromosomi, preparandosi alla separazione durante la divisione cellulare."
+  curiosity: 
 
 319:
   kind: mc
@@ -3443,7 +3443,7 @@
     - DNA altamente compattato e inaccessibile
     - DNA replicato
   correct: 2
-  curiosity: "L'eterocromatina è una forma di DNA altamente compattato e inaccessibile alla trascrizione, generalmente associata a regioni silenziate."
+  curiosity: 
 
 320:
   kind: mc
@@ -3454,18 +3454,18 @@
     - Cromatina condensata
     - Cromatina metafasica
   correct: 1
-  curiosity: "L'eucromatina è associata a geni attivi, poiché è meno compatta e quindi più accessibile per la trascrizione."
+  curiosity: 
 
-321:
-  kind: mc
-  text: "Cosa succede al DNA durante la compattazione in preparazione alla divisione cellulare?"
-  options:
-    - Si sfaldano i filamenti
-    - Si avvolge attorno agli istoni
-    - Si trasforma in RNA
-    - Si duplicano i filamenti
-  correct: 1
-  curiosity: "Durante la compattazione, il DNA si avvolge attorno agli istoni formando la cromatina, che si condensa ulteriormente per formare i cromosomi."
+# 321:
+#   kind: mc
+#   text: "Cosa succede al DNA durante la compattazione in preparazione alla divisione cellulare?"
+#   options:
+#     - Si sfaldano i filamenti
+#     - Si avvolge attorno agli istoni
+#     - Si trasforma in RNA
+#     - Si duplicano i filamenti
+#   correct: 1
+#   curiosity: "Durante la compattazione, il DNA si avvolge attorno agli istoni formando la cromatina, che si condensa ulteriormente per formare i cromosomi."
 
 322:
   kind: mc
@@ -3476,7 +3476,7 @@
     - Istone acetiltransferasi
     - Ligasi
   correct: 2
-  curiosity: "L'istone acetiltransferasi è un enzima che aggiunge gruppi acetil agli istoni, influenzando la struttura della cromatina e l'espressione genica."
+  curiosity: 
 
 323:
   kind: mc
@@ -3487,29 +3487,29 @@
     - Regolare l'espressione genica
     - Legare il DNA
   correct: 2
-  curiosity: "Le modifiche post-traduzionali sugli istoni, come acetilazione e metilazione, regolano l'accessibilità della cromatina e l'espressione genica."
+  curiosity: 
 
-324:
-  kind: mc
-  text: "Che cos'è la supercoiling del DNA?"
-  options:
-    - La formazione di RNA
-    - La duplicazione del DNA
-    - Una forma di compattazione del DNA
-    - La traduzione del DNA
-  correct: 2
-  curiosity: "La supercoiling è un processo che compatta ulteriormente il DNA, avvolgendolo su se stesso in modo che possa adattarsi all'interno del nucleo."
+# 324:
+#   kind: mc
+#   text: "Che cos'è la supercoiling del DNA?"
+#   options:
+#     - La formazione di RNA
+#     - La duplicazione del DNA
+#     - Una forma di compattazione del DNA
+#     - La traduzione del DNA
+#   correct: 2
+#   curiosity: "La supercoiling è un processo che compatta ulteriormente il DNA, avvolgendolo su se stesso in modo che possa adattarsi all'interno del nucleo."
 
 325:
   kind: mc
-  text: "Quale elemento non è coinvolto nella compattazione del DNA?"
+  text: "Quale elemento NON è coinvolto nella compattazione del DNA?"
   options:
     - Nucleosomi
     - Proteine istoniche
     - Ribosomi
     - Eucromatina
   correct: 2
-  curiosity: "I ribosomi non sono coinvolti nella compattazione del DNA; sono strutture cellulari responsabili della sintesi proteica."
+  curiosity: 
 
 326:
   kind: mc
@@ -3520,29 +3520,18 @@
     - DNA linker
     - DNA codificante
   correct: 2
-  curiosity: "Il DNA linker è il segmento di DNA che collega i nucleosomi, mantenendo l'organizzazione della cromatina."
+  curiosity: 
 
 327:
   kind: mc
-  text: "Qual è il livello più alto di organizzazione del DNA nei cromosomi?"
+  text: "Qual è il livello più alto di compattazione del DNA?"
   options:
     - Nucleosomi
     - Cromatina
     - Cromosoma
     - DNA circolare
   correct: 2
-  curiosity: "Il livello più alto di organizzazione del DNA nei cromosomi è il cromosoma, che è formato da cromatina altamente condensata."
-
-328:
-  kind: mc
-  text: "In quale fase del ciclo cellulare avviene la compattazione del DNA?"
-  options:
-    - Fase G1
-    - Fase S
-    - Fase M
-    - Fase G2
-  correct: 2
-  curiosity: "La compattazione del DNA avviene durante la fase M del ciclo cellulare, quando il DNA si condensa in cromosomi pronti per la divisione."
+  curiosity: 
 
 329:
   kind: mc
@@ -3553,7 +3542,7 @@
     - Attraverso metilazione e acetilazione
     - Attraverso la sintesi di RNA
   correct: 2
-  curiosity: "La cromatina può essere modificata tramite metilazione e acetilazione degli istoni, che influenzano l'accessibilità del DNA."
+  curiosity: 
 
 330:
   kind: mc
@@ -3564,18 +3553,18 @@
     - Aree di DNA compattato
     - Aree di RNA messaggero
   correct: 2
-  curiosity: "Le bande nei cromosomi sono aree di DNA altamente compattato che si visualizzano durante la divisione cellulare."
+  curiosity: 
 
-331:
-  kind: mc
-  text: "Quale è la differenza principale tra eucromatina e eterocromatina?"
-  options:
-    - Solo l'eucromatina è visibile al microscopio
-    - L'eterocromatina è meno compattata
-    - L'eucromatina è attivamente trascritta, mentre l'eterocromatina non lo è
-    - L'eterocromatina è presente solo durante la mitosi
-  correct: 2
-  curiosity: "L'eucromatina è attivamente trascritta e meno compatta, mentre l'eterocromatina è più compatta e meno attiva."
+# 331:
+#   kind: mc
+#   text: "Quale è la differenza principale tra eucromatina e eterocromatina?"
+#   options:
+#     - Solo l'eucromatina è visibile al microscopio
+#     - L'eterocromatina è meno compattata
+#     - L'eucromatina è attivamente trascritta, mentre l'eterocromatina non lo è
+#     - L'eterocromatina è presente solo durante la mitosi
+#   correct: 2
+#   curiosity: "L'eucromatina è attivamente trascritta e meno compatta, mentre l'eterocromatina è più compatta e meno attiva."
 
 332:
   kind: mc
@@ -3586,9 +3575,9 @@
     - Condensina
     - Topoisomerasi
   correct: 2
-  curiosity: "La condensina è una proteina che gioca un ruolo fondamentale nella condensazione della cromatina in cromosomi durante la mitosi."
+  curiosity: 
 
-#FINALFIX
+#FIXME
 
 333:
   kind: mc

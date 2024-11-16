@@ -424,17 +424,289 @@
 
 1068:
   kind: tf
-  text: 
-  correct: 0
+  text: Il DNA ha come zucchero il ribosio
+  correct: 1
   curiosity: 
 
 1069:
+  kind: tf
+  text: L'uracile si appaia con l'adenina nel DNA
+  correct: 1
+  curiosity: 
+
+1070:
+  kind: tf
+  text: La guanina si appaia con la citosina nel DNA
+  correct: 0
+  curiosity: 
+
+1071:
+  kind: tf
+  text: L'uracile si appaia con l'adenina nel RNA
+  correct: 0
+  curiosity: 
+
+1072:
+  kind: tf
+  text: L'rRNA trasporta gli amminoacidi ai siti ribosomiali
+  correct: 1
+  curiosity: 
+
+1073:
+  kind: tf
+  text: La DNA polimerasi è responsabile della replicazione del DNA
+  correct: 0
+  curiosity: 
+
+1074:
+  kind: tf
+  text: La traduzione è il processo che sintetizza l'RNA a partire dal DNA
+  correct: 1
+  curiosity: 
+
+1075:
+  kind: tf
+  text: Il DNA si replica in modo semiconservativo
+  correct: 0
+  curiosity: 
+
+1076:
+  kind: tf
+  text: A ogni gene corrisponde una proteina
+  correct: 1
+  curiosity: 
+
+1077:
+  kind: tf
+  text: La traduzione è il processo in cui l'informazione genetica contenuta nell'mRNA viene convertita in una proteina
+  correct: 0
+  curiosity: 
+
+1078:
+  kind: tf
+  text: Le basi azotate stabilizzano la doppia elica di DNA attraverso legami covalenti
+  correct: 1
+  curiosity: 
+
+1079:
+  kind: tf
+  text: Gli introni vengono generalmente rimossi durante il processo di splicing
+  correct: 0
+  curiosity: 
+
+1080:
+  kind: tf
+  text: Nelle cellule eucariote, la trascrizione avviene principalmente nel citoplasma 
+  correct: 1
+  curiosity: 
+
+1081:
+  kind: tf
+  text: Gli esoni vengono generalmente rimossi durante il processo di splicing
+  correct: 1
+  curiosity: 
+
+1082:
+  kind: tf
+  text: L'adenina è una purina
+  correct: 0
+  curiosity: 
+
+1083:
+  kind: tf
+  text: La citosina è una pirimidina
+  correct: 0
+  curiosity: 
+
+#FIXME
+
+1084:
+  kind: tf
+  text: Le eliche del DNA sono orientate nello stesso verso
+  correct: 1
+  curiosity: 
+
+1085:
+  kind: tf
+  text: Il DNA si avvolge intorno alle proteine istoniche per compattarsi
+  correct: 0
+  curiosity: 
+
+1086:
+  kind: tf
+  text: In un giro completo della doppia elica del DNA si trovano circa 15 coppie di basi azotate
+  correct: 1
+  curiosity: 
+
+1087:
+  kind: tf
+  text: La replicazione del DNA avviene nella fase S del ciclo cellulare
+  correct: 0
+  curiosity: 
+
+1088:
+  kind: tf
+  text: "Le fasi del ciclo cellulare in ordine sono: G1,G2,S,M"
+  correct: 1
+  curiosity: 
+
+1089:
+  kind: tf
+  text: Nella replicazione, il filamento lagging è sintetizzato sotto forma di frammenti di Okazaki
+  correct: 0
+  curiosity: 
+
+1090:
+  kind: tf
+  text: Il DNA mitocondriale è ereditato esclusivamente dal padre
+  correct: 1
+  curiosity: 
+
+1091:
+  kind: tf
+  text: Le basi azotate si trovano all'interno della doppia elica, mentre lo scheletro zucchero-fosfato è all'esterno
+  correct: 0
+  curiosity: 
+
+#FIXME
+
+1090:
+  kind: tf
+  text: Il centromero è un segnale di inizio delle duplicazione del DNA
+  correct: 1
+  curiosity: 
+
+1090:
+  kind: tf
+  text: La DNA ligasi unisce i frammenti di Okazaki nella duplicazione del DNA
+  correct: 0
+  curiosity: 
+
+1090:
+  kind: tf
+  text: La primasi taglia il DNA per iniziare il processo di duplicazione
+  correct: 1
+  curiosity: 
+
+1090:
+  kind: tf
+  text: I telomeri sono le estremità dei cromosomi che proteggono il DNA dalla perdita di informazioni durante la replicazione
+  correct: 0
+  curiosity: 
+
+1090:
+  kind: tf
+  text: La topoisomerasi è l'enzima che separa i due filamenti di DNA durante la replicazione, creando una bolla di replicazione
+  correct: 1
+  curiosity: 
+
+1090:
+  kind: tf
+  text: La topoisomerasi allevia la tensione torsionale che si forma quando il DNA viene separato durante la replicazione
+  correct: 0
+  curiosity: 
+
+1090:
+  kind: tf
+  text: La RNA polimerasi rimuove i primer di RNA e li sostituisce con nucleotidi di DNA durante la replicazione
+  correct: 1
+  curiosity: 
+
+1090:
+  kind: tf
+  text: Le proteine SSB si legano ai filamenti di DNA separati durante la replicazione per impedirne la riassociazione e stabilizzarli
+  correct: 0
+  curiosity: 
+
+#FIXME
+
+1090:
+  kind: tf
+  text: "La cromatina può esistere in due forme principali: eterocromatina, attivamente trascritta, ed eucromatina, più compatta e meno attiva"
+  correct: 1
+  curiosity: 
+
+1090:
+  kind: tf
+  text: I nucleosomi sono strutture composte da DNA avvolto attorno a un nucleo di proteine istoniche, che costituiscono la cromatina
+  correct: 0
+  curiosity: 
+
+1090:
+  kind: tf
+  text: Durante la mitosi avviene la trascrizione del DNA
+  correct: 1
+  curiosity: 
+
+1090:
+  kind: tf
+  text: L'istone acetiltransferasi è un enzima che aggiunge gruppi acetil agli istoni, influenzando la struttura della cromatina e l'espressione genica
+  correct: 0
+  curiosity: 
+
+1090:
+  kind: tf
+  text: I ribosomi sono coinvolti nella compattazione del DNA
+  correct: 1
+  curiosity: 
+
+1090:
+  kind: tf
+  text: L'ubiquitinazione è una modifica post-traduzionale delle proteine
+  correct: 0
+  curiosity: 
+
+1090:
+  kind: tf
+  text: La coesina è una proteina che gioca un ruolo fondamentale nella condensazione della cromatina in cromosomi durante la mitosi
+  correct: 1
+  curiosity: 
+
+1090:
+  kind: tf
+  text: Il DNA linker è il segmento di DNA che collega i nucleosomi, mantenendo l'organizzazione della cromatina
+  correct: 0
+  curiosity: 
+
+#FIXME
+
+1090:
   kind: tf
   text: 
   correct: 0
   curiosity: 
 
-1070:
+1090:
+  kind: tf
+  text: 
+  correct: 0
+  curiosity: 
+
+1090:
+  kind: tf
+  text: 
+  correct: 0
+  curiosity: 
+
+1090:
+  kind: tf
+  text: 
+  correct: 0
+  curiosity: 
+
+1090:
+  kind: tf
+  text: 
+  correct: 0
+  curiosity: 
+
+1090:
+  kind: tf
+  text: 
+  correct: 0
+  curiosity: 
+
+1090:
   kind: tf
   text: 
   correct: 0
