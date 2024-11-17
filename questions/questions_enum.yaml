@@ -332,24 +332,30 @@
 
 #READY
 
+#READY
+
 2035:
   kind: enum
-  text: Elenca le categorie dei lipidi
-  options:
-    - 
-    - 
-    - 
-    -  
+  text: Elenca le modifiche post-trascrizionali
+    - Splicing
+    - Splicing alternativo
+    - Poliadenilazione (coda poli-A)
+    - Capping (cap-5')
+
+#READY
 
 2036:
   kind: enum
-  text: Elenca le categorie dei lipidi
+  text: Elenca le possibili strutture (domini) dei fattori di trascrizione
   options:
-    - 
-    - 
-    - 
-    -  
+    - Elica-Giro-Elica
+    - Dita di Zinco
+    - Cerniera di leucine
+    - Elica-Ansa-Elica
 
+#READY
+
+#READY
 2037:
   kind: enum
   text: Elenca le categorie dei lipidi

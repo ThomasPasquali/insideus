@@ -570,49 +570,49 @@
 
 #FIXME
 
-1090:
+1092:
   kind: tf
   text: Il centromero è un segnale di inizio delle duplicazione del DNA
   correct: 1
   curiosity: 
 
-1090:
+1093:
   kind: tf
   text: La DNA ligasi unisce i frammenti di Okazaki nella duplicazione del DNA
   correct: 0
   curiosity: 
 
-1090:
+1094:
   kind: tf
   text: La primasi taglia il DNA per iniziare il processo di duplicazione
   correct: 1
   curiosity: 
 
-1090:
+1095:
   kind: tf
   text: I telomeri sono le estremità dei cromosomi che proteggono il DNA dalla perdita di informazioni durante la replicazione
   correct: 0
   curiosity: 
 
-1090:
+1096:
   kind: tf
   text: La topoisomerasi è l'enzima che separa i due filamenti di DNA durante la replicazione, creando una bolla di replicazione
   correct: 1
   curiosity: 
 
-1090:
+1097:
   kind: tf
   text: La topoisomerasi allevia la tensione torsionale che si forma quando il DNA viene separato durante la replicazione
   correct: 0
   curiosity: 
 
-1090:
+1098:
   kind: tf
   text: La RNA polimerasi rimuove i primer di RNA e li sostituisce con nucleotidi di DNA durante la replicazione
   correct: 1
   curiosity: 
 
-1090:
+1099:
   kind: tf
   text: Le proteine SSB si legano ai filamenti di DNA separati durante la replicazione per impedirne la riassociazione e stabilizzarli
   correct: 0
@@ -620,49 +620,49 @@
 
 #FIXME
 
-1090:
+1100:
   kind: tf
   text: "La cromatina può esistere in due forme principali: eterocromatina, attivamente trascritta, ed eucromatina, più compatta e meno attiva"
   correct: 1
   curiosity: 
 
-1090:
+1101:
   kind: tf
   text: I nucleosomi sono strutture composte da DNA avvolto attorno a un nucleo di proteine istoniche, che costituiscono la cromatina
   correct: 0
   curiosity: 
 
-1090:
+1102:
   kind: tf
   text: Durante la mitosi avviene la trascrizione del DNA
   correct: 1
   curiosity: 
 
-1090:
+1103:
   kind: tf
   text: L'istone acetiltransferasi è un enzima che aggiunge gruppi acetil agli istoni, influenzando la struttura della cromatina e l'espressione genica
   correct: 0
   curiosity: 
 
-1090:
+1104:
   kind: tf
   text: I ribosomi sono coinvolti nella compattazione del DNA
   correct: 1
   curiosity: 
 
-1090:
+1105:
   kind: tf
   text: L'ubiquitinazione è una modifica post-traduzionale delle proteine
   correct: 0
   curiosity: 
 
-1090:
+1106:
   kind: tf
   text: La coesina è una proteina che gioca un ruolo fondamentale nella condensazione della cromatina in cromosomi durante la mitosi
   correct: 1
   curiosity: 
 
-1090:
+1107:
   kind: tf
   text: Il DNA linker è il segmento di DNA che collega i nucleosomi, mantenendo l'organizzazione della cromatina
   correct: 0
@@ -670,43 +670,324 @@
 
 #FIXME
 
-1090:
+1108:
+  kind: tf
+  text: Durante la traduzione, il mRNA viene utilizzato per sintetizzare un filamento di DNA
+  correct: 1
+  curiosity: 
+
+1109:
+  kind: tf
+  text: Il promotore è una sequenza di DNA che segnala l'inizio della trascrizione di un gene
+  correct: 0
+  curiosity: 
+
+1110:
+  kind: tf
+  text: Un codone è una sequenza di quattro nucleotidi nel mRNA 
+  correct: 1
+  curiosity: 
+
+1111:
+  kind: tf
+  text: Un allele è una delle diverse varianti di un gene che può determinare differenti tratti ereditari
+  correct: 0
+  curiosity: 
+
+1112:
+  kind: tf
+  text: L'espressione genica è il fenotipo di un organismo
+  correct: 1
+  curiosity: 
+
+1113:
+  kind: tf
+  text: La variabilità genetica è influenzata da mutazioni, ricombinazione genetica e selezione naturale
+  correct: 0
+  curiosity: 
+
+1114:
+  kind: tf
+  text: Un gene è una sequenza di DNA che codifica per una funzione biologica, mentre un allele è una sequenza che serve a proteggere il codice genetico dalla degradazione
+  correct: 1
+  curiosity: 
+
+1115:
+  kind: tf
+  text: Lo scopo principale della genetica è comprendere come i caratteri vengono ereditati e come varianti genetiche influenzano gli organismi
+  correct: 0
+  curiosity: 
+
+#FIXME
+
+1116:
+  kind: tf
+  text: Durante la trascrizione, viene prodotta una nuova molecola di DNA
+  correct: 1
+  curiosity: 
+
+1117:
+  kind: tf
+  text: Nelle cellule eucariotiche, la trascrizione avviene nel nucleo, dove il DNA è localizzato
+  correct: 0
+  curiosity: 
+
+1118:
+  kind: tf
+  text: Durante la trascrizione tutto il DNA viene trascritto in RNA
+  correct: 1
+  curiosity: 
+
+1119:
+  kind: tf
+  text: La RNA polimerasi è l'enzima responsabile della sintesi di RNA a partire da un filamento di DNA durante la trascrizione
+  correct: 0
+  curiosity: 
+
+1120:
+  kind: tf
+  text: Dopo la trascrizione, l'mRNA maturo viene immediatamente tradotto
+  correct: 1
+  curiosity: 
+
+1121:
+  kind: tf
+  text: Lo splicing del pre-mRNA è mediato dallo spliceosoma, un complesso di proteine e RNA che rimuove gli introni
+  correct: 0
+  curiosity: 
+
+1122:
+  kind: tf
+  text: La coda di poli-A è una serie di adenine aggiunte all'estremità 5' dell'mRNA che aiuta a stabilizzare la molecola
+  correct: 1
+  curiosity: 
+
+1123:
+  kind: tf
+  text: Dopo la trascrizione, l'mRNA subisce modifiche come l'aggiunta di un cappuccio 5' e una coda di poli-A, che lo stabilizzano e ne facilitano l'esportazione
+  correct: 0
+  curiosity: 
+
+1124:
+  kind: tf
+  text: IL ``capping'' consiste nell'aggiunta di sequenze di nucleotidi ripetute a entrambi gli estremi del DNA per proteggerlo dalla degradazione
+  correct: 1
+  curiosity: 
+
+#FIXME
+
+1125:
+  kind: tf
+  text: La maturazione del mRNA è il processo in cui il pre-mRNA viene modificato per diventare mRNA maturo
+  correct: 0
+  curiosity: 
+
+1126:
+  kind: tf
+  text: Il primo passo nella maturazione dell'mRNA è l'aggiunta della coda poli-A
+  correct: 1
+  curiosity: 
+
+1127:
+  kind: tf
+  text: Il cappuccio 5' protegge l'mRNA dall'attacco delle esonucleasi
+  correct: 0
+  curiosity: 
+
+1128:
+  kind: tf
+  text: Dopo la maturazione, l'mRNA maturo viene tradotto in proteine che vengono poi esportate dal nucleo nel citoplasma
+  correct: 1
+  curiosity: 
+
+1129:
+  kind: tf
+  text: Se il cappuccio 5' non viene aggiunto correttamente, l'mRNA potrebbe essere riconosciuto come difettoso e degradato più rapidamente
+  correct: 0
+  curiosity: 
+
+1130:
+  kind: tf
+  text: Nei procarioti è sempre necessaria la maturazione dell'mRNA attraverso lo splicing, la poliadenilazione e il capping
+  correct: 1
+  curiosity: 
+
+1131:
+  kind: tf
+  text: Errori nella maturazione dell'mRNA, come splicing incompleto o mancanza del cappuccio 5', possono portare a proteine difettose o non funzionali
+  correct: 0
+  curiosity: 
+
+
+#FIXME
+
+1132:
+  kind: tf
+  text: Il principale vantaggio dello splicing alternativo è che riduce il tempo di traduzione
+  correct: 1
+  curiosity: 
+
+1133:
+  kind: tf
+  text: Lo splicing alternativo è un processo che permette a un singolo gene di produrre diverse varianti di mRNA, aumentando la diversità proteica
+  correct: 0
+  curiosity: 
+
+1134:
+  kind: tf
+  text: Lo spliceosoma è il complesso di proteine e RNA che catalizza lo splicing alternativo, aggiungendo una coda di poli-A sull'estremità 3'
+  correct: 1
+  curiosity: 
+
+1135:
+  kind: tf
+  text: La selezione degli esoni durante lo splicing alternativo è regolata da specifici elementi nel pre-mRNA e da fattori proteici
+  correct: 0
+  curiosity: I difetti nello splicing alternativo possono portare a malattie genetiche e disfunzioni cellulari, poiché le proteine prodotte sono alterate
+
+1136:
+  kind: tf
+  text: L'unione differente degli esoni durante lo splicing alternativo produce una mutazione del DNA
+  correct: 1
+  curiosity: 
+
+1137:
+  kind: tf
+  text: Lo splicing alternativo consente la combinazione di esoni diversi per produrre varianti di mRNA e, quindi, diverse isoforme proteiche
+  correct: 0
+  curiosity: 
+
+1138:
+  kind: tf
+  text: Le sequenze di controllo nel pre-mRNA rimuovono tutti gli introni dal mRNA
+  correct: 1
+  curiosity: 
+
+1139:
+  kind: tf
+  text: Lo splicing alternativo contribuisce alla specializzazione delle cellule, permettendo la produzione di proteine specifiche per ciascun tipo cellulare
+  correct: 0
+  curiosity: 
+
+1140:
+  kind: tf
+  text: Le isoforme proteiche sono proteine con identiche sequenze di amminoacidi
+  correct: 1
+  curiosity: 
+
+#FIXME
+
+1141:
+  kind: tf
+  text: La traduzione è il processo mediante il quale l'informazione contenuta nell'mRNA viene utilizzata per sintetizzare una proteina
+  correct: 0
+  curiosity: 
+
+1142:
+  kind: tf
+  text: Durante l'inizio della trascrizione, l'mRNA si lega al ribosoma e il processo di sintesi proteica comincia con l'unione degli aminoacidi
+  correct: 1
+  curiosity: 
+
+1143:
+  kind: tf
+  text: La subunità minore del ribosoma è responsabile dell'accoppiamento tra codoni nell'mRNA e anticodoni nel tRNA durante la traduzione
+  correct: 0
+  curiosity: 
+
+1144:
+  kind: tf
+  text: Durante l'allungamento della traduzione, vengono aggiunti i codoni all'mRNA
+  correct: 1
+  curiosity: 
+
+1145:
+  kind: tf
+  text: L'anticodone è una sequenza di tre nucleotidi nel tRNA che è complementare a un codone specifico nell'mRNA
+  correct: 0
+  curiosity: 
+
+1146:
+  kind: tf
+  text: Il sito A del ribosoma è dove termina la traduzione
+  correct: 1
+  curiosity: 
+
+1147:
+  kind: tf
+  text: Alla fine della traduzione, la catena polipeptidica appena sintetizzata viene rilasciata e il ribosoma si dissocia per essere poi riutilizzato 
+  correct: 0
+  curiosity: 
+
+1148:
+  kind: tf
+  text: Lo splicing è una modifica post-traduzionale
+  correct: 1
+  curiosity: 
+
+1149:
+  kind: tf
+  text: Un codone di stop è un codone nell'mRNA che segnala la fine della sintesi proteica
+  correct: 0
+  curiosity: 
+
+1150:
+  kind: tf
+  text: Dopo la traduzione, l'mRNA torna nel nucleo per essere degradato 
+  correct: 1
+  curiosity: 
+
+1151:
+  kind: tf
+  text: Il ribosoma è un complesso di proteine e RNA che catalizza il processo di traduzione, sintetizzando proteine a partire dall'mRNA
+  correct: 0
+  curiosity: 
+
+#FIXME
+
+1152:
   kind: tf
   text: 
   correct: 0
   curiosity: 
 
-1090:
+1153:
   kind: tf
   text: 
   correct: 0
   curiosity: 
 
-1090:
+1154:
   kind: tf
   text: 
   correct: 0
   curiosity: 
 
-1090:
+1155:
   kind: tf
   text: 
   correct: 0
   curiosity: 
 
-1090:
+1156:
   kind: tf
   text: 
   correct: 0
   curiosity: 
 
-1090:
+1157:
   kind: tf
   text: 
   correct: 0
   curiosity: 
 
-1090:
+1158:
+  kind: tf
+  text: 
+  correct: 0
+  curiosity: 
+
+1159:
   kind: tf
   text: 
   correct: 0

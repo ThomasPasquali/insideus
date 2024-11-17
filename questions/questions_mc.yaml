@@ -3579,49 +3579,49 @@
 
 #FIXME
 
-333:
-  kind: mc
-  text: "Cosa rappresenta un gene?"
-  options:
-    - Una sequenza di aminoacidi
-    - Una proteina
-    - Una sequenza di DNA che codifica per un carattere ereditario
-    - Una molecola di RNA
-  correct: 2
-  curiosity: "Un gene è una sequenza di DNA che contiene le istruzioni per la sintesi di una proteina o per determinare un carattere ereditario."
+# 333:
+#   kind: mc
+#   text: "Cosa rappresenta un gene?"
+#   options:
+#     - Una sequenza di aminoacidi
+#     - Una proteina
+#     - Una sequenza di DNA che codifica per un carattere ereditario
+#     - Una molecola di RNA
+#   correct: 2
+#   curiosity: "Un gene è una sequenza di DNA che contiene le istruzioni per la sintesi di una proteina o per determinare un carattere ereditario."
 
-334:
-  kind: mc
-  text: "Quale di queste affermazioni descrive meglio la funzione di un gene?"
-  options:
-    - Produce energia
-    - Trasporta nutrienti
-    - Contiene le istruzioni per la sintesi di proteine
-    - Regola la temperatura corporea
-  correct: 2
-  curiosity: "I geni contengono le informazioni necessarie per la sintesi di proteine, che a loro volta sono fondamentali per il funzionamento delle cellule."
+# 334:
+#   kind: mc
+#   text: "Quale di queste affermazioni descrive meglio la funzione di un gene?"
+#   options:
+#     - Produce energia
+#     - Trasporta nutrienti
+#     - Contiene le istruzioni per la sintesi di proteine
+#     - Regola la temperatura corporea
+#   correct: 2
+#   curiosity: "I geni contengono le informazioni necessarie per la sintesi di proteine, che a loro volta sono fondamentali per il funzionamento delle cellule."
 
 335:
   kind: mc
   text: "Quale è la parte di un gene che contiene le informazioni per la sintesi della proteina?"
   options:
-    - Introne
-    - Promotore
+    - Introni
+    - Promotori
     - Esoni
     - Sequenza di terminazione
   correct: 2
-  curiosity: "Gli esoni sono le regioni codificanti di un gene che contengono le informazioni per la sintesi della proteina."
+  curiosity: 
 
-336:
-  kind: mc
-  text: "Cosa sono gli introni?"
-  options:
-    - Sequenze codificanti nel gene
-    - Sequenze di RNA messaggero
-    - Sequenze non codificanti all'interno di un gene
-    - Nucleotidi liberi nel citoplasma
-  correct: 2
-  curiosity: "Gli introni sono sequenze non codificanti di DNA che vengono eliminati durante la maturazione dell'RNA messaggero."
+# 336:
+#   kind: mc
+#   text: "Cosa sono gli introni?"
+#   options:
+#     - Sequenze codificanti nel gene
+#     - Sequenze di RNA messaggero
+#     - Sequenze non codificanti all'interno di un gene
+#     - Nucleotidi liberi nel citoplasma
+#   correct: 2
+#   curiosity: "Gli introni sono sequenze non codificanti di DNA che vengono eliminati durante la maturazione dell'RNA messaggero."
 
 337:
   kind: mc
@@ -3632,29 +3632,29 @@
     - Legare il ribosoma
     - Stabilizzare la molecola di DNA
   correct: 1
-  curiosity: "Il promotore è una sequenza di DNA che segnala l'inizio della trascrizione di un gene, permettendo la sintesi di RNA."
+  curiosity: 
 
-338:
-  kind: mc
-  text: "Quale processo trasforma il DNA in RNA?"
-  options:
-    - Traduzione
-    - Trascrizione
-    - Replicazione
-    - Compattazione
-  correct: 1
-  curiosity: "La trascrizione è il processo che copia l'informazione contenuta nel DNA in RNA messaggero (mRNA)."
+# 338:
+#   kind: mc
+#   text: "Quale processo trasforma il DNA in RNA?"
+#   options:
+#     - Traduzione
+#     - Trascrizione
+#     - Replicazione
+#     - Compattazione
+#   correct: 1
+#   curiosity: "La trascrizione è il processo che copia l'informazione contenuta nel DNA in RNA messaggero (mRNA)."
 
-339:
-  kind: mc
-  text: "Quale è la funzione del codice genetico?"
-  options:
-    - Tradurre RNA in proteine
-    - Copiare il DNA
-    - Definire quali aminoacidi corrispondono a ciascun codone
-    - Stabilizzare il DNA
-  correct: 2
-  curiosity: "Il codice genetico definisce quale aminoacido corrisponde a ciascun codone nell'RNA, determinando la sequenza delle proteine."
+# 339:
+#   kind: mc
+#   text: "Quale è la funzione del codice genetico?"
+#   options:
+#     - Tradurre RNA in proteine
+#     - Copiare il DNA
+#     - Definire quali aminoacidi corrispondono a ciascun codone
+#     - Stabilizzare il DNA
+#   correct: 2
+#   curiosity: "Il codice genetico definisce quale aminoacido corrisponde a ciascun codone nell'RNA, determinando la sequenza delle proteine."
 
 340:
   kind: mc
@@ -3665,29 +3665,29 @@
     - DNA
     - Ribosoma
   correct: 1
-  curiosity: "Durante la traduzione, il mRNA viene utilizzato per sintetizzare una proteina, che esegue specifiche funzioni nella cellula."
+  curiosity: 
 
 341:
   kind: mc
   text: "Che cosa è un codone?"
   options:
-    - Un aminoacido
+    - Un promotore
     - Un tipo di RNA
     - Una sequenza di tre nucleotidi nel mRNA
-    - Un introne
+    - Un sequenza di nucleotidi nel mRNA che segnala la fine della traduzione
   correct: 2
-  curiosity: "Un codone è una sequenza di tre nucleotidi nel mRNA che codifica per un aminoacido specifico durante la traduzione."
+  curiosity: 
 
-342:
-  kind: mc
-  text: "Cosa determina il fenotipo di un organismo?"
-  options:
-    - Solo i geni recessivi
-    - Solo i geni dominanti
-    - L'interazione tra geni e ambiente
-    - Solo l'ambiente
-  correct: 2
-  curiosity: "Il fenotipo di un organismo è il risultato dell'interazione tra i suoi geni e l'ambiente in cui vive."
+# 342:
+#   kind: mc
+#   text: "Cosa determina il fenotipo di un organismo?"
+#   options:
+#     - Solo i geni recessivi
+#     - Solo i geni dominanti
+#     - L'interazione tra geni e ambiente
+#     - Solo l'ambiente
+#   correct: 2
+#   curiosity: "Il fenotipo di un organismo è il risultato dell'interazione tra i suoi geni e l'ambiente in cui vive."
 
 343:
   kind: mc
@@ -3698,29 +3698,29 @@
     - Può mascherare l'espressione di un altro gene
     - È presente solo in alcune cellule
   correct: 2
-  curiosity: "Un gene dominante può mascherare l'effetto di un gene recessivo nella determinazione di un carattere."
+  curiosity: 
 
 344:
   kind: mc
-  text: "Cosa è una mutazione?"
+  text: "Una mutazione è un cambiamento nella sequenza nucleotidica di un gene che:"
   options:
-    - Un processo di trascrizione
-    - Un errore nella traduzione
-    - Un cambiamento nella sequenza nucleotidica di un gene
-    - Un aumento del numero di geni
+    - influenza sempre il fenotipo
+    - è sempre negativo
+    - che determina la variabilità genetica
+    - influenza solo il genotipo
   correct: 2
-  curiosity: "Una mutazione è un cambiamento permanente nella sequenza nucleotidica del DNA, che può influenzare la funzione del gene."
+  curiosity: 
 
 345:
-  kind: mc
-  text: "Quale tipo di mutazione può cambiare un aminoacido nella proteina risultante?"
-  options:
-    - Mutazione silente
-    - Mutazione di sostituzione
-    - Mutazione di inserzione
-    - Mutazione di delezione
-  correct: 2
-  curiosity: "Una mutazione di sostituzione cambia un singolo nucleotido nella sequenza del DNA, che può portare a un cambiamento in un aminoacido nella proteina."
+  # kind: mc
+  # text: "Quale tipo di mutazione può cambiare un aminoacido nella proteina risultante?"
+  # options:
+  #   - Mutazione silente
+  #   - Mutazione di sostituzione
+  #   - Mutazione di inserzione
+  #   - Mutazione di delezione
+  # correct: 1
+  # curiosity: "Una mutazione di sostituzione cambia un singolo nucleotido nella sequenza del DNA, che può portare a un cambiamento in un aminoacido nella proteina."
 
 346:
   kind: mc
@@ -3731,86 +3731,85 @@
     - Una delle diverse forme di un gene
     - La quantità di gene presente
   correct: 2
-  curiosity: "Un allele è una delle diverse varianti di un gene che può determinare differenti tratti ereditari."
+  curiosity: 
 
-347:
-  kind: mc
-  text: "Qual è la differenza principale tra un gene e un allele?"
-  options:
-    - I geni sono sempre dominanti
-    - Gli alleli non possono essere trascritti
-    - Un gene è una regione di DNA, mentre un allele è una variante di quel gene
-    - Non c'è differenza
-  correct: 2
-  curiosity: "Un gene è una sequenza di DNA che codifica per una funzione biologica, mentre un allele è una variante di quel gene."
+# 347:
+#   kind: mc
+#   text: "Qual è la differenza principale tra un gene e un allele?"
+#   options:
+#     - I geni sono sempre dominanti
+#     - Gli alleli non possono essere trascritti
+#     - Un gene è una regione di DNA, mentre un allele è una variante di quel gene
+#     - Non c'è differenza
+#   correct: 2
+#   curiosity: "Un gene è una sequenza di DNA che codifica per una funzione biologica, mentre un allele è una variante di quel gene."
 
-348:
-  kind: mc
-  text: "Cosa determina la variabilità genetica in una popolazione?"
-  options:
-    - Solo la riproduzione asessuale
-    - Mutazioni e ricombinazione genetica
-    - Solo la selezione naturale
-    - Solo l'ambiente
-  correct: 1
-  curiosity: "La variabilità genetica è influenzata da mutazioni, ricombinazione genetica e selezione naturale."
+# 348:
+#   kind: mc
+#   text: "Cosa determina la variabilità genetica in una popolazione?"
+#   options:
+#     - Solo la riproduzione asessuale
+#     - Mutazioni e ricombinazione genetica
+#     - Solo la selezione naturale
+#     - Solo l'ambiente
+#   correct: 1
+#   curiosity: 
 
-349:
-  kind: mc
-  text: "Qual è il principale scopo della genetica?"
-  options:
-    - Studiare i comportamenti animali
-    - Comprendere l'eredità e la variazione nei caratteri
-    - Analizzare i fenomeni fisici
-    - Studiare la chimica dei nutrienti
-  correct: 1
-  curiosity: "Lo scopo principale della genetica è comprendere come i caratteri vengono ereditati e come varianti genetiche influenzano gli organismi."
-
-350:
-  kind: mc
-  text: "Quale tecnologia è utilizzata per clonare geni?"
-  options:
-    - PCR (Reazione a Catena della Polimerasi)
-    - Sequenziamento del DNA
-    - Clonazione genetica
-    - Trascrizione inversa
-  correct: 2
-  curiosity: "La clonazione genetica è una tecnologia utilizzata per creare copie esatte di un gene o di un organismo."
+# 349:
+#   kind: mc
+#   text: "Qual è il principale scopo della genetica?"
+#   options:
+#     - Studiare i comportamenti animali
+#     - Comprendere l'eredità e la variazione nei caratteri
+#     - Analizzare i fenomeni fisici
+#     - Studiare la chimica dei nutrienti
+#   correct: 1
+#   curiosity: 
+# 350:
+#   kind: mc
+#   text: "Quale tecnologia è utilizzata per clonare geni?"
+#   options:
+#     - PCR (Reazione a Catena della Polimerasi)
+#     - Sequenziamento del DNA
+#     - Clonazione genetica
+#     - Trascrizione inversa
+#   correct: 2
+#   curiosity: "La clonazione genetica è una tecnologia utilizzata per creare copie esatte di un gene o di un organismo."
 
 351:
   kind: mc
   text: "Cosa si intende per espressione genica?"
   options:
-    - La duplicazione del DNA
-    - Il processo attraverso il quale le informazioni di un gene vengono utilizzate per sintetizzare un prodotto genico
-    - La traduzione dell'RNA in DNA
-    - La modificazione delle proteine
+    - L'insieme dei geni di un organismo che determinano il suo fenotipo
+    - Il processo attraverso il quale le informazioni di un gene vengono convertite in una macromolecola funzionale
+    - La sequenza dei geni che determinano la specie di un organismo
+    - Nessuna delle precedenti
   correct: 1
-  curiosity: "L'espressione genica è il processo attraverso il quale le informazioni contenute in un gene vengono utilizzate per sintetizzare proteine o altri prodotti genici."
+  curiosity: 
 
-352:
-  kind: mc
-  text: "Quale tipo di RNA è responsabile della trasmissione delle informazioni genetiche dai geni ai ribosomi?"
-  options:
-    - RNA di trasferimento (tRNA)
-    - RNA ribosomiale (rRNA)
-    - RNA messaggero (mRNA)
-    - RNA interferente (siRNA)
-  correct: 2
-  curiosity: "L'RNA messaggero (mRNA) trasmette l'informazione genetica dai geni ai ribosomi, dove avviene la sintesi proteica."
+# 352:
+#   kind: mc
+#   text: "Quale tipo di RNA è responsabile della trasmissione delle informazioni genetiche dai geni ai ribosomi?"
+#   options:
+#     - RNA di trasferimento (tRNA)
+#     - RNA ribosomiale (rRNA)
+#     - RNA messaggero (mRNA)
+#     - RNA interferente (siRNA)
+#   correct: 2
+#   curiosity: "L'RNA messaggero (mRNA) trasmette l'informazione genetica dai geni ai ribosomi, dove avviene la sintesi proteica."
 
-#FINALFIX
+#FIXME
 
-353:
-  kind: mc
-  text: "Qual è il primo passo della trascrizione del DNA?"
-  options:
-    - Traduzione del mRNA
-    - Legame dell'RNA polimerasi al promotore
-    - Sintesi di proteine
-    - Replicazione del DNA
-  correct: 1
-  curiosity: "Il primo passo della trascrizione è il legame dell'RNA polimerasi al promotore, una sequenza specifica di DNA che segnala l'inizio della trascrizione."
+# 353:
+#   kind: mc
+#   text: "Qual è il primo passo della trascrizione del DNA?"
+#   options:
+#     - Traduzione del mRNA
+#     - Legame dell'RNA polimerasi al promotore
+#     - Sintesi di proteine
+#     - Replicazione del DNA
+#   correct: 1
+#   curiosity: "Il primo passo della trascrizione è il legame dell'RNA polimerasi al promotore, una sequenza specifica di DNA che segnala l'inizio della trascrizione."
 
 354:
   kind: mc
@@ -3821,18 +3820,18 @@
     - RNA
     - Ribosomi
   correct: 2
-  curiosity: "Durante la trascrizione, una molecola di RNA viene prodotta a partire dal DNA."
+  curiosity: 
 
-355:
-  kind: mc
-  text: "Quale tipo di RNA è sintetizzato durante la trascrizione?"
-  options:
-    - RNA ribosomiale (rRNA)
-    - RNA di trasferimento (tRNA)
-    - RNA messaggero (mRNA)
-    - RNA interferente (siRNA)
-  correct: 2
-  curiosity: "Il tipo di RNA sintetizzato durante la trascrizione è l'RNA messaggero (mRNA), che porta le informazioni dal DNA ai ribosomi."
+# 355:
+#   kind: mc
+#   text: "Quale tipo di RNA è sintetizzato durante la trascrizione?"
+#   options:
+#     - RNA ribosomiale (rRNA)
+#     - RNA di trasferimento (tRNA)
+#     - RNA messaggero (mRNA)
+#     - RNA interferente (siRNA)
+#   correct: 2
+#   curiosity: "Il tipo di RNA sintetizzato durante la trascrizione è l'RNA messaggero (mRNA), che porta le informazioni dal DNA ai ribosomi."
 
 356:
   kind: mc
@@ -3842,8 +3841,8 @@
     - Citoplasma
     - Membrana cellulare
     - Mitocondrio
-  correct: 1
-  curiosity: "Nelle cellule eucariotiche, la trascrizione avviene nel nucleo, dove il DNA è localizzato."
+  correct: 0
+  curiosity: 
 
 357:
   kind: mc
@@ -3854,18 +3853,18 @@
     - Sintetizzare RNA a partire da un filamento di DNA
     - Legare ribosomi all'RNA
   correct: 2
-  curiosity: "La RNA polimerasi è l'enzima responsabile della sintesi di RNA a partire da un filamento di DNA durante la trascrizione."
+  curiosity: 
 
-358:
-  kind: mc
-  text: "Che cosa è un promotore?"
-  options:
-    - Una sequenza di DNA che codifica per proteine
-    - Una proteina che stabilizza il DNA
-    - Una sequenza di DNA che segna l'inizio della trascrizione
-    - Una molecola di RNA
-  correct: 2
-  curiosity: "Un promotore è una sequenza di DNA che segnala l'inizio della trascrizione di un gene."
+# 358:
+#   kind: mc
+#   text: "Che cosa è un promotore?"
+#   options:
+#     - Una sequenza di DNA che codifica per proteine
+#     - Una proteina che stabilizza il DNA
+#     - Una sequenza di DNA che segna l'inizio della trascrizione
+#     - Una molecola di RNA
+#   correct: 2
+#   curiosity: "Un promotore è una sequenza di DNA che segnala l'inizio della trascrizione di un gene."
 
 359:
   kind: mc
@@ -3876,40 +3875,39 @@
     - Solo una parte del DNA viene trascritta in RNA
     - L'RNA polimerasi non richiede un primer
   correct: 2
-  curiosity: "Durante la trascrizione, solo una parte specifica del DNA viene trascritta in RNA, mentre il resto del DNA rimane intatto."
+  curiosity: 
+# 360:
+#   kind: mc
+#   text: "Qual è il ruolo degli introni nella trascrizione?"
+#   options:
+#     - Sono la parte codificante del gene
+#     - Non hanno alcuna funzione
+#     - Vengono rimossi dal mRNA durante il processo di splicing
+#     - Stabilizzano il mRNA
+#   correct: 2
+#   curiosity: "Gli introni sono sequenze non codificanti che vengono rimossi dal mRNA durante lo splicing per formare l'mRNA maturo."
 
-360:
-  kind: mc
-  text: "Qual è il ruolo degli introni nella trascrizione?"
-  options:
-    - Sono la parte codificante del gene
-    - Non hanno alcuna funzione
-    - Vengono rimossi dal mRNA durante il processo di splicing
-    - Stabilizzano il mRNA
-  correct: 2
-  curiosity: "Gli introni sono sequenze non codificanti che vengono rimossi dal mRNA durante lo splicing per formare l'mRNA maturo."
+# 361:
+#   kind: mc
+#   text: "Che cosa è lo splicing?"
+#   options:
+#     - La duplicazione del DNA
+#     - Il processo di rimozione degli introni dal pre-mRNA
+#     - La sintesi di proteine
+#     - La traduzione del mRNA in aminoacidi
+#   correct: 1
+#   curiosity: "Lo splicing è il processo che rimuove gli introni dal pre-mRNA, unendo gli esoni per formare l'mRNA maturo."
 
-361:
-  kind: mc
-  text: "Che cosa è lo splicing?"
-  options:
-    - La duplicazione del DNA
-    - Il processo di rimozione degli introni dal pre-mRNA
-    - La sintesi di proteine
-    - La traduzione del mRNA in aminoacidi
-  correct: 1
-  curiosity: "Lo splicing è il processo che rimuove gli introni dal pre-mRNA, unendo gli esoni per formare l'mRNA maturo."
-
-362:
-  kind: mc
-  text: "Cosa rappresenta un codone nel mRNA?"
-  options:
-    - Un nucleotido
-    - Una sequenza di tre nucleotidi che codifica per un aminoacido
-    - Una proteina
-    - Un introne
-  correct: 1
-  curiosity: "Un codone è una sequenza di tre nucleotidi nel mRNA che codifica per un aminoacido specifico durante la traduzione."
+# 362:
+#   kind: mc
+#   text: "Cosa rappresenta un codone nel mRNA?"
+#   options:
+#     - Un nucleotido
+#     - Una sequenza di tre nucleotidi che codifica per un aminoacido
+#     - Una proteina
+#     - Un introne
+#   correct: 1
+#   curiosity: "Un codone è una sequenza di tre nucleotidi nel mRNA che codifica per un aminoacido specifico durante la traduzione."
 
 363:
   kind: mc
@@ -3920,29 +3918,29 @@
     - Spliceosoma
     - RNA polimerasi II
   correct: 2
-  curiosity: "Lo splicing del pre-mRNA è mediato dallo spliceosoma, un complesso di proteine e RNA che rimuove gli introni."
+  curiosity: 
 
-364:
-  kind: mc
-  text: "Qual è il risultato finale della trascrizione?"
-  options:
-    - Una molecola di DNA
-    - Una proteina
-    - Una molecola di mRNA
-    - Un filamento di tRNA
-  correct: 2
-  curiosity: "Il risultato finale della trascrizione è una molecola di mRNA, che trasporta le informazioni dal DNA ai ribosomi per la sintesi proteica."
+# 364:
+#   kind: mc
+#   text: "Qual è il risultato finale della trascrizione?"
+#   options:
+#     - Una molecola di DNA
+#     - Una proteina
+#     - Una molecola di mRNA
+#     - Un filamento di tRNA
+#   correct: 2
+#   curiosity: "Il risultato finale della trascrizione è una molecola di mRNA, che trasporta le informazioni dal DNA ai ribosomi per la sintesi proteica."
 
-365:
-  kind: mc
-  text: "Che cosa avviene alla molecola di mRNA dopo la trascrizione?"
-  options:
-    - Viene distrutta
-    - Rimane nel nucleo
-    - Viene esportata nel citoplasma
-    - Viene tradotta immediatamente
-  correct: 2
-  curiosity: "Dopo la trascrizione, l'mRNA maturo viene esportato nel citoplasma, dove verrà tradotto in una proteina."
+# 365:
+#   kind: mc
+#   text: "Che cosa avviene alla molecola di mRNA dopo la trascrizione?"
+#   options:
+#     - Subisce delle modifiche
+#     - Rimane nel nucleo
+#     - Viene esportata nel citoplasma
+#     - Viene tradotta immediatamente
+#   correct: 0
+#   curiosity: 
 
 366:
   kind: mc
@@ -3953,86 +3951,86 @@
     - In entrambe le direzioni
     - Da 5' a 5'
   correct: 1
-  curiosity: "La sintesi dell'mRNA avviene nella direzione 5' -> 3', in modo che i nucleotidi vengano aggiunti all'estremità 3' della catena."
+  curiosity: 
 
 367:
   kind: mc
-  text: "Cosa succede al mRNA dopo che è stato trascritto?"
+  text: "Cosa succede al mRNA immediatamente dopo essere stato trascritto?"
   options:
     - Viene tradotto in aminoacidi
     - Viene replicato
     - Subisce modifiche come la coda di poli-A e il cappuccio 5'
     - Viene utilizzato come DNA
   correct: 2
-  curiosity: "Dopo la trascrizione, l'mRNA subisce modifiche come l'aggiunta di un cappuccio 5' e una coda di poli-A, che lo stabilizzano e ne facilitano l'esportazione."
+  curiosity: 
 
 368:
   kind: mc
   text: "Che cosa rappresenta la coda di poli-A nell'mRNA?"
   options:
-    - Una sequenza di proteine
+    - Una sequenza di amminoacidi
     - Una sequenza di codoni
     - Una serie di adenine aggiunte per stabilizzare l'mRNA
     - Una sequenza di introni
   correct: 2
-  curiosity: "La coda di poli-A è una serie di adenine aggiunte all'estremità 3' dell'mRNA che aiuta a stabilizzare la molecola e a regolare la sua durata."
+  curiosity: 
 
-369:
-  kind: mc
-  text: "Quale tipo di RNA viene utilizzato per il trasporto degli aminoacidi ai ribosomi?"
-  options:
-    - mRNA
-    - rRNA
-    - tRNA
-    - snRNA
-  correct: 2
-  curiosity: "Il tRNA (RNA di trasferimento) è responsabile per il trasporto degli aminoacidi ai ribosomi, dove avviene la sintesi proteica."
+# 369:
+#   kind: mc
+#   text: "Quale tipo di RNA viene utilizzato per il trasporto degli aminoacidi ai ribosomi?"
+#   options:
+#     - mRNA
+#     - rRNA
+#     - tRNA
+#     - snRNA
+#   correct: 2
+#   curiosity: "Il tRNA (RNA di trasferimento) è responsabile per il trasporto degli aminoacidi ai ribosomi, dove avviene la sintesi proteica."
 
-370:
-  kind: mc
-  text: "Cosa si intende per trascrizione inversa?"
-  options:
-    - La trascrizione del DNA in RNA
-    - La traduzione dell'RNA in proteine
-    - La sintesi di DNA a partire da RNA
-    - La duplicazione del DNA
-  correct: 2
-  curiosity: "La trascrizione inversa è il processo mediante il quale viene sintetizzato il DNA a partire da RNA, come nel caso dei retrovirus."
+# 370:
+#   kind: mc
+#   text: "Cosa si intende per trascrizione inversa?"
+#   options:
+#     - La trascrizione del DNA in RNA
+#     - La traduzione dell'RNA in proteine
+#     - La sintesi di DNA a partire da RNA
+#     - La duplicazione del DNA
+#   correct: 2
+#   curiosity: "La trascrizione inversa è il processo mediante il quale viene sintetizzato il DNA a partire da RNA, come nel caso dei retrovirus."
 
 371:
   kind: mc
   text: "Qual è il significato di 'capping' nel contesto della trascrizione?"
   options:
-    - La protezione del DNA
+    - La protezione del DNA grazie all'aggiunta di sequenze di nucleotidi ripetute a entrambi i suoi estremi
     - La traduzione del mRNA
     - L'aggiunta di un cappuccio alla fine 5' dell'mRNA
-    - L'eliminazione degli introni
+    - L'aggiunta di introni al DNA
   correct: 2
-  curiosity: "'Capping' si riferisce all'aggiunta di una guanosina modificata all'estremità 5' dell'mRNA, che aiuta nella protezione della molecola e nell'inizio della traduzione."
+  curiosity: 
 
-372:
-  kind: mc
-  text: "Qual è la funzione del ribosoma nella sintesi proteica?"
-  options:
-    - Sintetizzare RNA
-    - Duplicare DNA
-    - Tradurre il mRNA in una sequenza di aminoacidi
-    - Stabilizzare il DNA
-  correct: 2
-  curiosity: "Il ribosoma è il sito dove avviene la traduzione del mRNA in una sequenza di aminoacidi, che formeranno la proteina finale."
+# 372:
+#   kind: mc
+#   text: "Qual è la funzione del ribosoma nella sintesi proteica?"
+#   options:
+#     - Sintetizzare RNA
+#     - Duplicare DNA
+#     - Tradurre il mRNA in una sequenza di aminoacidi
+#     - Stabilizzare il DNA
+#   correct: 2
+#   curiosity: "Il ribosoma è il sito dove avviene la traduzione del mRNA in una sequenza di aminoacidi, che formeranno la proteina finale."
 
-#FINALFIX
+#FIXME
 
 373:
   kind: mc
   text: "Cosa significa 'maturazione del mRNA'?"
   options:
-    - La sintesi di proteine
-    - La duplicazione del DNA
+    - Il processo di modifica del mRNA in microRNA 
+    - L'mRNA ha bisogno di un determinato tempo per maturare
     - Il processo di modifica del pre-mRNA in mRNA maturo
-    - La trascrizione del DNA
+    - Il processo di modifica del microRNA in mRNA 
   correct: 2
-  curiosity: "La maturazione del mRNA è il processo in cui il pre-mRNA viene modificato (con aggiunta del cappuccio 5', splicing e coda di poli-A) per diventare mRNA maturo, pronto per la traduzione."
+  curiosity: 
 
 374:
   kind: mc
@@ -4043,95 +4041,95 @@
     - Aggiunta del cappuccio 5'
     - Traduzione
   correct: 2
-  curiosity: "Il primo passo nella maturazione dell'mRNA è l'aggiunta del cappuccio 5', che aiuta a proteggere l'mRNA e facilita il suo trasporto."
+  curiosity: 
 
-375:
-  kind: mc
-  text: "Quale struttura viene aggiunta all'estremità 5' dell'mRNA durante la maturazione?"
-  options:
-    - Coda di poli-A
-    - Sequenza di introni
-    - Cappuccio 5'
-    - Codoni
-  correct: 2
-  curiosity: "Durante la maturazione, un cappuccio 5' è aggiunto all'estremità 5' dell'mRNA per proteggerlo dalla degradazione."
+# 375:
+#   kind: mc
+#   text: "Quale struttura viene aggiunta all'estremità 5' dell'mRNA durante la maturazione?"
+#   options:
+#     - Coda di poli-A
+#     - Sequenza di introni
+#     - Cappuccio 5'
+#     - Codoni
+#   correct: 2
+#   curiosity: "Durante la maturazione, un cappuccio 5' è aggiunto all'estremità 5' dell'mRNA per proteggerlo dalla degradazione."
 
 376:
   kind: mc
   text: "Qual è la funzione del cappuccio 5'?"
   options:
-    - Stabilizzare l'mRNA e facilitarne il trasporto
-    - Proteggere l'mRNA dalla degradazione
-    - Codificare per proteine
-    - Aggiungere sequenze di aminoacidi
+    - Stabilizza l'mRNA 
+    - Proteggere l'mRNA 
+    - Facilita il trasporto dell'mRNA
+    - Tutte le precedenti
   correct: 1
-  curiosity: "Il cappuccio 5' ha una funzione protettiva: previene la degradazione dell'mRNA e facilita il suo riconoscimento durante la traduzione."
+  curiosity: 
 
-377:
-  kind: mc
-  text: "Cosa sono gli introni nel contesto della maturazione del mRNA?"
-  options:
-    - Sequenze di RNA non codificanti
-    - Sequenze di RNA codificanti
-    - Parti del pre-mRNA che vengono rimosse durante lo splicing
-    - Nucleotidi liberi nel citoplasma
-  correct: 2
-  curiosity: "Gli introni sono le sequenze non codificanti che vengono rimosse durante il processo di splicing, lasciando solo gli esoni codificanti."
+# 377:
+#   kind: mc
+#   text: "Cosa sono gli introni nel contesto della maturazione del mRNA?"
+#   options:
+#     - Sequenze di RNA non codificanti
+#     - Sequenze di RNA codificanti
+#     - Parti del pre-mRNA che vengono rimosse durante lo splicing
+#     - Nucleotidi liberi nel citoplasma
+#   correct: 2
+#   curiosity: "Gli introni sono le sequenze non codificanti che vengono rimosse durante il processo di splicing, lasciando solo gli esoni codificanti."
 
-378:
-  kind: mc
-  text: "Che cosa avviene durante il processo di splicing?"
-  options:
-    - Aggiunta di codoni
-    - Traduzione dell'mRNA
-    - Rimozione degli introni e unione degli esoni
-    - Sintesi di RNA
-  correct: 2
-  curiosity: "Lo splicing è il processo in cui gli introni vengono rimossi e gli esoni, che codificano per proteine, vengono uniti insieme."
+# 378:
+#   kind: mc
+#   text: "Che cosa avviene durante il processo di splicing?"
+#   options:
+#     - Aggiunta di codoni
+#     - Traduzione dell'mRNA
+#     - Rimozione degli introni e unione degli esoni
+#     - Sintesi di RNA
+#   correct: 2
+#   curiosity: "Lo splicing è il processo in cui gli introni vengono rimossi e gli esoni, che codificano per proteine, vengono uniti insieme."
 
-379:
-  kind: mc
-  text: "Qual è la funzione della coda di poli-A?"
-  options:
-    - Stabilizzare l'mRNA
-    - Iniziare la traduzione
-    - Proteggere l'mRNA dalla degradazione e facilitare il suo trasporto
-    - Codificare per una proteina
-  correct: 2
-  curiosity: "La coda di poli-A, una lunga sequenza di adenine, protegge l'mRNA dalla degradazione e ne facilita l'esportazione nel citoplasma."
+# 379:
+#   kind: mc
+#   text: "Qual è la funzione della coda di poli-A?"
+#   options:
+#     - Stabilizzare l'mRNA
+#     - Iniziare la traduzione
+#     - Proteggere l'mRNA dalla degradazione e facilitare il suo trasporto
+#     - Codificare per una proteina
+#   correct: 2
+#   curiosity: "La coda di poli-A, una lunga sequenza di adenine, protegge l'mRNA dalla degradazione e ne facilita l'esportazione nel citoplasma."
 
-380:
-  kind: mc
-  text: "Cosa rappresentano gli esoni?"
-  options:
-    - Sequenze di RNA non codificanti
-    - Sequenze di nucleotidi liberi
-    - Parti del gene che vengono mantenute nel mRNA maturo
-    - Sequenze di introni
-  correct: 2
-  curiosity: "Gli esoni sono le sequenze codificanti del gene, che vengono mantenute nell'mRNA maturo e sono responsabili della produzione della proteina."
+# 380:
+#   kind: mc
+#   text: "Cosa rappresentano gli esoni?"
+#   options:
+#     - Sequenze di RNA non codificanti
+#     - Sequenze di nucleotidi liberi
+#     - Parti del gene che vengono mantenute nel mRNA maturo
+#     - Sequenze di introni
+#   correct: 2
+#   curiosity: "Gli esoni sono le sequenze codificanti del gene, che vengono mantenute nell'mRNA maturo e sono responsabili della produzione della proteina."
 
-381:
-  kind: mc
-  text: "Quale enzima è coinvolto nel processo di splicing?"
-  options:
-    - RNA polimerasi
-    - Ligasi
-    - Spliceosoma
-    - Topoisomerasi
-  correct: 2
-  curiosity: "Lo spliceosoma è un complesso di proteine e RNA che svolge il processo di splicing, rimuovendo gli introni dall'mRNA."
+# 381:
+#   kind: mc
+#   text: "Quale enzima è coinvolto nel processo di splicing?"
+#   options:
+#     - RNA polimerasi
+#     - Ligasi
+#     - Spliceosoma
+#     - Topoisomerasi
+#   correct: 2
+#   curiosity: "Lo spliceosoma è un complesso di proteine e RNA che svolge il processo di splicing, rimuovendo gli introni dall'mRNA."
 
-382:
-  kind: mc
-  text: "Quale dei seguenti eventi avviene dopo che il pre-mRNA è stato trascritto?"
-  options:
-    - Viene tradotto in proteine
-    - Viene replicato
-    - Subisce modifiche per diventare mRNA maturo
-    - Viene utilizzato come DNA
-  correct: 2
-  curiosity: "Dopo la trascrizione, il pre-mRNA subisce modifiche, come lo splicing e l'aggiunta della coda di poli-A e del cappuccio 5', per diventare mRNA maturo."
+# 382:
+#   kind: mc
+#   text: "Quale dei seguenti eventi avviene dopo che il pre-mRNA è stato trascritto?"
+#   options:
+#     - Viene tradotto in proteine
+#     - Viene replicato
+#     - Subisce modifiche per diventare mRNA maturo
+#     - Viene utilizzato come DNA
+#   correct: 2
+#   curiosity: "Dopo la trascrizione, il pre-mRNA subisce modifiche, come lo splicing e l'aggiunta della coda di poli-A e del cappuccio 5', per diventare mRNA maturo."
 
 383:
   kind: mc
@@ -4139,21 +4137,21 @@
   options:
     - Rimane nel nucleo
     - Viene esportato nel citoplasma
-    - Viene distrutto
+    - Viene immediatamente tradotto in proteine
     - Viene utilizzato per la replicazione del DNA
   correct: 1
-  curiosity: "Dopo la maturazione, l'mRNA maturo viene esportato dal nucleo nel citoplasma, dove viene tradotto in proteina."
+  curiosity: 
 
 384:
   kind: mc
   text: "Cosa succede se il cappuccio 5' non viene aggiunto correttamente?"
   options:
-    - L'mRNA sarà tradotto più velocemente
+    - L'mRNA sarà tradotto più lentamente
     - Non avrà alcun effetto
     - L'mRNA potrebbe essere degradato più rapidamente
-    - La sintesi di proteine sarà più efficiente
+    - La sintesi di proteine sarà meno precisa
   correct: 2
-  curiosity: "Se il cappuccio 5' non viene aggiunto correttamente, l'mRNA potrebbe essere riconosciuto come difettoso e degradato più rapidamente."
+  curiosity: 
 
 385:
   kind: mc
@@ -4164,62 +4162,62 @@
     - Polyadenilato polimerasi
     - Ligasi
   correct: 2
-  curiosity: "La polyadenilato polimerasi è l'enzima che aggiunge la coda di poli-A all'estremità 3' dell'mRNA durante la maturazione."
+  curiosity: 
 
-386:
-  kind: mc
-  text: "Cosa rappresenta un codone nell'mRNA?"
-  options:
-    - Una sequenza di introni
-    - Una sequenza di tre nucleotidi che codifica per un aminoacido
-    - Un filamento di RNA
-    - Una sequenza di DNA
-  correct: 1
-  curiosity: "Un codone è una sequenza di tre nucleotidi nell'mRNA che codifica per un aminoacido specifico durante la traduzione."
+# 386:
+#   kind: mc
+#   text: "Cosa rappresenta un codone nell'mRNA?"
+#   options:
+#     - Una sequenza di introni
+#     - Una sequenza di tre nucleotidi che codifica per un aminoacido
+#     - Un filamento di RNA
+#     - Una sequenza di DNA
+#   correct: 1
+#   curiosity: "Un codone è una sequenza di tre nucleotidi nell'mRNA che codifica per un aminoacido specifico durante la traduzione."
 
-387:
-  kind: mc
-  text: "Quale tipo di RNA viene utilizzato per trasportare gli aminoacidi ai ribosomi?"
-  options:
-    - mRNA
-    - rRNA
-    - tRNA
-    - snRNA
-  correct: 2
-  curiosity: "Il tRNA (RNA di trasferimento) è il tipo di RNA che trasporta gli aminoacidi ai ribosomi per la sintesi proteica."
+# 387:
+#   kind: mc
+#   text: "Quale tipo di RNA viene utilizzato per trasportare gli aminoacidi ai ribosomi?"
+#   options:
+#     - mRNA
+#     - rRNA
+#     - tRNA
+#     - snRNA
+#   correct: 2
+#   curiosity: "Il tRNA (RNA di trasferimento) è il tipo di RNA che trasporta gli aminoacidi ai ribosomi per la sintesi proteica."
 
 388:
   kind: mc
   text: "Cosa significa 'esclusione' degli introni?"
   options:
-    - Aggiunta di introni all'mRNA
+    - Rimozione di introni all'mRNA maturo
     - Rimozione di introni dal DNA
-    - Rimozione di introni dal pre-mRNA durante lo splicing
-    - Trascrizione di introni in mRNA
+    - Rimozione di introni dal pre-mRNA 
+    - Nessuna delle precedenti
   correct: 2
-  curiosity: "L'esclusione degli introni significa che questi vengono rimossi dal pre-mRNA durante lo splicing, lasciando solo gli esoni."
+  curiosity: 
 
-389:
-  kind: mc
-  text: "Che cosa rappresenta il termine 'snRNA'?"
-  options:
-    - RNA messaggero
-    - RNA ribosomiale
-    - RNA nucleare piccolo coinvolto nello splicing
-    - RNA di trasferimento
-  correct: 2
-  curiosity: "Lo snRNA (small nuclear RNA) è un tipo di RNA che svolge un ruolo fondamentale nel processo di splicing, facilitando la rimozione degli introni."
+# 389:
+#   kind: mc
+#   text: "Che cosa rappresenta il termine 'snRNA'?"
+#   options:
+#     - RNA messaggero
+#     - RNA ribosomiale
+#     - RNA nucleare piccolo coinvolto nello splicing
+#     - RNA di trasferimento
+#   correct: 2
+#   curiosity: "Lo snRNA (small nuclear RNA) è un tipo di RNA che svolge un ruolo fondamentale nel processo di splicing, facilitando la rimozione degli introni."
 
-390:
-  kind: mc
-  text: "Qual è la funzione principale dell'mRNA maturo?"
-  options:
-    - Codificare per proteine
-    - Stabilizzare il DNA
-    - Trasportare informazioni genetiche ai ribosomi per la sintesi proteica
-    - Viene utilizzato per la replicazione
-  correct: 2
-  curiosity: "L'mRNA maturo trasporta l'informazione genetica dal nucleo ai ribosomi, dove viene tradotto in proteina."
+# 390:
+#   kind: mc
+#   text: "Qual è la funzione principale dell'mRNA maturo?"
+#   options:
+#     - Codificare per proteine
+#     - Stabilizzare il DNA
+#     - Trasportare informazioni genetiche ai ribosomi per la sintesi proteica
+#     - Viene utilizzato per la replicazione
+#   correct: 2
+#   curiosity: "L'mRNA maturo trasporta l'informazione genetica dal nucleo ai ribosomi, dove viene tradotto in proteina."
 
 391:
   kind: mc
@@ -4230,20 +4228,20 @@
     - Include splicing e modifiche 5' e 3'
     - Non avviene nel nucleo
   correct: 2
-  curiosity: "Negli eucarioti, la maturazione dell'mRNA include lo splicing e modifiche sia all'estremità 5' (cappuccio) che all'estremità 3' (coda di poli-A)."
+  curiosity:
 
 392:
   kind: mc
   text: "Cosa succede se ci sono errori nel processo di maturazione del mRNA?"
   options:
-    - Non avrà alcun effetto sulla proteina finale
+    - L'mRNA difettoso non viene mai trasposrtato nel citoplasma perchè non riconosciuto
     - Non influenzerà la traduzione
     - Potrebbe portare a proteine non funzionali o difettose
     - Migliorerà l'efficienza della traduzione
   correct: 2
-  curiosity: "Errori nella maturazione dell'mRNA, come splicing incompleto o mancanza del cappuccio 5', possono portare a proteine difettose o non funzionali."
+  curiosity: 
 
-#FINALFIX
+#FIXME
 
 393:
   kind: mc
@@ -4254,7 +4252,7 @@
     - Un processo che consente di produrre diverse varianti di mRNA da un singolo gene
     - La traduzione delle proteine
   correct: 2
-  curiosity: "Lo splicing alternativo è un processo che permette a un singolo gene di produrre diverse varianti di mRNA, aumentando la diversità proteica."
+  curiosity: 
 
 394:
   kind: mc
@@ -4265,18 +4263,18 @@
     - Permette la produzione di diverse proteine a partire dallo stesso gene
     - Stabilizza l'mRNA
   correct: 2
-  curiosity: "Il principale vantaggio dello splicing alternativo è che permette la produzione di molteplici proteine diverse dallo stesso gene."
+  curiosity: 
 
-395:
-  kind: mc
-  text: "Quale delle seguenti affermazioni è vera riguardo allo splicing alternativo?"
-  options:
-    - È un processo esclusivo degli eucarioti
-    - Si verifica solo in alcuni tipi di cellule
-    - Contribuisce alla diversità proteica degli organismi
-    - Non ha impatti sulla funzionalità delle proteine
-  correct: 2
-  curiosity: "Lo splicing alternativo aumenta la diversità proteica, poiché consente la generazione di diverse isoforme proteiche a partire da un singolo gene."
+# 395:
+#   kind: mc
+#   text: "Quale delle seguenti affermazioni è vera riguardo allo splicing alternativo?"
+#   options:
+#     - È un processo esclusivo degli eucarioti
+#     - Si verifica solo in alcuni tipi di cellule
+#     - Contribuisce alla diversità proteica degli organismi
+#     - Non ha impatti sulla funzionalità delle proteine
+#   correct: 2
+#   curiosity: "Lo splicing alternativo aumenta la diversità proteica, poiché consente la generazione di diverse isoforme proteiche a partire da un singolo gene."
 
 396:
   kind: mc
@@ -4287,7 +4285,7 @@
     - Rimuovere introni e unire esoni in varianti di mRNA
     - Stabilizzare l'mRNA
   correct: 2
-  curiosity: "Lo spliceosoma è il complesso di proteine e RNA che catalizza lo splicing alternativo, rimuovendo introni e combinando esoni in modo differente."
+  curiosity: 
 
 397:
   kind: mc
@@ -4298,7 +4296,7 @@
     - La temperatura cellulare
     - Il tipo di RNA polimerasi utilizzato
   correct: 1
-  curiosity: "La selezione degli esoni durante lo splicing alternativo è regolata da specifici elementi nel pre-mRNA e da fattori proteici."
+  curiosity: 
 
 398:
   kind: mc
@@ -4309,29 +4307,29 @@
     - Combinazione di esoni diversi per produrre varianti di mRNA
     - Replicazione del gene
   correct: 2
-  curiosity: "Lo splicing alternativo consente la combinazione di esoni diversi per produrre varianti di mRNA e, quindi, diverse isoforme proteiche."
+  curiosity: 
 
-399:
-  kind: mc
-  text: "Cosa sono i motivi di riconoscimento dello splicing?"
-  options:
-    - Sequenze che codificano per aminoacidi
-    - Sequenze che stabilizzano l'mRNA
-    - Sequenze nel pre-mRNA che segnalano dove avviene lo splicing
-    - Sequenze di DNA che non vengono trascritte
-  correct: 2
-  curiosity: "I motivi di riconoscimento dello splicing sono sequenze nel pre-mRNA che segnano i punti di inizio e fine degli introni."
+# 399:
+#   kind: mc
+#   text: "Cosa sono i motivi di riconoscimento dello splicing?"
+#   options:
+#     - Sequenze che codificano per aminoacidi
+#     - Sequenze che stabilizzano l'mRNA
+#     - Sequenze nel pre-mRNA che segnalano dove avviene lo splicing
+#     - Sequenze di DNA che non vengono trascritte
+#   correct: 2
+#   curiosity: "I motivi di riconoscimento dello splicing sono sequenze nel pre-mRNA che segnano i punti di inizio e fine degli introni."
 
-400:
-  kind: mc
-  text: "Qual è l'effetto dello splicing alternativo sulla diversità proteica?"
-  options:
-    - Riduce la diversità proteica
-    - Non ha alcun effetto
-    - Aumenta la diversità proteica consentendo la produzione di diverse isoforme
-    - Riduce il numero di proteine prodotte
-  correct: 2
-  curiosity: "Lo splicing alternativo aumenta la diversità proteica, permettendo la produzione di più isoforme proteiche da un singolo gene."
+# 400:
+#   kind: mc
+#   text: "Qual è l'effetto dello splicing alternativo sulla diversità proteica?"
+#   options:
+#     - Riduce la diversità proteica
+#     - Non ha alcun effetto
+#     - Aumenta la diversità proteica consentendo la produzione di diverse isoforme
+#     - Riduce il numero di proteine prodotte
+#   correct: 2
+#   curiosity: "Lo splicing alternativo aumenta la diversità proteica, permettendo la produzione di più isoforme proteiche da un singolo gene."
 
 401:
   kind: mc
@@ -4342,18 +4340,18 @@
     - Viene prodotta una proteina con diverse funzioni o caratteristiche
     - Si genera una mutazione nel DNA
   correct: 2
-  curiosity: "L'unione differente degli esoni durante lo splicing alternativo può produrre proteine con funzioni o caratteristiche diverse."
+  curiosity: 
 
-402:
-  kind: mc
-  text: "Quale delle seguenti proteine è coinvolta nel processo di splicing alternativo?"
-  options:
-    - RNA polimerasi
-    - Ligasi
-    - Proteine di legame all'RNA (RBPs)
-    - DNA ligasi
-  correct: 2
-  curiosity: "Le proteine di legame all'RNA (RBPs) sono fondamentali nel processo di splicing alternativo, regolando la selezione degli esoni."
+# 402:
+#   kind: mc
+#   text: "Quale delle seguenti proteine è coinvolta nel processo di splicing alternativo?"
+#   options:
+#     - RNA polimerasi
+#     - Ligasi
+#     - Proteine di legame all'RNA (RBPs)
+#     - DNA ligasi
+#   correct: 2
+#   curiosity: "Le proteine di legame all'RNA (RBPs) sono fondamentali nel processo di splicing alternativo, regolando la selezione degli esoni."
 
 403:
   kind: mc
@@ -4364,29 +4362,29 @@
     - Regolano quali esoni vengono inclusi o esclusi
     - Aggiungono una coda di poli-A
   correct: 2
-  curiosity: "Le sequenze di controllo nel pre-mRNA regolano l'inclusione o l'esclusione di esoni specifici durante lo splicing alternativo."
+  curiosity: 
 
-404:
-  kind: mc
-  text: "Quale tipo di RNA è coinvolto nello splicing alternativo?"
-  options:
-    - RNA messaggero (mRNA)
-    - RNA ribosomiale (rRNA)
-    - RNA nucleare piccolo (snRNA)
-    - RNA di trasferimento (tRNA)
-  correct: 2
-  curiosity: "Lo splicing alternativo coinvolge principalmente snRNA (small nuclear RNA), che aiuta a catalizzare il processo di splicing."
+# 404:
+#   kind: mc
+#   text: "Quale tipo di RNA è coinvolto nello splicing alternativo?"
+#   options:
+#     - RNA messaggero (mRNA)
+#     - RNA ribosomiale (rRNA)
+#     - RNA nucleare piccolo (snRNA)
+#     - RNA di trasferimento (tRNA)
+#   correct: 2
+#   curiosity: "Lo splicing alternativo coinvolge principalmente snRNA (small nuclear RNA), che aiuta a catalizzare il processo di splicing."
 
-405:
-  kind: mc
-  text: "Quale è l'effetto di una mutazione nelle sequenze di riconoscimento dello splicing?"
-  options:
-    - Non avrà alcun effetto sulla proteina
-    - Migliorerà l'efficienza dello splicing
-    - Potrebbe portare a errori nello splicing e alterare le proteine risultanti
-    - Nessun cambiamento nella diversità proteica
-  correct: 2
-  curiosity: "Una mutazione nelle sequenze di riconoscimento dello splicing può causare errori nello splicing, che portano a proteine alterate."
+# 405:
+#   kind: mc
+#   text: "Quale è l'effetto di una mutazione nelle sequenze di riconoscimento dello splicing?"
+#   options:
+#     - Non avrà alcun effetto sulla proteina
+#     - Migliorerà l'efficienza dello splicing
+#     - Potrebbe portare a errori nello splicing e alterare le proteine risultanti
+#     - Nessun cambiamento nella diversità proteica
+#   correct: 2
+#   curiosity: "Una mutazione nelle sequenze di riconoscimento dello splicing può causare errori nello splicing, che portano a proteine alterate."
 
 406:
   kind: mc
@@ -4397,40 +4395,40 @@
     - Contribuisce a creare specificità cellulare producendo diverse proteine
     - Aumenta il numero di cellule
   correct: 2
-  curiosity: "Lo splicing alternativo contribuisce alla specializzazione delle cellule, permettendo la produzione di proteine specifiche per ciascun tipo cellulare."
+  curiosity: 
 
-407:
-  kind: mc
-  text: "Che cosa succede quando gli esoni vengono saltati durante lo splicing alternativo?"
-  options:
-    - Viene prodotta una proteina più lunga
-    - Viene prodotta una proteina con parti mancanti
-    - Non ci sono cambiamenti nella proteina
-    - Viene eliminato l'intero gene
-  correct: 1
-  curiosity: "Quando gli esoni vengono saltati durante lo splicing alternativo, l'mRNA risultante codifica per una proteina con parti mancanti."
+# 407:
+#   kind: mc
+#   text: "Che cosa succede quando gli esoni vengono saltati durante lo splicing alternativo?"
+#   options:
+#     - Viene prodotta una proteina più lunga
+#     - Viene prodotta una proteina con parti mancanti
+#     - Non ci sono cambiamenti nella proteina
+#     - Viene eliminato l'intero gene
+#   correct: 1
+#   curiosity: "Quando gli esoni vengono saltati durante lo splicing alternativo, l'mRNA risultante codifica per una proteina con parti mancanti."
 
-408:
-  kind: mc
-  text: "Qual è la conseguenza del difetto nello splicing alternativo?"
-  options:
-    - Nessun impatto sulla cellula
-    - Diminuzione della diversità proteica
-    - Malattie genetiche e disfunzioni cellulari
-    - Maggiore stabilità dell'mRNA
-  correct: 2
-  curiosity: "I difetti nello splicing alternativo possono portare a malattie genetiche e disfunzioni cellulari, poiché le proteine prodotte sono alterate."
+# 408:
+#   kind: mc
+#   text: "Qual è la conseguenza del difetto nello splicing alternativo?"
+#   options:
+#     - Nessun impatto sulla cellula
+#     - Diminuzione della diversità proteica
+#     - Malattie genetiche e disfunzioni cellulari
+#     - Maggiore stabilità dell'mRNA
+#   correct: 2
+#   curiosity: 
 
-409:
-  kind: mc
-  text: "Quale fattore regola lo splicing alternativo?"
-  options:
-    - Solo fattori ambientali
-    - Solo sequenze genetiche
-    - Fattori proteici e sequenze nel pre-mRNA
-    - Fattori di crescita
-  correct: 2
-  curiosity: "Lo splicing alternativo è regolato da una combinazione di fattori proteici e sequenze regolatorie nel pre-mRNA."
+# 409:
+#   kind: mc
+#   text: "Quale fattore regola lo splicing alternativo?"
+#   options:
+#     - Solo fattori ambientali
+#     - Solo sequenze genetiche
+#     - Fattori proteici e sequenze nel pre-mRNA
+#     - Fattori di crescita
+#   correct: 2
+#   curiosity: "Lo splicing alternativo è regolato da una combinazione di fattori proteici e sequenze regolatorie nel pre-mRNA."
 
 410:
   kind: mc
@@ -4441,31 +4439,31 @@
     - Diverse varianti di proteine derivanti dallo stesso gene
     - Proteine che non hanno alcuna funzione
   correct: 2
-  curiosity: "Le isoforme proteiche sono varianti di proteine prodotte dallo stesso gene attraverso lo splicing alternativo."
+  curiosity: 
 
-411:
-  kind: mc
-  text: "Quale delle seguenti è una tecnica utilizzata per studiare lo splicing alternativo?"
-  options:
-    - Sequenziamento del DNA
-    - PCR e analisi dell'mRNA
-    - Analisi proteomica
-    - Citometria a flusso
-  correct: 1
-  curiosity: "La PCR combinata con l'analisi dell'mRNA è utilizzata per studiare lo splicing alternativo e le isoforme proteiche risultanti."
+# 411:
+#   kind: mc
+#   text: "Quale delle seguenti è una tecnica utilizzata per studiare lo splicing alternativo?"
+#   options:
+#     - Sequenziamento del DNA
+#     - PCR e analisi dell'mRNA
+#     - Analisi proteomica
+#     - Citometria a flusso
+#   correct: 1
+#   curiosity: "La PCR combinata con l'analisi dell'mRNA è utilizzata per studiare lo splicing alternativo e le isoforme proteiche risultanti."
 
-412:
-  kind: mc
-  text: "Qual è il principale meccanismo attraverso il quale lo splicing alternativo contribuisce alla variabilità genica?"
-  options:
-    - Mutazioni nel DNA
-    - Riproduzione sessuale
-    - Combinazione di esoni diversi per creare varianti di mRNA e proteine
-    - Infezioni virali
-  correct: 2
-  curiosity: "Lo splicing alternativo aumenta la variabilità genica attraverso la combinazione di esoni diversi, creando diverse varianti di mRNA e proteine."
+# 412:
+#   kind: mc
+#   text: "Qual è il principale meccanismo attraverso il quale lo splicing alternativo contribuisce alla variabilità genica?"
+#   options:
+#     - Mutazioni nel DNA
+#     - Riproduzione sessuale
+#     - Combinazione di esoni diversi per creare varianti di mRNA e proteine
+#     - Infezioni virali
+#   correct: 2
+#   curiosity: "Lo splicing alternativo aumenta la variabilità genica attraverso la combinazione di esoni diversi, creando diverse varianti di mRNA e proteine."
 
-#FINALFIX
+#FIXME
 
 413:
   kind: mc
@@ -4476,62 +4474,62 @@
     - Il processo di sintesi proteica a partire dall'mRNA
     - La degradazione del RNA
   correct: 2
-  curiosity: "La traduzione è il processo mediante il quale l'informazione contenuta nell'mRNA viene utilizzata per sintetizzare una proteina."
+  curiosity: 
 
-414:
-  kind: mc
-  text: "Qual è il ruolo principale dei ribosomi nella traduzione?"
-  options:
-    - Trascrivere il DNA
-    - Sintetizzare RNA
-    - Tradurre l'mRNA in una sequenza di aminoacidi
-    - Aggiungere un cappuccio all'mRNA
-  correct: 2
-  curiosity: "I ribosomi sono responsabili di tradurre l'informazione genetica contenuta nell'mRNA in una sequenza di aminoacidi per formare una proteina."
+# 414:
+#   kind: mc
+#   text: "Qual è il ruolo principale dei ribosomi nella traduzione?"
+#   options:
+#     - Trascrivere il DNA
+#     - Sintetizzare RNA
+#     - Tradurre l'mRNA in una sequenza di aminoacidi
+#     - Aggiungere un cappuccio all'mRNA
+#   correct: 2
+#   curiosity: "I ribosomi sono responsabili di tradurre l'informazione genetica contenuta nell'mRNA in una sequenza di aminoacidi per formare una proteina."
 
-415:
-  kind: mc
-  text: "Quale tipo di RNA porta le istruzioni genetiche ai ribosomi?"
-  options:
-    - RNA ribosomiale (rRNA)
-    - RNA di trasferimento (tRNA)
-    - RNA messaggero (mRNA)
-    - RNA nucleare (snRNA)
-  correct: 2
-  curiosity: "L'mRNA è il tipo di RNA che trasporta le istruzioni genetiche dal nucleo ai ribosomi per la sintesi proteica."
+# 415:
+#   kind: mc
+#   text: "Quale tipo di RNA porta le istruzioni genetiche ai ribosomi?"
+#   options:
+#     - RNA ribosomiale (rRNA)
+#     - RNA di trasferimento (tRNA)
+#     - RNA messaggero (mRNA)
+#     - RNA nucleare (snRNA)
+#   correct: 2
+#   curiosity: "L'mRNA è il tipo di RNA che trasporta le istruzioni genetiche dal nucleo ai ribosomi per la sintesi proteica."
 
-416:
-  kind: mc
-  text: "Qual è la funzione del tRNA nella traduzione?"
-  options:
-    - Stabilizzare il DNA
-    - Sintetizzare l'mRNA
-    - Trasportare gli aminoacidi ai ribosomi
-    - Tradurre l'mRNA in proteine
-  correct: 2
-  curiosity: "Il tRNA trasporta gli aminoacidi ai ribosomi, dove vengono aggiunti alla catena polipeptidica in crescita durante la traduzione."
+# 416:
+#   kind: mc
+#   text: "Qual è la funzione del tRNA nella traduzione?"
+#   options:
+#     - Stabilizzare il DNA
+#     - Sintetizzare l'mRNA
+#     - Trasportare gli aminoacidi ai ribosomi
+#     - Tradurre l'mRNA in proteine
+#   correct: 2
+#   curiosity: "Il tRNA trasporta gli aminoacidi ai ribosomi, dove vengono aggiunti alla catena polipeptidica in crescita durante la traduzione."
 
-417:
-  kind: mc
-  text: "Cosa rappresenta un codone?"
-  options:
-    - Una singola base nucleotidica
-    - Un gruppo di aminoacidi
-    - Una sequenza di tre nucleotidi nell'mRNA che codifica per un aminoacido
-    - Un tipo di introne
-  correct: 2
-  curiosity: "Un codone è una sequenza di tre nucleotidi nell'mRNA che corrisponde a un aminoacido specifico o segnala un'azione durante la traduzione."
+# 417:
+#   kind: mc
+#   text: "Cosa rappresenta un codone?"
+#   options:
+#     - Una singola base nucleotidica
+#     - Un gruppo di aminoacidi
+#     - Una sequenza di tre nucleotidi nell'mRNA che codifica per un aminoacido
+#     - Un tipo di introne
+#   correct: 2
+#   curiosity: "Un codone è una sequenza di tre nucleotidi nell'mRNA che corrisponde a un aminoacido specifico o segnala un'azione durante la traduzione."
 
-418:
-  kind: mc
-  text: "Qual è la fase iniziale della traduzione?"
-  options:
-    - Inizio
-    - Terminazione
-    - Inizio della sintesi proteica
-    - Splicing
-  correct: 2
-  curiosity: "La fase iniziale della traduzione è l'inizio della sintesi proteica, che coinvolge il legame tra l'mRNA e il ribosoma."
+# 418:
+#   kind: mc
+#   text: "Qual è la fase iniziale della traduzione?"
+#   options:
+#     - Inizio
+#     - Terminazione
+#     - Inizio della sintesi proteica
+#     - Splicing
+#   correct: 2
+#   curiosity: "La fase iniziale della traduzione è l'inizio della sintesi proteica, che coinvolge il legame tra l'mRNA e il ribosoma."
 
 419:
   kind: mc
@@ -4542,7 +4540,7 @@
     - Gli introni vengono rimossi
     - Il DNA viene replicato
   correct: 1
-  curiosity: "Durante l'inizio della traduzione, l'mRNA si lega al ribosoma e il processo di sintesi proteica comincia con l'unione degli aminoacidi."
+  curiosity: 
 
 420:
   kind: mc
@@ -4553,18 +4551,18 @@
     - La catena polipeptidica
     - Il sito A
   correct: 1
-  curiosity: "La subunità minore del ribosoma è responsabile dell'accoppiamento tra codoni nell'mRNA e anticodoni nel tRNA durante la traduzione."
+  curiosity: 
 
 421:
   kind: mc
   text: "Cosa significa il termine 'anticodone'?"
   options:
-    - Una sequenza di DNA
+    - Una sequenza di DNA che va letta in direzione 5'-3'
     - Un tipo di aminoacido
     - Una sequenza di tre nucleotidi nel tRNA che è complementare a un codone nell'mRNA
-    - Un nucleotide libero
+    - Un tipo di proteina che inibisce la lettura del codone
   correct: 2
-  curiosity: "L'anticodone è una sequenza di tre nucleotidi nel tRNA che è complementare a un codone specifico nell'mRNA."
+  curiosity: 
 
 422:
   kind: mc
@@ -4575,7 +4573,7 @@
     - Gli aminoacidi vengono uniti per formare una catena polipeptidica
     - Gli introni vengono rimossi
   correct: 2
-  curiosity: "Durante l'allungamento della traduzione, gli aminoacidi vengono uniti tra loro per formare una catena polipeptidica in crescita."
+  curiosity: 
 
 423:
   kind: mc
@@ -4586,18 +4584,18 @@
     - Accogliere il tRNA con l'aminoacido successivo
     - Terminare la traduzione
   correct: 2
-  curiosity: "Il sito A del ribosoma è dove il tRNA con l'aminoacido successivo si lega per essere aggiunto alla catena polipeptidica."
+  curiosity: 
 
 424:
   kind: mc
   text: "Cosa avviene alla fine della traduzione?"
   options:
     - L'mRNA viene trascritto di nuovo
-    - Il ribosoma si dissocia
+    - Il ribosoma viene degradato
     - La catena polipeptidica viene rilasciata
     - Gli aminoacidi vengono separati
   correct: 2
-  curiosity: "Alla fine della traduzione, il ribosoma si dissocia e la catena polipeptidica appena sintetizzata viene rilasciata."
+  curiosity: 
 
 425:
   kind: mc
@@ -4608,29 +4606,29 @@
     - Un codone che codifica per un aminoacido
     - Un codone che stabilizza l'mRNA
   correct: 1
-  curiosity: "Un codone di stop è un codone nell'mRNA che segnala la fine della sintesi proteica, indicando che la catena polipeptidica è completa."
+  curiosity: 
 
-426:
-  kind: mc
-  text: "Qual è l'importanza della sequenza 5' UTR nell'mRNA?"
-  options:
-    - Non ha alcuna importanza
-    - Regola l'inizio della traduzione e la stabilità dell'mRNA
-    - Codifica per una proteina
-    - Rimuove gli introni
-  correct: 1
-  curiosity: "La sequenza 5' UTR (Untranslated Region) nell'mRNA gioca un ruolo nel controllo dell'inizio della traduzione e nella stabilità dell'mRNA."
+# 426:
+#   kind: mc
+#   text: "Qual è l'importanza della sequenza 5' UTR nell'mRNA?"
+#   options:
+#     - Non ha alcuna importanza
+#     - Regola l'inizio della traduzione e la stabilità dell'mRNA
+#     - Codifica per una proteina
+#     - Rimuove gli introni
+#   correct: 1
+#   curiosity: "La sequenza 5' UTR (Untranslated Region) nell'mRNA gioca un ruolo nel controllo dell'inizio della traduzione e nella stabilità dell'mRNA."
 
 427:
   kind: mc
   text: "Quale dei seguenti è un esempio di modifica post-traduzionale?"
   options:
     - Splicing
-    - Replicazione del DNA
+    - Capping 5'
     - Fosforilazione di una proteina
-    - Trascrizione dell'mRNA
+    - Poliadenilazione del mRNA
   correct: 2
-  curiosity: "La fosforilazione è una modifica post-traduzionale che comporta l'aggiunta di gruppi fosfato a una proteina, influenzando la sua attività e funzione."
+  curiosity: 
 
 428:
   kind: mc
@@ -4639,55 +4637,55 @@
     - L'mRNA verrà degradato
     - La traduzione continua
     - La sintesi proteica termina
-    - Gli aminoacidi vengono rilasciati
+    - Nessuna delle precedenti
   correct: 2
-  curiosity: "Quando un codone di stop viene incontrato durante la traduzione, segnala la fine della sintesi proteica."
+  curiosity: 
 
-429:
-  kind: mc
-  text: "Qual è la funzione del fattore di allungamento nella traduzione?"
-  options:
-    - Iniziare la traduzione
-    - Stabilizzare il ribosoma
-    - Facilitare l'aggiunta di aminoacidi alla catena polipeptidica
-    - Rimuovere gli introni
-  correct: 2
-  curiosity: "I fattori di allungamento aiutano a stabilizzare il ribosoma e facilitano l'aggiunta di aminoacidi alla catena polipeptidica durante l'allungamento della traduzione."
+# 429:
+#   kind: mc
+#   text: "Qual è la funzione del fattore di allungamento nella traduzione?"
+#   options:
+#     - Iniziare la traduzione
+#     - Stabilizzare il ribosoma
+#     - Facilitare l'aggiunta di aminoacidi alla catena polipeptidica
+#     - Rimuovere gli introni
+#   correct: 2
+#   curiosity: "I fattori di allungamento aiutano a stabilizzare il ribosoma e facilitano l'aggiunta di aminoacidi alla catena polipeptidica durante l'allungamento della traduzione."
 
-430:
-  kind: mc
-  text: "Cosa significa 'terminazione' nella traduzione?"
-  options:
-    - Inizio della sintesi proteica
-    - Completamento della trascrizione
-    - Processo in cui la sintesi proteica si conclude e la catena polipeptidica viene rilasciata
-    - Aggiunta di una coda di poli-A
-  correct: 2
-  curiosity: "La terminazione della traduzione è il processo che conclude la sintesi proteica, durante il quale la catena polipeptidica viene rilasciata dal ribosoma."
+# 430:
+#   kind: mc
+#   text: "Cosa significa 'terminazione' nella traduzione?"
+#   options:
+#     - Inizio della sintesi proteica
+#     - Completamento della trascrizione
+#     - Processo in cui la sintesi proteica si conclude e la catena polipeptidica viene rilasciata
+#     - Aggiunta di una coda di poli-A
+#   correct: 2
+#   curiosity: "La terminazione della traduzione è il processo che conclude la sintesi proteica, durante il quale la catena polipeptidica viene rilasciata dal ribosoma."
 
-431:
-  kind: mc
-  text: "Quale dei seguenti è un ribosoma?"
-  options:
-    - Un tipo di DNA
-    - Un tipo di RNA
-    - Un complesso proteico-RNA che svolge un ruolo nella traduzione
-    - Un aminoacido
-  correct: 2
-  curiosity: "Il ribosoma è un complesso di proteine e RNA che catalizza il processo di traduzione, sintetizzando proteine a partire dall'mRNA."
+# 431:
+#   kind: mc
+#   text: "Quale dei seguenti è un ribosoma?"
+#   options:
+#     - Un tipo di DNA
+#     - Un tipo di RNA
+#     - Un complesso proteico-RNA che svolge un ruolo nella traduzione
+#     - Un aminoacido
+#   correct: 2
+#   curiosity: 
 
 432:
   kind: mc
   text: "Cosa accade all'mRNA dopo la traduzione?"
   options:
-    - Rimane nel nucleo
-    - Viene replicato
+    - Torna nel nucleo per essere degradato
+    - Viene replicato per poi essere riutilizzato
     - Viene degradato o riutilizzato per la traduzione di altre proteine
-    - Viene convertito in DNA
+    - Torna nel nucleo per essere preservato e poi riutilizzato in futuro
   correct: 2
-  curiosity: "Dopo la traduzione, l'mRNA viene degradato o riutilizzato in un altro ciclo di traduzione per sintetizzare altre proteine."
+  curiosity: 
 
-#FINALFIX
+#FIXME
 
 433:
   kind: mc
