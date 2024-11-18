@@ -947,47 +947,977 @@
 
 1152:
   kind: tf
-  text: 
-  correct: 0
+  text: Le modifiche post-traduzionali sono modifiche chimiche dell'mRNA
+  correct: 1
   curiosity: 
 
 1153:
   kind: tf
-  text: 
+  text: La fosforilazione è un'importante modifica post-traduzionale che regola l'attività di molte proteine, incluse quelle coinvolte nel segnalamento cellulare
   correct: 0
   curiosity: 
 
 1154:
   kind: tf
-  text: 
-  correct: 0
+  text: La glicolizzazione è una modifica post-traduzionale in cui un fosfato viene legato a una proteina
+  correct: 1
   curiosity: 
 
 1155:
   kind: tf
-  text: 
+  text: Le chinasi sono enzimi che aggiungono gruppi fosfato a proteine specifiche, alterandone la loro attività
   correct: 0
   curiosity: 
 
 1156:
   kind: tf
-  text: 
-  correct: 0
+  text: L'acetilazione rimuove gruppi acetile da specifici residui di amminoacidi
+  correct: 1
   curiosity: 
 
 1157:
   kind: tf
-  text: 
+  text: La metilazione delle proteine regola l'espressione genica e le interazioni tra proteine
   correct: 0
   curiosity: 
 
 1158:
   kind: tf
+  text: L'ubiquitinazione promuove la sintesi proteica di una determinata proteina
+  correct: 1
+  curiosity: 
+
+1159:
+  kind: tf
+  text: Le modifiche lipidiche delle proteine possono influenzare la loro localizzazione all'interno della cellula, come l'integrazione nelle membrane
+  correct: 0
+  curiosity: 
+
+1160:
+  kind: tf
+  text: La lipidazione può attivare o disattivare molti enzimi, regolando la loro funzione all'interno della cellula
+  correct: 1
+  curiosity: 
+
+1161:
+  kind: tf
+  text: L'ubiquitinazione segna una proteina per la degradazione da parte del proteasoma, un meccanismo per regolare la quantità di proteine nella cellula
+  correct: 0
+  curiosity: 
+
+1162:
+  kind: tf
+  text: Le chinasi sono enzimi che aggiungono gruppi fosfato alle proteine per prepararle alla degradazione
+  correct: 1
+  curiosity: 
+
+1163:
+  kind: tf
+  text: La glicolizzazione è importante per la maturazione di proteine ormonali come l'insulina, che richiedono la corretta aggiunta di zuccheri per la loro attività
+  correct: 0
+  curiosity: 
+
+1164:
+  kind: tf
+  text: I malfunzionamenti nelle vie di modifiche post-traduzionali aumentano l'espressione genica
+  correct: 1
+  curiosity: 
+
+1165:
+  kind: tf
+  text: La metilazione può influenzare l'interazione delle proteine con il DNA e altre proteine
+  correct: 0
+  curiosity: 
+
+1166:
+  kind: tf
+  text: La glicolizzazione NON influenza mai l'interazione della proteina con altre molecole, come anticorpi e recettori cellulari
+  correct: 1
+  curiosity: 
+
+1167:
+  kind: tf
+  text: La fosforilazione è una modifica chimica che avviene in risposta a segnali esterni come fattori di crescita, regolando così molte funzioni cellulari
+  correct: 0
+  curiosity: 
+
+#FIXME
+
+1168:
+  kind: tf
+  text: Cambiamenti nella temperatura o nel pH NON alterano la struttura e la funzione delle proteine
+  correct: 1
+  curiosity: 
+
+1169:
+  kind: tf
+  text: Le proteine chaperoni aiutano le proteine nascenti a piegarsi correttamente durante la loro sintesi, prevenendo il malfolding
+  correct: 0
+  curiosity: 
+
+1170:
+  kind: tf
+  text: IL dominio di una proteina è la sequenza di aminoacidi che la compongono
+  correct: 1
+  curiosity: 
+
+1171:
+  kind: tf
+  text: La specificità della funzione di una proteina dipende dalla sua struttura tridimensionale
+  correct: 0
+  curiosity: 
+
+1172:
+  kind: tf
+  text: Le proteine globulari sono allungate e insolubili in acqua, mentre le proteine fibrose sono compatte e solubili
+  correct: 1
+  curiosity: 
+
+1173:
+  kind: tf
+  text: Le interazioni idrofobiche si verificano quando le catene laterali idrofobiche di aminoacidi si raggruppano per evitare il contatto con l'acqua
+  correct: 0
+  curiosity: 
+
+1174:
+  kind: tf
+  text: I legami disolfuro stabilizzano la struttura primaria e secondaria delle proteine
+  correct: 1
+  curiosity: 
+
+1175:
+  kind: tf
+  text: Il folding di una proteina è determinato dalle interazioni tra la sequenza di aminoacidi e le forze ambientali
+  correct: 0
+  curiosity: 
+
+#FIXME
+
+1176:
+  kind: tf
+  text: Gli anticorpi sono proteine prodotte dal sistema cardiovascolare per identificare e neutralizzare agenti patogeni come batteri e virus
+  correct: 1
+  curiosity: 
+
+1177:
+  kind: tf
+  text: Le proteine contrattili, come l'actina e la miosina, sono essenziali per la contrazione muscolare
+  correct: 0
+  curiosity: 
+
+1178:
+  kind: tf
+  text: La funzione principale delle proteine di trasporto è neutralizzare le tossine
+  correct: 1
+  curiosity: 
+
+1179:
+  kind: tf
+  text: Le proteine ormonali, come l'insulina, regolano processi fisiologici attraverso segnali chimici
+  correct: 0
+  curiosity: 
+
+1180:
+  kind: tf
+  text: Il glucagone è una proteina cruciale per la coagulazione del sangue, formando una rete che blocca il sanguinamento
+  correct: 1
+  curiosity: 
+
+1181:
+  kind: tf
+  text: Le proteine strutturali come il collagene danno resistenza e forma ai tessuti e alle cellule
+  correct: 0
+  curiosity: 
+
+1182:
+  kind: tf
+  text: L'emoglobina si trova nei muscoli e immagazzina ossigeno, rilasciandolo quando è necessario durante l'attività fisica
+  correct: 1
+  curiosity: 
+
+1183:
+  kind: tf
+  text: L'attività enzimatica consente a una proteina di catalizzare reazioni chimiche, riducendo l'energia necessaria per avviarle
+  correct: 0
+  curiosity: 
+
+1184:
+  kind: tf
+  text: Le proteine di trasporto sulla membrana cellulare legano molecole segnale, innescando risposte cellulari specifiche
+  correct: 1
+  curiosity: 
+
+1185:
+  kind: tf
+  text: Le proteine di segnalazione come gli ormoni trasmettono messaggi tra le cellule, coordinando le funzioni fisiologiche
+  correct: 0
+  curiosity: 
+
+1186:
+  kind: tf
+  text: Le proteine contrattili conservano nutrienti come il ferro e il calcio per utilizzi futuri dell'organismo
+  correct: 1
+  curiosity: 
+
+1187:
+  kind: tf
+  text: Le proteine motorie, come la chinesina e la dineina, permettono il movimento all'interno della cellula e tra le cellule, trasportando molecole e organelli
+  correct: 0
+  curiosity: 
+
+1188:
+  kind: tf
+  text: Le proteine strutturali, come gli anticorpi, proteggono il corpo da agenti patogeni e tossine
+  correct: 1
+  curiosity: 
+
+1189:
+  kind: tf
+  text: La specificità enzimatica indica che una proteina può catalizzare reazioni solo con substrati particolari
+  correct: 0
+  curiosity: 
+
+#FIXME
+
+1190:
+  kind: tf
+  text: Il sito di regolazione di un enzima è specifico per il substrato e facilita la reazione chimica
+  correct: 1
+  curiosity: 
+
+1191:
+  kind: tf
+  text: La struttura tridimensionale di un enzima crea un sito attivo specifico per determinati substrati
+  correct: 0
+  curiosity: 
+
+1192:
+  kind: tf
+  text: Temperature elevate NON alterano la struttura e funzione dell'enzima
+  correct: 1
+  curiosity: 
+
+1193:
+  kind: tf
+  text: L'energia di attivazione è l'energia minima necessaria affinché una reazione chimica abbia inizio
+  correct: 0
+  curiosity: 
+
+1194:
+  kind: tf
+  text: I cofattori sono molecole che intralciano gli enzimi nella catalisi di reazioni, rendendole più efficienti
+  correct: 1
+  curiosity: 
+
+1195:
+  kind: tf
+  text: Le proteasi sono enzimi che scindono le proteine in aminoacidi, facilitando la digestione e il riciclo proteico
+  correct: 0
+  curiosity: 
+
+1196:
+  kind: tf
+  text: Gli inibitori allosterici si legano al sito attivo, alterando la struttura dell'enzima e influenzandone l'attività
+  correct: 1
+  curiosity: 
+
+1197:
+  kind: tf
+  text: Nell'inibizione competitiva, una molecola si lega al sito attivo dell'enzima, bloccando l'accesso del substrato
+  correct: 0
+  curiosity: 
+
+1198:
+  kind: tf
+  text: Gli enzimi sono consumati durante la reazione
+  correct: 1
+  curiosity: 
+
+1199:
+  kind: tf
+  text: La catalasi è un enzima che scompone il perossido di idrogeno, proteggendo le cellule dai danni ossidativi
+  correct: 0
+  curiosity: 
+
+1200:
+  kind: tf
+  text: Il pH influisce sull'attività enzimatica alterando la temperatura
+  correct: 1
+  curiosity: 
+
+1201:
+  kind: tf
+  text: L'attivazione enzimatica si verifica quando un enzima è pronto a catalizzare una reazione dopo aver interagito con il suo substrato o altri attivatori
+  correct: 0
+  curiosity: 
+
+#FIXME
+
+1202:
+  kind: tf
+  text: Le proteine si trovano in diverse aree del citoplasma, esclusi i ribosomi
+  correct: 1
+  curiosity: 
+
+1203:
+  kind: tf
+  text: I ribosomi sono organelli che traducono l'informazione genetica per produrre proteine
+  correct: 0
+  curiosity: 
+
+1204:
+  kind: tf
+  text: Dopo essere modificate nel reticolo endoplasmatico, le proteine vengono trasportate alla membrana plasmatica
+  correct: 1
+  curiosity: 
+
+1205:
+  kind: tf
+  text: Le sequenze segnale sulle proteine indicano la loro destinazione e funzione all'interno della cellula
+  correct: 0
+  curiosity: 
+
+1206:
+  kind: tf
+  text: Le proteine di membrana forniscono energia alla cellula
+  correct: 1
+  curiosity: 
+
+1207:
+  kind: tf
+  text: Le proteine di ancoraggio stabilizzano la cellula collegando il citoscheletro alla membrana, fornendo struttura e supporto
+  correct: 0
+  curiosity: 
+
+1208:
+  kind: tf
+  text: Le proteine strutturali sono essenziali per il riconoscimento cellulare, come nella risposta immunitaria
+  correct: 1
+  curiosity: 
+
+1209:
+  kind: tf
+  text: Il citoscheletro è composto da proteine come actina e tubulina, che forniscono struttura e supporto alle cellule
+  correct: 0
+  curiosity: 
+
+1210:
+  kind: tf
+  text: Le proteine danneggiate vengono smaltite nel reticolo endoplasmatico per mantenere la salute cellulare
+  correct: 1
+  curiosity: 
+
+1211:
+  kind: tf
+  text: Le proteine secretorie sono destinate ad essere esportate dalla cellula
+  correct: 0
+  curiosity: 
+
+#FIXME
+
+1212:
+  kind: tf
+  text: L'ATP è essenziale per alimentare le reazioni cellulari e trasportare ossigeno nell'organismo
+  correct: 1
+  curiosity: 
+
+1213:
+  kind: tf
+  text: Sia la respirazione cellulare che la fotosintesi producono ATP
+  correct: 0
+  curiosity: 
+
+1214:
+  kind: tf
+  text: L'idrolisi dell'ATP rilascia energia trasformandosi in glucosio
+  correct: 1
+  curiosity: 
+
+1215:
+  kind: tf
+  text: L'ATP è una molecola instabile progettata per rilasciare rapidamente energia
+  correct: 0
+  curiosity: 
+
+1216:
+  kind: tf
+  text: L'ATP è il prodotto della degradazione dell'ADP 
+  correct: 1
+  curiosity: 
+
+1217:
+  kind: tf
+  text: Nella catena di trasporto degli elettroni, l'ossidazione di NADH e $FADH_2$ genera ATP tramite un gradiente di protoni nei mitocondri
+  correct: 0
+  curiosity: 
+
+1218:
+  kind: tf
+  text: I fosfolipidi sono il principale substrato per la produzione di ATP
+  correct: 1
+  curiosity: 
+
+1219:
+  kind: tf
+  text: Il ciclo di Krebs produce NADH e $FADH_2$, molecole che alimentano la catena di trasporto degli elettroni per generare ATP in modo efficiente
+  correct: 0
+  curiosity: 
+
+1220:
+  kind: tf
+  text: Quando la cellula ha un eccesso di ATP, lo utilizza immediatamente perchè NON può essere immagazzinato
+  correct: 1
+  curiosity: 
+
+1221:
+  kind: tf
+  text: L'idrolisi dell'ATP rilascia energia chimica
+  correct: 0
+  curiosity: 
+
+#FIXME
+
+1222:
+  kind: tf
+  text: Durante la glicolisi viene prodotto esclusivamente il NADH
+  correct: 1
+  curiosity: 
+
+1223:
+  kind: tf
+  text: Il NADH è la forma ridotta del nicotinamide adenina dinucleotide
+  correct: 0
+  curiosity: 
+
+1224:
+  kind: tf
+  text: Il NADH viene prodotto esclusivamente nella glicolisi
+  correct: 1
+  curiosity: 
+
+1225:
+  kind: tf
+  text: Durante la riduzione, il $NAD^+$ accetta elettroni e si converte in NADH
+  correct: 0
+  curiosity: 
+
+1226:
+  kind: tf
+  text: Il $NAD^+$ è la forma ridotta e immagazzina energia sotto forma di elettroni, mentre il NADH è la forma ossidata, pronta per accettare nuovi elettroni
+  correct: 1
+  curiosity: 
+
+1227:
+  kind: tf
+  text: Nel ciclo di Krebs, il $NAD^+$ accetta elettroni e si converte in NADH, che poi trasporta elettroni alla catena di trasporto per generare ATP
+  correct: 0
+  curiosity: 
+
+1228:
+  kind: tf
+  text: La sigla $NAD^+$ sta per nicotinamide adenina dinucleotide nella sua forma ridotta
+  correct: 1
+  curiosity: 
+
+1229:
+  kind: tf
+  text: NADH trasporta più energia per molecola rispetto a $FADH_2$ e contribuisce a generare più ATP nella catena di trasporto degli elettroni
+  correct: 0
+  curiosity: 
+
+1230:
+  kind: tf
+  text: Nei lisosomi, il NADH viene ossidato nella catena di trasporto degli elettroni, producendo ATP come fonte energetica per la cellula
+  correct: 1
+  curiosity: 
+
+1231:
+  kind: tf
+  text: Il CoA trasporta gruppi acetilici, essenziali per il metabolismo energetico e la sintesi di molecole complesse come gli acidi grassi
+  correct: 0
+  curiosity: 
+
+#FIXME
+
+1232:
+  kind: tf
+  text: La gluconeogenesi è il processo di degradazione del glucosio per produrre energia sotto forma di ATP e NADH
+  correct: 1
+  curiosity: 
+
+1233:
+  kind: tf
+  text: La glicolisi avviene nel citoplasma della cellula, dove il glucosio viene scisso in piruvato
+  correct: 0
+  curiosity: 
+
+1234:
+  kind: tf
+  text: Il principale prodotto finale della glicolisi è il NADH
+  correct: 1
+  curiosity: 
+
+1235:
+  kind: tf
+  text: Nella glicolisi vengono prodotte 4 molecole di ATP, ma poiché se ne consumano 2, il guadagno netto è di 2 ATP
+  correct: 0
+  curiosity: 
+
+1236:
+  kind: tf
+  text: L'enzima esochinasi catalizza la conversione del piruvato in acetil-CoA
+  correct: 1
+  curiosity: 
+
+1237:
+  kind: tf
+  text: Durante la glicolisi, il $NAD^+$ viene ridotto a NADH
+  correct: 0
+  curiosity: 
+
+1238:
+  kind: tf
+  text: Il galattosio è il substrato principale nella prima fase della glicolisi, dove viene scisso in piruvato
+  correct: 1
+  curiosity: 
+
+1239:
+  kind: tf
+  text: In condizioni anaerobiche, il piruvato viene convertito in lattato nei muscoli o in etanolo nei lieviti per rigenerare NAD+
+  correct: 0
+  curiosity: 
+
+1240:
+  kind: tf
+  text: Durante la decarbossilazione ossidativa del piruvato, il piruvato viene trasformato in glucosio
+  correct: 1
+  curiosity: 
+
+1241:
+  kind: tf
+  text: La fosfofruttochinasi è un enzima chiave che regola il passo critico della glicolisi, la fosforilazione del fruttosio-6-fosfato
+  correct: 0
+  curiosity: 
+
+1242:
+  kind: tf
+  text: Durante la fase di investimento della glicolisi, vengono prodotte 2 molecole di ATP
+  correct: 1
+  curiosity: 
+
+1243:
+  kind: tf
+  text: La glicolisi è importante per la respirazione cellulare perché fornisce piruvato e NADH per il ciclo di Krebs
+  correct: 0
+  curiosity: 
+
+1244:
+  kind: tf
+  text: In condizioni aerobiche, il piruvato prodotto dalla glicolisi viene convertito in lattato
+  correct: 1
+  curiosity: 
+
+1245:
+  kind: tf
+  text: Durante la glicolisi vengono prodotte 2 molecole di NADH
+  correct: 0
+  curiosity: 
+
+1246:
+  kind: tf
+  text: Tutte le reazioni della glicolisi sono reversibili
+  correct: 1
+  curiosity: 
+
+1247:
+  kind: tf
+  text: Le reazioni 1, 3 e 10 della glicolisi sono irreversibili
+  correct: 0
+  curiosity: 
+
+#FIXME
+
+1248:
+  kind: tf
+  text: La fermentazione è un processo aerobico
+  correct: 1
+  curiosity: 
+
+1249:
+  kind: tf
+  text: La fermentazione alcolica produce principalmente etanolo e anidride carbonica come sottoprodotti
+  correct: 0
+  curiosity: 
+
+1250:
+  kind: tf
+  text: La fermentazione butirrica si verifica nei muscoli degli animali, come nei muscoli umani durante sforzi intensi, e in alcuni batteri
+  correct: 1
+  curiosity: 
+
+1251:
+  kind: tf
+  text: Il piruvato è il prodotto finale della glicolisi e il principale substrato per la fermentazione
+  correct: 0
+  curiosity: 
+
+1252:
+  kind: tf
+  text: I prodotti finali della fermentazione lattica sono l'acido lattico e l'etanolo
+  correct: 1
+  curiosity: 
+
+1253:
+  kind: tf
+  text: La fermentazione alcolica converte il glucosio in etanolo e anidride carbonica, con il rilascio di una piccola quantità di ATP
+  correct: 0
+  curiosity: 
+
+1254:
+  kind: tf
+  text: La fermentazione e la respirazione cellulare producono la stessa quantità di ATP  
+  correct: 1
+  curiosity: 
+
+1255:
+  kind: tf
+  text: La fermentazione lattica nei muscoli umani avviene durante l'esercizio intenso quando l'apporto di ossigeno non è sufficiente
+  correct: 0
+  curiosity: 
+
+1256:
+  kind: tf
+  text: L'acetil-CoA è essenziale per il ciclo di Krebs e viene prodotto dal piruvato in condizioni anaerobiche
+  correct: 1
+  curiosity: 
+
+#FIXME
+
+1257:
+  kind: tf
+  text: La gluconeogenesi è il processo biologico che consente la sintesi del glucosio
+  correct: 0
+  curiosity: 
+
+1258:
+  kind: tf
+  text: La gluconeogenesi avviene esclusivamente nel fegato
+  correct: 1
+  curiosity: 
+
+1259:
+  kind: tf
+  text: Il piruvato e il lattato sono i principali precursori per la gluconeogenesi, insieme agli aminoacidi
+  correct: 0
+  curiosity: 
+
+1260:
+  kind: tf
+  text: La piruvato carbossilasi degrada il glucosio e produce ATP nella gluconeogenesi
+  correct: 1
+  curiosity: 
+
+1261:
+  kind: tf
+  text: La gluconeogenesi avviene sia nei mitocondri che nel citoplasma
+  correct: 0
+  curiosity: 
+
+1262:
+  kind: tf
+  text: Durante il digiuno, la gluconeogenesi è essenziale per ridurre i livelli di glucosio nel sangue
+  correct: 1
+  curiosity: 
+
+1263:
+  kind: tf
+  text: Durante la gluconeogenesi, il NADH viene ossidato a $NAD_+$ per consentire la continuazione del processo
+  correct: 0
+  curiosity: 
+
+1264:
+  kind: tf
+  text: La gluconeogenesi e la glicolisi sono processi opposti che coinvolgono gli stessi enzimi
+  correct: 1
+  curiosity: 
+
+1265:
+  kind: tf
+  text: Nella gluconeogenesi il lattato è convertito in glucosio-6-fosfato, che può poi essere trasformato in glucosio
+  correct: 0
+  curiosity: 
+
+1266:
+  kind: tf
+  text: La gluconeogenesi è meno attiva durante il digiuno o in condizioni di ipoglicemia
+  correct: 1
+  curiosity: 
+
+1267:
+  kind: tf
+  text: Il glucagone stimola la gluconeogenesi, specialmente durante il digiuno, per aumentare i livelli di glucosio nel sangue
+  correct: 0
+  curiosity: 
+
+1268:
+  kind: tf
+  text: L'insulina stimola la gluconeogenesi, poiché favorisce la produzione del glucosio e NON il suo utilizzo
+  correct: 1
+  curiosity: 
+
+1269:
+  kind: tf
+  text: Il glucosio prodotto dalla gluconeogenesi viene rilasciato nel sangue per mantenere i livelli di glucosio necessari per il cervello e altri tessuti
+  correct: 0
+  curiosity: 
+
+#FIXME
+
+1270:
+  kind: tf
+  text: Gli enzimi allosterici possiedono solo un sito attivo
+  correct: 1
+  curiosity: 
+
+1271:
+  kind: tf
+  text: La regolazione allosterica è un meccanismo che modula l'attività enzimatica attraverso legami di ligandi su siti distinti dal sito attivo
+  correct: 0
+  curiosity: 
+
+1272:
+  kind: tf
+  text: Un inibitore allosterico generalmente aumenta l'attività enzimatica, migliorando l'affinità per il substrato
+  correct: 1
+  curiosity: 
+
+1273:
+  kind: tf
+  text: Un attivatore allosterico generalmente aumenta l'attività enzimatica, migliorando l'affinità per il substrato
+  correct: 0
+  curiosity: 
+
+1274:
+  kind: tf
+  text: Quando un inibitore si lega a un enzima allosterico, l'attività enzimatica aumenta
+  correct: 1
+  curiosity: 
+
+1275:
+  kind: tf
+  text: La fosfofruttochinasi è un esempio di enzima regolato allostericamente, che gioca un ruolo chiave nella glicolisi
+  correct: 0
+  curiosity: 
+
+1276:
+  kind: tf
+  text: L'ATP è un attivatore allosterico della piruvato chinasi, aumentando la sua attività quando i livelli di energia sono elevati
+  correct: 1
+  curiosity: 
+
+1277:
+  kind: tf
+  text: L'AMP attiva la fosfofruttochinasi, stimolando la glicolisi in condizioni di bassa energia cellulare
+  correct: 0
+  curiosity: 
+
+1278:
+  kind: tf
+  text: La regolazione competitiva avviene tramite inibitori, mentre quella allosterica no
+  correct: 1
+  curiosity: 
+
+1279:
+  kind: tf
+  text: La regolazione allosterica permette di modulare l'attività degli enzimi in risposta alle necessità metaboliche cellulari
+  correct: 0
+  curiosity: 
+
+1280:
+  kind: tf
+  text: La regolazione competitiva è permanente, mentre quella allosterica è temporanea
+  correct: 1
+  curiosity: 
+
+1281:
+  kind: tf
+  text: Un attivatore allosterico modifica la struttura dell'enzima per migliorarne l'affinità per il substrato e aumentare la sua attività
+  correct: 0
+  curiosity: 
+
+1282:
+  kind: tf
+  text: Gli inibitori allosterici si legano all'enzima tramite interazioni covalenti
+  correct: 1
+  curiosity: 
+
+1283:
+  kind: tf
+  text: Il sito allosterico è dove si legano le molecole regolatrici, influenzando l'attività dell'enzima
+  correct: 0
+  curiosity: 
+
+1284:
+  kind: tf
+  text: La regolazione allosterica consente una risposta più precisa ma più lenta alle variazioni metaboliche rispetto alla regolazione covalente
+  correct: 1
+  curiosity: 
+
+1285:
+  kind: tf
+  text: Temperatura, pH e concentrazione di substrato sono tutti fattori che possono influenzare la regolazione allosterica di un enzima
+  correct: 0
+  curiosity: 
+
+#FIXME
+
+1286:
+  kind: tf
+  text: I mitocondri hanno una tripla membrana, la membrana interna, la membrana intermedia e la membrana esterna, che giocano ruoli cruciali nella loro funzione
+  correct: 1
+  curiosity: 
+
+1287:
+  kind: tf
+  text: Il ciclo di Krebs si svolge nella matrice mitocondriale
+  correct: 0
+  curiosity: 
+
+1288:
+  kind: tf
+  text: La funzione principale della membrana interna mitocondriale è l'isolamento della matrice mitocondriale dal citoplasma
+  correct: 1
+  curiosity: 
+
+1289:
+  kind: tf
+  text: La matrice mitocondriale contiene enzimi per il ciclo di Krebs, il DNA mitocondriale e ribosomi per la sintesi proteica
+  correct: 0
+  curiosity: 
+
+1290:
+  kind: tf
+  text: La catena di trasporto degli elettroni trasferisce elettroni lungo una serie di complessi proteici, creando un gradiente di protoni che inibisce la produzione di ATP
+  correct: 1
+  curiosity: 
+
+1291:
+  kind: tf
+  text: I pori nella membrana esterna mitocondriale permettono il passaggio di piccole molecole e ioni, facilitando lo scambio con il citoplasma
+  correct: 0
+  curiosity: 
+
+1292:
+  kind: tf
+  text: Il DNA mitocondriale è lineare e viene ereditato esclusivamente dalla madre, a differenza del DNA nucleare
+  correct: 1
+  curiosity: 
+
+1293:
+  kind: tf
+  text: Durante la respirazione cellulare, la catena di trasporto degli elettroni accumula protoni nello spazio intermembrana mitocondriale
+  correct: 0
+  curiosity: 
+
+1294:
+  kind: tf
+  text: La glicolisi genera un gradiente di protoni, che è utilizzato dall'ATP sintasi per produrre ATP
+  correct: 1
+  curiosity: 
+
+1295:
+  kind: tf
+  text: Il processo attraverso cui i mitocondri producono ATP è la fosforilazione ossidativa
+  correct: 0
+  curiosity: 
+
+1296:
+  kind: tf
+  text: Se i mitocondri non funzionano correttamente, la produzione di proteine aumenta
+  correct: 1
+  curiosity: 
+
+1297:
+  kind: tf
+  text: Il complesso I ossida il NADH e trasferisce gli elettroni alla catena di trasporto, contribuendo alla creazione del gradiente di protoni
+  correct: 0
+  curiosity: 
+
+1298:
+  kind: tf
+  text: Il calcio è un prodotto finale della respirazione cellulare
+  correct: 1
+  curiosity: 
+
+1299:
+  kind: tf
+  text: La compartimentalizzazione mitocondriale ottimizza le reazioni metaboliche, separando diversi processi in spazi specifici come la matrice e lo spazio intermembrana
+  correct: 0
+  curiosity: 
+
+1300:
+  kind: tf
+  text: Il potenziale di membrana mitocondriale dipende dalla distribuzione del glucosio tra le due membrane
+  correct: 1
+  curiosity: 
+
+  #FIXME
+
+1301:
+  kind: tf
   text: 
   correct: 0
   curiosity: 
 
-1159:
+1302:
+  kind: tf
+  text: 
+  correct: 0
+  curiosity: 
+
+1303:
+  kind: tf
+  text: 
+  correct: 0
+  curiosity: 
+
+1304:
+  kind: tf
+  text: 
+  correct: 0
+  curiosity: 
+
+1305:
+  kind: tf
+  text: 
+  correct: 0
+  curiosity: 
+
+1306:
+  kind: tf
+  text: 
+  correct: 0
+  curiosity: 
+
+1307:
+  kind: tf
+  text: 
+  correct: 0
+  curiosity: 
+
+1308:
+  kind: tf
+  text: 
+  correct: 0
+  curiosity: 
+
+1309:
+  kind: tf
+  text: 
+  correct: 0
+  curiosity: 
+
+1310:
   kind: tf
   text: 
   correct: 0

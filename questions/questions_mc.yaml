@@ -4691,12 +4691,12 @@
   kind: mc
   text: "Cosa si intende per modifiche post-traduzionali?"
   options:
-    - Modifiche al DNA
-    - Modifiche all'mRNA
-    - Modifiche chimiche che avvengono alle proteine dopo la loro sintesi
+    - Modifiche al DNA dopo essere stato duplicato
+    - Modifiche all'mRNA dopo la sua sintesi
+    - Modifiche chimiche alle proteine dopo la loro sintesi
     - Modifiche alle membrane cellulari
   correct: 2
-  curiosity: "Le modifiche post-traduzionali sono modifiche chimiche che avvengono alle proteine dopo la loro sintesi, come fosforilazione, glicolizzazione, e ubiquitinazione."
+  curiosity: 
 
 434:
   kind: mc
@@ -4707,7 +4707,7 @@
     - Regolare l'attività enzimatica e le interazioni proteiche
     - Degradare le proteine
   correct: 2
-  curiosity: "La fosforilazione è un'importante modifica post-traduzionale che regola l'attività di molte proteine, incluse quelle coinvolte nel segnalamento cellulare."
+  curiosity: 
 
 435:
   kind: mc
@@ -4718,7 +4718,7 @@
     - Chinasi
     - RNA polimerasi
   correct: 2
-  curiosity: "Le chinasi sono enzimi che aggiungono gruppi fosfato a proteine specifiche, alterandone la loro attività."
+  curiosity: 
 
 436:
   kind: mc
@@ -4729,7 +4729,7 @@
     - Aggiunta di zuccheri a una proteina
     - Aggiunta di amminoacidi
   correct: 2
-  curiosity: "La glicolizzazione è una modifica post-traduzionale in cui zuccheri vengono legati a una proteina, influenzando la sua funzione e localizzazione."
+  curiosity: 
 
 437:
   kind: mc
@@ -4740,18 +4740,18 @@
     - Rimozione di gruppi funzionali
     - Stabilizzazione dell'mRNA
   correct: 1
-  curiosity: "La metilazione delle proteine regola l'espressione genica e le interazioni tra proteine, influenzando il comportamento cellulare."
+  curiosity: 
 
 438:
   kind: mc
   text: "Che cosa implica l'acetilazione delle proteine?"
   options:
-    - Aggiunta di aminoacidi
-    - Degradazione della proteina
+    - Aggiunta di aminoacidi al gruppo acetile della proteina
+    - Degradazione del gruppo acetile della proteina
     - Aggiunta di gruppi acetile a specifici residui di amminoacidi
-    - Rimozione di un gruppo fosfato
+    - Rimozione di un gruppo acetile
   correct: 2
-  curiosity: "L'acetilazione aggiunge gruppi acetile a specifici residui di amminoacidi, influenzando la funzione delle proteine, come la regolazione dell'espressione genica."
+  curiosity: 
 
 439:
   kind: mc
@@ -4762,29 +4762,29 @@
     - Segnalare per la degradazione della proteina nel proteasoma
     - Aggiungere zuccheri alle proteine
   correct: 2
-  curiosity: "L'ubiquitinazione segna una proteina per la degradazione nel proteasoma, un processo essenziale per il controllo della qualità proteica."
+  curiosity: 
 
-440:
-  kind: mc
-  text: "Quale tipo di modifiche post-traduzionali può influenzare la localizzazione subcellulare delle proteine?"
-  options:
-    - Splicing
-    - Mutazioni
-    - Modifiche lipidiche
-    - Replicazione
-  correct: 2
-  curiosity: "Le modifiche lipidiche delle proteine possono influenzare la loro localizzazione all'interno della cellula, come l'integrazione nelle membrane."
+# 440:
+#   kind: mc
+#   text: "Quale tipo di modifiche post-traduzionali può influenzare la localizzazione subcellulare delle proteine?"
+#   options:
+#     - Splicing
+#     - Mutazioni
+#     - Modifiche lipidiche
+#     - Replicazione
+#   correct: 2
+#   curiosity: 
 
 441:
   kind: mc
   text: "Quale delle seguenti è una modifica post-traduzionale che può attivare o disattivare un enzima?"
   options:
-    - Replicazione
-    - Trascrizione
+    - Lipidazione
+    - Ubiquitinazione
     - Fosforilazione
     - Degradazione
   correct: 2
-  curiosity: "La fosforilazione può attivare o disattivare molti enzimi, regolando la loro funzione all'interno della cellula."
+  curiosity: 
 
 442:
   kind: mc
@@ -4795,51 +4795,51 @@
     - Viene riconosciuta e degradata dal proteasoma
     - Viene utilizzata per la sintesi di RNA
   correct: 2
-  curiosity: "L'ubiquitinazione segna una proteina per la degradazione da parte del proteasoma, un meccanismo per regolare la quantità di proteine nella cellula."
+  curiosity: 
 
 443:
   kind: mc
-  text: "Qual è il ruolo delle chinasie nella regolazione delle proteine?"
+  text: "Qual è il ruolo delle chinasi nella regolazione delle proteine?"
   options:
     - Degradare le proteine
     - Stabilizzare il DNA
     - Aggiungere gruppi fosfato alle proteine per modificarne l'attività
     - Trascrivere il DNA
   correct: 2
-  curiosity: "Le chinasi sono enzimi che aggiungono gruppi fosfato alle proteine, modificando la loro attività e facilitando regolazioni cellulari."
+  curiosity: 
 
-444:
-  kind: mc
-  text: "Qual è il significato della terminologia 'isoforme proteiche'?"
-  options:
-    - Proteine identiche
-    - Proteine che non hanno alcuna funzione
-    - Varianti di una proteina generate da modifiche post-traduzionali o splicing alternativo
-    - Sequenze di DNA che non vengono trascritte
-  correct: 2
-  curiosity: "Le isoforme proteiche sono varianti di una proteina che possono risultare da splicing alternativo o modifiche post-traduzionali."
+# 444:
+#   kind: mc
+#   text: "Qual è il significato della terminologia 'isoforme proteiche'?"
+#   options:
+#     - Proteine identiche
+#     - Proteine che non hanno alcuna funzione
+#     - Varianti di una proteina generate da modifiche post-traduzionali o splicing alternativo
+#     - Sequenze di DNA che non vengono trascritte
+#   correct: 2
+#   curiosity: "Le isoforme proteiche sono varianti di una proteina che possono risultare da splicing alternativo o modifiche post-traduzionali."
 
-445:
-  kind: mc
-  text: "Quale modifica post-traduzionale è essenziale per la maturazione di alcune proteine ormonali?"
-  options:
-    - Glicolizzazione
-    - Proteolisi
-    - Fosforilazione
-    - Metilazione
-  correct: 1
-  curiosity: "La glicolizzazione è importante per la maturazione di proteine ormonali come l'insulina, che richiedono la corretta aggiunta di zuccheri per la loro attività."
+# 445:
+#   kind: mc
+#   text: "Quale modifica post-traduzionale è essenziale per la maturazione di alcune proteine ormonali?"
+#   options:
+#     - Glicolizzazione
+#     - Proteolisi
+#     - Fosforilazione
+#     - Metilazione
+#   correct: 0
+#   curiosity: 
 
-446:
-  kind: mc
-  text: "Che cosa implica la proteolisi nelle modifiche post-traduzionali?"
-  options:
-    - L'aggiunta di gruppi funzionali
-    - La stabilizzazione dell'mRNA
-    - La rimozione di segmenti proteici per attivare o disattivare una proteina
-    - La replicazione del DNA
-  correct: 2
-  curiosity: "La proteolisi rimuove segmenti proteici per attivare o disattivare una proteina, un passo cruciale in molte vie di regolazione cellulare."
+# 446:
+#   kind: mc
+#   text: "Che cosa implica la proteolisi nelle modifiche post-traduzionali?"
+#   options:
+#     - L'aggiunta di gruppi funzionali
+#     - La stabilizzazione dell'mRNA
+#     - La rimozione di segmenti proteici per attivare o disattivare una proteina
+#     - La replicazione del DNA
+#   correct: 2
+#   curiosity: "La proteolisi rimuove segmenti proteici per attivare o disattivare una proteina, un passo cruciale in molte vie di regolazione cellulare."
 
 447:
   kind: mc
@@ -4850,7 +4850,7 @@
     - Modificare l'interazione della proteina con il DNA o altre proteine
     - Non avere alcun effetto
   correct: 2
-  curiosity: "La metilazione può influenzare l'interazione delle proteine con il DNA e altre proteine, spesso alterando la loro funzione."
+  curiosity: 
 
 448:
   kind: mc
@@ -4861,18 +4861,18 @@
     - Malattie e disfunzioni cellulari
     - Aumento dell'espressione genica
   correct: 2
-  curiosity: "I malfunzionamenti nelle vie di modifiche post-traduzionali sono legati a numerose malattie, come il cancro e le malattie neurodegenerative."
+  curiosity: 
 
-449:
-  kind: mc
-  text: "Quale delle seguenti è una modifica chimica comune che avviene in risposta a segnali esterni?"
-  options:
-    - Glicolizzazione
-    - Mutazione
-    - Fosforilazione
-    - Inibizione
-  correct: 2
-  curiosity: "La fosforilazione è una modifica chimica che avviene in risposta a segnali esterni come fattori di crescita, regolando così molte funzioni cellulari."
+# 449:
+#   kind: mc
+#   text: "Quale delle seguenti è una modifica chimica comune che avviene in risposta a segnali esterni?"
+#   options:
+#     - Glicolizzazione
+#     - Mutazione
+#     - Fosforilazione
+#     - Inibizione
+#   correct: 2
+#   curiosity: 
 
 450:
   kind: mc
@@ -4883,108 +4883,108 @@
     - Glicolizzazione
     - Replicazione
   correct: 2
-  curiosity: "La glicolizzazione può influenzare l'interazione della proteina con altre molecole, come anticorpi e recettori cellulari."
+  curiosity: 
 
-451:
-  kind: mc
-  text: "Che ruolo hanno le modifiche lipidiche nelle proteine?"
-  options:
-    - Stabilizzare il DNA
-    - Non hanno alcun ruolo
-    - Influenzare la localizzazione e l'attività delle proteine
-    - Promuovere la sintesi proteica
-  correct: 2
-  curiosity: "Le modifiche lipidiche alle proteine influenzano la loro localizzazione nelle membrane cellulari e la loro attività."
+# 451:
+#   kind: mc
+#   text: "Che ruolo hanno le modifiche lipidiche nelle proteine?"
+#   options:
+#     - Stabilizzare il DNA
+#     - Non hanno alcun ruolo
+#     - Influenzare la localizzazione e l'attività delle proteine
+#     - Promuovere la sintesi proteica
+#   correct: 2
+#   curiosity: "Le modifiche lipidiche alle proteine influenzano la loro localizzazione nelle membrane cellulari e la loro attività."
 
 452:
   kind: mc
   text: "Quale delle seguenti affermazioni è vera riguardo alle modifiche post-traduzionali?"
   options:
-    - Sono eventi casuali che non influenzano la proteina
+    - Sono eventi casuali che NON influenzano la proteina
     - Non avvengono mai in cellule normali
     - Sono cruciali per il funzionamento e la regolazione delle proteine
     - Riducono sempre l'attività proteica
   correct: 2
-  curiosity: "Le modifiche post-traduzionali sono essenziali per la regolazione della funzione proteica e per l'adattamento della cellula ai cambiamenti ambientali."
+  curiosity: 
 
-#FINALFIX
+#FIXME
 
-453:
-  kind: mc
-  text: "Quale delle seguenti è una delle quattro principali strutture delle proteine?"
-  options:
-    - Struttura lipidica
-    - Struttura cellulare
-    - Struttura secondaria
-    - Struttura nucleotidica
-  correct: 2
-  curiosity: "Le quattro principali strutture delle proteine sono la primaria, secondaria, terziaria e quaternaria, ognuna delle quali svolge un ruolo cruciale nella funzione proteica."
+# 453:
+#   kind: mc
+#   text: "Quale delle seguenti è una delle quattro principali strutture delle proteine?"
+#   options:
+#     - Struttura lipidica
+#     - Struttura cellulare
+#     - Struttura secondaria
+#     - Struttura nucleotidica
+#   correct: 2
+#   curiosity: "Le quattro principali strutture delle proteine sono la primaria, secondaria, terziaria e quaternaria, ognuna delle quali svolge un ruolo cruciale nella funzione proteica."
 
-454:
-  kind: mc
-  text: "Qual è la caratteristica principale della struttura primaria di una proteina?"
-  options:
-    - È la forma tridimensionale della proteina
-    - È la sequenza di aminoacidi
-    - È la catena di aminoacidi legati da legami peptidici
-    - È l'organizzazione in eliche e foglietti piegati
-  correct: 2
-  curiosity: "La struttura primaria di una proteina è la sequenza di aminoacidi legati da legami peptidici, ed è determinante per la forma finale della proteina."
+# 454:
+#   kind: mc
+#   text: "Qual è la caratteristica principale della struttura primaria di una proteina?"
+#   options:
+#     - È la forma tridimensionale della proteina
+#     - È la sequenza di aminoacidi
+#     - È la catena di aminoacidi legati da legami peptidici
+#     - È l'organizzazione in eliche e foglietti piegati
+#   correct: 2
+#   curiosity: "La struttura primaria di una proteina è la sequenza di aminoacidi legati da legami peptidici, ed è determinante per la forma finale della proteina."
 
-455:
-  kind: mc
-  text: "Cosa determina la struttura secondaria delle proteine?"
-  options:
-    - Interazioni tra catene laterali di aminoacidi
-    - Interazioni con il DNA
-    - Legami idrogeno tra il gruppo amminico e il gruppo carbonilico della catena principale
-    - Legami ionici tra aminoacidi
-  correct: 2
-  curiosity: "La struttura secondaria delle proteine è stabilita principalmente dai legami idrogeno tra il gruppo amminico e il gruppo carbonilico della catena principale."
+# 455:
+#   kind: mc
+#   text: "Cosa determina la struttura secondaria delle proteine?"
+#   options:
+#     - Interazioni tra catene laterali di aminoacidi
+#     - Interazioni con il DNA
+#     - Legami idrogeno tra il gruppo amminico e il gruppo carbonilico della catena principale
+#     - Legami ionici tra aminoacidi
+#   correct: 2
+#   curiosity: "La struttura secondaria delle proteine è stabilita principalmente dai legami idrogeno tra il gruppo amminico e il gruppo carbonilico della catena principale."
 
-456:
-  kind: mc
-  text: "Quali sono le due principali forme di struttura secondaria nelle proteine?"
-  options:
-    - Struttura primaria e terziaria
-    - Elica alfa e foglietto beta
-    - Struttura quaternaria e primaria
-    - Elica beta e foglietto alfa
-  correct: 1
-  curiosity: "Le due principali forme di struttura secondaria sono l'elica alfa e il foglietto beta, entrambe stabili grazie ai legami idrogeno."
+# 456:
+#   kind: mc
+#   text: "Quali sono le due principali forme di struttura secondaria nelle proteine?"
+#   options:
+#     - Struttura primaria e terziaria
+#     - Elica alfa e foglietto beta
+#     - Struttura quaternaria e primaria
+#     - Elica beta e foglietto alfa
+#   correct: 1
+#   curiosity: "Le due principali forme di struttura secondaria sono l'elica alfa e il foglietto beta, entrambe stabili grazie ai legami idrogeno."
 
-457:
-  kind: mc
-  text: "Cosa rappresenta la struttura terziaria di una proteina?"
-  options:
-    - La sequenza di aminoacidi
-    - La disposizione degli aminoacidi in eliche e foglietti
-    - La conformazione tridimensionale della proteina risultante da interazioni tra le catene laterali
-    - L'unione di più catene polipeptidiche
-  correct: 2
-  curiosity: "La struttura terziaria di una proteina è la sua forma tridimensionale, determinata dalle interazioni tra le catene laterali degli aminoacidi."
+# 457:
+#   kind: mc
+#   text: "Cosa rappresenta la struttura terziaria di una proteina?"
+#   options:
+#     - La sequenza di aminoacidi
+#     - La disposizione degli aminoacidi in eliche e foglietti
+#     - La conformazione tridimensionale della proteina risultante da interazioni tra le catene laterali
+#     - L'unione di più catene polipeptidiche
+#   correct: 2
+#   curiosity: "La struttura terziaria di una proteina è la sua forma tridimensionale, determinata dalle interazioni tra le catene laterali degli aminoacidi."
 
-458:
-  kind: mc
-  text: "Quale delle seguenti interazioni contribuisce alla stabilità della struttura terziaria di una proteina?"
-  options:
-    - Legami peptidici
-    - Legami idrogeno
-    - Tutte le precedenti (legami peptidici, idrogeno, ionici e idrofobici)
-    - Solo legami ionici
-  correct: 2
-  curiosity: "La stabilità della struttura terziaria è dovuta a una combinazione di legami peptidici, idrogeno, ionici e idrofobici."
+# 458:
+#   kind: mc
+#   text: "Quale delle seguenti interazioni contribuisce alla stabilità della struttura terziaria di una proteina?"
+#   options:
+#     - Legami peptidici
+#     - Legami idrogeno
+#     - Tutte le precedenti (legami peptidici, idrogeno, ionici e idrofobici)
+#     - Solo legami ionici
+#   correct: 2
+#   curiosity: "La stabilità della struttura terziaria è dovuta a una combinazione di legami peptidici, idrogeno, ionici e idrofobici."
 
-459:
-  kind: mc
-  text: "Che cosa caratterizza la struttura quaternaria delle proteine?"
-  options:
-    - L'organizzazione in eliche
-    - L'assenza di subunità
-    - La combinazione di più catene polipeptidiche in un complesso funzionale
-    - La sequenza di aminoacidi
-  correct: 2
-  curiosity: "La struttura quaternaria di una proteina è caratterizzata dalla combinazione di più catene polipeptidiche che formano un complesso funzionale."
+# 459:
+#   kind: mc
+#   text: "Che cosa caratterizza la struttura quaternaria delle proteine?"
+#   options:
+#     - L'organizzazione in eliche
+#     - L'assenza di subunità
+#     - La combinazione di più catene polipeptidiche in un complesso funzionale
+#     - La sequenza di aminoacidi
+#   correct: 2
+#   curiosity: "La struttura quaternaria di una proteina è caratterizzata dalla combinazione di più catene polipeptidiche che formano un complesso funzionale."
 
 460:
   kind: mc
@@ -4995,18 +4995,18 @@
     - Aiutare nella piegatura corretta delle proteine durante la sintesi
     - Stabilizzare il DNA
   correct: 2
-  curiosity: "Le proteine chaperoni aiutano le proteine nascenti a piegarsi correttamente durante la loro sintesi, prevenendo il malfolding."
+  curiosity: 
 
-461:
-  kind: mc
-  text: "Cosa significa denaturazione di una proteina?"
-  options:
-    - Modifica della sequenza di aminoacidi
-    - Creazione di legami peptidici
-    - Perdita della struttura tridimensionale e conseguente perdita di funzionalità
-    - Aggiunta di gruppi chimici
-  correct: 2
-  curiosity: "La denaturazione di una proteina implica la perdita della sua struttura tridimensionale, il che ne compromette la funzionalità."
+# 461:
+#   kind: mc
+#   text: "Cosa significa denaturazione di una proteina?"
+#   options:
+#     - Modifica della sequenza di aminoacidi
+#     - Creazione di legami peptidici
+#     - Perdita della struttura tridimensionale e conseguente perdita di funzionalità
+#     - Aggiunta di gruppi chimici
+#   correct: 2
+#   curiosity: "La denaturazione di una proteina implica la perdita della sua struttura tridimensionale, il che ne compromette la funzionalità."
 
 462:
   kind: mc
@@ -5014,10 +5014,10 @@
   options:
     - Cambiamenti di temperatura
     - Cambiamenti di pH
-    - Entrambe le precedenti (cambiamenti di temperatura e pH)
+    - Entrambe le precedenti
     - Nessuna delle precedenti
   correct: 2
-  curiosity: "Cambiamenti nella temperatura o nel pH possono causare denaturazione delle proteine, alterando la loro struttura e funzione."
+  curiosity: 
 
 463:
   kind: mc
@@ -5028,40 +5028,40 @@
     - Una regione della proteina che può avere una funzione specifica o una struttura autonoma
     - Una modifica post-traduzionale
   correct: 2
-  curiosity: "Un dominio di una proteina è una regione che può avere una funzione specifica o una struttura autonoma, ed è spesso associata a un'attività biologica."
+  curiosity: 
 
-464:
-  kind: mc
-  text: "Quale dei seguenti è un esempio di proteina con struttura quaternaria?"
-  options:
-    - Insulina
-    - Mioglobina
-    - Emoglobina
-    - Cheratina
-  correct: 2
-  curiosity: "L'emoglobina è un esempio di proteina con struttura quaternaria, poiché è composta da più subunità polipeptidiche."
+# 464:
+#   kind: mc
+#   text: "Quale dei seguenti è un esempio di proteina con struttura quaternaria?"
+#   options:
+#     - Insulina
+#     - Mioglobina
+#     - Emoglobina
+#     - Cheratina
+#   correct: 2
+#   curiosity: "L'emoglobina è un esempio di proteina con struttura quaternaria, poiché è composta da più subunità polipeptidiche."
 
-465:
-  kind: mc
-  text: "Qual è la funzione della mioglobina?"
-  options:
-    - Trasporto di ossigeno nel sangue
-    - Catalisi di reazioni chimiche
-    - Stoccaggio di ossigeno nei muscoli
-    - Sintesi di proteine
-  correct: 2
-  curiosity: "La mioglobina è una proteina che si trova nei muscoli e ha la funzione di stoccare ossigeno, rilasciandolo quando necessario."
+# 465:
+#   kind: mc
+#   text: "Qual è la funzione della mioglobina?"
+#   options:
+#     - Trasporto di ossigeno nel sangue
+#     - Catalisi di reazioni chimiche
+#     - Stoccaggio di ossigeno nei muscoli
+#     - Sintesi di proteine
+#   correct: 2
+#   curiosity: "La mioglobina è una proteina che si trova nei muscoli e ha la funzione di stoccare ossigeno, rilasciandolo quando necessario."
 
-466:
-  kind: mc
-  text: "Cosa determina la specificità della funzione di una proteina?"
-  options:
-    - Solo la sua struttura primaria
-    - Solo la sua struttura secondaria
-    - La sua struttura tridimensionale e la conformazione
-    - Solo la sua composizione chimica
-  correct: 2
-  curiosity: "La specificità della funzione di una proteina dipende dalla sua struttura tridimensionale, che è determinata dalle interazioni tra i suoi aminoacidi."
+# 466:
+#   kind: mc
+#   text: "Cosa determina la specificità della funzione di una proteina?"
+#   options:
+#     - Solo la sua struttura primaria
+#     - Solo la sua struttura secondaria
+#     - La sua struttura tridimensionale e la conformazione
+#     - Solo la sua composizione chimica
+#   correct: 2
+#   curiosity: 
 
 467:
   kind: mc
@@ -5069,10 +5069,10 @@
   options:
     - La loro sequenza di aminoacidi
     - La loro solubilità in acqua
-    - La loro forma e funzione (fibrose è allungata, globulare è compatta)
+    - La loro forma e funzione 
     - La loro origine
   correct: 2
-  curiosity: "Le proteine fibrose sono allungate e insolubili in acqua, mentre le proteine globulari sono compatte e solubili."
+  curiosity: 
 
 468:
   kind: mc
@@ -5080,21 +5080,21 @@
   options:
     - Legami forti tra aminoacidi
     - Interazioni tra catene laterali idrofobiche che si allontanano dall'acqua
-    - Legami ionici tra cariche opposte
+    - Interazioni tra catene laterali idrofobiche che vengono attratte dall'acqua
     - Legami idrogeno tra amminoacidi
   correct: 1
-  curiosity: "Le interazioni idrofobiche si verificano quando le catene laterali idrofobiche di aminoacidi si raggruppano per evitare il contatto con l'acqua."
+  curiosity: 
 
 469:
   kind: mc
   text: "Quale ruolo hanno i legami disolfuro nella struttura delle proteine?"
   options:
-    - Stabilizzano la struttura primaria
-    - Stabilizzano la struttura secondaria
+    - Stabilizzano la struttura primaria e secondaria
+    - Stabilizzano la struttura secondaria e terziaria
     - Stabilizzano la struttura terziaria e quaternaria
     - Non hanno alcun ruolo
   correct: 2
-  curiosity: "I legami disolfuro stabilizzano la struttura terziaria e quaternaria delle proteine, legando covalentemente due residui di cisteina."
+  curiosity: 
 
 470:
   kind: mc
@@ -5105,31 +5105,31 @@
     - Le interazioni tra le catene laterali e la sequenza di aminoacidi
     - Solo la temperatura
   correct: 2
-  curiosity: "Il folding di una proteina è determinato dalle interazioni tra la sequenza di aminoacidi e le forze ambientali."
+  curiosity: 
 
-471:
-  kind: mc
-  text: "Qual è la funzione principale della cheratina?"
-  options:
-    - Trasporto di ossigeno
-    - Catalisi di reazioni chimiche
-    - Fornire struttura e resistenza a peli, unghie e pelle
-    - Stoccaggio di nutrienti
-  correct: 2
-  curiosity: "La cheratina è una proteina strutturale che conferisce resistenza e rigidità a peli, unghie e pelle."
+# 471:
+#   kind: mc
+#   text: "Qual è la funzione principale della cheratina?"
+#   options:
+#     - Trasporto di ossigeno
+#     - Catalisi di reazioni chimiche
+#     - Fornire struttura e resistenza a peli, unghie e pelle
+#     - Stoccaggio di nutrienti
+#   correct: 2
+#   curiosity: "La cheratina è una proteina strutturale che conferisce resistenza e rigidità a peli, unghie e pelle."
 
-472:
-  kind: mc
-  text: "Qual è l'importanza della struttura delle proteine in biologia?"
-  options:
-    - Non ha alcuna importanza
-    - Influisce solo sulla loro sintesi
-    - Determina la funzione e l'attività biologica delle proteine
-    - Rende le proteine più fragili
-  correct: 2
-  curiosity: "La struttura di una proteina è fondamentale per la sua funzione e per l'attività biologica che svolge all'interno della cellula."
+# 472:
+#   kind: mc
+#   text: "Qual è l'importanza della struttura delle proteine in biologia?"
+#   options:
+#     - Non ha alcuna importanza
+#     - Influisce solo sulla loro sintesi
+#     - Determina la funzione e l'attività biologica delle proteine
+#     - Rende le proteine più fragili
+#   correct: 2
+#   curiosity: "La struttura di una proteina è fondamentale per la sua funzione e per l'attività biologica che svolge all'interno della cellula."
 
-#FINALFIX
+#FIXME
 
   473:
     kind: mc
@@ -5140,18 +5140,18 @@
       - Catalisi di reazioni chimiche come enzimi
       - Trasporto di acqua
     correct: 2
-    curiosity: "Molte proteine funzionano come enzimi, catalizzando reazioni chimiche fondamentali per il metabolismo."
+    curiosity: 
   
   474:
     kind: mc
     text: "Quale tipo di proteina è responsabile della contrazione muscolare?"
     options:
-      - Anticorpi
+      - Recettori
       - Enzimi
       - Proteine contrattili (es. actina e miosina)
-      - Proteine di trasporto
+      - Tutte le precedenti
     correct: 2
-    curiosity: "Le proteine contrattili, come l'actina e la miosina, sono essenziali per la contrazione muscolare."
+    curiosity: 
   
   475:
     kind: mc
@@ -5159,21 +5159,21 @@
     options:
       - Proteine che catalizzano reazioni chimiche
       - Proteine che forniscono struttura alle cellule
-      - Proteine del sistema immunitario che riconoscono e neutralizzano gli agenti patogeni
+      - Proteine che riconoscono e neutralizzano gli agenti patogeni
       - Proteine di stoccaggio
     correct: 2
-    curiosity: "Gli anticorpi sono proteine prodotte dal sistema immunitario per identificare e neutralizzare agenti patogeni come batteri e virus."
+    curiosity: 
   
-  476:
-    kind: mc
-    text: "Qual è la funzione principale delle proteine di trasporto?"
-    options:
-      - Catalizzare reazioni chimiche
-      - Fornire supporto strutturale
-      - Trasportare molecole, come ossigeno e nutrienti, attraverso le membrane cellulari
-      - Neutralizzare tossine
-    correct: 2
-    curiosity: "Le proteine di trasporto facilitano il passaggio di molecole specifiche, come ossigeno e nutrienti, attraverso le membrane cellulari."
+  # 476:
+  #   kind: mc
+  #   text: "Qual è la funzione principale delle proteine di trasporto?"
+  #   options:
+  #     - Catalizzare reazioni chimiche
+  #     - Fornire supporto strutturale
+  #     - Trasportare molecole, come ossigeno e nutrienti, attraverso le membrane cellulari
+  #     - Neutralizzare tossine
+  #   correct: 2
+  #   curiosity: "Le proteine di trasporto facilitano il passaggio di molecole specifiche, come ossigeno e nutrienti, attraverso le membrane cellulari."
   
   477:
     kind: mc
@@ -5181,10 +5181,10 @@
     options:
       - Costituire il citoscheletro
       - Fornire energia
-      - Regolare le funzioni fisiologiche attraverso segnali chimici
+      - Regolare le funzioni fisiologiche 
       - Degradare altre proteine
     correct: 2
-    curiosity: "Le proteine ormonali, come l'insulina, regolano processi fisiologici attraverso segnali chimici."
+    curiosity: 
   
   478:
     kind: mc
@@ -5195,7 +5195,7 @@
       - Fibrinogeno
       - Actina
     correct: 2
-    curiosity: "Il fibrinogeno è una proteina cruciale per la coagulazione del sangue, formando una rete che blocca il sanguinamento."
+    curiosity: 
   
   479:
     kind: mc
@@ -5206,7 +5206,7 @@
       - Fornire supporto e forma alle cellule e ai tessuti
       - Regolare l'attività enzimatica
     correct: 2
-    curiosity: "Le proteine strutturali come il collagene danno resistenza e forma ai tessuti e alle cellule."
+    curiosity: 
   
   480:
     kind: mc
@@ -5214,10 +5214,10 @@
     options:
       - La sua capacità di legarsi all'ossigeno
       - La sua stabilità nella cellula
-      - La sua capacità di accelerare le reazioni chimiche abbassando l'energia di attivazione
+      - La sua capacità di accelerare le reazioni chimiche
       - La sua forma tridimensionale
     correct: 2
-    curiosity: "L'attività enzimatica consente a una proteina di catalizzare reazioni chimiche, riducendo l'energia necessaria per avviarle."
+    curiosity: 
   
   481:
     kind: mc
@@ -5228,7 +5228,7 @@
       - Stoccare ossigeno nei muscoli
       - Fornire supporto strutturale
     correct: 2
-    curiosity: "La mioglobina si trova nei muscoli e immagazzina ossigeno, rilasciandolo quando è necessario durante l'attività fisica."
+    curiosity: 
   
   482:
     kind: mc
@@ -5239,29 +5239,29 @@
       - Riconoscere e legarsi a specifiche molecole segnale per attivare risposte cellulari
       - Degradare altre proteine
     correct: 2
-    curiosity: "Le proteine recettoriali sulla membrana cellulare legano molecole segnale, innescando risposte cellulari specifiche."
+    curiosity: 
   
-  483:
-    kind: mc
-    text: "Qual è la funzione principale degli enzimi?"
-    options:
-      - Fornire struttura
-      - Trasportare nutrienti
-      - Accelerare le reazioni chimiche all'interno delle cellule
-      - Neutralizzare tossine
-    correct: 2
-    curiosity: "Gli enzimi sono proteine che accelerano le reazioni chimiche necessarie per la vita, come la digestione e il metabolismo."
+  # 483:
+  #   kind: mc
+  #   text: "Qual è la funzione principale degli enzimi?"
+  #   options:
+  #     - Fornire struttura
+  #     - Trasportare nutrienti
+  #     - Accelerare le reazioni chimiche all'interno delle cellule
+  #     - Neutralizzare tossine
+  #   correct: 2
+  #   curiosity: "Gli enzimi sono proteine che accelerano le reazioni chimiche necessarie per la vita, come la digestione e il metabolismo."
   
-  484:
-    kind: mc
-    text: "Quale proteina è coinvolta nel trasporto di ossigeno nel sangue?"
-    options:
-      - Fibrinogeno
-      - Insulina
-      - Emoglobina
-      - Collagene
-    correct: 2
-    curiosity: "L'emoglobina è una proteina che trasporta ossigeno dai polmoni ai tessuti e rimuove l'anidride carbonica."
+  # 484:
+  #   kind: mc
+  #   text: "Quale proteina è coinvolta nel trasporto di ossigeno nel sangue?"
+  #   options:
+  #     - Fibrinogeno
+  #     - Insulina
+  #     - Emoglobina
+  #     - Collagene
+  #   correct: 2
+  #   curiosity: "L'emoglobina è una proteina che trasporta ossigeno dai polmoni ai tessuti e rimuove l'anidride carbonica."
   
   485:
     kind: mc
@@ -5269,10 +5269,10 @@
     options:
       - Fornire supporto strutturale
       - Catalizzare reazioni chimiche
-      - Trasmettere segnali tra le cellule per coordinare le risposte fisiologiche
+      - Trasmettere segnali tra le cellule
       - Stoccare energia
     correct: 2
-    curiosity: "Le proteine di segnalazione come gli ormoni trasmettono messaggi tra le cellule, coordinando le funzioni fisiologiche."
+    curiosity: 
   
   486:
     kind: mc
@@ -5283,40 +5283,40 @@
       - Conservano nutrienti o altre molecole per utilizzi futuri
       - Degradano altre proteine
     correct: 2
-    curiosity: "Le proteine di stoccaggio conservano nutrienti come il ferro e il calcio per utilizzi futuri dell'organismo."
+    curiosity: 
   
-  487:
-    kind: mc
-    text: "Qual è la funzione principale del collagene?"
-    options:
-      - Trasporto di ossigeno
-      - Catalisi di reazioni chimiche
-      - Fornire resistenza e struttura ai tessuti connettivi
-      - Stoccare energia
-    correct: 2
-    curiosity: "Il collagene è una proteina strutturale che fornisce resistenza e integrità ai tessuti connettivi come pelle, ossa e tendini."
+  # 487:
+  #   kind: mc
+  #   text: "Qual è la funzione principale del collagene?"
+  #   options:
+  #     - Trasporto di ossigeno
+  #     - Catalisi di reazioni chimiche
+  #     - Fornire resistenza e struttura ai tessuti connettivi
+  #     - Stoccare energia
+  #   correct: 2
+  #   curiosity: "Il collagene è una proteina strutturale che fornisce resistenza e integrità ai tessuti connettivi come pelle, ossa e tendini."
   
-  488:
-    kind: mc
-    text: "Qual è il ruolo delle proteine motorie?"
-    options:
-      - Stabilizzare il DNA
-      - Degradare le molecole
-      - Fornire movimento all'interno delle cellule e tra le cellule
-      - Trasportare ossigeno
-    correct: 2
-    curiosity: "Le proteine motorie, come la chinesina e la dineina, permettono il movimento all'interno della cellula e tra le cellule, trasportando molecole e organelli."
+  # 488:
+  #   kind: mc
+  #   text: "Qual è il ruolo delle proteine motorie?"
+  #   options:
+  #     - Stabilizzare il DNA
+  #     - Degradare le molecole
+  #     - Fornire movimento all'interno delle cellule e tra le cellule
+  #     - Trasportare ossigeno
+  #   correct: 2
+  #   curiosity: 
   
-  489:
-    kind: mc
-    text: "Qual è la funzione delle proteine di difesa?"
-    options:
-      - Stabilizzare le membrane
-      - Trasportare nutrienti
-      - Proteggere l'organismo da agenti patogeni e tossine
-      - Fornire energia
-    correct: 2
-    curiosity: "Le proteine di difesa, come gli anticorpi, proteggono il corpo da agenti patogeni e tossine."
+  # 489:
+  #   kind: mc
+  #   text: "Qual è la funzione delle proteine di difesa?"
+  #   options:
+  #     - Stabilizzare le membrane
+  #     - Trasportare nutrienti
+  #     - Proteggere l'organismo da agenti patogeni e tossine
+  #     - Fornire energia
+  #   correct: 2
+  #   curiosity: 
   
   490:
     kind: mc
@@ -5327,53 +5327,53 @@
       - Può catalizzare solo reazioni specifiche con un particolare substrato
       - Può degradare qualsiasi proteina
     correct: 2
-    curiosity: "La specificità enzimatica indica che una proteina può catalizzare reazioni solo con substrati particolari, influenzando la selettività biochimica."
+    curiosity: 
   
-  491:
-    kind: mc
-    text: "Quale proteina è coinvolta nella risposta infiammatoria?"
-    options:
-      - Mioglobina
-      - Insulina
-      - Anticorpi
-      - Emoglobina
-    correct: 2
-    curiosity: "Gli anticorpi sono coinvolti nelle risposte immunitarie e infiammatorie, contribuendo alla protezione dell'organismo da infezioni."
+  # 491:
+  #   kind: mc
+  #   text: "Quale proteina è coinvolta nella risposta infiammatoria?"
+  #   options:
+  #     - Mioglobina
+  #     - Insulina
+  #     - Anticorpi
+  #     - Emoglobina
+  #   correct: 2
+  #   curiosity: "Gli anticorpi sono coinvolti nelle risposte immunitarie e infiammatorie, contribuendo alla protezione dell'organismo da infezioni."
   
-  492:
-    kind: mc
-    text: "Qual è l'importanza delle proteine nella regolazione metabolica?"
-    options:
-      - Non hanno importanza
-      - Forniscono solo energia
-      - Regolano il metabolismo attraverso l'attività enzimatica e la segnalazione
-      - Stabilizzano il DNA
-    correct: 2
-    curiosity: "Le proteine regolano il metabolismo tramite enzimi e segnali chimici, contribuendo a mantenere l'omeostasi e a coordinare le funzioni cellulari."
+  # 492:
+  #   kind: mc
+  #   text: "Qual è l'importanza delle proteine nella regolazione metabolica?"
+  #   options:
+  #     - Non hanno importanza
+  #     - Forniscono solo energia
+  #     - Regolano il metabolismo attraverso l'attività enzimatica e la segnalazione
+  #     - Stabilizzano il DNA
+  #   correct: 2
+  #   curiosity: "Le proteine regolano il metabolismo tramite enzimi e segnali chimici, contribuendo a mantenere l'omeostasi e a coordinare le funzioni cellulari."
   
-  #FINALFIX
+  #FIXME
 
-  493:
-  kind: mc
-  text: "Cosa sono gli enzimi?"
-  options:
-    - Carboidrati
-    - Lipidi
-    - Proteine che catalizzano reazioni chimiche
-    - Acidi nucleici
-  correct: 2
-  curiosity: "Gli enzimi sono proteine specializzate che accelerano reazioni chimiche vitali per il funzionamento delle cellule."
+  # 493:
+  # kind: mc
+  # text: "Cosa sono gli enzimi?"
+  # options:
+  #   - Carboidrati
+  #   - Lipidi
+  #   - Proteine che catalizzano reazioni chimiche
+  #   - Acidi nucleici
+  # correct: 2
+  # curiosity: "Gli enzimi sono proteine specializzate che accelerano reazioni chimiche vitali per il funzionamento delle cellule."
 
-494:
-  kind: mc
-  text: "Qual è la funzione principale di un enzima?"
-  options:
-    - Conservare energia
-    - Stabilizzare il DNA
-    - Accelerare la velocità delle reazioni chimiche
-    - Trasportare molecole
-  correct: 2
-  curiosity: "Gli enzimi abbassano l'energia di attivazione necessaria, aumentando la velocità delle reazioni chimiche."
+# 494:
+#   kind: mc
+#   text: "Qual è la funzione principale di un enzima?"
+#   options:
+#     - Conservare energia
+#     - Stabilizzare il DNA
+#     - Accelerare la velocità delle reazioni chimiche
+#     - Trasportare molecole
+#   correct: 2
+#   curiosity: "Gli enzimi abbassano l'energia di attivazione necessaria, aumentando la velocità delle reazioni chimiche."
 
 495:
   kind: mc
@@ -5384,7 +5384,7 @@
     - Sito di costruzione
     - Sito di regolazione
   correct: 0
-  curiosity: "Il sito attivo di un enzima è specifico per il substrato e facilita la reazione chimica."
+  curiosity: 
 
 496:
   kind: mc
@@ -5395,18 +5395,18 @@
     - La sua struttura tridimensionale
     - La sua quantità
   correct: 2
-  curiosity: "La struttura tridimensionale di un enzima crea un sito attivo specifico per determinati substrati."
+  curiosity: 
 
-497:
-  kind: mc
-  text: "Quale fattore può influenzare l'attività di un enzima?"
-  options:
-    - Solo la temperatura
-    - Solo il pH
-    - Sia la temperatura che il pH
-    - Nessuno dei precedenti
-  correct: 2
-  curiosity: "Temperatura e pH possono modificare la struttura dell'enzima, influenzandone l'attività."
+# 497:
+#   kind: mc
+#   text: "Quale fattore può influenzare l'attività di un enzima?"
+#   options:
+#     - Solo la temperatura
+#     - Solo il pH
+#     - Sia la temperatura che il pH
+#     - Nessuno dei precedenti
+#   correct: 2
+#   curiosity: "Temperatura e pH possono modificare la struttura dell'enzima, influenzandone l'attività."
 
 498:
   kind: mc
@@ -5414,10 +5414,10 @@
   options:
     - Aumenta la sua attività
     - Non subisce alcun cambiamento
-    - Denaturazione, perdendo la sua attività
+    - Viene denaturato, perdendo la sua attività
     - Diventa più efficiente
   correct: 2
-  curiosity: "Temperature elevate possono causare la denaturazione di un enzima, alterando la sua struttura e funzione."
+  curiosity: 
 
 499:
   kind: mc
@@ -5428,7 +5428,7 @@
     - L'energia necessaria per avviare una reazione chimica
     - L'energia rilasciata durante una reazione
   correct: 2
-  curiosity: "L'energia di attivazione è l'energia minima necessaria affinché una reazione chimica abbia inizio."
+  curiosity: 
 
 500:
   kind: mc
@@ -5439,18 +5439,18 @@
     - Assistere gli enzimi nella catalisi di reazioni
     - Degradare substrati
   correct: 2
-  curiosity: "I cofattori sono molecole che aiutano gli enzimi nella catalisi di reazioni, rendendole più efficienti."
+  curiosity: 
 
-501:
-  kind: mc
-  text: "Quali sono gli enzimi che catalizzano la sintesi di molecole?"
-  options:
-    - Lipasi
-    - Amilasi
-    - Sintetasi
-    - Proteasi
-  correct: 2
-  curiosity: "Le sintetasi sono enzimi che facilitano la costruzione di molecole complesse a partire da più semplici."
+# 501:
+#   kind: mc
+#   text: "Quali sono gli enzimi che catalizzano la sintesi di molecole?"
+#   options:
+#     - Lipasi
+#     - Amilasi
+#     - Sintetasi
+#     - Proteasi
+#   correct: 2
+#   curiosity: "Le sintetasi sono enzimi che facilitano la costruzione di molecole complesse a partire da più semplici."
 
 502:
   kind: mc
@@ -5461,18 +5461,18 @@
     - Degrada le proteine
     - Degrada i lipidi
   correct: 2
-  curiosity: "Le proteasi sono enzimi che scindono le proteine in aminoacidi, facilitando la digestione e il riciclo proteico."
+  curiosity: 
 
 503:
   kind: mc
   text: "Quale termine descrive l'inibizione di un enzima da parte di una molecola che si lega al sito attivo?"
   options:
     - Inibizione competitiva
-    - Inibizione non competitiva
-    - Inibizione reversibile
-    - Inibizione allosterica
-  correct: 2
-  curiosity: "Nell'inibizione competitiva, una molecola si lega al sito attivo dell'enzima, bloccando l'accesso del substrato."
+    - Inibizione NON competitiva
+    - Inibizione irreversibile
+    - Nessuna delle precedenti
+  correct: 0
+  curiosity: 
 
 504:
   kind: mc
@@ -5483,18 +5483,18 @@
     - Si lega a un sito diverso dal sito attivo, modificando la forma dell'enzima
     - Rimuove il substrato
   correct: 2
-  curiosity: "Gli inibitori allosterici si legano a un sito alternativo, alterando la struttura dell'enzima e influenzandone l'attività."
+  curiosity: 
 
-505:
-  kind: mc
-  text: "Cosa sono le isoenzimi?"
-  options:
-    - Enzimi identici con funzioni diverse
-    - Enzimi che degradano le stesse sostanze
-    - Varianti di un enzima che catalizzano la stessa reazione ma con diverse caratteristiche
-    - Enzimi che non hanno alcuna funzione
-  correct: 2
-  curiosity: "Le isoenzimi sono varianti di un enzima che eseguono la stessa reazione, ma con proprietà diverse, adattate a specifiche condizioni."
+# 505:
+#   kind: mc
+#   text: "Cosa sono le isoenzimi?"
+#   options:
+#     - Enzimi identici con funzioni diverse
+#     - Enzimi che degradano le stesse sostanze
+#     - Varianti di un enzima che catalizzano la stessa reazione ma con diverse caratteristiche
+#     - Enzimi che non hanno alcuna funzione
+#   correct: 2
+#   curiosity: "Le isoenzimi sono varianti di un enzima che eseguono la stessa reazione, ma con proprietà diverse, adattate a specifiche condizioni."
 
 506:
   kind: mc
@@ -5505,7 +5505,7 @@
     - Gli enzimi funzionano solo in ambienti acidi
     - Gli enzimi sono sempre attivi
   correct: 1
-  curiosity: "Molti enzimi possono catalizzare reazioni in entrambe le direzioni, facilitando l'equilibrio chimico."
+  curiosity: 
 
 507:
   kind: mc
@@ -5516,7 +5516,7 @@
     - Decomporre il perossido di idrogeno in acqua e ossigeno
     - Sintetizzare glucosio
   correct: 2
-  curiosity: "La catalasi è un enzima che scompone il perossido di idrogeno, proteggendo le cellule dai danni ossidativi."
+  curiosity: 
 
 508:
   kind: mc
@@ -5525,42 +5525,42 @@
     - Non ha alcuna importanza
     - Stabilizza il substrato
     - Influenza la carica delle molecole e quindi l'attività enzimatica
-    - Cambia solo la temperatura
+    - Cambia la temperatura
   correct: 2
-  curiosity: "Il pH influisce sull'attività enzimatica alterando la carica delle molecole, essenziale per il legame enzima-substrato."
+  curiosity: 
 
-509:
-  kind: mc
-  text: "Cosa succede a un enzima quando viene denaturato?"
-  options:
-    - Aumenta la sua attività
-    - Rimane inalterato
-    - Perde la sua struttura e la sua funzione
-    - Si attiva per altre reazioni
-  correct: 2
-  curiosity: "La denaturazione altera la struttura tridimensionale dell'enzima, rendendolo inefficace per la catalisi."
+# 509:
+#   kind: mc
+#   text: "Cosa succede a un enzima quando viene denaturato?"
+#   options:
+#     - Aumenta la sua attività
+#     - Rimane inalterato
+#     - Perde la sua struttura e la sua funzione
+#     - Si attiva per altre reazioni
+#   correct: 2
+#   curiosity: "La denaturazione altera la struttura tridimensionale dell'enzima, rendendolo inefficace per la catalisi."
 
 510:
   kind: mc
   text: "Cosa sono gli inibitori competitivi?"
   options:
     - Molecole che aumentano l'attività enzimatica
-    - Molecole che non si legano al sito attivo
-    - Molecole che competono con il substrato per il sito attivo
+    - Molecole che NON si legano al sito attivo
+    - Molecole che si legano al sito attivo
     - Molecole che si legano solo a siti allosterici
   correct: 2
-  curiosity: "Gli inibitori competitivi bloccano temporaneamente il sito attivo dell'enzima, impedendo al substrato di legarsi."
+  curiosity: 
 
-511:
-  kind: mc
-  text: "Qual è la funzione della lipasi?"
-  options:
-    - Catalizzare reazioni del glucosio
-    - Degradare gli acidi nucleici
-    - Degradare i lipidi
-    - Sintetizzare proteine
-  correct: 2
-  curiosity: "Le lipasi sono enzimi che scindono i lipidi, facilitando la digestione dei grassi nel sistema digestivo."
+# 511:
+#   kind: mc
+#   text: "Qual è la funzione della lipasi?"
+#   options:
+#     - Catalizzare reazioni del glucosio
+#     - Degradare gli acidi nucleici
+#     - Degradare i lipidi
+#     - Sintetizzare proteine
+#   correct: 2
+#   curiosity: "Le lipasi sono enzimi che scindono i lipidi, facilitando la digestione dei grassi nel sistema digestivo."
 
 512:
   kind: mc
@@ -5571,9 +5571,9 @@
     - L'attivazione di un enzima per catalizzare una reazione dopo il legame con il substrato
     - La produzione di enzimi in eccesso
   correct: 2
-  curiosity: "L'attivazione enzimatica si verifica quando un enzima è pronto a catalizzare una reazione dopo aver interagito con il suo substrato o altri attivatori."
+  curiosity: 
 
-#FINALFIX
+#FIXME
 
 513:
   kind: mc
@@ -5582,9 +5582,9 @@
     - Solo nei mitocondri
     - Solo nel nucleo
     - In tutte le parti del citoplasma, inclusi i ribosomi
-    - Solo nella membrana plasmatica
+    - In tutte le parti del citoplasma, esclusi i ribosomi
   correct: 2
-  curiosity: "Le proteine si trovano in diverse aree del citoplasma, inclusi i ribosomi dove avviene la sintesi proteica."
+  curiosity: 
 
 514:
   kind: mc
@@ -5595,29 +5595,29 @@
     - Ribosoma
     - Reticolo endoplasmatico
   correct: 2
-  curiosity: "I ribosomi sono organelli che traducono l'informazione genetica per produrre proteine."
+  curiosity: 
 
-515:
-  kind: mc
-  text: "Qual è la funzione del reticolo endoplasmatico rugoso (RER) nella cellula?"
-  options:
-    - Sintetizzare lipidi
-    - Sintetizzare e modificare le proteine destinate alla secrezione
-    - Degradare i rifiuti cellulari
-    - Fornire energia
-  correct: 1
-  curiosity: "Il reticolo endoplasmatico rugoso è rivestito di ribosomi e svolge un ruolo chiave nella sintesi delle proteine destinate alla secrezione."
+# 515:
+#   kind: mc
+#   text: "Qual è la funzione del reticolo endoplasmatico rugoso (RER) nella cellula?"
+#   options:
+#     - Sintetizzare lipidi
+#     - Sintetizzare e modificare le proteine destinate alla secrezione
+#     - Degradare i rifiuti cellulari
+#     - Fornire energia
+#   correct: 1
+#   curiosity: "Il reticolo endoplasmatico rugoso è rivestito di ribosomi e svolge un ruolo chiave nella sintesi delle proteine destinate alla secrezione."
 
-516:
-  kind: mc
-  text: "Qual è il ruolo del reticolo endoplasmatico liscio (REL)?"
-  options:
-    - Sintesi delle proteine
-    - Degradazione delle proteine
-    - Sintesi dei lipidi e detossificazione
-    - Produzione di ATP
-  correct: 2
-  curiosity: "Il reticolo endoplasmatico liscio è coinvolto nella sintesi di lipidi e nella detossificazione delle cellule."
+# 516:
+#   kind: mc
+#   text: "Qual è il ruolo del reticolo endoplasmatico liscio (REL)?"
+#   options:
+#     - Sintesi delle proteine
+#     - Degradazione delle proteine
+#     - Sintesi dei lipidi e detossificazione
+#     - Produzione di ATP
+#   correct: 2
+#   curiosity: "Il reticolo endoplasmatico liscio è coinvolto nella sintesi di lipidi e nella detossificazione delle cellule."
 
 517:
   kind: mc
@@ -5628,18 +5628,18 @@
     - Nel Golgi apparato
     - Nei mitocondri
   correct: 2
-  curiosity: "Dopo essere modificate, le proteine vengono trasportate all'apparato di Golgi per ulteriori modifiche e smistamento."
+  curiosity: 
 
-518:
-  kind: mc
-  text: "Qual è la funzione del Golgi apparato?"
-  options:
-    - Sintetizzare RNA
-    - Degradare le sostanze
-    - Modificare, impacchettare e distribuire le proteine
-    - Produrre ATP
-  correct: 2
-  curiosity: "L'apparato di Golgi modifica, impacchetta e indirizza le proteine verso le loro destinazioni finali."
+# 518:
+#   kind: mc
+#   text: "Qual è la funzione del Golgi apparato?"
+#   options:
+#     - Sintetizzare RNA
+#     - Degradare le sostanze
+#     - Modificare, impacchettare e distribuire le proteine
+#     - Produrre ATP
+#   correct: 2
+#   curiosity: "L'apparato di Golgi modifica, impacchetta e indirizza le proteine verso le loro destinazioni finali."
 
 519:
   kind: mc
@@ -5650,29 +5650,29 @@
     - La sua attività enzimatica
     - La sua posizione iniziale
   correct: 1
-  curiosity: "Le sequenze segnale sulle proteine indicano la loro destinazione e funzione all'interno della cellula."
+  curiosity: 
 
-520:
-  kind: mc
-  text: "Quale organello è responsabile della produzione di energia attraverso la respirazione cellulare?"
-  options:
-    - Golgi apparato
-    - Reticolo endoplasmatico
-    - Mitocondrio
-    - Lisosoma
-  correct: 2
-  curiosity: "I mitocondri sono noti come le centrali energetiche della cellula, producendo ATP attraverso la respirazione cellulare."
+# 520:
+#   kind: mc
+#   text: "Quale organello è responsabile della produzione di energia attraverso la respirazione cellulare?"
+#   options:
+#     - Golgi apparato
+#     - Reticolo endoplasmatico
+#     - Mitocondrio
+#     - Lisosoma
+#   correct: 2
+#   curiosity: "I mitocondri sono noti come le centrali energetiche della cellula, producendo ATP attraverso la respirazione cellulare."
 
-521:
-  kind: mc
-  text: "Dove si trovano le proteine di membrana?"
-  options:
-    - Solo nel citoplasma
-    - Solo nel nucleo
-    - Sulla membrana plasmatica e in organelli come i mitocondri e i lisosomi
-    - Solo nel Golgi apparato
-  correct: 2
-  curiosity: "Le proteine di membrana si trovano sulla membrana plasmatica e su quelle degli organelli, regolando il trasporto e la comunicazione."
+# 521:
+#   kind: mc
+#   text: "Dove si trovano le proteine di membrana?"
+#   options:
+#     - Solo nel citoplasma
+#     - Solo nel nucleo
+#     - Sulla membrana plasmatica e in organelli come i mitocondri e i lisosomi
+#     - Solo nel Golgi apparato
+#   correct: 2
+#   curiosity: "Le proteine di membrana si trovano sulla membrana plasmatica e su quelle degli organelli, regolando il trasporto e la comunicazione."
 
 522:
   kind: mc
@@ -5683,7 +5683,7 @@
     - Regolare il trasporto di sostanze dentro e fuori dalla cellula
     - Conservare il DNA
   correct: 2
-  curiosity: "Le proteine di membrana controllano il passaggio di molecole, mantenendo l'equilibrio tra l'interno e l'esterno della cellula."
+  curiosity: 
 
 523:
   kind: mc
@@ -5692,121 +5692,121 @@
     - Proteine che si legano solo al DNA
     - Proteine che collegano il citoscheletro alla membrana plasmatica
     - Proteine che catalizzano reazioni
-    - Proteine che sintetizzano altri proteine
+    - Proteine che sintetizzano altre proteine
   correct: 1
-  curiosity: "Le proteine di ancoraggio stabilizzano la cellula collegando il citoscheletro alla membrana, fornendo struttura e supporto."
+  curiosity: 
 
 524:
   kind: mc
-  text: "Quale tipo di proteina è coinvolto nel riconoscimento cellulare?"
+  text: "Quale tipo di proteina è coinvolta nel riconoscimento cellulare?"
   options:
     - Enzimi
     - Proteine strutturali
     - Proteine di superficie o recettoriali
     - Proteine di trasporto
   correct: 2
-  curiosity: "Le proteine di superficie o recettori sono essenziali per il riconoscimento cellulare, come nella risposta immunitaria."
+  curiosity: 
 
-525:
-  kind: mc
-  text: "Qual è la funzione delle proteine chaperoni?"
-  options:
-    - Degradare proteine danneggiate
-    - Sintetizzare RNA
-    - Aiutare le altre proteine a piegarsi correttamente
-    - Catalizzare reazioni chimiche
-  correct: 2
-  curiosity: "Le proteine chaperoni assistono le altre proteine nel raggiungere la conformazione corretta, fondamentale per la loro funzione."
+# 525:
+#   kind: mc
+#   text: "Qual è la funzione delle proteine chaperoni?"
+#   options:
+#     - Degradare proteine danneggiate
+#     - Sintetizzare RNA
+#     - Aiutare le altre proteine a piegarsi correttamente
+#     - Catalizzare reazioni chimiche
+#   correct: 2
+#   curiosity: "Le proteine chaperoni assistono le altre proteine nel raggiungere la conformazione corretta, fondamentale per la loro funzione."
 
 526:
   kind: mc
   text: "Quali sono le proteine che si trovano nel citoscheletro?"
   options:
-    - Solo le proteine di trasporto
-    - Solo le proteine di membrana
+    - Le proteine di trasporto
+    - Le proteine di membrana
     - Proteine filamentose come actina e tubulina
-    - Solo le proteine enzimatica
+    - Tutte le precedenti
   correct: 2
-  curiosity: "Il citoscheletro è composto da proteine come actina e tubulina, che forniscono struttura e supporto alle cellule."
+  curiosity: 
 
 527:
   kind: mc
   text: "Dove vengono degradate le proteine danneggiate o inutilizzate?"
   options:
-    - Nel Golgi apparato
+    - Nel apparato di Golgi
     - Nel reticolo endoplasmatico
     - Nei lisosomi o nei proteasomi
     - Nei mitocondri
   correct: 2
-  curiosity: "Le proteine danneggiate vengono smaltite nei lisosomi o nei proteasomi per mantenere la salute cellulare."
+  curiosity: 
 
-528:
-  kind: mc
-  text: "Qual è il destino delle proteine destinate a rimanere nel citoplasma?"
-  options:
-    - Vengono sempre esportate
-    - Vengono sempre degradate
-    - Rimangono nel citoplasma per svolgere le loro funzioni
-    - Vengono trasportate nel nucleo
-  correct: 2
-  curiosity: "Le proteine destinate al citoplasma vi rimangono per svolgere ruoli specifici come la catalisi e il supporto strutturale."
+# 528:
+#   kind: mc
+#   text: "Qual è il destino delle proteine destinate a rimanere nel citoplasma?"
+#   options:
+#     - Vengono sempre esportate
+#     - Vengono sempre degradate
+#     - Rimangono nel citoplasma per svolgere le loro funzioni
+#     - Vengono trasportate nel nucleo
+#   correct: 2
+#   curiosity: "Le proteine destinate al citoplasma vi rimangono per svolgere ruoli specifici come la catalisi e il supporto strutturale."
 
-529:
-  kind: mc
-  text: "Qual è il ruolo delle proteine di trasporto nelle cellule?"
-  options:
-    - Sintetizzare energia
-    - Degradare substrati
-    - Trasportare molecole attraverso le membrane cellulari
-    - Stabilizzare la membrana plasmatica
-  correct: 2
-  curiosity: "Le proteine di trasporto regolano il movimento di molecole e ioni attraverso le membrane cellulari."
+# 529:
+#   kind: mc
+#   text: "Qual è il ruolo delle proteine di trasporto nelle cellule?"
+#   options:
+#     - Sintetizzare energia
+#     - Degradare substrati
+#     - Trasportare molecole attraverso le membrane cellulari
+#     - Stabilizzare la membrana plasmatica
+#   correct: 2
+#   curiosity: "Le proteine di trasporto regolano il movimento di molecole e ioni attraverso le membrane cellulari."
 
 530:
   kind: mc
   text: "Cosa sono le proteine secretorie?"
   options:
-    - Proteine che rimangono nel nucleo
+    - Proteine che vengono esportate dal nucleo nel citoplasma
     - Proteine che non hanno funzione
     - Proteine destinate a essere esportate dalla cellula
     - Proteine che degradano altre proteine
   correct: 2
-  curiosity: "Le proteine secretorie sono destinate all'esportazione e sono spesso coinvolte nella comunicazione e nel trasporto tra cellule."
+  curiosity: 
 
-531:
-  kind: mc
-  text: "Quale tipo di proteina è coinvolta nella risposta immunitaria?"
-  options:
-    - Proteine di trasporto
-    - Enzimi
-    - Anticorpi
-    - Proteine di sintesi
-  correct: 2
-  curiosity: "Gli anticorpi sono proteine del sistema immunitario che identificano e neutralizzano i patogeni."
+# 531:
+#   kind: mc
+#   text: "Quale tipo di proteina è coinvolta nella risposta immunitaria?"
+#   options:
+#     - Proteine di trasporto
+#     - Enzimi
+#     - Anticorpi
+#     - Proteine di sintesi
+#   correct: 2
+#   curiosity: "Gli anticorpi sono proteine del sistema immunitario che identificano e neutralizzano i patogeni."
 
-532:
-  kind: mc
-  text: "Cosa determina il segnale di localizzazione di una proteina?"
-  options:
-    - Solo la sua struttura primaria
-    - Solo il suo pH
-    - Sequenze specifiche di amminoacidi che indicano dove deve andare nella cellula
-    - Solo la sua carica
-  correct: 2
-  curiosity: "Il segnale di localizzazione di una proteina è determinato da sequenze specifiche di amminoacidi che dirigono la proteina verso la sua destinazione."
+# 532:
+#   kind: mc
+#   text: "Cosa determina il segnale di localizzazione di una proteina?"
+#   options:
+#     - Solo la sua struttura primaria
+#     - Solo il suo pH
+#     - Sequenze specifiche di amminoacidi che indicano dove deve andare nella cellula
+#     - Solo la sua carica
+#   correct: 2
+#   curiosity: "Il segnale di localizzazione di una proteina è determinato da sequenze specifiche di amminoacidi che dirigono la proteina verso la sua destinazione."
 
-#FINALFIX
+#FIXME
 
-533:
-  kind: mc
-  text: "Cosa rappresenta l'ATP?"
-  options:
-    - Adenosina trifosfato
-    - Adenosina difosfato
-    - Adenosina trifosfato, la principale molecola di energia della cellula
-    - Adenosina monofosfato
-  correct: 2
-  curiosity: "L'ATP (adenosina trifosfato) è la principale molecola energetica della cellula, fondamentale per alimentare diverse reazioni cellulari."
+# 533:
+#   kind: mc
+#   text: "Cosa rappresenta l'ATP?"
+#   options:
+#     - Adenosina trifosfato
+#     - Adenosina difosfato
+#     - Adenosina trifosfato, la principale molecola di energia della cellula
+#     - Adenosina monofosfato
+#   correct: 2
+#   curiosity: "L'ATP (adenosina trifosfato) è la principale molecola energetica della cellula, fondamentale per alimentare diverse reazioni cellulari."
 
 534:
   kind: mc
@@ -5817,7 +5817,7 @@
     - Fornire energia per le reazioni cellulari
     - Conservare il DNA
   correct: 2
-  curiosity: "L'ATP è essenziale per alimentare le reazioni cellulari, fornendo energia per processi vitali come la sintesi di biomolecole e il movimento."
+  curiosity: 
 
 535:
   kind: mc
@@ -5825,21 +5825,21 @@
   options:
     - Fotosintesi
     - Respirazione cellulare
-    - Sia fotosintesi che respirazione cellulare
-    - Solo fermentazione
+    - Entrambe le precedenti
+    - Sintesi di proteine
   correct: 2
-  curiosity: "Sia la respirazione cellulare che la fotosintesi producono ATP, ma in modo diverso; la respirazione ossidativa avviene nei mitocondri, mentre la fotosintesi avviene nei cloroplasti delle piante."
+  curiosity: 
 
-536:
-  kind: mc
-  text: "Dove viene principalmente sintetizzato l'ATP nelle cellule eucariote?"
-  options:
-    - Nucleo
-    - Citoplasma
-    - Mitocondri
-    - Reticolo endoplasmatico
-  correct: 2
-  curiosity: "Nei mitocondri, noti come le centrali energetiche della cellula, avviene la sintesi principale di ATP attraverso la respirazione cellulare."
+# 536:
+#   kind: mc
+#   text: "Dove viene principalmente sintetizzato l'ATP nelle cellule eucariote?"
+#   options:
+#     - Nucleo
+#     - Citoplasma
+#     - Mitocondri
+#     - Reticolo endoplasmatico
+#   correct: 2
+#   curiosity: "Nei mitocondri, noti come le centrali energetiche della cellula, avviene la sintesi principale di ATP attraverso la respirazione cellulare."
 
 537:
   kind: mc
@@ -5850,7 +5850,7 @@
     - Viene rilasciata energia e si forma ADP e un fosfato inorganico
     - Viene rimosso un amminoacido
   correct: 2
-  curiosity: "L'idrolisi dell'ATP rilascia energia trasformandosi in ADP (adenosina difosfato) e un fosfato libero, processo essenziale per molte reazioni cellulari."
+  curiosity: 
 
 538:
   kind: mc
@@ -5861,73 +5861,73 @@
     - È una molecola instabile che fornisce energia rapidamente
     - È presente solo nei mitocondri
   correct: 2
-  curiosity: "L'ATP è una molecola instabile progettata per rilasciare rapidamente energia, ideale per sostenere le esigenze energetiche immediate della cellula."
+  curiosity: 
 
 539:
   kind: mc
   text: "Qual è la relazione tra ATP e ADP?"
   options:
     - L'ADP è più energetico dell'ATP
-    - L'ADP non ha alcuna relazione con l'ATP
-    - L'ADP è il prodotto della degradazione dell'ATP e può essere riciclato per formare ATP
+    - L'ADP NON ha alcuna relazione con l'ATP
+    - L'ADP è il prodotto della degradazione dell'ATP 
     - L'ADP viene sempre degradato senza formare ATP
   correct: 2
-  curiosity: "Quando l'ATP rilascia energia, si converte in ADP. L'ADP può essere ricaricato per formare di nuovo ATP, in un ciclo continuo di produzione di energia."
+  curiosity: 
 
 540:
   kind: mc
-  text: "Quale processo avviene nella catena di trasporto degli elettroni?"
+  text: "Quale processo avviene nella catena di trasporto degli elettroni nei mitocondri?"
   options:
     - Sintesi di RNA
     - Sintesi di glucosio
-    - Produzione di ATP attraverso l'ossidazione del NADH e FADH2
+    - Produzione di ATP 
     - Fermentazione alcolica
   correct: 2
-  curiosity: "Nella catena di trasporto degli elettroni, l'ossidazione di NADH e FADH2 genera ATP tramite un gradiente di protoni nei mitocondri."
+  curiosity: 
 
 541:
   kind: mc
   text: "Qual è il ruolo del ciclo di Krebs nella produzione di ATP?"
   options:
     - Degradare il glucosio
-    - Produrre NADH e FADH2 che alimentano la produzione di ATP nella catena di trasporto degli elettroni
+    - Produrre NADH e $FADH_2$ 
     - Sintetizzare proteine
-    - Produrre ATP direttamente
+    - Produrre ADP
   correct: 1
-  curiosity: "Il ciclo di Krebs produce NADH e FADH2, molecole che alimentano la catena di trasporto degli elettroni per generare ATP in modo efficiente."
+  curiosity: 
 
-542:
-  kind: mc
-  text: "Qual è la formula chimica dell'ATP?"
-  options:
-    - C10H12N5O7P3
-    - C6H10N5O13P3
-    - C10H16N5O13P3
-    - C9H13N5O12P3
-  correct: 2
-  curiosity: "L'ATP ha la formula chimica C10H16N5O13P3 e contiene tre gruppi fosfato che rilasciano energia quando uno di essi viene rimosso."
+# 542:
+#   kind: mc
+#   text: "Qual è la formula chimica dell'ATP?"
+#   options:
+#     - C10H12N5O7P3
+#     - C6H10N5O13P3
+#     - C10H16N5O13P3
+#     - C9H13N5O12P3
+#   correct: 2
+#   curiosity: "L'ATP ha la formula chimica C10H16N5O13P3 e contiene tre gruppi fosfato che rilasciano energia quando uno di essi viene rimosso."
 
-543:
-  kind: mc
-  text: "Quale enzima è coinvolto nella sintesi dell'ATP?"
-  options:
-    - Amilasi
-    - ATP sintasi
-    - Lipasi
-    - Proteasi
-  correct: 1
-  curiosity: "L'enzima ATP sintasi, situato nella membrana mitocondriale, sintetizza ATP sfruttando il gradiente di protoni durante la respirazione cellulare."
+# 543:
+#   kind: mc
+#   text: "Quale enzima è coinvolto nella sintesi dell'ATP?"
+#   options:
+#     - Amilasi
+#     - ATP sintasi
+#     - Lipasi
+#     - Proteasi
+#   correct: 1
+#   curiosity: "L'enzima ATP sintasi, situato nella membrana mitocondriale, sintetizza ATP sfruttando il gradiente di protoni durante la respirazione cellulare."
 
 544:
   kind: mc
   text: "In quale fase della respirazione cellulare viene prodotto ATP?"
   options:
-    - Solo nella glicolisi
+    - Nella glicolisi e nella catena di trasporto degli elettroni
     - Nella glicolisi, nel ciclo di Krebs e nella catena di trasporto degli elettroni
-    - Solo nel ciclo di Krebs
-    - Solo nella fermentazione
+    - Nel ciclo di Krebs e nella fermentazione
+    - Nella fermentazione e nella catena di trasporto degli elettroni
   correct: 1
-  curiosity: "L'ATP viene prodotto in più fasi della respirazione cellulare, inclusa la glicolisi, il ciclo di Krebs e la catena di trasporto degli elettroni."
+  curiosity: 
 
 545:
   kind: mc
@@ -5938,7 +5938,7 @@
     - Glucosio
     - Acidi nucleici
   correct: 2
-  curiosity: "Il glucosio è il principale substrato per la produzione di ATP, poiché viene rapidamente metabolizzato per generare energia attraverso la glicolisi e la respirazione."
+  curiosity: 
 
 546:
   kind: mc
@@ -5949,18 +5949,18 @@
     - Può essere convertito in glicogeno o grasso per stoccaggio
     - Viene esportato all'esterno della cellula
   correct: 2
-  curiosity: "Quando vi è un eccesso di ATP, può essere convertito in glicogeno o grasso per l'accumulo di energia a lungo termine."
+  curiosity: 
 
-547:
-  kind: mc
-  text: "Qual è la differenza tra ATP e ADP in termini di fosfati?"
-  options:
-    - L'ATP ha due fosfati, l'ADP uno
-    - L'ATP ha un fosfato, l'ADP tre
-    - L'ATP ha tre fosfati, l'ADP due
-    - Non c'è differenza tra ATP e ADP
-  correct: 2
-  curiosity: "La differenza tra ATP e ADP è il numero di gruppi fosfato: l'ATP ha tre gruppi fosfato, mentre l'ADP ne ha due."
+# 547:
+#   kind: mc
+#   text: "Qual è la differenza tra ATP e ADP in termini di fosfati?"
+#   options:
+#     - L'ATP ha due fosfati, l'ADP uno
+#     - L'ATP ha un fosfato, l'ADP tre
+#     - L'ATP ha tre fosfati, l'ADP due
+#     - Non c'è differenza tra ATP e ADP
+#   correct: 2
+#   curiosity: "La differenza tra ATP e ADP è il numero di gruppi fosfato: l'ATP ha tre gruppi fosfato, mentre l'ADP ne ha due."
 
 548:
   kind: mc
@@ -5971,53 +5971,53 @@
     - Energia chimica
     - Energia meccanica
   correct: 2
-  curiosity: "L'idrolisi dell'ATP rilascia energia chimica, utilizzata per alimentare varie reazioni e processi cellulari."
+  curiosity: 
 
-549:
-  kind: mc
-  text: "Come viene chiamato il processo di produzione di ATP nella fotosintesi?"
-  options:
-    - Ciclo di Krebs
-    - Ossidazione
-    - Fase luminosa della fotosintesi
-    - Fermentazione
-  correct: 2
-  curiosity: "Durante la fase luminosa della fotosintesi, l'energia solare viene utilizzata per produrre ATP, necessario per la successiva fase oscura."
+# 549:
+#   kind: mc
+#   text: "Come viene chiamato il processo di produzione di ATP nella fotosintesi?"
+#   options:
+#     - Ciclo di Krebs
+#     - Ossidazione
+#     - Fase luminosa della fotosintesi
+#     - Fermentazione
+#   correct: 2
+#   curiosity: "Durante la fase luminosa della fotosintesi, l'energia solare viene utilizzata per produrre ATP, necessario per la successiva fase oscura."
 
-550:
-  kind: mc
-  text: "Quale molecola è un prodotto secondario della reazione di idrolisi dell'ATP?"
-  options:
-    - Glucosio
-    - Ossigeno
-    - Fosfato inorganico
-    - Acido piruvico
-  correct: 2
-  curiosity: "La reazione di idrolisi dell'ATP produce fosfato inorganico come prodotto secondario, rilasciando energia utile per le attività cellulari."
+# 550:
+#   kind: mc
+#   text: "Quale molecola è un prodotto secondario della reazione di idrolisi dell'ATP?"
+#   options:
+#     - Glucosio
+#     - Ossigeno
+#     - Fosfato inorganico
+#     - Acido piruvico
+#   correct: 2
+#   curiosity: "La reazione di idrolisi dell'ATP produce fosfato inorganico come prodotto secondario, rilasciando energia utile per le attività cellulari."
 
 551:
   kind: mc
   text: "Qual è il principale scopo dell'ATP nei muscoli?"
   options:
     - Fornire nutrienti
-    - Stabilizzare il DNA
+    - Stabilizzare le fibre muscolari
     - Fornire energia per la contrazione muscolare
     - Catalizzare reazioni chimiche
   correct: 2
-  curiosity: "L'ATP è essenziale per la contrazione muscolare, poiché fornisce l'energia necessaria per l'attivazione delle proteine contrattili."
+  curiosity: 
 
-552:
-  kind: mc
-  text: "Qual è l'importanza dell'ATP per il metabolismo cellulare?"
-  options:
-    - Non ha alcuna importanza
-    - È l'unica fonte di energia per la cellula
-    - È la principale molecola energetica che alimenta tutte le reazioni biochimiche
-    - È un prodotto finale del metabolismo
-  correct: 2
-  curiosity: "L'ATP è centrale per il metabolismo cellulare, fornendo l'energia per tutte le reazioni biochimiche necessarie alla sopravvivenza della cellula."
+# 552:
+#   kind: mc
+#   text: "Qual è l'importanza dell'ATP per il metabolismo cellulare?"
+#   options:
+#     - Non ha alcuna importanza
+#     - È l'unica fonte di energia per la cellula
+#     - È la principale molecola energetica che alimenta tutte le reazioni biochimiche
+#     - È un prodotto finale del metabolismo
+#   correct: 2
+#   curiosity: 
 
-#FINALFIX
+#FIXME
 
 553:
   kind: mc
@@ -6028,18 +6028,18 @@
     - Nicotinamide adenina dinucleotide ridotto
     - Nicotinamide dinucleotide
   correct: 2
-  curiosity: "Il NADH è la forma ridotta del nicotinamide adenina dinucleotide, fondamentale per il trasporto di elettroni nelle reazioni cellulari."
+  curiosity: 
 
-554:
-  kind: mc
-  text: "Qual è la funzione principale del NAD+ nelle cellule?"
-  options:
-    - Fornire energia
-    - Degradare proteine
-    - Agire come coenzima e trasportatore di elettroni nelle reazioni redox
-    - Sintetizzare lipidi
-  correct: 2
-  curiosity: "Il NAD+ funge da coenzima trasportatore di elettroni nelle reazioni redox, facilitando la produzione di energia."
+# 554:
+#   kind: mc
+#   text: "Qual è la funzione principale del NAD+ nelle cellule?"
+#   options:
+#     - Fornire energia
+#     - Degradare proteine
+#     - Agire come coenzima e trasportatore di elettroni nelle reazioni redox
+#     - Sintetizzare lipidi
+#   correct: 2
+#   curiosity: "Il NAD+ funge da coenzima trasportatore di elettroni nelle reazioni redox, facilitando la produzione di energia."
 
 555:
   kind: mc
@@ -6048,119 +6048,119 @@
     - ATP
     - Piruvato
     - Entrambe le precedenti
-    - Solo NAD+
+    - $NAD^+$
   correct: 2
-  curiosity: "Durante la glicolisi, oltre al NADH, vengono prodotte molecole di ATP e piruvato, che entrano nei successivi processi metabolici."
+  curiosity: 
 
-556:
-  kind: mc
-  text: "Cosa accade al NADH durante la respirazione cellulare?"
-  options:
-    - Viene degradato in modo permanente
-    - Non ha alcun ruolo
-    - Viene ossidato a NAD+ nel ciclo di Krebs e nella catena di trasporto degli elettroni
-    - Viene convertito in ATP
-  correct: 2
-  curiosity: "Durante la respirazione, il NADH si ossida a NAD+, rilasciando elettroni che aiutano nella produzione di ATP."
+# 556:
+#   kind: mc
+#   text: "Cosa accade al NADH durante la respirazione cellulare?"
+#   options:
+#     - Viene degradato in modo permanente
+#     - Non ha alcun ruolo
+#     - Viene ossidato a NAD+ nel ciclo di Krebs e nella catena di trasporto degli elettroni
+#     - Viene convertito in ATP
+#   correct: 2
+#   curiosity: "Durante la respirazione, il NADH si ossida a NAD+, rilasciando elettroni che aiutano nella produzione di ATP."
 
-557:
-  kind: mc
-  text: "In quale processo si genera NADH?"
-  options:
-    - Solo nella fotosintesi
-    - Solo nella fermentazione
-    - In processi come la glicolisi, il ciclo di Krebs e la fermentazione
-    - Solo nella respirazione aerobica
-  correct: 2
-  curiosity: "Il NADH viene prodotto in diversi processi metabolici, inclusi glicolisi, ciclo di Krebs e fermentazione, come parte della produzione energetica della cellula."
+# 557:
+#   kind: mc
+#   text: "In quale processo si genera NADH?"
+#   options:
+#     - Solo nella fotosintesi
+#     - Solo nella fermentazione
+#     - In processi come la glicolisi, il ciclo di Krebs e la fermentazione
+#     - Solo nella respirazione aerobica
+#   correct: 2
+#   curiosity: 
 
-558:
-  kind: mc
-  text: "Qual è il principale scopo del NADH nella cellula?"
-  options:
-    - Funzionare come substrato
-    - Stabilizzare il DNA
-    - Trasportare elettroni per produrre ATP
-    - Catalizzare reazioni chimiche
-  correct: 2
-  curiosity: "Il NADH trasporta elettroni alla catena di trasporto degli elettroni, dove contribuisce alla produzione di ATP, la principale fonte di energia della cellula."
+# 558:
+#   kind: mc
+#   text: "Qual è il principale scopo del NADH nella cellula?"
+#   options:
+#     - Funzionare come substrato
+#     - Stabilizzare il DNA
+#     - Trasportare elettroni per produrre ATP
+#     - Catalizzare reazioni chimiche
+#   correct: 2
+#   curiosity: "Il NADH trasporta elettroni alla catena di trasporto degli elettroni, dove contribuisce alla produzione di ATP, la principale fonte di energia della cellula."
 
 559:
   kind: mc
-  text: "Cosa succede al NAD+ durante la riduzione?"
+  text: "Cosa succede al $NAD^+$ durante la riduzione?"
   options:
     - Viene convertito in ATP
-    - Si trasforma in un substrato
+    - Si duplica
     - Si riduce a NADH
     - Viene degradato
   correct: 2
-  curiosity: "Durante la riduzione, il NAD+ accetta elettroni e si converte in NADH, pronto per trasportare elettroni nelle reazioni successive."
+  curiosity: 
 
-560:
-  kind: mc
-  text: "Quale coenzima è coinvolto nella sintesi degli acidi grassi?"
-  options:
-    - Coenzima A
-    - NADH
-    - NADPH
-    - FADH2
-  correct: 2
-  curiosity: "Il NADPH è fondamentale nella sintesi degli acidi grassi, fornendo potere riducente per costruire molecole complesse."
+# 560:
+#   kind: mc
+#   text: "Quale coenzima è coinvolto nella sintesi degli acidi grassi?"
+#   options:
+#     - Coenzima A
+#     - NADH
+#     - NADPH
+#     - FADH2
+#   correct: 2
+#   curiosity: "Il NADPH è fondamentale nella sintesi degli acidi grassi, fornendo potere riducente per costruire molecole complesse."
 
 561:
   kind: mc
-  text: "Quale di queste affermazioni è vera riguardo al NADH e al NAD+?"
+  text: "Quale di queste affermazioni è vera riguardo al NADH e al $NAD^+$?"
   options:
     - Sono identici
-    - NADH è più stabile di NAD+
-    - NADH è la forma ridotta, mentre NAD+ è la forma ossidata
-    - NAD+ è più energetico di NADH
+    - NADH è più stabile di $NAD^+$
+    - NADH è la forma ridotta, mentre $NAD^+$ è la forma ossidata
+    - $NAD^+$ è più energetico di NADH
   correct: 2
-  curiosity: "Il NADH è la forma ridotta e immagazzina energia sotto forma di elettroni, mentre il NAD+ è la forma ossidata, pronta per accettare nuovi elettroni."
+  curiosity: 
 
 562:
   kind: mc
-  text: "Qual è il ruolo del NAD+ nel ciclo di Krebs?"
+  text: "Qual è il ruolo del $NAD^+$ nel ciclo di Krebs?"
   options:
-    - Produrre ATP direttamente
-    - Catalizzare reazioni
-    - Accettare elettroni e diventare NADH durante le reazioni redox
+    - Produrre direttamente ATP 
+    - Catalizzare reazioni chimiche
+    - Accettare elettroni e diventare NADH 
     - Degradare proteine
   correct: 2
-  curiosity: "Nel ciclo di Krebs, il NAD+ accetta elettroni e si converte in NADH, che poi trasporta elettroni alla catena di trasporto per generare ATP."
+  curiosity: 
 
 563:
   kind: mc
-  text: "Cosa indica la sigla NAD+?"
+  text: "Cosa indica la sigla $NAD^+$?"
   options:
     - Nicotinamide adenina trifosfato
     - Nicotinamide dinucleotide
     - Nicotinamide adenina dinucleotide ossidato
     - Nicotinamide adenina difosfato
   correct: 2
-  curiosity: "La sigla NAD+ sta per nicotinamide adenina dinucleotide nella sua forma ossidata, pronto a ricevere elettroni nei processi cellulari."
+  curiosity: 
 
-564:
-  kind: mc
-  text: "Quale processo di fermentazione produce NAD+ da NADH?"
-  options:
-    - Fermentazione alcolica
-    - Fermentazione lattica
-    - Entrambi i precedenti
-    - Solo fermentazione alcolica
-  correct: 2
-  curiosity: "Sia la fermentazione alcolica che quella lattica rigenerano NAD+ da NADH, permettendo alla glicolisi di continuare in condizioni anaerobiche."
+# 564:
+#   kind: mc
+#   text: "Quale processo di fermentazione produce NAD+ da NADH?"
+#   options:
+#     - Fermentazione alcolica
+#     - Fermentazione lattica
+#     - Entrambi i precedenti
+#     - Solo fermentazione alcolica
+#   correct: 2
+#   curiosity: "Sia la fermentazione alcolica che quella lattica rigenerano NAD+ da NADH, permettendo alla glicolisi di continuare in condizioni anaerobiche."
 
 565:
   kind: mc
-  text: "Qual è la differenza principale tra NADH e FADH2?"
+  text: "Qual è la differenza principale tra NADH e $FADH_2$?"
   options:
-    - NADH è una molecola di carboidrato, FADH2 no
-    - FADH2 non ha alcun ruolo nella respirazione cellulare
-    - NADH trasporta più energia per molecola rispetto a FADH2
+    - NADH è una molecola di carboidrato, $FADH_2$ no
+    - $FADH_2$ non ha alcun ruolo nella respirazione cellulare
+    - NADH trasporta più energia per molecola rispetto a $FADH_2$
     - NADH è prodotto solo nella fermentazione
   correct: 2
-  curiosity: "NADH trasporta più energia per molecola rispetto a FADH2 e contribuisce a generare più ATP nella catena di trasporto degli elettroni."
+  curiosity: 
 
 566:
   kind: mc
@@ -6171,62 +6171,62 @@
     - Mitocondri
     - Reticolo endoplasmatico
   correct: 2
-  curiosity: "Nei mitocondri, il NADH viene ossidato nella catena di trasporto degli elettroni, producendo ATP come fonte energetica per la cellula."
+  curiosity: 
 
-567:
-  kind: mc
-  text: "Cosa succede a NADH nella catena di trasporto degli elettroni?"
-  options:
-    - Viene degradato
-    - Non ha alcun ruolo
-    - Viene ossidato, rilasciando elettroni che vengono utilizzati per produrre ATP
-    - Viene convertito in glucosio
-  correct: 2
-  curiosity: "Nella catena di trasporto degli elettroni, il NADH si ossida e rilascia elettroni che generano ATP, fornendo energia essenziale per la cellula."
+# 567:
+#   kind: mc
+#   text: "Cosa succede a NADH nella catena di trasporto degli elettroni?"
+#   options:
+#     - Viene degradato
+#     - Non ha alcun ruolo
+#     - Viene ossidato, rilasciando elettroni che vengono utilizzati per produrre ATP
+#     - Viene convertito in glucosio
+#   correct: 2
+#   curiosity: "Nella catena di trasporto degli elettroni, il NADH si ossida e rilascia elettroni che generano ATP, fornendo energia essenziale per la cellula."
 
 568:
   kind: mc
-  text: "Qual è il risultato finale della riduzione di NAD+?"
+  text: "Qual è il risultato finale della riduzione di $NAD^+$?"
   options:
     - Si produce ATP
     - Si sintetizzano lipidi
     - Si forma NADH
     - Si degradano proteine
   correct: 2
-  curiosity: "Il NAD+ si riduce a NADH, che serve come trasportatore di elettroni in vari processi metabolici."
+  curiosity: 
 
-569:
-  kind: mc
-  text: "Cosa sono i coenzimi?"
-  options:
-    - Proteine che catalizzano reazioni
-    - Molecole di DNA
-    - Molecole organiche che assistono gli enzimi nelle loro funzioni
-    - Solo vitamine
-  correct: 2
-  curiosity: "I coenzimi sono molecole organiche che assistono gli enzimi, spesso trasportando gruppi chimici o elettroni nelle reazioni biochimiche."
+# 569:
+#   kind: mc
+#   text: "Cosa sono i coenzimi?"
+#   options:
+#     - Proteine che catalizzano reazioni
+#     - Molecole di DNA
+#     - Molecole organiche che assistono gli enzimi nelle loro funzioni
+#     - Solo vitamine
+#   correct: 2
+#   curiosity: "I coenzimi sono molecole organiche che assistono gli enzimi, spesso trasportando gruppi chimici o elettroni nelle reazioni biochimiche."
 
-570:
-  kind: mc
-  text: "Quale coenzima è importante per la sintesi del colesterolo?"
-  options:
-    - NAD+
-    - FADH2
-    - Coenzima A
-    - NADH
-  correct: 2
-  curiosity: "Il coenzima A (CoA) è cruciale per la sintesi del colesterolo, fornendo i gruppi acetilici necessari nella biosintesi lipidica."
+# 570:
+#   kind: mc
+#   text: "Quale coenzima è importante per la sintesi del colesterolo?"
+#   options:
+#     - NAD+
+#     - FADH2
+#     - Coenzima A
+#     - NADH
+#   correct: 2
+#   curiosity: "Il coenzima A (CoA) è cruciale per la sintesi del colesterolo, fornendo i gruppi acetilici necessari nella biosintesi lipidica."
 
-571:
-  kind: mc
-  text: "Qual è la funzione del NADPH?"
-  options:
-    - Fornire energia
-    - Ridurre i substrati durante la biosintesi
-    - Agire come agente riducente nelle reazioni di biosintesi e nei processi di difesa antiossidante
-    - Stabilizzare il DNA
-  correct: 2
-  curiosity: "Il NADPH è fondamentale come agente riducente nella biosintesi e nella difesa antiossidante, aiutando a mantenere l'equilibrio redox nelle cellule."
+# 571:
+#   kind: mc
+#   text: "Qual è la funzione del NADPH?"
+#   options:
+#     - Fornire energia
+#     - Ridurre i substrati durante la biosintesi
+#     - Agire come agente riducente nelle reazioni di biosintesi e nei processi di difesa antiossidante
+#     - Stabilizzare il DNA
+#   correct: 2
+#   curiosity: "Il NADPH è fondamentale come agente riducente nella biosintesi e nella difesa antiossidante, aiutando a mantenere l'equilibrio redox nelle cellule."
 
 572:
   kind: mc
@@ -6237,20 +6237,20 @@
     - Trasportare gruppi acetilici e partecipare alla sintesi di molecole come acidi grassi e colesterolo
     - Degradare proteine
   correct: 2
-  curiosity: "Il CoA trasporta gruppi acetilici, essenziali per il metabolismo energetico e la sintesi di molecole complesse come gli acidi grassi."
+  curiosity: 
 
-#FINALFIX
+#FIXME
 
 573:
   kind: mc
   text: "Qual è l'obiettivo principale della glicolisi?"
   options:
     - Produrre acidi grassi
-    - Ridurre il NAD+
+    - Ridurre il $NAD^+$
     - Degradare il glucosio per produrre energia
     - Sintetizzare proteine
   correct: 2
-  curiosity: "La glicolisi è il processo di degradazione del glucosio per produrre energia sotto forma di ATP e NADH."
+  curiosity: 
 
 574:
   kind: mc
@@ -6261,29 +6261,29 @@
     - Citoplasma
     - Reticolo endoplasmatico
   correct: 2
-  curiosity: "La glicolisi avviene nel citoplasma della cellula, dove il glucosio viene scisso in piruvato."
+  curiosity: 
 
 575:
   kind: mc
   text: "Quale molecola è il principale prodotto finale della glicolisi?"
   options:
     - NADH
-    - FADH2
+    - $FADH_2$
     - Piruvato
     - ATP
   correct: 2
-  curiosity: "Il principale prodotto finale della glicolisi è il piruvato, che può entrare nel ciclo di Krebs per ulteriori processi di produzione di energia."
+  curiosity: 
 
 576:
   kind: mc
   text: "Quante molecole di ATP vengono prodotte nella glicolisi?"
   options:
-    - 2
-    - 4
-    - 2 netti (4 totali, 2 consumati)
-    - 0
+    - 3 nette (5 totali, 2 consumate)
+    - 4 nette (8 totali, 4 consumate)
+    - 2 nette (4 totali, 2 consumate)
+    - 5 nette (7 totali, 2 consumate)
   correct: 2
-  curiosity: "Nella glicolisi vengono prodotte 4 molecole di ATP, ma poiché se ne consumano 2, il guadagno netto è di 2 ATP."
+  curiosity: 
 
 577:
   kind: mc
@@ -6291,10 +6291,10 @@
   options:
     - FAD
     - Coenzima A
-    - NAD+
+    - $NAD^+$
     - ATP
   correct: 2
-  curiosity: "Durante la glicolisi, il NAD+ viene ridotto a NADH, che poi trasporta elettroni alla catena di trasporto degli elettroni."
+  curiosity: 
 
 578:
   kind: mc
@@ -6305,29 +6305,29 @@
     - Fosforilazione del glucosio a glucosio-6-fosfato
     - Conversione dell'ADP in ATP
   correct: 2
-  curiosity: "L'enzima esochinasi catalizza la fosforilazione del glucosio, trasformandolo in glucosio-6-fosfato, il primo passo della glicolisi."
+  curiosity: 
 
-579:
-  kind: mc
-  text: "Qual è la funzione del fruttosio-1,6-bisfosfato nella glicolisi?"
-  options:
-    - È un prodotto finale
-    - Stabilizza l'enzima
-    - È un intermediario che regola la glicolisi
-    - Non ha alcuna funzione
-  correct: 2
-  curiosity: "Il fruttosio-1,6-bisfosfato è un intermediario chiave che regola la velocità della glicolisi, influenzando l'attività degli enzimi coinvolti."
+# 579:
+#   kind: mc
+#   text: "Qual è la funzione del fruttosio-1,6-bisfosfato nella glicolisi?"
+#   options:
+#     - È un prodotto finale
+#     - Stabilizza l'enzima
+#     - È un intermediario che regola la glicolisi
+#     - Non ha alcuna funzione
+#   correct: 2
+#   curiosity: "Il fruttosio-1,6-bisfosfato è un intermediario chiave che regola la velocità della glicolisi, influenzando l'attività degli enzimi coinvolti."
 
-580:
-  kind: mc
-  text: "Quale enzima è responsabile della conversione del glucosio-6-fosfato in fruttosio-6-fosfato?"
-  options:
-    - Aldolasi
-    - Fosfofruttochinasi
-    - Fosfoglucosi isomerasi
-    - Esokinasi
-  correct: 2
-  curiosity: "L'enzima fosfoglucosi isomerasi catalizza la conversione del glucosio-6-fosfato in fruttosio-6-fosfato, un passaggio fondamentale della glicolisi."
+# 580:
+#   kind: mc
+#   text: "Quale enzima è responsabile della conversione del glucosio-6-fosfato in fruttosio-6-fosfato?"
+#   options:
+#     - Aldolasi
+#     - Fosfofruttochinasi
+#     - Fosfoglucosi isomerasi
+#     - Esokinasi
+#   correct: 2
+#   curiosity: "L'enzima fosfoglucosi isomerasi catalizza la conversione del glucosio-6-fosfato in fruttosio-6-fosfato, un passaggio fondamentale della glicolisi."
 
 581:
   kind: mc
@@ -6338,7 +6338,7 @@
     - Glucosio
     - Acido piruvico
   correct: 2
-  curiosity: "Il glucosio è il substrato principale nella prima fase della glicolisi, dove viene scisso in piruvato."
+  curiosity: 
 
 582:
   kind: mc
@@ -6349,29 +6349,29 @@
     - Viene convertito in acido citrico
     - Rimane immutato
   correct: 1
-  curiosity: "In condizioni anaerobiche, il piruvato viene convertito in lattato nei muscoli o in etanolo nei lieviti per rigenerare NAD+."
+  curiosity: 
 
-583:
-  kind: mc
-  text: "Qual è il ruolo dell'enzima fosfofruttochinasi nella glicolisi?"
-  options:
-    - Inizia la glicolisi
-    - Regola il passo chiave della glicolisi
-    - Degrada il piruvato
-    - Produce ATP
-  correct: 1
-  curiosity: "La fosfofruttochinasi è un enzima chiave che regola il passo critico della glicolisi, la fosforilazione del fruttosio-6-fosfato."
+# 583:
+#   kind: mc
+#   text: "Qual è il ruolo dell'enzima fosfofruttochinasi nella glicolisi?"
+#   options:
+#     - Inizia la glicolisi
+#     - Regola il passo chiave della glicolisi
+#     - Degrada il piruvato
+#     - Produce ATP
+#   correct: 1
+#   curiosity: 
 
-584:
-  kind: mc
-  text: "Durante quale fase della glicolisi viene prodotta la maggior parte dell'ATP?"
-  options:
-    - Fase di investimento
-    - Fase di preparazione
-    - Fase di recupero
-    - Fase finale
-  correct: 2
-  curiosity: "La fase di recupero della glicolisi produce la maggior parte dell'ATP, attraverso la fosforilazione a livello di substrato."
+# 584:
+#   kind: mc
+#   text: "Durante quale fase della glicolisi viene prodotta la maggior parte dell'ATP?"
+#   options:
+#     - Fase di investimento
+#     - Fase di preparazione
+#     - Fase di recupero
+#     - Fase finale
+#   correct: 2
+#   curiosity: "La fase di recupero della glicolisi produce la maggior parte dell'ATP, attraverso la fosforilazione a livello di substrato."
 
 585:
   kind: mc
@@ -6382,7 +6382,7 @@
     - Acetil-CoA
     - ATP
   correct: 2
-  curiosity: "Durante la decarbossilazione ossidativa del piruvato, il piruvato viene trasformato in acetil-CoA, che entra nel ciclo di Krebs."
+  curiosity: 
 
 586:
   kind: mc
@@ -6393,7 +6393,7 @@
     - Consumo di ATP per attivare il glucosio
     - Degradazione del piruvato
   correct: 2
-  curiosity: "Durante la fase di investimento della glicolisi, vengono consumate 2 molecole di ATP per attivare il glucosio e avviare il processo."
+  curiosity: 
 
 587:
   kind: mc
@@ -6404,18 +6404,18 @@
     - Fornisce piruvato e NADH per il ciclo di Krebs
     - Non ha alcuna importanza
   correct: 2
-  curiosity: "La glicolisi è importante per la respirazione cellulare perché fornisce piruvato e NADH, che sono essenziali per il ciclo di Krebs."
+  curiosity: 
 
-588:
-  kind: mc
-  text: "Qual è l'enzima chiave che catalizza la reazione di fosforilazione del fruttosio-6-fosfato?"
-  options:
-    - Aldolasi
-    - Isomerasi
-    - Fosfofruttochinasi
-    - Esokinasi
-  correct: 2
-  curiosity: "La fosfofruttochinasi è l'enzima chiave che catalizza la fosforilazione del fruttosio-6-fosfato, regolando il ritmo della glicolisi."
+# 588:
+#   kind: mc
+#   text: "Qual è l'enzima chiave che catalizza la reazione di fosforilazione del fruttosio-6-fosfato?"
+#   options:
+#     - Aldolasi
+#     - Isomerasi
+#     - Fosfofruttochinasi
+#     - Esokinasi
+#   correct: 2
+#   curiosity: "La fosfofruttochinasi è l'enzima chiave che catalizza la fosforilazione del fruttosio-6-fosfato, regolando il ritmo della glicolisi."
 
 589:
   kind: mc
@@ -6426,18 +6426,18 @@
     - Viene ossidato in acetil-CoA per entrare nel ciclo di Krebs
     - Viene degradato in ATP
   correct: 2
-  curiosity: "In condizioni aerobiche, il piruvato prodotto dalla glicolisi viene ossidato in acetil-CoA e introdotto nel ciclo di Krebs."
+  curiosity: 
 
-590:
-  kind: mc
-  text: "Qual è il prodotto della glicolisi in condizioni anaerobiche nei muscoli umani?"
-  options:
-    - Acetil-CoA
-    - Acido citrico
-    - Acido lattico
-    - Glucosio
-  correct: 2
-  curiosity: "In condizioni anaerobiche, il piruvato prodotto dalla glicolisi viene convertito in acido lattico nei muscoli per rigenerare NAD+."
+# 590:
+#   kind: mc
+#   text: "Qual è il prodotto della glicolisi in condizioni anaerobiche nei muscoli umani?"
+#   options:
+#     - Acetil-CoA
+#     - Acido citrico
+#     - Acido lattico
+#     - Glucosio
+#   correct: 2
+#   curiosity: "In condizioni anaerobiche, il piruvato prodotto dalla glicolisi viene convertito in acido lattico nei muscoli per rigenerare NAD+."
 
 591:
   kind: mc
@@ -6445,34 +6445,34 @@
   options:
     - 1
     - 2
-    - 2
+    - 3
     - 4
-  correct: 2
-  curiosity: "Durante la glicolisi vengono prodotte 2 molecole di NADH, che successivamente trasferiscono elettroni alla catena di trasporto degli elettroni."
+  correct: 1
+  curiosity: 
 
-592:
-  kind: mc
-  text: "Quale composto è un inibitore allosterico della fosfofruttochinasi?"
-  options:
-    - ADP
-    - NADH
-    - Citrato
-    - ATP
-  correct: 2
-  curiosity: "Il citrato è un inibitore allosterico della fosfofruttochinasi, rallentando la glicolisi quando i livelli di energia sono sufficienti."
+# 592:
+#   kind: mc
+#   text: "Quale composto è un inibitore allosterico della fosfofruttochinasi?"
+#   options:
+#     - ADP
+#     - NADH
+#     - Citrato
+#     - ATP
+#   correct: 2
+#   curiosity: "Il citrato è un inibitore allosterico della fosfofruttochinasi, rallentando la glicolisi quando i livelli di energia sono sufficienti."
 
-#FINALFIX
+#FIXME
 
 593:
   kind: mc
   text: "Qual è il principale obiettivo della fermentazione?"
   options:
-    - Produzione di ATP in assenza di ossigeno
-    - Degradazione completa del glucosio
+    - Produrre ATP in presenza di ossigeno
+    - Degradare completamente il glucosio
     - Generare energia senza ossigeno
-    - Sintesi di acidi nucleici
+    - Sintetizzare acidi nucleici
   correct: 2
-  curiosity: "La fermentazione è un processo anaerobico che consente alle cellule di generare energia senza ossigeno."
+  curiosity: 
 
 594:
   kind: mc
@@ -6483,7 +6483,7 @@
     - Etanolo
     - Acido citrico
   correct: 2
-  curiosity: "La fermentazione alcolica produce principalmente etanolo e anidride carbonica come sottoprodotti."
+  curiosity: 
 
 595:
   kind: mc
@@ -6494,7 +6494,7 @@
     - Nei muscoli degli animali e in alcuni batteri
     - Solo nelle piante
   correct: 2
-  curiosity: "La fermentazione lattica si verifica nei muscoli degli animali, come nei muscoli umani durante sforzi intensi, e in alcuni batteri."
+  curiosity: 
 
 596:
   kind: mc
@@ -6503,53 +6503,53 @@
     - Acido lattico
     - NADH
     - Piruvato
-    - Glucosio
+    - Nessuna delle precedenti
   correct: 2
-  curiosity: "Il piruvato è il prodotto finale della glicolisi e il principale substrato per la fermentazione."
+  curiosity: 
 
-597:
-  kind: mc
-  text: "Quale processo avviene durante la fermentazione alcolica?"
-  options:
-    - Ossidazione del NADH a NAD+
-    - Produzione di ATP
-    - Conversione del piruvato in etanolo e anidride carbonica
-    - Degradazione del glucosio in acidi grassi
-  correct: 2
-  curiosity: "Durante la fermentazione alcolica, il piruvato viene decarbossilato e convertito in etanolo e CO2."
+# 597:
+#   kind: mc
+#   text: "Quale processo avviene durante la fermentazione alcolica?"
+#   options:
+#     - Ossidazione del NADH a NAD+
+#     - Produzione di ATP
+#     - Conversione del piruvato in etanolo e anidride carbonica
+#     - Degradazione del glucosio in acidi grassi
+#   correct: 2
+#   curiosity: "Durante la fermentazione alcolica, il piruvato viene decarbossilato e convertito in etanolo e CO2."
 
-598:
-  kind: mc
-  text: "Cosa succede al NADH durante la fermentazione?"
-  options:
-    - Viene completamente degradato
-    - Viene convertito in ATP
-    - Viene ossidato a NAD+ per rigenerare i coenzimi
-    - Non ha alcun ruolo
-  correct: 2
-  curiosity: "Il NADH viene ossidato a NAD+ durante la fermentazione, permettendo alla glicolisi di continuare senza ossigeno."
+# 598:
+#   kind: mc
+#   text: "Cosa succede al NADH durante la fermentazione?"
+#   options:
+#     - Viene completamente degradato
+#     - Viene convertito in ATP
+#     - Viene ossidato a NAD+ per rigenerare i coenzimi
+#     - Non ha alcun ruolo
+#   correct: 2
+#   curiosity: "Il NADH viene ossidato a NAD+ durante la fermentazione, permettendo alla glicolisi di continuare senza ossigeno."
 
-599:
-  kind: mc
-  text: "Quale delle seguenti affermazioni è vera riguardo alla fermentazione?"
-  options:
-    - È un processo aerobico
-    - Produce grandi quantità di ATP
-    - Si verifica in assenza di ossigeno
-    - Non coinvolge enzimi
-  correct: 2
-  curiosity: "La fermentazione è un processo anaerobico, che avviene in assenza di ossigeno e consente la produzione di piccole quantità di ATP."
+# 599:
+#   kind: mc
+#   text: "Quale delle seguenti affermazioni è vera riguardo alla fermentazione?"
+#   options:
+#     - È un processo aerobico
+#     - Produce grandi quantità di ATP
+#     - Si verifica in assenza di ossigeno
+#     - Non coinvolge enzimi
+#   correct: 2
+#   curiosity: "La fermentazione è un processo anaerobico, che avviene in assenza di ossigeno e consente la produzione di piccole quantità di ATP."
 
-600:
-  kind: mc
-  text: "Quale enzima è coinvolto nella fermentazione alcolica?"
-  options:
-    - Lattato deidrogenasi
-    - Alcol deidrogenasi
-    - Piruvato decarbossilasi
-    - Aldolasi
-  correct: 2
-  curiosity: "La piruvato decarbossilasi e l'alcol deidrogenasi sono enzimi chiave nella fermentazione alcolica, che converte il piruvato in etanolo."
+# 600:
+#   kind: mc
+#   text: "Quale enzima è coinvolto nella fermentazione alcolica?"
+#   options:
+#     - Lattato deidrogenasi
+#     - Alcol deidrogenasi
+#     - Piruvato decarbossilasi
+#     - Aldolasi
+#   correct: 2
+#   curiosity: "La piruvato decarbossilasi e l'alcol deidrogenasi sono enzimi chiave nella fermentazione alcolica, che converte il piruvato in etanolo."
 
 601:
   kind: mc
@@ -6560,29 +6560,29 @@
     - Acido lattico
     - Piruvato
   correct: 2
-  curiosity: "Il prodotto finale della fermentazione lattica è l'acido lattico, che si forma quando il piruvato viene ridotto."
+  curiosity: 
 
 602:
   kind: mc
-  text: "Qual è la reazione chimica principale della fermentazione alcolica?"
+  text: "Qual è il prodotto principale della fermentazione alcolica?"
   options:
-    - Glucosio → Etanolo + CO2
-    - Piruvato → Acido lattico
-    - Glucosio → Etanolo + CO2
-    - NADH → NAD+ + ATP
+    - Etanolo + $O_2$
+    - Acido lattico
+    - Etanolo + $CO_2$
+    - ATP
   correct: 2
-  curiosity: "La fermentazione alcolica converte il glucosio in etanolo e anidride carbonica, con il rilascio di una piccola quantità di ATP."
+  curiosity: 
 
-603:
-  kind: mc
-  text: "Cosa accade al piruvato in condizioni anaerobiche?"
-  options:
-    - Viene completamente ossidato
-    - Viene convertito in acido citrico
-    - Viene ridotto in acido lattico o etanolo
-    - Rimane immutato
-  correct: 2
-  curiosity: "In assenza di ossigeno, il piruvato viene ridotto a acido lattico (fermentazione lattica) o etanolo (fermentazione alcolica)."
+# 603:
+#   kind: mc
+#   text: "Cosa accade al piruvato in condizioni anaerobiche?"
+#   options:
+#     - Viene completamente ossidato
+#     - Viene convertito in acido citrico
+#     - Viene ridotto in acido lattico o etanolo
+#     - Rimane immutato
+#   correct: 2
+#   curiosity: "In assenza di ossigeno, il piruvato viene ridotto a acido lattico (fermentazione lattica) o etanolo (fermentazione alcolica)."
 
 604:
   kind: mc
@@ -6591,75 +6591,75 @@
     - Produce meno ATP
     - Non utilizza NAD+
     - Produce sottoprodotti tossici
-    - Avviene solo in piante
+    - Avviene solo nelle piante
   correct: 0
-  curiosity: "La fermentazione produce molto meno ATP rispetto alla respirazione cellulare, che è più efficiente nel generare energia."
+  curiosity: 
 
 605:
   kind: mc
   text: "In quali condizioni si verifica la fermentazione lattica nei muscoli umani?"
   options:
-    - Solo a riposo
-    - Solo durante l'esercizio leggero
-    - In condizioni di intensa attività fisica quando l'ossigeno è limitato
-    - Solo durante il sonno
+    - Quando si è molto tempo a riposo
+    - Durante l'esercizio leggero
+    - Durante un'intensa attività fisica
+    - Quando si dorme
   correct: 2
-  curiosity: "La fermentazione lattica nei muscoli umani avviene durante l'esercizio intenso quando l'apporto di ossigeno non è sufficiente."
+  curiosity: 
 
-606:
-  kind: mc
-  text: "Qual è la funzione del NAD+ nella fermentazione?"
-  options:
-    - Fornire energia
-    - Agire come substrato
-    - Permettere la continuazione della glicolisi
-    - Degradare il glucosio
-  correct: 2
-  curiosity: "Il NAD+ è rigenerato durante la fermentazione per consentire il continuo svolgimento della glicolisi in assenza di ossigeno."
+# 606:
+#   kind: mc
+#   text: "Qual è la funzione del NAD+ nella fermentazione?"
+#   options:
+#     - Fornire energia
+#     - Agire come substrato
+#     - Permettere la continuazione della glicolisi
+#     - Degradare il glucosio
+#   correct: 2
+#   curiosity: "Il NAD+ è rigenerato durante la fermentazione per consentire il continuo svolgimento della glicolisi in assenza di ossigeno."
 
-607:
-  kind: mc
-  text: "Qual è una delle principali applicazioni della fermentazione alcolica?"
-  options:
-    - Produzione di ATP
-    - Sintesi di acidi nucleici
-    - Produzione di bevande alcoliche e pane
-    - Produzione di energia per le cellule vegetali
-  correct: 2
-  curiosity: "La fermentazione alcolica è ampiamente utilizzata per produrre bevande alcoliche e pane grazie alla produzione di etanolo e CO2."
+# 607:
+#   kind: mc
+#   text: "Qual è una delle principali applicazioni della fermentazione alcolica?"
+#   options:
+#     - Produzione di ATP
+#     - Sintesi di acidi nucleici
+#     - Produzione di bevande alcoliche e pane
+#     - Produzione di energia per le cellule vegetali
+#   correct: 2
+#   curiosity: "La fermentazione alcolica è ampiamente utilizzata per produrre bevande alcoliche e pane grazie alla produzione di etanolo e CO2."
 
-608:
-  kind: mc
-  text: "Quale tipo di fermentazione avviene negli organismi unicellulari come i lieviti?"
-  options:
-    - Fermentazione lattica
-    - Fermentazione acetica
-    - Fermentazione alcolica
-    - Fermentazione malolattica
-  correct: 2
-  curiosity: "Nei lieviti, la fermentazione alcolica è il processo principale attraverso cui il glucosio viene convertito in etanolo e CO2."
+# 608:
+#   kind: mc
+#   text: "Quale tipo di fermentazione avviene negli organismi unicellulari come i lieviti?"
+#   options:
+#     - Fermentazione lattica
+#     - Fermentazione acetica
+#     - Fermentazione alcolica
+#     - Fermentazione malolattica
+#   correct: 2
+#   curiosity: "Nei lieviti, la fermentazione alcolica è il processo principale attraverso cui il glucosio viene convertito in etanolo e CO2."
 
-609:
-  kind: mc
-  text: "Qual è l'importanza della fermentazione per gli organismi anaerobi?"
-  options:
-    - Permette la respirazione cellulare
-    - Produce più ATP rispetto alla respirazione
-    - Fornisce energia in assenza di ossigeno
-    - Non ha alcuna importanza
-  correct: 2
-  curiosity: "La fermentazione è fondamentale per gli organismi anaerobi poiché consente la produzione di energia senza la necessità di ossigeno."
+# 609:
+#   kind: mc
+#   text: "Qual è l'importanza della fermentazione per gli organismi anaerobi?"
+#   options:
+#     - Permette la respirazione cellulare
+#     - Produce più ATP rispetto alla respirazione
+#     - Fornisce energia in assenza di ossigeno
+#     - Non ha alcuna importanza
+#   correct: 2
+#   curiosity: "La fermentazione è fondamentale per gli organismi anaerobi poiché consente la produzione di energia senza la necessità di ossigeno."
 
-610:
-  kind: mc
-  text: "Cosa produce la fermentazione lattica nei batteri?"
-  options:
-    - Acido lattico
-    - Etanolo
-    - Entrambi i precedenti
-    - Acido acetico
-  correct: 2
-  curiosity: "La fermentazione lattica nei batteri produce principalmente acido lattico come sottoprodotto."
+# 610:
+#   kind: mc
+#   text: "Cosa produce la fermentazione lattica nei batteri?"
+#   options:
+#     - Acido lattico
+#     - Etanolo
+#     - Entrambi i precedenti
+#     - Acido acetico
+#   correct: 2
+#   curiosity: "La fermentazione lattica nei batteri produce principalmente acido lattico come sottoprodotto."
 
 611:
   kind: mc
@@ -6670,20 +6670,20 @@
     - Acetil-CoA
     - Etanolo
   correct: 2
-  curiosity: "L'acetil-CoA è essenziale per il ciclo di Krebs e viene prodotto dal piruvato in condizioni aerobiche, ma non dalla fermentazione."
+  curiosity: 
 
-612:
-  kind: mc
-  text: "Quale tipo di fermentazione è comunemente utilizzata nella produzione di yogurt?"
-  options:
-    - Fermentazione alcolica
-    - Fermentazione lattica
-    - Fermentazione malolattica
-    - Fermentazione acetica
-  correct: 1
-  curiosity: "La fermentazione lattica, operata da batteri come il *Lactobacillus*, è utilizzata per produrre yogurt."
+# 612:
+#   kind: mc
+#   text: "Quale tipo di fermentazione è comunemente utilizzata nella produzione di yogurt?"
+#   options:
+#     - Fermentazione alcolica
+#     - Fermentazione lattica
+#     - Fermentazione malolattica
+#     - Fermentazione acetica
+#   correct: 1
+#   curiosity: "La fermentazione lattica, operata da batteri come il *Lactobacillus*, è utilizzata per produrre yogurt."
 
-#FINALFIX
+#FIXME
 
 613:
   kind: mc
@@ -6691,10 +6691,10 @@
   options:
     - Degradare il glucosio
     - Produrre energia
-    - Sintetizzare glucosio da precursori non zuccherini
+    - Sintetizzare glucosio
     - Convertire l'ATP in ADP
   correct: 2
-  curiosity: "La gluconeogenesi è il processo biologico che consente la sintesi del glucosio a partire da precursori non zuccherini."
+  curiosity: 
 
 614:
   kind: mc
@@ -6705,7 +6705,7 @@
     - Fegato
     - Rene
   correct: 2
-  curiosity: "La gluconeogenesi avviene principalmente nel fegato, ma anche nei reni, soprattutto durante il digiuno."
+  curiosity: 
 
 615:
   kind: mc
@@ -6716,18 +6716,18 @@
     - Piruvato, lattato e aminoacidi
     - Nessuna delle precedenti
   correct: 2
-  curiosity: "Il piruvato e il lattato sono i principali precursori per la gluconeogenesi, insieme agli aminoacidi."
+  curiosity: 
 
-616:
-  kind: mc
-  text: "Qual è la molecola di partenza per la gluconeogenesi?"
-  options:
-    - Glucosio
-    - Piruvato
-    - Acido lattico
-    - Acetil-CoA
-  correct: 1
-  curiosity: "La gluconeogenesi inizia con il piruvato, che viene convertito in glucosio."
+# 616:
+#   kind: mc
+#   text: "Qual è la molecola di partenza per la gluconeogenesi?"
+#   options:
+#     - Glucosio
+#     - Piruvato
+#     - Acido lattico
+#     - Acetil-CoA
+#   correct: 1
+#   curiosity: "La gluconeogenesi inizia con il piruvato, che viene convertito in glucosio."
 
 617:
   kind: mc
@@ -6738,7 +6738,7 @@
     - Degradare il glucosio
     - Produrre ATP
   correct: 1
-  curiosity: "La piruvato carbossilasi converte il piruvato in ossaloacetato, una tappa fondamentale della gluconeogenesi."
+  curiosity: 
 
 618:
   kind: mc
@@ -6749,40 +6749,40 @@
     - Citoplasma e mitocondri
     - Reticolo endoplasmatico
   correct: 2
-  curiosity: "La gluconeogenesi avviene sia nei mitocondri che nel citoplasma, con diverse fasi che si svolgono in ciascuna di queste aree."
+  curiosity: 
 
 619:
   kind: mc
   text: "Qual è l'importanza della gluconeogenesi durante il digiuno?"
   options:
     - Ridurre i livelli di glucosio nel sangue
-    - Produrre acidi grassi
-    - Mantenere i livelli di glucosio nel sangue per il cervello e i globuli rossi
+    - Produrre acidi grassi e ATP
+    - Mantenere i livelli di glucosio nel sangue
     - Non ha alcuna importanza
   correct: 2
-  curiosity: "Durante il digiuno, la gluconeogenesi è essenziale per mantenere i livelli di glucosio nel sangue, particolarmente importanti per il cervello e i globuli rossi."
+  curiosity: 
 
-620:
-  kind: mc
-  text: "Quale enzima è responsabile della conversione dell'ossaloacetato in fosfoenolpiruvato (PEP)?"
-  options:
-    - Piruvato chinasi
-    - Fumarasi
-    - PEP carbossichinasi
-    - Fruttosio-1,6-bisfosfatasi
-  correct: 2
-  curiosity: "La PEP carbossichinasi converte l'ossaloacetato in fosfoenolpiruvato (PEP), un passaggio cruciale nella gluconeogenesi."
+# 620:
+#   kind: mc
+#   text: "Quale enzima è responsabile della conversione dell'ossaloacetato in fosfoenolpiruvato (PEP)?"
+#   options:
+#     - Piruvato chinasi
+#     - Fumarasi
+#     - PEP carbossichinasi
+#     - Fruttosio-1,6-bisfosfatasi
+#   correct: 2
+#   curiosity: "La PEP carbossichinasi converte l'ossaloacetato in fosfoenolpiruvato (PEP), un passaggio cruciale nella gluconeogenesi."
 
-621:
-  kind: mc
-  text: "Cosa avviene al NADH durante la gluconeogenesi?"
-  options:
-    - Viene degradato
-    - Viene convertito in ATP
-    - Viene ossidato a NAD+
-    - Non ha alcun ruolo
-  correct: 2
-  curiosity: "Durante la gluconeogenesi, il NADH viene ossidato a NAD+ per consentire la continuazione del processo."
+# 621:
+#   kind: mc
+#   text: "Cosa avviene al NADH durante la gluconeogenesi?"
+#   options:
+#     - Viene degradato
+#     - Viene convertito in ATP
+#     - Viene ossidato a NAD+
+#     - Non ha alcun ruolo
+#   correct: 2
+#   curiosity: 
 
 622:
   kind: mc
@@ -6793,7 +6793,7 @@
     - La gluconeogenesi richiede enzimi diversi rispetto alla glicolisi
     - Non ci sono differenze significative
   correct: 2
-  curiosity: "La gluconeogenesi e la glicolisi sono processi opposti, con enzimi diversi coinvolti, nonostante entrambi condividano alcune reazioni."
+  curiosity: 
 
 623:
   kind: mc
@@ -6804,7 +6804,7 @@
     - Glucosio-6-fosfato
     - Acetil-CoA
   correct: 2
-  curiosity: "Il lattato è convertito in glucosio-6-fosfato, che può poi essere trasformato in glucosio."
+  curiosity: 
 
 624:
   kind: mc
@@ -6815,18 +6815,18 @@
     - Durante il digiuno o in stati di ipoglicemia
     - Durante il sonno profondo
   correct: 2
-  curiosity: "La gluconeogenesi è più attiva durante il digiuno o in condizioni di ipoglicemia, quando è necessario mantenere i livelli di glucosio."
+  curiosity: 
 
-625:
-  kind: mc
-  text: "Qual è il ruolo dell'enzima fruttosio-1,6-bisfosfatasia nella gluconeogenesi?"
-  options:
-    - Aumentare il livello di fruttosio-2,6-bisfosfato
-    - Convertire il fruttosio in glucosio
-    - De-fosforilare il fruttosio-1,6-bisfosfato in fruttosio-6-fosfato
-    - Produrre ATP
-  correct: 2
-  curiosity: "L'enzima fruttosio-1,6-bisfosfatasia de-fosforila il fruttosio-1,6-bisfosfato, un passo chiave nella gluconeogenesi."
+# 625:
+#   kind: mc
+#   text: "Qual è il ruolo dell'enzima fruttosio-1,6-bisfosfatasia nella gluconeogenesi?"
+#   options:
+#     - Aumentare il livello di fruttosio-2,6-bisfosfato
+#     - Convertire il fruttosio in glucosio
+#     - De-fosforilare il fruttosio-1,6-bisfosfato in fruttosio-6-fosfato
+#     - Produrre ATP
+#   correct: 2
+#   curiosity: "L'enzima fruttosio-1,6-bisfosfatasia de-fosforila il fruttosio-1,6-bisfosfato, un passo chiave nella gluconeogenesi."
 
 626:
   kind: mc
@@ -6837,7 +6837,7 @@
     - Adrenalina
     - Cortisolo
   correct: 1
-  curiosity: "Il glucagone stimola la gluconeogenesi, specialmente durante il digiuno, per aumentare i livelli di glucosio nel sangue."
+  curiosity: 
 
 627:
   kind: mc
@@ -6848,40 +6848,40 @@
     - La inibisce
     - La converte in glicolisi
   correct: 2
-  curiosity: "L'insulina inibisce la gluconeogenesi, poiché favorisce l'uso del glucosio e non la sua produzione."
+  curiosity: 
 
-628:
-  kind: mc
-  text: "Qual è il prodotto finale della gluconeogenesi?"
-  options:
-    - Piruvato
-    - Lattato
-    - Glucosio
-    - Acetil-CoA
-  correct: 2
-  curiosity: "Il prodotto finale della gluconeogenesi è il glucosio, che viene rilasciato nel sangue per mantenere i livelli glicemici."
+# 628:
+#   kind: mc
+#   text: "Qual è il prodotto finale della gluconeogenesi?"
+#   options:
+#     - Piruvato
+#     - Lattato
+#     - Glucosio
+#     - Acetil-CoA
+#   correct: 2
+#   curiosity: "Il prodotto finale della gluconeogenesi è il glucosio, che viene rilasciato nel sangue per mantenere i livelli glicemici."
 
-629:
-  kind: mc
-  text: "Quale tipo di aminoacido può essere convertito in glucosio attraverso la gluconeogenesi?"
-  options:
-    - Alanina
-    - Leucina
-    - Aspartato
-    - Glutammato
-  correct: 0
-  curiosity: "L'alanina è un aminoacido che può essere convertito in glucosio attraverso la gluconeogenesi."
+# 629:
+#   kind: mc
+#   text: "Quale tipo di aminoacido può essere convertito in glucosio attraverso la gluconeogenesi?"
+#   options:
+#     - Alanina
+#     - Leucina
+#     - Aspartato
+#     - Glutammato
+#   correct: 0
+#   curiosity: "L'alanina è un aminoacido che può essere convertito in glucosio attraverso la gluconeogenesi."
 
-630:
-  kind: mc
-  text: "Quale molecola serve come donatore di carbonio nella gluconeogenesi?"
-  options:
-    - Acido lattico
-    - Glicogeno
-    - Acetil-CoA
-    - Acido piruvico
-  correct: 3
-  curiosity: "Il piruvato è uno dei principali donatori di carbonio nella gluconeogenesi, che permette la sintesi del glucosio."
+# 630:
+#   kind: mc
+#   text: "Quale molecola serve come donatore di carbonio nella gluconeogenesi?"
+#   options:
+#     - Acido lattico
+#     - Glicogeno
+#     - Acetil-CoA
+#     - Acido piruvico
+#   correct: 3
+#   curiosity: "Il piruvato è uno dei principali donatori di carbonio nella gluconeogenesi, che permette la sintesi del glucosio."
 
 631:
   kind: mc
@@ -6892,20 +6892,20 @@
     - Viene rilasciato nel sangue per mantenere i livelli di glucosio
     - Viene convertito in ATP
   correct: 2
-  curiosity: "Il glucosio prodotto dalla gluconeogenesi viene rilasciato nel sangue per mantenere i livelli di glucosio necessari per il cervello e altri tessuti."
+  curiosity: 
 
-632:
-  kind: mc
-  text: "In che modo la gluconeogenesi e la glicolisi sono regolati reciprocamente?"
-  options:
-    - Non ci sono relazioni
-    - La glicolisi è inibita quando la gluconeogenesi è attiva e viceversa
-    - Entrambi i processi avvengono simultaneamente
-    - Sono sempre attivi indipendentemente dalla disponibilità di substrati
-  correct: 1
-  curiosity: "La glicolisi e la gluconeogenesi sono processi opposti e regolati in modo reciproco: quando uno è attivo, l'altro è inibito."
+# 632:
+#   kind: mc
+#   text: "In che modo la gluconeogenesi e la glicolisi sono regolati reciprocamente?"
+#   options:
+#     - Non ci sono relazioni
+#     - La glicolisi è inibita quando la gluconeogenesi è attiva e viceversa
+#     - Entrambi i processi avvengono simultaneamente
+#     - Sono sempre attivi indipendentemente dalla disponibilità di substrati
+#   correct: 1
+#   curiosity: "La glicolisi e la gluconeogenesi sono processi opposti e regolati in modo reciproco: quando uno è attivo, l'altro è inibito."
 
-#FINALFIX
+#FIXME
 
 633:
   kind: mc
@@ -6913,10 +6913,10 @@
   options:
     - Un meccanismo di degradazione delle proteine
     - Un tipo di mutazione genetica
-    - Un meccanismo di controllo dell'attività enzimatica tramite ligandi che si legano a siti diversi dal sito attivo
+    - Un meccanismo di controllo dell'attività enzimatica 
     - Un processo di replicazione del DNA
   correct: 2
-  curiosity: "La regolazione allosterica è un meccanismo che modula l'attività enzimatica attraverso legami di ligandi su siti distinti dal sito attivo."
+  curiosity: 
 
 634:
   kind: mc
@@ -6927,7 +6927,7 @@
     - Possono avere siti di legame sia per substrati che per regolatori
     - Sono sempre attivi
   correct: 2
-  curiosity: "Gli enzimi allosterici possiedono sia un sito attivo che uno o più siti allosterici dove si legano i regolatori."
+  curiosity: 
 
 635:
   kind: mc
@@ -6938,7 +6938,7 @@
     - Aumenta l'attività enzimatica
     - Non ha alcun effetto
   correct: 2
-  curiosity: "Un attivatore allosterico generalmente aumenta l'attività enzimatica, migliorando l'affinità per il substrato."
+  curiosity: 
 
 636:
   kind: mc
@@ -6949,7 +6949,7 @@
     - Viene inibito
     - Si denatura
   correct: 2
-  curiosity: "Quando un inibitore si lega a un enzima allosterico, l'attività enzimatica viene generalmente inibita."
+  curiosity: 
 
 637:
   kind: mc
@@ -6960,18 +6960,18 @@
     - Fosfofruttochinasi
     - DNA polimerasi
   correct: 2
-  curiosity: "La fosfofruttochinasi è un esempio di enzima regolato allostericamente, che gioca un ruolo chiave nella glicolisi."
+  curiosity: 
 
-638:
-  kind: mc
-  text: "Quale ruolo svolge il fruttosio-2,6-bisfosfato nella regolazione allosterica della glicolisi?"
-  options:
-    - È un substrato
-    - È un prodotto finale
-    - È un attivatore della fosfofruttochinasi
-    - È un inibitore della glicolisi
-  correct: 2
-  curiosity: "Il fruttosio-2,6-bisfosfato è un potente attivatore allosterico della fosfofruttochinasi, promuovendo la glicolisi."
+# 638:
+#   kind: mc
+#   text: "Quale ruolo svolge il fruttosio-2,6-bisfosfato nella regolazione allosterica della glicolisi?"
+#   options:
+#     - È un substrato
+#     - È un prodotto finale
+#     - È un attivatore della fosfofruttochinasi
+#     - È un inibitore della glicolisi
+#   correct: 2
+#   curiosity: "Il fruttosio-2,6-bisfosfato è un potente attivatore allosterico della fosfofruttochinasi, promuovendo la glicolisi."
 
 639:
   kind: mc
@@ -6981,19 +6981,19 @@
     - Fruttosio-1,6-bisfosfato
     - Acetil-CoA
     - NADH
-  correct: 2
-  curiosity: "L'ATP è un inibitore allosterico della piruvato chinasi, riducendo la sua attività quando i livelli di energia sono elevati."
+  correct: 0
+  curiosity: 
 
-640:
-  kind: mc
-  text: "Che effetto ha l'AMP sull'enzima fosfofruttochinasi?"
-  options:
-    - Lo inibisce
-    - Non ha alcun effetto
-    - Lo attiva
-    - Lo denatura
-  correct: 2
-  curiosity: "L'AMP attiva la fosfofruttochinasi, stimolando la glicolisi in condizioni di bassa energia cellulare."
+# 640:
+#   kind: mc
+#   text: "Che effetto ha l'AMP sull'enzima fosfofruttochinasi?"
+#   options:
+#     - Lo inibisce
+#     - Non ha alcun effetto
+#     - Lo attiva
+#     - Lo denatura
+#   correct: 2
+#   curiosity: 
 
 641:
   kind: mc
@@ -7004,7 +7004,7 @@
     - La regolazione competitiva avviene al sito attivo, mentre quella allosterica avviene in un sito diverso
     - Non ci sono differenze significative
   correct: 2
-  curiosity: "La regolazione competitiva avviene al sito attivo dell'enzima, mentre la regolazione allosterica coinvolge siti diversi."
+  curiosity: 
 
 642:
   kind: mc
@@ -7012,65 +7012,65 @@
   options:
     - Incrementare la velocità di degradazione dei substrati
     - Rendere gli enzimi più instabili
-    - Permettere il controllo fine dell'attività enzimatica in risposta a cambiamenti metabolici
+    - Permettere il controllo dell'attività enzimatica 
     - Bloccare completamente la reazione enzimatica
   correct: 2
-  curiosity: "La regolazione allosterica permette di modulare l'attività degli enzimi in risposta alle necessità metaboliche cellulari."
+  curiosity: 
 
-643:
-  kind: mc
-  text: "Quale fattore può agire come inibitore allosterico per la carbamilfosfato sintetasi?"
-  options:
-    - ATP
-    - AMP
-    - UTP
-    - Acido citrico
-  correct: 2
-  curiosity: "L'UTP è un inibitore allosterico per la carbamilfosfato sintetasi, regolando la sintesi di pirimidine."
+# 643:
+#   kind: mc
+#   text: "Quale fattore può agire come inibitore allosterico per la carbamilfosfato sintetasi?"
+#   options:
+#     - ATP
+#     - AMP
+#     - UTP
+#     - Acido citrico
+#   correct: 2
+#   curiosity: "L'UTP è un inibitore allosterico per la carbamilfosfato sintetasi, regolando la sintesi di pirimidine."
 
-644:
-  kind: mc
-  text: "Qual è un effetto della regolazione allosterica sulla curva di Michaelis-Menten di un enzima?"
-  options:
-    - La curva diventa più ripida
-    - La curva diventa più piatta
-    - La curva può mostrare un comportamento sigmoide
-    - Non cambia la forma della curva
-  correct: 2
-  curiosity: "Gli enzimi regolati allostericamente possono mostrare una curva sigmoide, indicativa di un'attività enzimatica cooperativa."
+# 644:
+#   kind: mc
+#   text: "Qual è un effetto della regolazione allosterica sulla curva di Michaelis-Menten di un enzima?"
+#   options:
+#     - La curva diventa più ripida
+#     - La curva diventa più piatta
+#     - La curva può mostrare un comportamento sigmoide
+#     - Non cambia la forma della curva
+#   correct: 2
+#   curiosity: "Gli enzimi regolati allostericamente possono mostrare una curva sigmoide, indicativa di un'attività enzimatica cooperativa."
 
-645:
-  kind: mc
-  text: "Qual è il meccanismo d'azione di un attivatore allosterico?"
-  options:
-    - Denatura l'enzima
-    - Si lega al sito attivo
-    - Modifica la struttura dell'enzima per aumentare l'affinità per il substrato
-    - Degrada il substrato
-  correct: 2
-  curiosity: "Un attivatore allosterico modifica la struttura dell'enzima per migliorarne l'affinità per il substrato e aumentare la sua attività."
+# 645:
+#   kind: mc
+#   text: "Qual è il meccanismo d'azione di un attivatore allosterico?"
+#   options:
+#     - Denatura l'enzima
+#     - Si lega al sito attivo
+#     - Modifica la struttura dell'enzima per aumentare l'affinità per il substrato
+#     - Degrada il substrato
+#   correct: 2
+#   curiosity: 
 
-646:
-  kind: mc
-  text: "Qual è l'importanza della regolazione allosterica nel metabolismo cellulare?"
-  options:
-    - Aumenta la produzione di calore
-    - Stabilizza le proteine
-    - Consente una rapida risposta ai cambiamenti nelle esigenze metaboliche
-    - Non ha alcuna importanza
-  correct: 2
-  curiosity: "La regolazione allosterica consente una rapida risposta ai cambiamenti metabolici, ottimizzando l'attività enzimatica."
+# 646:
+#   kind: mc
+#   text: "Qual è l'importanza della regolazione allosterica nel metabolismo cellulare?"
+#   options:
+#     - Aumenta la produzione di calore
+#     - Stabilizza le proteine
+#     - Consente una rapida risposta ai cambiamenti nelle esigenze metaboliche
+#     - Non ha alcuna importanza
+#   correct: 2
+#   curiosity: "La regolazione allosterica consente una rapida risposta ai cambiamenti metabolici, ottimizzando l'attività enzimatica."
 
-647:
-  kind: mc
-  text: "Quale dei seguenti è un esempio di feedback negativo in un percorso metabolico?"
-  options:
-    - ATP attivante la glicolisi
-    - AMP inibente la gluconeogenesi
-    - Acido citrico inibente la fosfofruttochinasi
-    - NAD+ attivante la fermentazione
-  correct: 2
-  curiosity: "L'acido citrico inibisce la fosfofruttochinasi, un esempio di feedback negativo che regola la glicolisi."
+# 647:
+#   kind: mc
+#   text: "Quale dei seguenti è un esempio di feedback negativo in un percorso metabolico?"
+#   options:
+#     - ATP attivante la glicolisi
+#     - AMP inibente la gluconeogenesi
+#     - Acido citrico inibente la fosfofruttochinasi
+#     - NAD+ attivante la fermentazione
+#   correct: 2
+#   curiosity: "L'acido citrico inibisce la fosfofruttochinasi, un esempio di feedback negativo che regola la glicolisi."
 
 648:
   kind: mc
@@ -7078,10 +7078,10 @@
   options:
     - È il sito dove si lega il substrato
     - È il sito dove avviene la reazione chimica
-    - È il sito dove si legano molecole regolatrici che modificano l'attività enzimatica
+    - È il sito dove si legano molecole regolatrici dell'attività enzimatica
     - Non ha alcuna funzione specifica
   correct: 2
-  curiosity: "Il sito allosterico è dove si legano le molecole regolatrici, influenzando l'attività dell'enzima."
+  curiosity: 
 
 649:
   kind: mc
@@ -7089,32 +7089,32 @@
   options:
     - Legame covalente
     - Legame ionico
-    - Interazione non covalente (come legami idrogeno o interazioni idrofobiche)
+    - Interazione NON covalente
     - Nessuna interazione
   correct: 2
-  curiosity: "Gli inibitori allosterici si legano all'enzima tramite interazioni non covalenti, come legami idrogeno o interazioni idrofobiche."
+  curiosity: 
 
-650:
-  kind: mc
-  text: "Quale effetto ha un elevato livello di ATP sull'enzima fosfofruttochinasi?"
-  options:
-    - Lo attiva
-    - Non ha alcun effetto
-    - Lo inibisce
-    - Lo denatura
-  correct: 2
-  curiosity: "Un elevato livello di ATP inibisce la fosfofruttochinasi, rallentando la glicolisi quando l'energia è abbondante."
+# 650:
+#   kind: mc
+#   text: "Quale effetto ha un elevato livello di ATP sull'enzima fosfofruttochinasi?"
+#   options:
+#     - Lo attiva
+#     - Non ha alcun effetto
+#     - Lo inibisce
+#     - Lo denatura
+#   correct: 2
+#   curiosity: "Un elevato livello di ATP inibisce la fosfofruttochinasi, rallentando la glicolisi quando l'energia è abbondante."
 
 651:
   kind: mc
   text: "Qual è il principale vantaggio della regolazione allosterica rispetto alla regolazione covalente?"
   options:
-    - È più lenta
+    - È più lenta ma più precisa
     - Non può essere reversibile
     - Permette una risposta più rapida alle variazioni ambientali
     - Non richiede energia
   correct: 2
-  curiosity: "La regolazione allosterica consente una risposta più rapida alle variazioni metaboliche rispetto alla regolazione covalente."
+  curiosity: 
 
 652:
   kind: mc
@@ -7125,42 +7125,42 @@
     - Concentrazione di substrato
     - Tutti i precedenti
   correct: 3
-  curiosity: "Temperatura, pH e concentrazione di substrato sono tutti fattori che possono influenzare la regolazione allosterica di un enzima."
+  curiosity: 
 
-#FINALFIX
+#FIXME
 
-653:
-  kind: mc
-  text: "Qual è la funzione principale dei mitocondri nella cellula?"
-  options:
-    - Sintesi di proteine
-    - Degradazione degli acidi nucleici
-    - Produzione di ATP attraverso la respirazione cellulare
-    - Sintesi di lipidi
-  correct: 2
-  curiosity: "I mitocondri sono noti come la centrale energetica della cellula, poiché producono ATP durante la respirazione cellulare."
+# 653:
+#   kind: mc
+#   text: "Qual è la funzione principale dei mitocondri nella cellula?"
+#   options:
+#     - Sintesi di proteine
+#     - Degradazione degli acidi nucleici
+#     - Produzione di ATP attraverso la respirazione cellulare
+#     - Sintesi di lipidi
+#   correct: 2
+#   curiosity: "I mitocondri sono noti come la centrale energetica della cellula, poiché producono ATP durante la respirazione cellulare."
 
-654:
-  kind: mc
-  text: "Quali sono le due membrane che delimitano i mitocondri?"
-  options:
-    - Membrana cellulare e membrana nucleare
-    - Membrana interna e membrana esterna
-    - Membrana interna e membrana esterna mitocondriale
-    - Membrana plasmatica e membrana lisosomiale
-  correct: 2
-  curiosity: "I mitocondri hanno una doppia membrana, la membrana interna e la membrana esterna, che giocano ruoli cruciali nella loro funzione."
+# 654:
+#   kind: mc
+#   text: "Quali sono le due membrane che delimitano i mitocondri?"
+#   options:
+#     - Membrana cellulare e membrana nucleare
+#     - Membrana interna e membrana esterna
+#     - Membrana interna e membrana esterna mitocondriale
+#     - Membrana plasmatica e membrana lisosomiale
+#   correct: 2
+#   curiosity: 
 
 655:
   kind: mc
   text: "Dove avviene il ciclo di Krebs all'interno del mitocondrio?"
   options:
-    - Nella matrice
+    - Nello spazio intermembrana
     - Sulla membrana esterna
     - Nella matrice mitocondriale
     - Sulla membrana interna
   correct: 2
-  curiosity: "Il ciclo di Krebs si svolge nella matrice mitocondriale, dove vengono prodotte molecole ad alta energia."
+  curiosity: 
 
 656:
   kind: mc
@@ -7171,40 +7171,40 @@
     - Ospitare la catena di trasporto degli elettroni
     - Produrre proteine mitocondriali
   correct: 2
-  curiosity: "La membrana interna mitocondriale ospita la catena di trasporto degli elettroni e la ATP sintasi, fondamentali per la produzione di ATP."
+  curiosity: 
 
 657:
   kind: mc
   text: "Cosa contiene la matrice mitocondriale?"
   options:
-    - Solo acqua
-    - Solo enzimi
+    - Enzimi e acqua
+    - Ribosomi e enzimi
     - Enzimi, DNA mitocondriale e ribosomi
-    - Solo lipidi
+    - Acqua e lipidi
   correct: 2
-  curiosity: "La matrice mitocondriale contiene enzimi per il ciclo di Krebs, il DNA mitocondriale e ribosomi per la sintesi proteica."
+  curiosity: 
 
 658:
   kind: mc
   text: "Qual è il ruolo della catena di trasporto degli elettroni?"
   options:
     - Produrre glucosio
-    - Degradare i lipidi
+    - Degradare ATP
     - Trasferire elettroni per generare un gradiente di protoni
     - Sintetizzare RNA
   correct: 2
-  curiosity: "La catena di trasporto degli elettroni trasferisce elettroni lungo una serie di complessi proteici, creando un gradiente di protoni che alimenta la produzione di ATP."
+  curiosity: 
 
-659:
-  kind: mc
-  text: "Qual è il prodotto finale della fosforilazione ossidativa?"
-  options:
-    - Piruvato
-    - Acido lattico
-    - ATP
-    - Acetil-CoA
-  correct: 2
-  curiosity: "Il prodotto finale della fosforilazione ossidativa è ATP, la principale fonte di energia per le cellule."
+# 659:
+#   kind: mc
+#   text: "Qual è il prodotto finale della fosforilazione ossidativa?"
+#   options:
+#     - Piruvato
+#     - Acido lattico
+#     - ATP
+#     - Acetil-CoA
+#   correct: 2
+#   curiosity: "Il prodotto finale della fosforilazione ossidativa è ATP, la principale fonte di energia per le cellule."
 
 660:
   kind: mc
@@ -7215,29 +7215,29 @@
     - Ospitare enzimi mitocondriali
     - Non hanno alcuna funzione specifica
   correct: 1
-  curiosity: "I pori nella membrana esterna mitocondriale permettono il passaggio di piccole molecole e ioni, facilitando lo scambio con il citoplasma."
+  curiosity: 
 
 661:
   kind: mc
   text: "Quale di queste affermazioni è vera riguardo al DNA mitocondriale?"
   options:
     - È identico a quello nucleare
-    - È completamente circolare
-    - È ereditato solo dalla madre
+    - È elicoidale
+    - È ereditato dalla madre
     - Non è presente nei mitocondri
   correct: 2
-  curiosity: "Il DNA mitocondriale è circolare e viene ereditato esclusivamente dalla madre, a differenza del DNA nucleare."
+  curiosity: 
 
-662:
-  kind: mc
-  text: "Qual è il ruolo dell'ATP sintasi?"
-  options:
-    - Degradare ATP
-    - Trasportare elettroni
-    - Sintetizzare ATP utilizzando il gradiente di protoni
-    - Ospitare il ciclo di Krebs
-  correct: 2
-  curiosity: "L'ATP sintasi utilizza il gradiente di protoni generato dalla catena di trasporto degli elettroni per sintetizzare ATP."
+# 662:
+#   kind: mc
+#   text: "Qual è il ruolo dell'ATP sintasi?"
+#   options:
+#     - Degradare ATP
+#     - Trasportare elettroni
+#     - Sintetizzare ATP utilizzando il gradiente di protoni
+#     - Ospitare il ciclo di Krebs
+#   correct: 2
+#   curiosity: "L'ATP sintasi utilizza il gradiente di protoni generato dalla catena di trasporto degli elettroni per sintetizzare ATP."
 
 663:
   kind: mc
@@ -7248,7 +7248,7 @@
     - Accumulo di protoni durante la respirazione cellulare
     - Sintesi di proteine
   correct: 2
-  curiosity: "Durante la respirazione cellulare, la catena di trasporto degli elettroni accumula protoni nello spazio intermembrana mitocondriale."
+  curiosity: 
 
 664:
   kind: mc
@@ -7259,18 +7259,18 @@
     - La catena di trasporto degli elettroni
     - La fermentazione
   correct: 2
-  curiosity: "La catena di trasporto degli elettroni genera un gradiente di protoni, che è utilizzato dall'ATP sintasi per produrre ATP."
+  curiosity: 
 
-665:
-  kind: mc
-  text: "Quale di questi composti entra nei mitocondri per essere utilizzato nel ciclo di Krebs?"
-  options:
-    - Glucosio
-    - Piruvato
-    - Acetil-CoA
-    - Acido lattico
-  correct: 2
-  curiosity: "Il piruvato, prodotto dalla glicolisi, entra nei mitocondri e viene convertito in acetil-CoA per essere utilizzato nel ciclo di Krebs."
+# 665:
+#   kind: mc
+#   text: "Quale di questi composti entra nei mitocondri per essere utilizzato nel ciclo di Krebs?"
+#   options:
+#     - Glucosio
+#     - Piruvato
+#     - Acetil-CoA
+#     - Acido lattico
+#   correct: 2
+#   curiosity: "Il piruvato, prodotto dalla glicolisi, entra nei mitocondri e viene convertito in acetil-CoA per essere utilizzato nel ciclo di Krebs."
 
 666:
   kind: mc
@@ -7281,18 +7281,18 @@
     - Fosforilazione ossidativa
     - Beta-ossidazione
   correct: 2
-  curiosity: "Il processo attraverso cui i mitocondri producono ATP è la fosforilazione ossidativa, che avviene grazie alla catena di trasporto degli elettroni."
+  curiosity: 
 
 667:
   kind: mc
   text: "Qual è la funzione del complesso I nella catena di trasporto degli elettroni?"
   options:
-    - Ridurre NAD+
+    - Ridurre $NAD^+$
     - Trasportare ATP
     - Ossidare NADH e trasferire elettroni
     - Non ha alcuna funzione
   correct: 2
-  curiosity: "Il complesso I ossida il NADH e trasferisce gli elettroni alla catena di trasporto, contribuendo alla creazione del gradiente di protoni."
+  curiosity: 
 
 668:
   kind: mc
@@ -7300,21 +7300,21 @@
   options:
     - Non ci sono effetti sulla cellula
     - La produzione di proteine aumenta
-    - La produzione di ATP diminuisce, causando una mancanza di energia cellulare
+    - La produzione di ATP diminuisce
     - Si produce solo glucosio
   correct: 2
-  curiosity: "Se i mitocondri non funzionano correttamente, la produzione di ATP diminuisce, causando carenza di energia cellulare."
+  curiosity: 
 
-669:
-  kind: mc
-  text: "Qual è la funzione del citocromo c?"
-  options:
-    - Produrre ATP
-    - Legare il DNA
-    - Trasferire elettroni tra i complessi della catena di trasporto degli elettroni
-    - Ospitare il ciclo di Krebs
-  correct: 2
-  curiosity: "Il citocromo c trasferisce elettroni tra i complessi della catena di trasporto degli elettroni, contribuendo alla produzione di ATP."
+# 669:
+#   kind: mc
+#   text: "Qual è la funzione del citocromo c?"
+#   options:
+#     - Produrre ATP
+#     - Legare il DNA
+#     - Trasferire elettroni tra i complessi della catena di trasporto degli elettroni
+#     - Ospitare il ciclo di Krebs
+#   correct: 2
+#   curiosity: "Il citocromo c trasferisce elettroni tra i complessi della catena di trasporto degli elettroni, contribuendo alla produzione di ATP."
 
 670:
   kind: mc
@@ -7325,7 +7325,7 @@
     - Viene degradato nei mitocondri
     - È un prodotto finale della respirazione cellulare
   correct: 1
-  curiosity: "Il calcio regola il metabolismo e la produzione di ATP nei mitocondri, influenzando anche la respirazione cellulare."
+  curiosity: 
 
 671:
   kind: mc
@@ -7336,20 +7336,20 @@
     - Consente di ottimizzare reazioni metaboliche diverse in spazi specifici
     - Non ha alcuna importanza
   correct: 2
-  curiosity: "La compartimentalizzazione mitocondriale ottimizza le reazioni metaboliche, separando diversi processi in spazi specifici come la matrice e lo spazio intermembrana."
+  curiosity: 
 
 672:
   kind: mc
   text: "Cosa determina il potenziale di membrana mitocondriale?"
   options:
     - La temperatura
-    - La quantità di glucosio
+    - La quantità di glucosio tra le due membrane
     - La distribuzione di protoni tra le due membrane
     - La quantità di ossigeno disponibile
   correct: 2
-  curiosity: "Il potenziale di membrana mitocondriale dipende dalla distribuzione di protoni tra le due membrane, che crea un gradiente necessario per la sintesi di ATP."
+  curiosity: 
 
-#FINALFIX
+#FIXME
 
 673:
   kind: mc

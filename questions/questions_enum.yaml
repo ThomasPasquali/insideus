@@ -1,7 +1,7 @@
 
 2001:
   kind: enum
-  text: Elenca le differenze tra cellule procariote ed eucariote.
+  text: Elenca le differenze tra cellule procariote ed eucariote
   options:
     - Le cellule eucariote hanno un nucleo delimitato da membrana
     - Le cellule procariote NON contengono mitocondri
@@ -19,7 +19,7 @@
 
 2003:
   kind: enum
-  text: Elenca i componenti del sistema endomembranoso.
+  text: Elenca i componenti del sistema endomembranoso
   options:
     - Membrana cellulare
     - Involucro nucleare
@@ -28,7 +28,7 @@
 
 2004:
   kind: enum
-  text: Elenca degli esempi di organismi unicellulari.
+  text: Elenca degli esempi di organismi unicellulari
   options:
     - Eubatteri
     - Archeobatteri
@@ -173,7 +173,7 @@
 
 2019:
   kind: enum
-  text: Elenca dei polisaccaridi
+  text: Elenca degli esempi di polisaccaridi
   options:
     - Amido
     - Cellulosa
@@ -182,7 +182,7 @@
 
 2020:
   kind: enum
-  text: Elenca dei nucleotidi
+  text: Elenca degli esempi di nucleotidi
   options:
     - Adenina
     - Guanina
@@ -191,7 +191,7 @@
 
 2021:
   kind: enum
-  text: Elenca delle proteine
+  text: Elenca degli esempi di proteine
   options:
     - Collagene
     - Emoglobina
@@ -213,7 +213,7 @@
 
 2023:
   kind: enum
-  text: Elenca dei carboidrati
+  text: Elenca degli esempi di carboidrati
   options:
     - Saccarosio
     - Fruttosio
@@ -233,7 +233,7 @@
 
 2025:
   kind: enum
-  text: Elenca dei steroidi
+  text: Elenca degli esempi di steroidi
   options:
     - Testosterone
     - Estradiolo
@@ -242,7 +242,7 @@
 
 2026:
   kind: enum
-  text: Elenca delle caratteristiche dei fosfolipidi
+  text: Elenca le caratteristiche dei fosfolipidi
   options:
     - Possiedono un'estremità idrofila e due code idrofobiche
     - Costituiscono le membrane cellulari
@@ -262,12 +262,12 @@
 
 2028:
   kind: enum
-  text: Elenca da cosa sono composti gli amminoacidi
+  text: Elenca i componenti principali degli amminoacidi
   options:
     - Gruppo amminico ($NH_3^+$)
     - Gruppo carbossilico ($COO^-$)
     - Catena laterale
-    -  Atomo di idrogeno
+    - Atomo di idrogeno
 
 #READY
 
@@ -296,7 +296,7 @@
   text: Elenca i livelli di compattazione del DNA
   options:
     - DNA a doppia elica
-    - ``collana di perle''
+    - ``Collana di perle''
     - Fibra ad ansa
     - Cromosoma 
 
@@ -314,7 +314,7 @@
 
 2033:
   kind: enum
-  text: Elenca delle modifiche post-traduzionali degli istoni
+  text: Elenca le modifiche post-traduzionali 
   options:
     - Metilazione
     - Acetilazione
@@ -356,29 +356,208 @@
 #READY
 
 #READY
+
+#READY
 2037:
   kind: enum
-  text: Elenca le categorie dei lipidi
+  text: Elenca cosa può essere aggiunto alle proteine per modificarle dopo la traduzione
   options:
-    - 
-    - 
-    - 
-    -  
+    - Zuccheri
+    - Lipidi
+    - Gruppi fosfato
+    - Gruppi acetile
 
 2038:
   kind: enum
-  text: Elenca le categorie dei lipidi
+  text: Elenca gli enzimi che effettuano le modificazioni post-traduzionali
   options:
-    - 
-    - 
-    - 
-    -  
+    - Chinasi
+    - Fosfatasi
+    - Acetilasi
+    - Glicosilasi
+
+#READY
 
 2039:
+  kind: enum
+  text: Elenca cosa influenza il ripiegamento e/o la denaturazione di una proteina
+  options:
+    - Chaperonine
+    - Temperatura
+    - Concentrazione salina
+    - Forze idrofobiche
+
+#READY
+
+2040:
+  kind: enum
+  text: Elenca le funzioni delle proteine
+  options:
+    - Contrattile
+    - Stoccaggio
+    - Strutturale
+    - Ormonale
+
+#READY
+
+#READY
+
+2041:
+  kind: enum
+  text: Elenca dove si trovano le proteine nella cellula
+  options:
+    - Nucleo
+    - Apparato di Golgi
+    - Reticolo endoplasmatico
+    - Mitocondri
+
+#READY
+
+2042:
+  kind: enum
+  text: Elenca i tipi di energia
+  options:
+    - Energia termica
+    - Energia elettrica
+    - Energia chimica
+    - Energia meccanica 
+
+#READY
+
+2043:
+  kind: enum
+  text: Elenca i prodotti del ciclo di Krebs
+  options:
+    - anidride carbonica (2 molecole)
+    - NADH (3 molecole)
+    - FADH2 (1 molecola)
+    - GTP (1 molecola)
+
+2044:
+  kind: enum
+  text: Elenca i cofattori
+  options:
+    - NADH
+    - FAD
+    - CoA
+    - $NAD^+$
+
+#READY
+
+2045:
+  kind: enum
+  text: Elenca le caratteristiche della glicolisi
+  options:
+    - Consta di 10 tappe
+    - Avviene nel citoplasma
+    - Le reazioni 1, 3 e 10 sono irreversibili
+    - Produce 2 molecole nette di ATP
+
+#READY
+
+2046:
+  kind: enum
+  text: Elenca i prodotti della fermentazione
+  options:
+    - Acido lattico
+    - Etanolo
+    - Acido propionico
+    - Acido acetico
+
+2047:
+  kind: enum
+  text: Elenca i tipi di fermentazione
+  options:
+    - Fermentazione lattica
+    - Fermentazione alcolica
+    - Fermentazione propionica
+    - Fermentazione butirrica
+
+#READY
+
+2048:
+  kind: enum
+  text: Elenca i precursori della gluconeogenesi
+  options:
+    - Piruvato
+    - Lattato
+    - Etanolo
+    - Glicerolo
+
+2049:
+  kind: enum
+  text: Elenca i prodotti della gluconeogenesi
+  options:
+    - Glucosio
+    - ADP (4 molecole)
+    - $NAD^+$ (2 molecole)
+    - GDP (6 molecole)
+
+#READY
+
+2050:
+  kind: enum
+  text: Elenca quali fattori possono influenzare la regolazione allosterica di un enzima
+  options:
+    - Temperatura
+    - Concentrazione di substrato
+    - pH
+    - Necessità della cellula
+
+#READY
+
+2051:
+  kind: enum
+  text: Elenca le componenti del mitocondrio
+  options:
+    - Membrana esterna
+    - Spazio intermembrana
+    - Membrana interna
+    - Matrice mitocondriale
+
+2052:
+  kind: enum
+  text: Elenca le tappe necessarie per la produzione di ATP
+  options:
+    - Ossidazione del piruvato
+    - Ciclo di Krebs (o dell'acido citrico)
+    - Trasporto di elettroni
+    - Sintesi di ATP
+
+2053:
+  kind: enum
+  text: Elenca i complessi coinvolti nella fosforilazione ossidativa
+  options:
+    - Complesso I
+    - Complesso III
+    - Complesso IV
+    - Complesso V
+
+#READY
+
+2054:
   kind: enum
   text: Elenca le categorie dei lipidi
   options:
     - 
     - 
     - 
-    -  
+    - 
+
+2055:
+  kind: enum
+  text: Elenca le categorie dei lipidi
+  options:
+    - 
+    - 
+    - 
+    - 
+
+2056:
+  kind: enum
+  text: Elenca le categorie dei lipidi
+  options:
+    - 
+    - 
+    - 
+    - 
