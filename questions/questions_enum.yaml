@@ -430,7 +430,7 @@
   options:
     - anidride carbonica (2 molecole)
     - NADH (3 molecole)
-    - FADH2 (1 molecola)
+    - $FADH_2$ (1 molecola)
     - GTP (1 molecola)
 
 2044:
@@ -537,25 +537,257 @@
 
 2054:
   kind: enum
-  text: Elenca le categorie dei lipidi
+  text: Elenca i prodotti di un giro completo del ciclo dell'acido citrico
   options:
-    - 
-    - 
-    - 
-    - 
+    - NADH (2 molecole)
+    - $FADH_2$ (1 molecola)
+    - GTP (1 molecola)
+    - $CO_2$ (2 molecole)
 
 2055:
   kind: enum
-  text: Elenca le categorie dei lipidi
+  text: Elenca le reazioni che avvengono durante il ciclo di Krebs
+  options:
+    - Citrato sintasi
+    - Aconitasi
+    - Succinil-CoA sintetasi
+    - Fumarasi
+
+#READY
+
+#READY
+
+2056:
+  kind: enum
+  text: Elenca le fasi della respirazione cellulare
+  options:
+    - Glicolisi
+    - Decarbossilazione ossidativa del piruvato
+    - Ciclo di Krebs
+    - Fosforilazione ossidativa
+
+2057:
+  kind: enum
+  text: Elenca le subunità dell'ATP-sintasi
+  options:
+    - Subunità $\alpha$
+    - Subunità $\beta$
+    - Subunità $\gamma$
+    - Subunità $\epsilon$
+
+#READY
+
+2058:
+  kind: enum
+  text: Elenca le caratteristiche dei microtubuli
+  options:
+    - Hanno un diametro di ca. 25nm
+    - Sono formati da tubulina
+    - Sono polarizzati
+    - Hanno la forma di un cilindro cavo
+
+2059:
+  kind: enum
+  text: Elenca le funzioni dei microtubuli
+  options:
+    - Costituiscono l'impalcatura interna dei centrioli
+    - Sono responsabili del transito di vescicole e organuli
+    - Formano il fuso mitotico durante la divisione cellulare
+    - Danno struttura e sostegno alla cellula
+
+#READY
+
+2060:
+  kind: enum
+  text: Elenca le caratteristiche strutturali dei microfilamenti
+  options:
+    - Sono le fibre più sottili del citoscheletro
+    - Hanno il diametro di ca. 7nm
+    - Sono costituite da una classe di proteine chiamate actine
+    - La forma è data da due catene di actina intrecciate fra loro
+
+2061:
+  kind: enum
+  text: Elenca le funzioni dei microfilamenti
+  options:
+    - Dare struttura alla cellula
+    - Formare l'anello contrattile durante la mitosi
+    - Contrazione muscolare
+    - Aiutano la cellula a cambiare forma
+
+#READY
+
+2062:
+  kind: enum
+  text: Elenca le funzioni dei filamenti intermedi
+  options:
+    - Forniscono resistenza meccanica contro stress fisici
+    - Tengono bloccati alcuni organuli (come il nucleo)
+    - Contribuiscono all'adesione cellulare
+    - Danno supporto strutturale alla cellula
+
+2063:
+  kind: enum
+  text: Elenca le caratteristiche strutturali dei filamenti intermedi
+  options:
+    - Sono costituite da una classe eterogenea di proteine
+    - NON sono polari
+    - Hanno un diametro di ca. 8/12nm
+    - Sono formati da subunità ad $\alpha -elica$
+
+2064:
+  kind: enum
+  text: Elenca le funzioni del citoscheletro
+  options:
+    - Dare supporto dinamico e strutturale alla cellula
+    - Determinare la posizione degli organelli citoplasmatici
+    - Determinare la forma della cellula
+    - Formazione del fuso mitotico
+
+#READY
+
+2065:
+  kind: enum
+  text: Elenca cosa si forma durante la mitosi nella cellula
+  options:
+    - Fuso mitotico
+    - Anello contrattile
+    - Cinetocore
+    - Cromosomi
+
+2066:
+  kind: enum
+  text: Elenca le fasi della mitosi
+  options:
+    - Profase
+    - Prometafase
+    - Metafase
+    - Anafase
+
+2067:
+  kind: enum
+  text: Elenca cosa avviene nei checkpoint nel ciclo cellulare
+  options:
+    - Si decide se la cellula deve dividersi
+    - Si controlla che i cromosomi siano correttamente attaccati alle fibre del fuso
+    - Si controlla che NON ci siano stati errori nella duplicazione dei cromosomi
+    - Si controlla la grandezza della cellula
+
+#READY
+
+2068:
+  kind: enum
+  text: Elenca cosa avviene durante la profase
+  options:
+    - Condensazione della cromatina
+    - Inizio della formazione del fuso mitotico
+    - Cessazione della trascrizione dei geni
+    - Scomparizione del nucleolo
+
+2069:
+  kind: enum
+  text: Elenca cosa avviene durante la prometafase 
+  options:
+    - Dissoluzione della membrana nucleare
+    - I microtubuli cromosomici si collegano al centromero
+    - I cromosomi si muovono verso l'equatore del fuso
+    - I microtubuli si attaccano ai cinetocori
+
+2070:
+  kind: enum
+  text: Elenca cosa avviene durante la metafase
+  options:
+    - I due centrosomi cominciano a tirare i cromosomi 
+    - I cromosomi si allineano lungo il piano equatoriale
+    - il checkpoint controlla il collegamento del fuso mitotico ai cinetocori
+    - Il checkpoint controlla l'allineamento dei cromosomi
+
+2071:
+  kind: enum
+  text: Elenca cosa avviene durante l'anafase
+  options:
+    - I cromatidi fratelli vengono separati
+    - Si scindono le coesine che legano i cromatidi fratelli
+    - Si accorciano i microtubuli dei cinetocori
+    - La cellula si allunga
+
+2072:
+  kind: enum
+  text: Elenca cosa avviene durante la telofase e la citocinesi
+  options:
+    - I cromosomi si decondensano
+    - Ricompaiono le membrane nucleari
+    - Si separa il citoplasma
+    - Riappare il nucleolo
+
+#READY
+
+2073:
+  kind: enum
+  text: Elenca 
   options:
     - 
     - 
     - 
     - 
 
-2056:
+2074:
   kind: enum
-  text: Elenca le categorie dei lipidi
+  text: Elenca 
+  options:
+    - 
+    - 
+    - 
+    - 
+
+2075:
+  kind: enum
+  text: Elenca 
+  options:
+    - 
+    - 
+    - 
+    - 
+
+2076:
+  kind: enum
+  text: Elenca 
+  options:
+    - 
+    - 
+    - 
+    - 
+
+2077:
+  kind: enum
+  text: Elenca 
+  options:
+    - 
+    - 
+    - 
+    - 
+
+2078:
+  kind: enum
+  text: Elenca 
+  options:
+    - 
+    - 
+    - 
+    - 
+
+2079:
+  kind: enum
+  text: Elenca 
+  options:
+    - 
+    - 
+    - 
+    - 
+
+2080:
+  kind: enum
+  text: Elenca 
   options:
     - 
     - 

@@ -802,7 +802,7 @@
 
 1129:
   kind: tf
-  text: Se il cappuccio 5' non viene aggiunto correttamente, l'mRNA potrebbe essere riconosciuto come difettoso e degradato più rapidamente
+  text: Se il cappuccio 5' NON viene aggiunto correttamente, l'mRNA potrebbe essere riconosciuto come difettoso e degradato più rapidamente
   correct: 0
   curiosity: 
 
@@ -814,7 +814,7 @@
 
 1131:
   kind: tf
-  text: Errori nella maturazione dell'mRNA, come splicing incompleto o mancanza del cappuccio 5', possono portare a proteine difettose o non funzionali
+  text: Errori nella maturazione dell'mRNA, come splicing incompleto o mancanza del cappuccio 5', possono portare a proteine difettose o NON funzionali
   correct: 0
   curiosity: 
 
@@ -1483,7 +1483,7 @@
 
 1239:
   kind: tf
-  text: In condizioni anaerobiche, il piruvato viene convertito in lattato nei muscoli o in etanolo nei lieviti per rigenerare NAD+
+  text: In condizioni anaerobiche, il piruvato viene convertito in lattato nei muscoli o in etanolo nei lieviti per rigenerare $NAD^+$
   correct: 0
   curiosity: 
 
@@ -1581,7 +1581,7 @@
 
 1255:
   kind: tf
-  text: La fermentazione lattica nei muscoli umani avviene durante l'esercizio intenso quando l'apporto di ossigeno non è sufficiente
+  text: La fermentazione lattica nei muscoli umani avviene durante l'esercizio intenso quando l'apporto di ossigeno NON è sufficiente
   correct: 0
   curiosity: 
 
@@ -1833,7 +1833,7 @@
 
 1296:
   kind: tf
-  text: Se i mitocondri non funzionano correttamente, la produzione di proteine aumenta
+  text: Se i mitocondri NON funzionano correttamente, la produzione di proteine aumenta
   correct: 1
   curiosity: 
 
@@ -1865,60 +1865,674 @@
 
 1301:
   kind: tf
-  text: 
+  text: La funzione principale del ciclo dell'acido citrico è produrre energia, generando ATP, NADH, $FADH_2$ e $CO_2$ come sottoprodotti
   correct: 0
   curiosity: 
 
 1302:
   kind: tf
-  text: 
-  correct: 0
+  text: Durante il ciclo dell'acido citrico viene ridotto solo il coenzima $NAD^+$
+  correct: 1
   curiosity: 
 
 1303:
   kind: tf
-  text: 
+  text: Ogni giro del ciclo dell'acido citrico produce 3 molecole di NADH, 1 $FADH_2$, 1 ATP (o GTP) e 2 molecole di $CO_2$
   correct: 0
   curiosity: 
 
 1304:
   kind: tf
-  text: 
-  correct: 0
+  text: l ciclo dell'acido citrico è un processo anaerobico che contribuisce alla produzione di energia sotto forma di ATP, NADH e $FADH_2$
+  correct: 1
   curiosity: 
 
 1305:
   kind: tf
-  text: 
+  text: Il ciclo dell'acido citrico è fondamentale per produrre molecole energetiche e intermedi che alimentano altre vie metaboliche
   correct: 0
   curiosity: 
 
 1306:
   kind: tf
-  text: 
-  correct: 0
+  text: L'ATP prodotto nel ciclo dell'acido citrico attiva le proteine ed inibisce gli enzimi
+  correct: 1
   curiosity: 
 
 1307:
   kind: tf
-  text: 
+  text: Nel ciclo dell'acido citrico, il GTP viene prodotto durante la conversione di succinil-CoA in succinato, che può essere convertito in ATP
   correct: 0
   curiosity: 
 
 1308:
   kind: tf
-  text: 
-  correct: 0
+  text: Gli amminoacidi sono una fonte principale di acetil-CoA, che entra nel ciclo dell'acido citrico per produrre energia
+  correct: 1
   curiosity: 
 
 1309:
   kind: tf
-  text: 
+  text: I prodotti ridotti (NADH e $FADH_2$) generati nel ciclo dell'acido citrico alimentano la catena di trasporto degli elettroni
   correct: 0
   curiosity: 
 
+#FIXME
+
 1310:
   kind: tf
-  text: 
+  text: Il complesso mitocondriale è essenziale per la produzione di ATP attraverso la respirazione cellulare, utilizzando l'azoto per generare energia
+  correct: 1
+  curiosity: 
+
+1311:
+  kind: tf
+  text: La catena di trasporto degli elettroni è composta da una serie di proteine e coenzimi che trasferiscono gli elettroni per produrre ATP
   correct: 0
   curiosity: 
+
+1312:
+  kind: tf
+  text: Il complesso mitocondriale si trova nella membrana esterna dei mitocondri, dove avvengono le reazioni di respirazione cellulare
+  correct: 1
+  curiosity: 
+
+1313:
+  kind: tf
+  text: $NAD^+$ e FAD sono coenzimi cruciali per il trasporto degli elettroni nella respirazione cellulare, riducendosi a NADH e $FADH_2$
+  correct: 0
+  curiosity: 
+
+1314:
+  kind: tf
+  text: Il Complesso IV della catena di trasporto degli elettroni è responsabile della riduzione di $NAD^+$ a NADH
+  correct: 1
+  curiosity: 
+
+1315:
+  kind: tf
+  text: NADH fornisce elettroni alla catena di trasporto degli elettroni
+  correct: 0
+  curiosity: 
+
+1316:
+  kind: tf
+  text: Il principale prodotto della catena di trasporto degli elettroni è il GTP
+  correct: 1
+  curiosity: 
+
+1317:
+  kind: tf
+  text: L'ATP sintasi utilizza il gradiente di protoni (proton motive force) per sintetizzare ATP, che è essenziale per il metabolismo cellulare
+  correct: 0
+  curiosity: 
+
+1318:
+  kind: tf
+  text: Il gradiente di protoni generato dal complesso mitocondriale serve per la produzione di glucosio
+  correct: 1
+  curiosity: 
+
+1319:
+  kind: tf
+  text: Il blocco del Complesso IV impedisce la riduzione dell'ossigeno a acqua, riducendo la produzione di ATP e causando l'accumulo di NADH
+  correct: 0
+  curiosity: 
+
+1320:
+  kind: tf
+  text: Il prodotto finale della respirazione cellulare è ATP, acqua e piruvato
+  correct: 1
+  curiosity: 
+
+1321:
+  kind: tf
+  text: Il Complesso II della catena di trasporto degli elettroni riduce il FAD a $FADH_2$
+  correct: 0
+  curiosity: 
+
+1322:
+  kind: tf
+  text: Il complesso mitocondriale è essenziale per la produzione di ossigeno attraverso la fosforilazione ossidativa
+  correct: 1
+  curiosity: 
+
+1323:
+  kind: tf
+  text: Il Complesso III trasferisce elettroni dal coenzima Q al citocromo c
+  correct: 0
+  curiosity: 
+
+1324:
+  kind: tf
+  text: La fosforilazione substrato è il processo che utilizza il gradiente di protoni per produrre ATP
+  correct: 1
+  curiosity: 
+
+1325:
+  kind: tf
+  text: L'ossigeno agisce come accettore finale degli elettroni nella respirazione cellulare
+  correct: 0
+  curiosity: 
+
+1326:
+  kind: tf
+  text: In assenza di ossigeno, la catena di trasporto degli elettroni continua normalmente
+  correct: 1
+  curiosity: 
+
+#FIXME
+
+1327:
+  kind: tf
+  text: La produzione di ATP può avvenire sia in presenza che in assenza di ossigeno
+  correct: 0
+  curiosity: 
+
+1328:
+  kind: tf
+  text: La glicolisi produce il maggior numero di ATP durante la respirazione cellulare
+  correct: 1
+  curiosity: 
+
+1329:
+  kind: tf
+  text: La fosforilazione substrato produce ATP direttamente, mentre la fosforilazione ossidativa utilizza un gradiente di protoni per produrre ATP
+  correct: 0
+  curiosity: 
+
+1330:
+  kind: tf
+  text: La sintesi dell'ATP avviene nella matrice del mitocondrio, dove si trova l'ATP sintasi
+  correct: 1
+  curiosity: 
+
+1331:
+  kind: tf
+  text: Ogni molecola di NADH produce circa 2,5 ATP durante il suo passaggio attraverso la catena di trasporto degli elettroni
+  correct: 0
+  curiosity: 
+
+1332:
+  kind: tf
+  text: I microtubuli sono costituiti principalmente da actina, una proteina che forma strutture filiformi
+  correct: 0
+  curiosity: 
+
+1333:
+  kind: tf
+  text: Il gradiente di protoni è fondamentale per la produzione di ATP, poiché fornisce l'energia necessaria per il funzionamento dell'ATP sintasi
+  correct: 0
+  curiosity: 
+
+#FIXME
+
+1334:
+  kind: tf
+  text: I microtubuli sono fondamentali per la glicolisi
+  correct: 1
+  curiosity: 
+
+1335:
+  kind: tf
+  text: I microtubuli si trovano principalmente nel citoplasma e fanno parte del citoscheletro, che conferisce forma e supporto alla cellula
+  correct: 0
+  curiosity: 
+
+1336:
+  kind: tf
+  text: La miosina è una proteina motrice che utilizza i microtubuli per il trasporto di vescicole e organelli all'interno della cellula
+  correct: 1
+  curiosity: 
+
+1337:
+  kind: tf
+  text: Il fuso mitotico è formato da microtubuli e svolge un ruolo chiave nel separare i cromosomi durante la mitosi
+  correct: 0
+  curiosity: 
+
+1338:
+  kind: tf
+  text: I microtubuli sono stabili e NON si modificano il che è importante per il loro ruolo nei processi cellulari
+  correct: 1
+  curiosity: 
+
+1339:
+  kind: tf
+  text: I centrioli sono organelli che organizzano i microtubuli durante la divisione cellulare, formando il fuso mitotico
+  correct: 0
+  curiosity: 
+
+1340:
+  kind: tf
+  text: L'unità di base della tubulina è il dimero di actina
+  correct: 1
+  curiosity: 
+
+1341:
+  kind: tf
+  text: I microtubuli si assemblano attraverso la polimerizzazione della tubulina, una proteina che forma i filamenti
+  correct: 0
+  curiosity: 
+
+1342:
+  kind: tf
+  text: I ribosomi sono responsabili dell'organizzazione dei microtubuli nel fuso mitotico, necessario per separare i cromosomi
+  correct: 1
+  curiosity: 
+
+1343:
+  kind: tf
+  text: I microtubuli sono cruciali per il supporto strutturale, il movimento cellulare, e la divisione cellulare
+  correct: 0
+  curiosity: 
+
+1344:
+  kind: tf
+  text: I microfilamenti sono più spessi dei microtubuli
+  correct: 1
+  curiosity: 
+
+1345:
+  kind: tf
+  text: Le disfunzioni nei microtubuli sono associate a malattie neurodegenerative come l'Alzheimer e anche a diversi tipi di cancro
+  correct: 0
+  curiosity: 
+
+#FIXME
+
+1346:
+  kind: tf
+  text: I microfilamenti sono principalmente costituiti da tubulina
+  correct: 1
+  curiosity: 
+
+1347:
+  kind: tf
+  text: I microfilamenti sono coinvolti nel movimento cellulare e nella contrazione muscolare
+  correct: 0
+  curiosity: 
+
+1348:
+  kind: tf
+  text: I microfilamenti sono cruciali per la divisione cellulare e la glicolisi
+  correct: 1
+  curiosity: 
+
+1349:
+  kind: tf
+  text: I microfilamenti si trovano nel citoplasma e fanno parte del citoscheletro
+  correct: 0
+  curiosity: 
+
+1350:
+  kind: tf
+  text: La dineina è la proteina motrice che interagisce con i microfilamenti, facilitando il movimento cellulare, come nella contrazione muscolare
+  correct: 1
+  curiosity: 
+
+1351:
+  kind: tf
+  text: I microfilamenti si assemblano attraverso l'associazione di monomeri di actina, che si polimerizzano per formare lunghe catene
+  correct: 0
+  curiosity: 
+
+1352:
+  kind: tf
+  text: Durante la divisione cellulare, i microfilamenti formano il fuso mitotico che separa le due cellule figlie durante la citodieresi
+  correct: 1
+  curiosity: 
+
+1353:
+  kind: tf
+  text: I microfilamenti sono dinamici e possono crescere o accorciarsi rapidamente
+  correct: 0
+  curiosity: 
+
+1354:
+  kind: tf
+  text: I mitocondri e il nucleo utilizzano i microfilamenti per il movimento e la motilità
+  correct: 1
+  curiosity: 
+
+1355:
+  kind: tf
+  text: I microfilamenti aiutano a deformare la membrana cellulare durante il processo di endocitosi, facilitando la formazione di vescicole
+  correct: 0
+  curiosity: 
+
+#FIXME
+
+1356:
+  kind: tf
+  text: I filamenti intermedi sono composti da proteine globulari
+  correct: 1
+  curiosity: 
+
+1357:
+  kind: tf
+  text: I filamenti intermedi sono essenziali per la stabilità strutturale delle cellule, fornendo resistenza meccanica contro stress fisici
+  correct: 0
+  curiosity: 
+
+1358:
+  kind: tf
+  text: I filamenti intermedi sono dinamici e polari
+  correct: 1
+  curiosity: 
+
+1359:
+  kind: tf
+  text: I filamenti intermedi sono distribuiti nel citoplasma e nel nucleo
+  correct: 0
+  curiosity: 
+
+1360:
+  kind: tf
+  text: La miosina è una proteina che compone i filamenti intermedi nelle cellule muscolari
+  correct: 1
+  curiosity: 
+
+1361:
+  kind: tf
+  text: I filamenti intermedi sono meno dinamici e più resistenti rispetto ai microtubuli
+  correct: 0
+  curiosity: 
+
+1362:
+  kind: tf
+  text: Il citoscheletro è una componente dei filamenti intermedi
+  correct: 1
+  curiosity: 
+
+1363:
+  kind: tf
+  text: Disfunzioni nei filamenti intermedi sono associate a malattie della pelle
+  correct: 0
+  curiosity: 
+
+#FIXME
+
+1364:
+  kind: tf
+  text: Durante la fase S, la cellula cresce e sintetizza proteine e altre molecole necessarie per la successiva divisione
+  correct: 1
+  curiosity: 
+
+1365:
+  kind: tf
+  text: La fase S è nota come la fase di sintesi, poiché durante questa fase avviene la replicazione del DNA
+  correct: 0
+  curiosity: 
+
+1366:
+  kind: tf
+  text: La fase G1 è una fase di preparazione alla mitosi
+  correct: 1
+  curiosity: 
+
+1367:
+  kind: tf
+  text: Le cicline sono proteine che attivano le chinasi cicline-dipendenti (CDK), regolando così il passaggio tra le fasi del ciclo cellulare
+  correct: 0
+  curiosity: 
+
+1368:
+  kind: tf
+  text: Le condensine attivano le CDK, che sono essenziali per regolare il passaggio delle cellule da una fase all'altra del ciclo cellulare
+  correct: 1
+  curiosity: 
+
+1369:
+  kind: tf
+  text: La segregazione dei cromosomi avviene durante la mitosi, nella fase M
+  correct: 0
+  curiosity: 
+
+1370:
+  kind: tf
+  text: Durante la prometafase, i nucleoli si riformano e inizia la divisione del citoplasma, completando la mitosi
+  correct: 1
+  curiosity: 
+
+1371:
+  kind: tf
+  text: La fase G1 è quella in cui la cellula cresce, accumulando risorse per la successiva replicazione del DNA
+  correct: 0
+  curiosity: 
+
+1372:
+  kind: tf
+  text: La fase finale della mitosi è la metafase 
+  correct: 1
+  curiosity: 
+
+1373:
+  kind: tf
+  text: La proteina p53 rileva danni al DNA e arresta la progressione del ciclo cellulare per permettere la riparazione del DNA o l'apoptosi
+  correct: 0
+  curiosity: 
+
+1374:
+  kind: tf
+  text: La mitosi avviene nelle cellule vegetali mentre la meiosi in quelle animali 
+  correct: 1
+  curiosity: 
+
+1375:
+  kind: tf
+  text: Il punto di controllo G1 verifica se la cellula ha raggiunto una dimensione adeguata e NON ha danni al DNA
+  correct: 0
+  curiosity: 
+
+#FIXME
+
+1376:
+  kind: tf
+  text: Le fasi principali della mitosi sono G1, S, G2 e M
+  correct: 1
+  curiosity: 
+
+1377:
+  kind: tf
+  text: Durante la metafase, i cromosomi si allineano lungo il piano equatoriale della cellula
+  correct: 0
+  curiosity: 
+
+1378:
+  kind: tf
+  text: Durante la metafase, i cromosomi si condensano e la membrana nucleare inizia a dissolversi
+  correct: 1
+  curiosity: 
+
+1379:
+  kind: tf
+  text: Durante la anafase, i centromeri si dividono, e i cromatidi si separano e vengono tirati verso i poli opposti della cellula
+  correct: 0
+  curiosity: 
+
+1380:
+  kind: tf
+  text: Durante la telofase, i cromosomi si condensano e inizia la mitosi
+  correct: 1
+  curiosity: 
+
+1381:
+  kind: tf
+  text: La mitosi produce cellule diploidi identiche, mentre la meiosi produce cellule aploidi che sono geneticamente diverse
+  correct: 0
+  curiosity: 
+
+1382:
+  kind: tf
+  text: Il fuso mitotico si forma durante la anafase
+  correct: 1
+  curiosity: 
+
+1383:
+  kind: tf
+  text: Durante la profase, la membrana nucleare si dissolve
+  correct: 0
+  curiosity: 
+
+1384:
+  kind: tf
+  text: La citocinesi è il processo di allineamento dei cromosomi lungo il piano equatoriale della cellula
+  correct: 1
+  curiosity: 
+
+1385:
+  kind: tf
+  text: La membrana nucleare si disintegra durante la profase e si riforma durante la telofase, quando i cromosomi sono separati
+  correct: 0
+  curiosity: 
+
+1386:
+  kind: tf
+  text: Durante la profase, i cromosomi si allineano lungo il piano equatoriale della cellula
+  correct: 1
+  curiosity: 
+
+1387:
+  kind: tf
+  text: Nei mammiferi, i filamenti di actina sono coinvolti nella citocinesi, aiutando a separare le due cellule figlie
+  correct: 0
+  curiosity: 
+
+#FIXME
+
+1388:
+  kind: tf
+  text: La meiosi comporta tre divisioni cellulari, la meiosi I, la meiosi II e la meiosi III, che portano alla formazione di otto cellule aploidi
+  correct: 1
+  curiosity: 
+
+1389:
+  kind: tf
+  text: Il crossing-over, o scambio di materiale genetico tra cromosomi omologhi, avviene durante la profase I della meiosi
+  correct: 0
+  curiosity: 
+
+1390:
+  kind: tf
+  text: Il crossing-over avviene sia nella mitosi che nella meiosi
+  correct: 1
+  curiosity: 
+
+1391:
+  kind: tf
+  text: Durante l'anafase I, i cromosomi omologhi si separano e vengono tirati verso i poli opposti della cellula
+  correct: 0
+  curiosity: 
+
+1392:
+  kind: tf
+  text: Il fuso mitotico è responsabile della separazione dei cromosomi durante la meiosi
+  correct: 1
+  curiosity: 
+
+1393:
+  kind: tf
+  text: La meiosi I separa i cromosomi omologhi, mentre la meiosi II separa i cromatidi fratelli
+  correct: 0
+  curiosity: 
+
+1394:
+  kind: tf
+  text: Il crossing-over riduce la variabilità genetica
+  correct: 1
+  curiosity: 
+
+1395:
+  kind: tf
+  text: La coesina è una proteina che tiene insieme i cromosomi omologhi
+  correct: 0
+  curiosity: 
+
+1396:
+  kind: tf
+  text: Gli esoni sono una parte significativa del genoma NON codificante
+  correct: 1
+  curiosity: 
+
+1397:
+  kind: tf
+  text: La meiosi è un processo che genera diversità genetica
+  correct: 0
+  curiosity: 
+
+#FIXME
+
+1398:
+  kind: tf
+  text: Gli pseudogeni sono geni funzionali che hanno subito mutazioni
+  correct: 1
+  curiosity: 
+
+1399:
+  kind: tf
+  text: Una delle funzioni principali del genoma NON codificante è la regolazione dell'espressione genica, come avviene con microRNA e sequenze regolatrici
+  correct: 0
+  curiosity: 
+
+1400:
+  kind: tf
+  text: I microRNA (miRNA) sono porzioni di RNA che codificano per proteine
+  correct: 1
+  curiosity: 
+
+1401:
+  kind: tf
+  text: Gli elementi trasponibili sono sequenze di DNA che si spostano all'interno del genoma
+  correct: 0
+  curiosity: 
+
+1402:
+  kind: tf
+  text: I long non-coding RNA (lncRNA) sono RNA codificanti di lunghezza inferiore a 200 nucleotidi
+  correct: 1
+  curiosity: 
+
+1403:
+  kind: tf
+  text: Circa il 98% del genoma umano è costituito da sequenze NON codificanti
+  correct: 0
+  curiosity: 
+
+1404:
+  kind: tf
+  text: I long interspersed nuclear elements (LINEs) sono elementi che NON si spostano all'interno del genoma
+  correct: 1
+  curiosity: 
+
+1405:
+  kind: tf
+  text: Le sequenze di controllo come gli enhancer e i silencer regolano l'attività dei geni vicini, influenzando la loro espressione
+  correct: 0
+  curiosity: 
+
+1406:
+  kind: tf
+  text: Il mRNA è un esempio di RNA NON codificante
+  correct: 1
+  curiosity: 
+
+1407:
+  kind: tf
+  text: Le mutazioni nel genoma NON codificante possono alterare l'espressione genica, portando a malattie complesse come il cancro e le malattie cardiovascolari
+  correct: 0
+  curiosity: 
+
+1408:
+  kind: tf
+  text: Il genoma NON codificante si chiama così perchè NON codificando per proteine funzionali NON ha alcun effetto sull'evoluzione e sull'espressione genica
+  correct: 1
+  curiosity: 
+
+1409:
+  kind: tf
+  text: Il genoma NON codificante ha ruoli fondamentali nella regolazione dell'espressione genica e nella diversità genetica
+  correct: 0
+  curiosity: 
+
+#FIXME
