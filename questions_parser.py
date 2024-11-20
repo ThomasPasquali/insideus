@@ -10,6 +10,7 @@ import random
 
 @dataclass
 class Card:
+    kind: str
     key: str
     text: str
     options: list[str]
@@ -29,23 +30,23 @@ def tex_escape(text):
         :return: the message escaped to appear correctly in LaTeX
     """
     conv = {
-        '&': r'\&',
+        # '&': r'\&',
         '%': r'\%',
-        '$': r'\$',
-        '#': r'\#',
-        '_': r'\_',
-        '{': r'\{',
-        '}': r'\}',
-        '~': r'\textasciitilde{}',
-        '^': r'\^{}',
-        '\\': r'\textbackslash{}',
-        '<': r'\textless{}',
-        '>': r'\textgreater{}',
+        # '$': r'\$',
+        # '#': r'\#',
+        # '_': r'\_',
+        # '{': r'\{',
+        # '}': r'\}',
+        # '~': r'\textasciitilde{}',
+        # '^': r'\^{}',
+        # '\\': r'\textbackslash{}',
+        # '<': r'\textless{}',
+        # '>': r'\textgreater{}',
     }
     regex = re.compile('|'.join(re.escape(str(key)) for key in sorted(conv.keys(), key = lambda item: - len(item))))
     return regex.sub(lambda match: conv[match.group()], text)
 
-def generate_tex(cards: list[Card]) -> str:
+def generate_tex(args: argparse.Namespace, cards: list[Card]) -> str:
     tex = r"""
     \documentclass[parskip]{scrartcl}
     \usepackage[margin=5mm]{geometry}
@@ -102,17 +103,19 @@ def generate_tex(cards: list[Card]) -> str:
 
     for i, c in enumerate(cards):
         #FIXME c.shuffle_options()
+        itemize = c.kind in ['tf', 'enum']
         card_tex = r"""\card
             {QUESTION}
-            {\begin{enumerate}[A),leftmargin=*]
-                \setlength{\itemsep}{0pt}
+        """ + (r'{\begin{itemize}[leftmargin=*]' if itemize else r'{\begin{enumerate}[A),leftmargin=*]') + r"""\setlength{\itemsep}{0pt}
                 \setlength{\parskip}{0pt}
                 \setlength{\parsep}{0pt}
                 OPTIONS
-            \end{enumerate}}
-            {CURIOSITY}"""
+        """ + (r'\end{itemize}}' if itemize else r'\end{enumerate}}') + r"""{CURIOSITY}"""         
         card_tex = card_tex.replace('QUESTION', tex_escape(c.text))
-        card_tex = card_tex.replace('CURIOSITY', tex_escape(c.curiosity) if c.curiosity is not None else '')
+        curiosity = ''
+        if c.curiosity is not None and args.include_curiosity:
+            curiosity = tex_escape(c.curiosity)
+        card_tex = card_tex.replace('CURIOSITY', curiosity)
         if c.options is not None:
             options_tex = []
             for j, o in enumerate(c.options):
@@ -129,8 +132,8 @@ def generate_tex(cards: list[Card]) -> str:
     tex += r'\end{document}'
     return tex
 
-def generate_pdf(pdfname: str, cards: list[Card]):
-    tex = generate_tex(cards)
+def generate_pdf(args: argparse.Namespace, pdfname: str, cards: list[Card]):
+    tex = generate_tex(args, cards)
     print(tex)
 
     f = open("tmp.tex", "w+")
@@ -158,11 +161,11 @@ def generate_cards_from_file(filename: str) -> list[Card]:
             #print(question)
             match question['kind']:
                 case 'mc':
-                    cards.append(Card(key=q, text=question['text'], options=question['options'], correct=question['correct'], curiosity=question.get('curiosity')))
+                    cards.append(Card(kind=question['kind'], key=q, text=question['text'], options=question['options'], correct=question['correct'], curiosity=question.get('curiosity')))
                 case 'tf':
-                    cards.append(Card(key=q, text=question['text'], options=['Vero', 'Falso'], correct=question['correct'], curiosity=question.get('curiosity')))
+                    cards.append(Card(kind=question['kind'], key=q, text=question['text'], options=['Vero', 'Falso'], correct=question['correct'], curiosity=question.get('curiosity')))
                 case 'enum':
-                    cards.append(Card(key=q, text=question['text'], options=question['options'], correct=None, curiosity=question.get('curiosity')))
+                    cards.append(Card(kind=question['kind'], key=q, text=question['text'], options=question['options'], correct=None, curiosity=question.get('curiosity')))
                 case _ as a:
                     raise Exception(f'kind {a} not found')
     return cards
@@ -170,6 +173,7 @@ def generate_cards_from_file(filename: str) -> list[Card]:
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(prog='')
     parser.add_argument('file', help='specify the questions yaml file.')
+    parser.add_argument('--include_curiosity', '-c', action='store_true', default=False)
     args = parser.parse_args()
 
-    generate_pdf(f'{Path(args.file).stem}.pdf', generate_cards_from_file(args.file))
+    generate_pdf(args, f'{Path(args.file).stem}.pdf', generate_cards_from_file(args.file))
