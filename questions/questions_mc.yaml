@@ -1864,9 +1864,9 @@
   kind: mc
   text: Qual è la differenza principale tra l'amido e il glicogeno?
   options:
-    - L'amido è la riserva energetica delle piante, mentre il glicogeno è la riserva energetica degli animali
-    - L'amido è un disaccaride, mentre il glicogeno è un polisaccaride
-    - L'amido è presente solo negli animali, mentre il glicogeno solo nelle piante
+    - L'amido è la riserva energetica delle piante, il glicogeno è la riserva energetica degli animali
+    - L'amido è un disaccaride, il glicogeno è un polisaccaride
+    - L'amido è presente solo negli animali, il glicogeno solo nelle piante
     - L'amido è solubile in acqua, mentre il glicogeno è insolubile
   correct: 0
   curiosity: 
@@ -8621,7 +8621,7 @@
     - I filamenti intermedi NON fanno parte del citoscheletro
     - Il citoscheletro è una componente dei filamenti intermedi
     - I filamenti intermedi sono una componente fondamentale del citoscheletro
-    - I filamenti intermedi stabilizzano i microtubuli e i microfilamenti che fanno parte del citoscheletro
+    - I filamenti intermedi stabilizzano i microtubuli e i microfilamenti
   correct: 2
   curiosity: 
 

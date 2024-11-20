@@ -54,6 +54,8 @@ def generate_tex(args: argparse.Namespace, cards: list[Card]) -> str:
     \usepackage{graphicx}
     \usepackage[shortlabels]{enumitem}
     \usepackage{setspace}
+    \usepackage[condensed,math]{anttor}
+    \usepackage[T1]{fontenc}
 
     \begin{document}
 
@@ -70,9 +72,9 @@ def generate_tex(args: argparse.Namespace, cards: list[Card]) -> str:
     \newcommand{\card}[3]{
         \begin{tikzpicture}[x=1mm,y=1mm]
             % Border node
-            \draw[rounded corners=\cardroundingradius, fill=green!20] (0,0) rectangle (\cardwidth,\cardheight);
+            \draw[rounded corners=\cardroundingradius] (0,0) rectangle (\cardwidth,\cardheight);
             % Text node
-            \node[below right,fill=blue!20,
+            \node[below right,
                     % minimum height=(\cardheight-2*\textpadding)*1mm,
                     minimum width=(\cardwidth-2*\textpadding)*1mm,
                     text width=(\cardwidth-3*\textpadding)*1mm,
@@ -84,11 +86,11 @@ def generate_tex(args: argparse.Namespace, cards: list[Card]) -> str:
                 \tikz{\fill (0,0) rectangle (\cardwidth-4*\textpadding,\ruleheight);}\\[0mm]
                 % Options text
                 \vspace{-3mm}
-                {\optionfontsize #2}
+                {\optionfontsize\textsc{#2}}
             };
             % Curiosity node
             \node[
-                    above right, fill=blue!10,
+                    above right,
                     minimum width=(\cardwidth-2*\textpadding)*1mm,
                     text width=(\cardwidth-3*\textpadding)*1mm,
                     align=left,
@@ -144,6 +146,7 @@ def generate_pdf(args: argparse.Namespace, pdfname: str, cards: list[Card]):
         f.write(str.encode(tex))
         f.close()
         proc = subprocess.Popen(['pdflatex', f.name])
+        # proc = subprocess.Popen(['xelatex', f.name])
         proc.communicate()
         f_stem = Path(f.name).stem
         os.rename(f'{f_stem}.pdf', pdfname)

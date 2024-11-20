@@ -1383,8 +1383,8 @@
   kind: enum
   text: Elenca alcune differenze tra fosforilazione ossidativa e fosforilazione a livello del substrato
   options:
-    - La fosforilazione ossidativa richiede un gradiente protonico, mentre l'altra no
-    - La fosforilazione ossidativa avviene nei mitocondri, mentre l'altra può avvenire nel citoplasma
+    - Quella ossidativa richiede un gradiente protonico, mentre l'altra no
+    - Quella ossidativa avviene nei mitocondri, mentre l'altra può avvenire nel citoplasma
     - La fosforilazione a livello del substrato genera ATP direttamente senza un gradiente
     - Entrambe contribuiscono alla produzione complessiva di ATP
 
