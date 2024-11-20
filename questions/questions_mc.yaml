@@ -1830,7 +1830,7 @@
 171:
   kind: mc
   text: Il saccarosio è formato da quali due monosaccaridi?
-  options:$
+  options:
     - Glucosio e glucosio
     - Glucosio e fruttosio
     - Glucosio e galattosio
@@ -2293,7 +2293,7 @@
 #   correct: 1
 #   curiosity: "La cisteina è l'unico amminoacido contenente zolfo, che forma legami disolfuro nelle proteine."
 
-214:
+# 214:
   # kind: mc
   # text: "Qual è la principale funzione dell'enzima?"
   # options:
@@ -3711,7 +3711,7 @@
   correct: 2
   curiosity: 
 
-345:
+#345:
   # kind: mc
   # text: "Quale tipo di mutazione può cambiare un aminoacido nella proteina risultante?"
   # options:

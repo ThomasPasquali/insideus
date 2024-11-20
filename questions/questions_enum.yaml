@@ -296,7 +296,7 @@
   text: Elenca i livelli di compattazione del DNA
   options:
     - DNA a doppia elica
-    - ``Collana di perle''
+    - "``Collana di perle''"
     - Fibra ad ansa
     - Cromosoma 
 
@@ -337,6 +337,7 @@
 2035:
   kind: enum
   text: Elenca le modifiche post-trascrizionali
+  options:
     - Splicing
     - Splicing alternativo
     - Poliadenilazione (coda poli-A)
@@ -724,72 +725,674 @@
 
 2073:
   kind: enum
-  text: Elenca 
+  text: Elenca alcune caratteristiche del DNA spazzatura (garbage DNA)
   options:
-    - 
-    - 
-    - 
-    - 
+    - NON codifica direttamente per proteine
+    - Può includere sequenze altamente ripetitive
+    - Costituisce una grande parte del genoma umano
+    - Ha ruoli regolatori o strutturali NON sempre compresi
 
 2074:
   kind: enum
-  text: Elenca 
+  text: Elenca alcune funzioni possibili del DNA spazzatura
   options:
-    - 
-    - 
-    - 
-    - 
+    - Regolazione dell'espressione genica
+    - Protezione dei cromosomi attraverso i telomeri
+    - Conservazione di elementi trasponibili
+    - Influenza sulla struttura cromosomica
 
 2075:
   kind: enum
-  text: Elenca 
+  text: Elenca alcuni tipi di sequenze considerate DNA spazzatura
   options:
-    - 
-    - 
-    - 
-    - 
+    - Introni rimossi durante lo splicing
+    - Sequenze ripetute come i microsatelliti
+    - Sequenze di trasposoni inattive
+    - Pseudogeni NON funzionali
 
 2076:
   kind: enum
-  text: Elenca 
+  text: Elenca alcune implicazioni delle mutazioni nel DNA spazzatura
   options:
-    - 
-    - 
-    - 
-    - 
+    - Possono alterare la regolazione dei geni vicini
+    - Possono contribuire allo sviluppo di malattie genetiche
+    - Possono avere effetti evolutivi benefici
+    - Possono NON avere effetti evidenti se in regioni NON funzionali
+
+#READY
 
 2077:
   kind: enum
-  text: Elenca 
+  text: Elenca alcune caratteristiche della meiosi
   options:
-    - 
-    - 
-    - 
-    - 
+    - Comprende due divisioni cellulari consecutive
+    - Produce cellule aploidi
+    - È essenziale per la riproduzione sessuale
+    - Garantisce la diversità genetica
 
 2078:
   kind: enum
-  text: Elenca 
+  text: Elenca alcuni eventi che avvengono durante la profase I della meiosi
   options:
-    - 
-    - 
-    - 
-    - 
+    - Avviene il crossing-over tra cromatidi omologhi
+    - I cromosomi si condensano
+    - Si formano le tetradi
+    - La membrana nucleare inizia a dissolversi
 
 2079:
   kind: enum
-  text: Elenca 
+  text: Elenca alcune differenze tra meiosi I e meiosi II
   options:
-    - 
-    - 
-    - 
-    - 
+    - Meiosi I separa cromosomi omologhi, mentre meiosi II separa cromatidi sorelle
+    - Meiosi I riduce il numero di cromosomi a metà
+    - Meiosi II è simile alla mitosi
+    - Meiosi I include il crossing-over, meiosi II no
 
 2080:
   kind: enum
-  text: Elenca 
+  text: Elenca alcune funzioni della meiosi
   options:
-    - 
-    - 
-    - 
-    - 
+    - Generare diversità genetica tra i gameti
+    - Produrre cellule aploidi per la riproduzione sessuale
+    - Garantire la corretta segregazione dei cromosomi
+    - Prevenire il raddoppio del numero di cromosomi tra le generazioni
+
+#READY
+
+2081:
+  kind: enum
+  text: Elenca alcune funzioni dei mitocondri
+  options:
+    - Producono ATP attraverso la respirazione cellulare
+    - Regolano il metabolismo cellulare
+    - Sono coinvolti nella segnalazione del calcio
+    - Partecipano all'apoptosi
+
+2082:
+  kind: enum
+  text: Elenca alcune funzioni del reticolo endoplasmatico rugoso
+  options:
+    - Sintetizza proteine destinate alla secrezione
+    - Modifica proteine tramite glicosilazione
+    - Collabora con l'apparato di Golgi
+    - Contiene ribosomi attaccati alla sua superficie
+
+2083:
+  kind: enum
+  text: Elenca alcune funzioni dell'apparato di Golgi
+  options:
+    - Modifica, smista e confeziona proteine
+    - Produce lisosomi
+    - Aggiunge carboidrati e lipidi alle proteine
+    - Trasporta proteine verso altre parti della cellula
+
+2084:
+  kind: enum
+  text: Elenca alcune funzioni dei lisosomi
+  options:
+    - Degradano materiali cellulari danneggiati
+    - Demoliscono molecole attraverso enzimi idrolitici
+    - Partecipano all'autofagia
+    - Mantengono l'omeostasi cellulare
+
+2085:
+  kind: enum
+  text: Elenca alcune caratteristiche dei cloroplasti
+  options:
+    - Contengono clorofilla per la fotosintesi
+    - Producono energia sotto forma di glucosio
+    - Hanno un doppio strato di membrana
+    - Possiedono un proprio DNA
+
+#READY
+
+2086:
+  kind: enum
+  text: Elenca alcune funzioni dei mitocondri
+  options:
+    - Producono ATP attraverso la respirazione cellulare
+    - Regolano il metabolismo cellulare
+    - Sono coinvolti nella segnalazione del calcio
+    - Partecipano all'apoptosi
+
+2087:
+  kind: enum
+  text: Elenca alcune funzioni del reticolo endoplasmatico rugoso
+  options:
+    - Sintetizza proteine destinate alla secrezione
+    - Modifica proteine tramite glicosilazione
+    - Collabora con l'apparato di Golgi
+    - Contiene ribosomi attaccati alla sua superficie
+
+2088:
+  kind: enum
+  text: Elenca alcune funzioni dell'apparato di Golgi
+  options:
+    - Modifica, smista e confeziona proteine
+    - Produce lisosomi
+    - Aggiunge carboidrati e lipidi alle proteine
+    - Trasporta proteine verso altre parti della cellula
+
+2089:
+  kind: enum
+  text: Elenca alcune funzioni dei lisosomi
+  options:
+    - Degradano materiali cellulari danneggiati
+    - Demoliscono molecole attraverso enzimi idrolitici
+    - Partecipano all'autofagia
+    - Mantengono l'omeostasi cellulare
+
+2090:
+  kind: enum
+  text: Elenca alcune caratteristiche dei cloroplasti
+  options:
+    - Contengono clorofilla per la fotosintesi
+    - Producono energia sotto forma di glucosio
+    - Hanno un doppio strato di membrana
+    - Possiedono un proprio DNA
+
+#READY
+
+2091:
+  kind: enum
+  text: Elenca alcune caratteristiche del processo di trascrizione del DNA
+  options:
+    - L'RNA polimerasi si lega al promotore
+    - Una molecola di RNA complementare viene sintetizzata usando il DNA come stampo
+    - Il filamento stampo del DNA è letto in direzione 3'-5'
+    - L'RNA viene sintetizzato in direzione 5'-3'
+
+2092:
+  kind: enum
+  text: Elenca alcune caratteristiche dell'inizio della trascrizione
+  options:
+    - L'RNA polimerasi riconosce e si lega alla regione del promotore
+    - La doppia elica del DNA viene separata
+    - Inizia la sintesi del primo nucleotide di RNA
+    - Il sito di inizio della trascrizione è determinato dal promotore
+
+2093:
+  kind: enum
+  text: Elenca alcune caratteristiche dell'allungamento durante la trascrizione
+  options:
+    - L'RNA polimerasi si muove lungo il DNA stampo
+    - Vengono aggiunti nucleotidi complementari al filamento stampo
+    - Si forma una bolla di trascrizione con DNA, RNA e RNA polimerasi
+    - Il DNA si richiude dietro l'RNA polimerasi man mano che la trascrizione procede
+
+2094:
+  kind: enum
+  text: Elenca alcune caratteristiche della terminazione della trascrizione
+  options:
+    - L'RNA polimerasi riconosce una sequenza di terminazione
+    - L'RNA neosintetizzato si distacca dal DNA stampo
+    - La doppia elica del DNA si riforma completamente
+    - La trascrizione si interrompe e l'RNA polimerasi si stacca dal DNA
+
+2095:
+  kind: enum
+  text: Elenca alcune caratteristiche del processamento dell'RNA in eucarioti
+  options:
+    - Viene aggiunto un cappuccio di 7-metilguanosina all'estremità 5'
+    - Viene aggiunta una coda di poli-A all'estremità 3'
+    - Gli introni vengono rimossi attraverso lo splicing
+    - Gli esoni vengono uniti per formare un mRNA maturo
+
+#READY
+
+2096:
+  kind: enum
+  text: Elenca alcune caratteristiche del processo di traduzione
+  options:
+    - L'mRNA viene utilizzato come stampo per la sintesi proteica
+    - I ribosomi sono coinvolti nel processo
+    - Gli amminoacidi vengono legati in una catena polipeptidica
+    - Il processo richiede tRNA per il trasporto degli amminoacidi
+
+2097:
+  kind: enum
+  text: Elenca alcune caratteristiche dell'inizio della traduzione
+  options:
+    - La subunità ribosomiale minore si lega all'mRNA
+    - Il tRNA iniziatore si lega al codone di inizio (AUG)
+    - La subunità ribosomiale maggiore si unisce al complesso di inizio
+    - Il codone di inizio stabilisce il frame di lettura
+
+2098:
+  kind: enum
+  text: Elenca alcune caratteristiche dell'allungamento durante la traduzione
+  options:
+    - I tRNA portano amminoacidi al sito A del ribosoma
+    - Si forma un legame peptidico tra amminoacidi consecutivi
+    - Il ribosoma si sposta lungo l'mRNA in direzione 5'-3'
+    - I tRNA scarichi lasciano il ribosoma attraverso il sito E
+
+2099:
+  kind: enum
+  text: Elenca alcune caratteristiche della terminazione della traduzione
+  options:
+    - Un codone di stop (UAA, UAG o UGA) viene riconosciuto
+    - Un fattore di rilascio si lega al sito A del ribosoma
+    - La catena polipeptidica viene rilasciata
+    - Il ribosoma si dissocia in subunità
+
+2100:
+  kind: enum
+  text: Elenca alcune funzioni dei ribosomi durante la traduzione
+  options:
+    - Fornire il sito di legame per l'mRNA
+    - Catalizzare la formazione dei legami peptidici
+    - Coordinare l'interazione tra tRNA e mRNA
+    - Garantire che la sintesi avvenga nel frame di lettura corretto
+
+2101:
+  kind: enum
+  text: Elenca alcune caratteristiche dei tRNA nella traduzione
+  options:
+    - Hanno un anticodone complementare al codone dell'mRNA
+    - Trasportano amminoacidi specifici
+    - Sono caricati con amminoacidi da enzimi aminoacil-tRNA sintetasi
+    - Sono coinvolti nell'allineamento corretto degli amminoacidi
+
+2102:
+  kind: enum
+  text: Elenca alcune caratteristiche del processamento post-traduzionale
+  options:
+    - La proteina può essere modificata con aggiunta di gruppi funzionali
+    - La proteina può essere tagliata per attivarla
+    - Può avvenire il ripiegamento per raggiungere la conformazione finale
+    - La proteina può essere trasportata al compartimento cellulare corretto
+
+2103:
+  kind: enum
+  text: Elenca alcune caratteristiche della traduzione nei procarioti
+  options:
+    - La trascrizione e la traduzione avvengono simultaneamente
+    - L'mRNA NON ha un cappuccio 5' né una coda poli-A
+    - Il ribosoma si lega alla sequenza Shine-Dalgarno sull'mRNA
+    - Il primo amminoacido è la formil-metionina (fMet)
+
+2104:
+  kind: enum
+  text: Elenca alcune caratteristiche della traduzione negli eucarioti
+  options:
+    - La traduzione avviene nel citoplasma
+    - Il ribosoma riconosce il cappuccio 5' dell'mRNA
+    - L'mRNA subisce modifiche prima di essere tradotto
+    - Il primo amminoacido è la metionina (Met)
+
+#READY
+
+2105:
+  kind: enum
+  text: Elenca alcune caratteristiche generali delle proteine
+  options:
+    - Sono costituite da catene di amminoacidi
+    - La loro struttura primaria è determinata dalla sequenza di amminoacidi
+    - Possono svolgere funzioni enzimatiche, strutturali e di trasporto
+    - La loro funzione dipende dalla struttura tridimensionale
+
+2106:
+  kind: enum
+  text: Elenca alcune caratteristiche della struttura primaria delle proteine
+  options:
+    - È determinata dalla sequenza lineare degli amminoacidi
+    - È mantenuta da legami peptidici
+    - Influenza direttamente le strutture superiori
+    - È codificata dai geni nell'acido nucleico
+
+2107:
+  kind: enum
+  text: Elenca alcune caratteristiche della struttura secondaria delle proteine
+  options:
+    - Include $\alpha$ -eliche stabilizzate da legami a idrogeno
+    - Include foglietti $\beta$ stabilizzati da legami a idrogeno
+    - È influenzata dalle proprietà chimiche degli amminoacidi
+    - Contribuisce alla stabilità generale della proteina
+
+2108:
+  kind: enum
+  text: Elenca alcune caratteristiche della struttura terziaria delle proteine
+  options:
+    - È determinata da interazioni tra catene laterali degli amminoacidi
+    - Può includere ponti disolfuro tra residui di cisteina
+    - Contribuisce alla funzione specifica della proteina
+    - Può essere influenzata dall'ambiente cellulare
+
+2109:
+  kind: enum
+  text: Elenca alcune caratteristiche della struttura quaternaria delle proteine
+  options:
+    - Coinvolge l'assemblaggio di più catene polipeptidiche
+    - È stabilizzata da interazioni NON covalenti e, talvolta, covalenti
+    - È essenziale per proteine come l'emoglobina
+    - Può essere influenzata da modifiche post-traduzionali
+
+2110:
+  kind: enum
+  text: Elenca alcune funzioni enzimatiche delle proteine
+  options:
+    - Catalizzano reazioni chimiche accelerando la velocità di reazione
+    - Abbassano l'energia di attivazione necessaria per una reazione
+    - Sono specifiche per i substrati su cui agiscono
+    - Possono essere regolate da inibitori e attivatori
+
+2111:
+  kind: enum
+  text: Elenca alcune funzioni strutturali delle proteine
+  options:
+    - Formano il citoscheletro cellulare
+    - Contribuiscono alla struttura della matrice extracellulare
+    - Stabilizzano organelli cellulari come il nucleo
+    - Sono componenti principali di capelli, pelle e unghie
+
+2112:
+  kind: enum
+  text: Elenca alcune funzioni di trasporto delle proteine
+  options:
+    - Trasportano ossigeno nel sangue (es. emoglobina)
+    - Permettono il movimento di molecole attraverso le membrane
+    - Legano e trasportano molecole specifiche nel citoplasma
+    - Possono agire come canali o pompe ioniche
+
+2113:
+  kind: enum
+  text: Elenca alcune caratteristiche delle proteine globulari
+  options:
+    - Hanno una forma compatta e sferica
+    - Sono generalmente solubili in acqua
+    - Includono enzimi, ormoni e proteine di trasporto
+    - La loro funzione dipende dalla conformazione dinamica
+
+2114:
+  kind: enum
+  text: Elenca alcune caratteristiche delle proteine fibrose
+  options:
+    - Hanno una forma allungata e filamentosa
+    - Sono generalmente insolubili in acqua
+    - Includono cheratina, collagene ed elastina
+    - Forniscono supporto strutturale ai tessuti
+
+2115:
+  kind: enum
+  text: Elenca alcune caratteristiche della denaturazione delle proteine
+  options:
+    - È causata da fattori come pH estremo e temperature elevate
+    - Può essere reversibile o irreversibile
+    - Comporta la perdita della struttura terziaria e secondaria
+    - Porta alla perdita della funzione biologica
+
+2116:
+  kind: enum
+  text: Elenca alcune caratteristiche delle modifiche post-traduzionali delle proteine
+  options:
+    - Possono includere fosforilazione e glicosilazione
+    - Influenzano la funzione e la localizzazione delle proteine
+    - Sono essenziali per l'attivazione di alcune proteine
+    - Possono alterare la stabilità della proteina
+
+2117:
+  kind: enum
+  text: Elenca alcune caratteristiche delle proteine di membrana
+  options:
+    - Possono attraversare il doppio strato fosfolipidico
+    - Agiscono come recettori per segnali extracellulari
+    - Facilitano il trasporto di molecole attraverso la membrana
+    - Possono essere ancorate alla membrana tramite lipidi
+    
+2118:
+  kind: enum
+  text: Elenca alcune caratteristiche delle proteine di segnalazione
+  options:
+    - Trasmettono segnali all'interno della cellula
+    - Includono ormoni proteici come l'insulina
+    - Possono agire come recettori sulla membrana cellulare
+    - Regolano risposte cellulari a stimoli esterni 
+ 
+#READY
+
+2119:
+  kind: enum
+  text: Elenca alcune caratteristiche della produzione di energia nella cellula
+  options:
+    - Avviene principalmente nei mitocondri
+    - Include processi come la glicolisi e la fosforilazione ossidativa
+    - Richiede molecole come glucosio e ossigeno
+    - Porta alla sintesi di ATP, la principale moneta energetica cellulare
+
+2120:
+  kind: enum
+  text: Elenca alcune caratteristiche della glicolisi
+  options:
+    - È il primo passo nella produzione di energia da glucosio
+    - Avviene nel citoplasma della cellula
+    - Produce ATP e NADH come prodotti energetici
+    - Può avvenire in assenza di ossigeno (anaerobiosi)
+
+2121:
+  kind: enum
+  text: Elenca alcune caratteristiche del ciclo di Krebs
+  options:
+    - Si svolge nella matrice mitocondriale
+    - Ossida acetil-CoA per produrre NADH e $FADH_2$
+    - Libera $CO_2$ come prodotto di scarto
+    - Fornisce intermedi per altri processi biosintetici
+
+2122:
+  kind: enum
+  text: Elenca alcune caratteristiche della catena di trasporto degli elettroni
+  options:
+    - Avviene nella membrana interna dei mitocondri
+    - Utilizza NADH e $FADH_2$ per generare un gradiente protonico
+    - Produce ATP attraverso l'azione dell'ATP sintasi
+    - Richiede ossigeno come accettore finale degli elettroni
+
+2123:
+  kind: enum
+  text: Elenca alcune caratteristiche della fosforilazione ossidativa
+  options:
+    - È l'ultima fase della respirazione cellulare
+    - Converte energia chimica in ATP utilizzando un gradiente protonico
+    - È strettamente legata alla catena di trasporto degli elettroni
+    - Genera la maggior parte dell'ATP prodotto dalla cellula
+
+2124:
+  kind: enum
+  text: Elenca alcune caratteristiche della fermentazione
+  options:
+    - Avviene in condizioni di carenza di ossigeno
+    - Produce meno ATP rispetto alla respirazione aerobica
+    - Rigenera $NAD^+$ per consentire la glicolisi
+    - Può produrre acido lattico o etanolo come sottoprodotti
+
+2125:
+  kind: enum
+  text: Elenca alcune caratteristiche della beta-ossidazione
+  options:
+    - Decompone gli acidi grassi in acetil-CoA
+    - Avviene nella matrice mitocondriale
+    - Produce NADH e $FADH_2$ per la produzione di energia
+    - Richiede enzimi specifici per il metabolismo lipidico
+
+2126:
+  kind: enum
+  text: Elenca alcune caratteristiche del metabolismo anaerobico
+  options:
+    - NON richiede ossigeno per generare energia
+    - Include processi come la glicolisi e la fermentazione
+    - È meno efficiente rispetto al metabolismo aerobico
+    - Produce una quantità limitata di ATP per molecola di glucosio
+
+2127:
+  kind: enum
+  text: Elenca alcune caratteristiche dell'ATP sintasi
+  options:
+    - È un enzima localizzato nella membrana interna dei mitocondri
+    - Utilizza il gradiente protonico per sintetizzare ATP
+    - È parte integrante della fosforilazione ossidativa
+    - Funziona come una turbina molecolare
+
+2128:
+  kind: enum
+  text: Elenca alcune caratteristiche della fotosintesi come produzione energetica
+  options:
+    - Avviene nei cloroplasti delle cellule vegetali
+    - Converte energia luminosa in energia chimica sotto forma di glucosio
+    - Produce ossigeno come sottoprodotto
+    - Include la fase luminosa e il ciclo di Calvin
+
+2129:
+  kind: enum
+  text: Elenca alcune caratteristiche della respirazione cellulare
+  options:
+    - Comprende glicolisi, ciclo di Krebs e fosforilazione ossidativa
+    - Converte glucosio in ATP e altre molecole energetiche
+    - Richiede ossigeno per la massima efficienza
+    - Rilascia $CO_2$ e H2O come prodotti finali
+
+2130:
+  kind: enum
+  text: Elenca alcune funzioni dell'NADH nella produzione di energia
+  options:
+    - Trasporta elettroni alla catena di trasporto degli elettroni
+    - È prodotto nella glicolisi e nel ciclo di Krebs
+    - Contribuisce alla generazione del gradiente protonico
+    - Fornisce energia per la sintesi di ATP
+
+2131:
+  kind: enum
+  text: Elenca alcune caratteristiche dell'efficienza energetica cellulare
+  options:
+    - La respirazione aerobica produce più ATP rispetto alla fermentazione
+    - L'energia rilasciata è utilizzata per lavoro cellulare e calore
+    - L'efficienza dipende dalla disponibilità di nutrienti e ossigeno
+    - La produzione di energia è regolata da segnali cellulari
+
+2132:
+  kind: enum
+  text: Elenca alcune caratteristiche della gluconeogenesi come via energetica
+  options:
+    - Consente la sintesi di glucosio a partire da precursori NON glucidici
+    - È essenziale durante il digiuno prolungato
+    - Utilizza energia sotto forma di ATP e GTP
+    - Si verifica principalmente nel fegato e nei reni
+
+
+#READY
+
+2133:
+  kind: enum
+  text: Elenca alcune caratteristiche della fosforilazione ossidativa
+  options:
+    - Avviene nella membrana interna dei mitocondri
+    - Dipende dal gradiente protonico creato dalla catena di trasporto degli elettroni
+    - Porta alla produzione di ATP tramite l'enzima ATP sintasi
+    - Richiede ossigeno come accettore finale degli elettroni
+
+2134:
+  kind: enum
+  text: Elenca alcune caratteristiche della catena di trasporto degli elettroni nella fosforilazione ossidativa
+  options:
+    - È composta da complessi proteici localizzati nella membrana interna mitocondriale
+    - Trasferisce elettroni da NADH e $FADH_2$ all'ossigeno
+    - Crea un gradiente protonico attraverso la membrana mitocondriale
+    - Produce acqua come sottoprodotto
+
+2135:
+  kind: enum
+  text: Elenca alcune caratteristiche dell'ATP sintasi nella fosforilazione ossidativa
+  options:
+    - È responsabile della sintesi di ATP utilizzando il gradiente protonico
+    - Si trova nella membrana interna dei mitocondri
+    - Funziona come una macchina molecolare rotativa
+    - Converte energia elettrochimica in energia chimica immagazzinata nell'ATP
+
+2136:
+  kind: enum
+  text: Elenca alcune fonti di elettroni per la catena di trasporto nella fosforilazione ossidativa
+  options:
+    - NADH prodotto dalla glicolisi e dal ciclo di Krebs
+    - $FADH_2$ generato durante il ciclo di Krebs
+    - Beta-ossidazione degli acidi grassi
+    - Catabolismo degli amminoacidi
+
+2137:
+  kind: enum
+  text: Elenca alcuni prodotti della fosforilazione ossidativa
+  options:
+    - ATP come principale forma di energia cellulare
+    - Acqua formata dalla riduzione dell'ossigeno
+    - Calore come prodotto secondario
+    - Riutilizzo di $NAD^+$ e FAD per il metabolismo
+
+2138:
+  kind: enum
+  text: Elenca alcuni effetti della fosforilazione ossidativa inefficiente
+  options:
+    - Diminuzione della produzione di ATP
+    - Accumulo di ROS (specie reattive dell'ossigeno)
+    - Potenziale danno alle membrane mitocondriali
+    - Riduzione dell'efficienza energetica cellulare
+
+2139:
+  kind: enum
+  text: Elenca alcune funzioni del gradiente protonico nella fosforilazione ossidativa
+  options:
+    - Alimenta l'ATP sintasi per la sintesi di ATP
+    - Mantiene il potenziale elettrochimico nella membrana mitocondriale
+    - Consente il trasporto di molecole come il calcio nei mitocondri
+    - Regola l'efficienza metabolica mitocondriale
+
+2140:
+  kind: enum
+  text: Elenca alcune caratteristiche dei complessi proteici della catena di trasporto degli elettroni
+  options:
+    - Comprendono NADH deidrogenasi (Complesso I) e citocromo ossidasi (Complesso IV)
+    - Trasportano elettroni attraverso reazioni redox
+    - Contribuiscono al pompaggio di protoni nella matrice mitocondriale
+    - Sono associati a coenzimi come il coenzima Q e il citocromo c
+
+2141:
+  kind: enum
+  text: Elenca alcune caratteristiche della produzione di ROS durante la fosforilazione ossidativa
+  options:
+    - È un sottoprodotto naturale del trasferimento di elettroni
+    - Può causare stress ossidativo se NON controllato
+    - È mitigato da enzimi antiossidanti come la superossido dismutasi
+    - Può essere associato all'invecchiamento e a malattie degenerative
+
+2142:
+  kind: enum
+  text: Elenca alcune differenze tra NADH e $FADH_2$ nella fosforilazione ossidativa
+  options:
+    - NADH trasferisce elettroni al Complesso I, mentre $FADH_2$ li trasferisce al Complesso II
+    - NADH genera più ATP rispetto a $FADH_2$
+    - Entrambi derivano dal metabolismo di carboidrati e grassi
+    - Entrambi contribuiscono al gradiente protonico
+
+2143:
+  kind: enum
+  text: Elenca alcune condizioni necessarie per una fosforilazione ossidativa efficiente
+  options:
+    - Disponibilità di ossigeno sufficiente come accettore finale degli elettroni
+    - Integrità della membrana interna mitocondriale
+    - Adeguata fornitura di NADH e $FADH_2$
+    - Funzionamento ottimale dell'ATP sintasi e dei complessi proteici
+
+2144:
+  kind: enum
+  text: Elenca alcune differenze tra fosforilazione ossidativa e fosforilazione a livello del substrato
+  options:
+    - La fosforilazione ossidativa richiede un gradiente protonico, mentre l'altra no
+    - La fosforilazione ossidativa avviene nei mitocondri, mentre l'altra può avvenire nel citoplasma
+    - La fosforilazione a livello del substrato genera ATP direttamente senza un gradiente
+    - Entrambe contribuiscono alla produzione complessiva di ATP
+
+2145:
+  kind: enum
+  text: Elenca alcuni meccanismi di regolazione della fosforilazione ossidativa
+  options:
+    - Dipendenza dalla disponibilità di ADP e fosfato inorganico
+    - Regolazione da parte della concentrazione di ossigeno
+    - Feedback negativo derivante da livelli elevati di ATP
+    - Modulazione da parte del potenziale redox mitocondriale
