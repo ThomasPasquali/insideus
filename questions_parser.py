@@ -16,13 +16,15 @@ class Card:
     options: list[str]
     correct: int | None
     curiosity: str | None
+    difficulty: int
 
     def shuffle_options(self):
-        if self.correct is not None:
-            correct_text = self.options[self.correct]
-        random.shuffle(self.options)
-        if self.correct is not None:
-            self.correct = self.options.index(correct_text)
+        if self.kind == 'mc':
+            if self.correct is not None:
+                correct_text = self.options[self.correct]
+            random.shuffle(self.options)
+            if self.correct is not None:
+                self.correct = self.options.index(correct_text)
 
 def tex_escape(text):
     """
@@ -69,7 +71,7 @@ def generate_tex(args: argparse.Namespace, cards: list[Card]) -> str:
     \newcommand{\optionfontsize}{\normalsize}
     \newcommand{\curiosityfontsize}{\small}
 
-    \newcommand{\card}[3]{
+    \newcommand{\card}[4]{
         \begin{tikzpicture}[x=1mm,y=1mm]
             % Border node
             \draw[rounded corners=\cardroundingradius] (0,0) rectangle (\cardwidth,\cardheight);
@@ -99,12 +101,23 @@ def generate_tex(args: argparse.Namespace, cards: list[Card]) -> str:
                 at (\textpadding, \textpadding) {
                 \curiosityfontsize\textit{#3}
             };
+            % Difficulty node
+            \node[
+                    above right,
+                    minimum width=(\cardwidth-2*\textpadding)*1mm,
+                    text width=(\cardwidth-3*\textpadding)*1mm,
+                    align=right,
+                    execute at begin node=\setlength{\baselineskip}{0.5em}
+                ] 
+                at (\textpadding, \textpadding) {
+                \curiosityfontsize\textit{#4}
+            };
         \end{tikzpicture}
     }
     """
 
     for i, c in enumerate(cards):
-        #FIXME c.shuffle_options()
+        c.shuffle_options()
         itemize = c.kind in ['tf', 'enum']
         card_tex = r"""\card
             {QUESTION}
@@ -112,12 +125,18 @@ def generate_tex(args: argparse.Namespace, cards: list[Card]) -> str:
                 \setlength{\parskip}{0pt}
                 \setlength{\parsep}{0pt}
                 OPTIONS
-        """ + (r'\end{itemize}}' if itemize else r'\end{enumerate}}') + r"""{CURIOSITY}"""         
+        """ + (r'\end{itemize}}' if itemize else r'\end{enumerate}}') + r'{CURIOSITY}{DIFFICULTY}'
+
         card_tex = card_tex.replace('QUESTION', tex_escape(c.text))
+
         curiosity = ''
         if c.curiosity is not None and args.include_curiosity:
             curiosity = tex_escape(c.curiosity)
         card_tex = card_tex.replace('CURIOSITY', curiosity)
+
+        difficulty = r'$\star$' if c.difficulty == 1 else ''
+        card_tex = card_tex.replace('DIFFICULTY', difficulty)
+
         if c.options is not None:
             options_tex = []
             for j, o in enumerate(c.options):
@@ -126,6 +145,7 @@ def generate_tex(args: argparse.Namespace, cards: list[Card]) -> str:
                 # options_tex.append(f'\\item {"\\textbf{" if correct else ""}{o}{"}" if correct else ""}')
                 options_tex.append(('\\bfseries ' if correct else '') + '\\item ' + str(o) + ('\\mdseries' if correct else ''))
             card_tex = card_tex.replace('OPTIONS', '\n'.join(options_tex))
+
         tex += card_tex
         if (i+1)%3 == 0:
             tex += r'\\[5mm]'
@@ -164,11 +184,11 @@ def generate_cards_from_file(filename: str) -> list[Card]:
             #print(question)
             match question['kind']:
                 case 'mc':
-                    cards.append(Card(kind=question['kind'], key=q, text=question['text'], options=question['options'], correct=question['correct'], curiosity=question.get('curiosity')))
+                    cards.append(Card(kind=question['kind'], key=q, text=question['text'], options=question['options'], correct=question['correct'], curiosity=question.get('curiosity'), difficulty=question['difficulty']))
                 case 'tf':
-                    cards.append(Card(kind=question['kind'], key=q, text=question['text'], options=['Vero', 'Falso'], correct=question['correct'], curiosity=question.get('curiosity')))
+                    cards.append(Card(kind=question['kind'], key=q, text=question['text'], options=['Vero', 'Falso'], correct=question['correct'], curiosity=question.get('curiosity'), difficulty=question['difficulty']))
                 case 'enum':
-                    cards.append(Card(kind=question['kind'], key=q, text=question['text'], options=question['options'], correct=None, curiosity=question.get('curiosity')))
+                    cards.append(Card(kind=question['kind'], key=q, text=question['text'], options=question['options'], correct=None, curiosity=question.get('curiosity'), difficulty=question['difficulty']))
                 case _ as a:
                     raise Exception(f'kind {a} not found')
     return cards
