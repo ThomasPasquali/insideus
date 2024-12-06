@@ -7,6 +7,7 @@
     - Le cellule procariote NON contengono mitocondri
     - I procarioti NON hanno citoscheletro
     - Le cellule procariote sono più piccole di quelle eucariote
+  difficulty: 1
 
 2002:
   kind: enum
@@ -16,6 +17,7 @@
     - Membrana cellulare
     - Citoplasma
     - DNA
+  difficulty: 1
 
 2003:
   kind: enum
@@ -25,6 +27,7 @@
     - Involucro nucleare
     - Reticolo endoplasmatico
     - Apparato del Golgi
+  difficulty: 3
 
 2004:
   kind: enum
@@ -34,6 +37,7 @@
     - Archeobatteri
     - Funghi unicellulari
     - Alghe unicellulari
+  difficulty: 3
 
 #READY
 
@@ -45,15 +49,17 @@
     - Contengono ribosomi propri
     - Si replicano per scissione binaria
     - I loro ribosomi sono sensibili ad alcuni antibiotici
+  difficulty: 3
 
 2006:
   kind: enum
   text: Elenca le differenze tra mitocondri e cloroplasti
   options:
     - I cloroplasti derivano da cianobatteri, i mitocondri da proteobatteri
-    - I cloroplasti si trovano solo nelle cellule animali/alghe 
+    - I cloroplasti si trovano solo nelle cellule vegetali/alghe 
     - I cloroplasti contengono la clorofilla
     - I cloroplasti svolgono la fotosintesi clorofilliana, i mitocondri la respirazione cellulare
+  difficulty: 1
 
 #READY
 
@@ -65,6 +71,7 @@
     - Anidride carbonica ($CO_2$)
     - Diossigeno ($O_2$)
     - Etanolo ($C_2H_6O$)
+  difficulty: 3
 
 2008:
   kind: enum
@@ -74,6 +81,7 @@
     - Rinforza la membrana plasmatica
     - Consente il movimento di alcuni organelli
     - Costituisce i sarcomeri (che permettono la contrazione muscolare)
+  difficulty: 1
 
 #READY
 
@@ -85,6 +93,7 @@
     - Legame covalente puro
     - Legame idrogeno
     - Legame covalente polare
+  difficulty: 1
 
 2010:
   kind: enum
@@ -94,6 +103,7 @@
     - Ossigeno
     - Azoto
     - Idrogeno
+  difficulty: 3
 
 2011:
   kind: enum
@@ -103,6 +113,7 @@
     - Ottimo solvente
     - Capacità termica
     - Capillarità
+  difficulty: 1
 
 #READY
 
@@ -114,6 +125,7 @@
     - Acqua
     - Sangue
     - Saliva
+  difficulty: 1
 2013:
   kind: enum
   text: Elenca soluzioni con il pH acido 
@@ -122,6 +134,7 @@
     - Succo di limone
     - Coca Cola
     - Aceto
+  difficulty: 1
 
 2014:
   kind: enum
@@ -131,6 +144,7 @@
     - Ammoniaca
     - Varechina
     - Soda caustica
+  difficulty: 3
 
 2015:
   kind: enum
@@ -140,6 +154,7 @@
     - Neutre
     - Acide
     - Fortemente basiche
+  difficulty: 1
 
 #READY
 
@@ -152,6 +167,7 @@
     - Lipidi
     - Proteine
     - Acidi nucleici
+  difficulty: 1
 
 2017:
   kind: enum
@@ -161,6 +177,7 @@
     - Nucleotidi
     - Amminoacidi
     - Acidi grassi
+  difficulty: 1
 
 2018:
   kind: enum
@@ -170,6 +187,7 @@
     - Legame peptidico
     - Legame glicosidico
     - Legame estere
+  difficulty: 3
 
 2019:
   kind: enum
@@ -179,6 +197,7 @@
     - Cellulosa
     - Glicogeno
     - Chitina
+  difficulty: 3
 
 2020:
   kind: enum
@@ -188,6 +207,7 @@
     - Guanina
     - Citosina
     - Uracile
+  difficulty: 1
 
 2021:
   kind: enum
@@ -197,6 +217,7 @@
     - Emoglobina
     - Cheratina
     - Anticorpi
+  difficulty: 3
 
 #READY
 
@@ -208,6 +229,7 @@
     - RNA ribosomiale (rRNA)
     - RNA di trasporto (tRNA)
     - microRNA (miRNA)
+  difficulty: 3
 
 #READY
 
@@ -219,6 +241,7 @@
     - Fruttosio
     - Glucosio
     - Amido
+  difficulty: 1
 
 #READY
 
@@ -230,6 +253,7 @@
     - Isolamento termico
     - Regolazione della crescita e dello sviluppo (steroidi)
     - Formazione delle membrane cellulari
+  difficulty: 1
 
 2025:
   kind: enum
@@ -239,6 +263,7 @@
     - Estradiolo
     - Progesterone
     - Cortisolo
+  difficulty: 1
 
 2026:
   kind: enum
@@ -248,6 +273,7 @@
     - Costituiscono le membrane cellulari
     - La testa è polare
     - La testa è formata da un gruppo fosfato e un gruppo amminico
+  difficulty: 3
 
 #READY
 
@@ -259,6 +285,7 @@
     - Struttura secondaria
     - Struttura terziaria
     - Struttura quaternaria
+  difficulty: 3
 
 2028:
   kind: enum
@@ -268,6 +295,7 @@
     - Gruppo carbossilico ($COO^-$)
     - Catena laterale
     - Atomo di idrogeno
+  difficulty: 3
 
 #READY
 
@@ -279,6 +307,7 @@
     - DNA polimerasi
     - topoisomerasi
     - DNA girasi
+  difficulty: 3
 
 2030:
   kind: enum
@@ -288,6 +317,7 @@
     - Esone esteso
     - Introne mantenuto
     - Esoni alternativi
+  difficulty: 3
 
 #READY
 
@@ -299,6 +329,7 @@
     - "``Collana di perle''"
     - Fibra ad ansa
     - Cromosoma 
+  difficulty: 1
 
 2032:
   kind: enum
@@ -308,6 +339,7 @@
     - Fase S
     - Fase G2
     - Fase M
+  difficulty: 1
 
 #READY
 #READY
@@ -320,6 +352,7 @@
     - Acetilazione
     - Fosforilazione
     - Ubiquitinazione
+  difficulty: 3
 
 2034:
   kind: enum
@@ -329,6 +362,7 @@
     - H2B
     - H3
     - H4
+  difficulty: 3
 
 #READY
 
@@ -342,6 +376,7 @@
     - Splicing alternativo
     - Poliadenilazione (coda poli-A)
     - Capping (cap-5')
+  difficulty: 3
 
 #READY
 
@@ -353,6 +388,7 @@
     - Dita di Zinco
     - Cerniera di leucine
     - Elica-Ansa-Elica
+  difficulty: 3
 
 #READY
 
@@ -367,6 +403,7 @@
     - Lipidi
     - Gruppi fosfato
     - Gruppi acetile
+  difficulty: 3
 
 2038:
   kind: enum
@@ -376,6 +413,7 @@
     - Fosfatasi
     - Acetilasi
     - Glicosilasi
+  difficulty: 3
 
 #READY
 
@@ -387,6 +425,7 @@
     - Temperatura
     - Concentrazione salina
     - Forze idrofobiche
+  difficulty: 1
 
 #READY
 
@@ -398,6 +437,7 @@
     - Stoccaggio
     - Strutturale
     - Ormonale
+  difficulty: 1
 
 #READY
 
@@ -411,6 +451,7 @@
     - Apparato di Golgi
     - Reticolo endoplasmatico
     - Mitocondri
+  difficulty: 1
 
 #READY
 
@@ -422,6 +463,7 @@
     - Energia elettrica
     - Energia chimica
     - Energia meccanica 
+  difficulty: 1
 
 #READY
 
@@ -433,6 +475,7 @@
     - NADH (3 molecole)
     - $FADH_2$ (1 molecola)
     - GTP (1 molecola)
+  difficulty: 3
 
 2044:
   kind: enum
@@ -442,6 +485,7 @@
     - FAD
     - CoA
     - $NAD^+$
+  difficulty: 3
 
 #READY
 
@@ -453,6 +497,7 @@
     - Avviene nel citoplasma
     - Le reazioni 1, 3 e 10 sono irreversibili
     - Produce 2 molecole nette di ATP
+  difficulty: 3
 
 #READY
 
@@ -464,6 +509,7 @@
     - Etanolo
     - Acido propionico
     - Acido acetico
+  difficulty: 1
 
 2047:
   kind: enum
@@ -473,6 +519,7 @@
     - Fermentazione alcolica
     - Fermentazione propionica
     - Fermentazione butirrica
+  difficulty: 3
 
 #READY
 
@@ -484,6 +531,7 @@
     - Lattato
     - Etanolo
     - Glicerolo
+  difficulty: 3
 
 2049:
   kind: enum
@@ -493,6 +541,7 @@
     - ADP (4 molecole)
     - $NAD^+$ (2 molecole)
     - GDP (6 molecole)
+  difficulty: 3
 
 #READY
 
@@ -504,6 +553,7 @@
     - Concentrazione di substrato
     - pH
     - Necessità della cellula
+  difficulty: 3
 
 #READY
 
@@ -515,6 +565,7 @@
     - Spazio intermembrana
     - Membrana interna
     - Matrice mitocondriale
+  difficulty: 1
 
 2052:
   kind: enum
@@ -524,6 +575,7 @@
     - Ciclo di Krebs (o dell'acido citrico)
     - Trasporto di elettroni
     - Sintesi di ATP
+  difficulty: 3
 
 2053:
   kind: enum
@@ -533,6 +585,7 @@
     - Complesso III
     - Complesso IV
     - Complesso V
+  difficulty: 3
 
 #READY
 
@@ -544,6 +597,7 @@
     - $FADH_2$ (1 molecola)
     - GTP (1 molecola)
     - $CO_2$ (2 molecole)
+  difficulty: 3
 
 2055:
   kind: enum
@@ -553,6 +607,7 @@
     - Aconitasi
     - Succinil-CoA sintetasi
     - Fumarasi
+  difficulty: 3
 
 #READY
 
@@ -566,6 +621,7 @@
     - Decarbossilazione ossidativa del piruvato
     - Ciclo di Krebs
     - Fosforilazione ossidativa
+  difficulty: 3
 
 2057:
   kind: enum
@@ -575,17 +631,19 @@
     - Subunità $\beta$
     - Subunità $\gamma$
     - Subunità $\epsilon$
+  difficulty: 3
 
 #READY
 
 2058:
   kind: enum
-  text: Elenca le caratteristiche dei microtubuli
+  text: Elenca le caratteristiche strutturali dei microtubuli
   options:
     - Hanno un diametro di ca. 25nm
     - Sono formati da tubulina
     - Sono polarizzati
     - Hanno la forma di un cilindro cavo
+  difficulty: 3
 
 2059:
   kind: enum
@@ -595,6 +653,7 @@
     - Sono responsabili del transito di vescicole e organuli
     - Formano il fuso mitotico durante la divisione cellulare
     - Danno struttura e sostegno alla cellula
+  difficulty: 1
 
 #READY
 
@@ -606,6 +665,7 @@
     - Hanno il diametro di ca. 7nm
     - Sono costituite da una classe di proteine chiamate actine
     - La forma è data da due catene di actina intrecciate fra loro
+  difficulty: 3
 
 2061:
   kind: enum
@@ -615,6 +675,7 @@
     - Formare l'anello contrattile durante la mitosi
     - Contrazione muscolare
     - Aiutano la cellula a cambiare forma
+  difficulty: 1
 
 #READY
 
@@ -626,6 +687,7 @@
     - Tengono bloccati alcuni organuli (come il nucleo)
     - Contribuiscono all'adesione cellulare
     - Danno supporto strutturale alla cellula
+  difficulty: 1
 
 2063:
   kind: enum
@@ -635,6 +697,7 @@
     - NON sono polari
     - Hanno un diametro di ca. 8/12nm
     - Sono formati da subunità ad $\alpha -elica$
+  difficulty: 3
 
 2064:
   kind: enum
@@ -644,6 +707,7 @@
     - Determinare la posizione degli organelli citoplasmatici
     - Determinare la forma della cellula
     - Formazione del fuso mitotico
+  difficulty: 1
 
 #READY
 
@@ -655,6 +719,7 @@
     - Anello contrattile
     - Cinetocore
     - Cromosomi
+  difficulty: 3
 
 2066:
   kind: enum
@@ -664,6 +729,7 @@
     - Prometafase
     - Metafase
     - Anafase
+  difficulty: 1
 
 2067:
   kind: enum
@@ -673,6 +739,7 @@
     - Si controlla che i cromosomi siano correttamente attaccati alle fibre del fuso
     - Si controlla che NON ci siano stati errori nella duplicazione dei cromosomi
     - Si controlla la grandezza della cellula
+  difficulty: 3
 
 #READY
 
@@ -684,6 +751,7 @@
     - Inizio della formazione del fuso mitotico
     - Cessazione della trascrizione dei geni
     - Scomparizione del nucleolo
+  difficulty: 3
 
 2069:
   kind: enum
@@ -693,6 +761,7 @@
     - I microtubuli cromosomici si collegano al centromero
     - I cromosomi si muovono verso l'equatore del fuso
     - I microtubuli si attaccano ai cinetocori
+  difficulty: 3
 
 2070:
   kind: enum
@@ -702,6 +771,7 @@
     - I cromosomi si allineano lungo il piano equatoriale
     - il checkpoint controlla il collegamento del fuso mitotico ai cinetocori
     - Il checkpoint controlla l'allineamento dei cromosomi
+  difficulty: 3
 
 2071:
   kind: enum
@@ -711,6 +781,7 @@
     - Si scindono le coesine che legano i cromatidi fratelli
     - Si accorciano i microtubuli dei cinetocori
     - La cellula si allunga
+  difficulty: 3
 
 2072:
   kind: enum
@@ -720,6 +791,7 @@
     - Ricompaiono le membrane nucleari
     - Si separa il citoplasma
     - Riappare il nucleolo
+  difficulty: 3
 
 #READY
 
@@ -731,6 +803,7 @@
     - Può includere sequenze altamente ripetitive
     - Costituisce una grande parte del genoma umano
     - Ha ruoli regolatori o strutturali NON sempre compresi
+  difficulty: 1
 
 2074:
   kind: enum
@@ -740,6 +813,7 @@
     - Protezione dei cromosomi attraverso i telomeri
     - Conservazione di elementi trasponibili
     - Influenza sulla struttura cromosomica
+  difficulty: 3
 
 2075:
   kind: enum
@@ -749,6 +823,7 @@
     - Sequenze ripetute come i microsatelliti
     - Sequenze di trasposoni inattive
     - Pseudogeni NON funzionali
+  difficulty: 3
 
 2076:
   kind: enum
@@ -758,6 +833,7 @@
     - Possono contribuire allo sviluppo di malattie genetiche
     - Possono avere effetti evolutivi benefici
     - Possono NON avere effetti evidenti se in regioni NON funzionali
+  difficulty: 1
 
 #READY
 
@@ -769,6 +845,7 @@
     - Produce cellule aploidi
     - È essenziale per la riproduzione sessuale
     - Garantisce la diversità genetica
+  difficulty: 1
 
 2078:
   kind: enum
@@ -778,6 +855,7 @@
     - I cromosomi si condensano
     - Si formano le tetradi
     - La membrana nucleare inizia a dissolversi
+  difficulty: 3
 
 2079:
   kind: enum
@@ -787,6 +865,7 @@
     - Meiosi I riduce il numero di cromosomi a metà
     - Meiosi II è simile alla mitosi
     - Meiosi I include il crossing-over, meiosi II no
+  difficulty: 3
 
 2080:
   kind: enum
@@ -796,17 +875,19 @@
     - Produrre cellule aploidi per la riproduzione sessuale
     - Garantire la corretta segregazione dei cromosomi
     - Prevenire il raddoppio del numero di cromosomi tra le generazioni
+  difficulty: 1
 
 #READY
 
-2081:
-  kind: enum
-  text: Elenca alcune funzioni dei mitocondri
-  options:
-    - Producono ATP attraverso la respirazione cellulare
-    - Regolano il metabolismo cellulare
-    - Sono coinvolti nella segnalazione del calcio
-    - Partecipano all'apoptosi
+# 2081:
+#   kind: enum
+#   text: Elenca alcune funzioni dei mitocondri
+#   options:
+#     - Producono ATP attraverso la respirazione cellulare
+#     - Regolano il metabolismo cellulare
+#     - Sono coinvolti nella segnalazione del calcio
+#     - Partecipano all'apoptosi
+#   difficulty: 3
 
 2082:
   kind: enum
@@ -816,6 +897,7 @@
     - Modifica proteine tramite glicosilazione
     - Collabora con l'apparato di Golgi
     - Contiene ribosomi attaccati alla sua superficie
+  difficulty: 3
 
 2083:
   kind: enum
@@ -825,6 +907,7 @@
     - Produce lisosomi
     - Aggiunge carboidrati e lipidi alle proteine
     - Trasporta proteine verso altre parti della cellula
+  difficulty: 3
 
 2084:
   kind: enum
@@ -834,6 +917,7 @@
     - Demoliscono molecole attraverso enzimi idrolitici
     - Partecipano all'autofagia
     - Mantengono l'omeostasi cellulare
+  difficulty: 3
 
 2085:
   kind: enum
@@ -843,6 +927,7 @@
     - Producono energia sotto forma di glucosio
     - Hanno un doppio strato di membrana
     - Possiedono un proprio DNA
+  difficulty: 1
 
 #READY
 
@@ -854,42 +939,43 @@
     - Regolano il metabolismo cellulare
     - Sono coinvolti nella segnalazione del calcio
     - Partecipano all'apoptosi
+  difficulty: 3
 
-2087:
-  kind: enum
-  text: Elenca alcune funzioni del reticolo endoplasmatico rugoso
-  options:
-    - Sintetizza proteine destinate alla secrezione
-    - Modifica proteine tramite glicosilazione
-    - Collabora con l'apparato di Golgi
-    - Contiene ribosomi attaccati alla sua superficie
+# 2087:
+#   kind: enum
+#   text: Elenca alcune funzioni del reticolo endoplasmatico rugoso
+#   options:
+#     - Sintetizza proteine destinate alla secrezione
+#     - Modifica proteine tramite glicosilazione
+#     - Collabora con l'apparato di Golgi
+#     - Contiene ribosomi attaccati alla sua superficie
 
-2088:
-  kind: enum
-  text: Elenca alcune funzioni dell'apparato di Golgi
-  options:
-    - Modifica, smista e confeziona proteine
-    - Produce lisosomi
-    - Aggiunge carboidrati e lipidi alle proteine
-    - Trasporta proteine verso altre parti della cellula
+# 2088:
+#   kind: enum
+#   text: Elenca alcune funzioni dell'apparato di Golgi
+#   options:
+#     - Modifica, smista e confeziona proteine
+#     - Produce lisosomi
+#     - Aggiunge carboidrati e lipidi alle proteine
+#     - Trasporta proteine verso altre parti della cellula
 
-2089:
-  kind: enum
-  text: Elenca alcune funzioni dei lisosomi
-  options:
-    - Degradano materiali cellulari danneggiati
-    - Demoliscono molecole attraverso enzimi idrolitici
-    - Partecipano all'autofagia
-    - Mantengono l'omeostasi cellulare
+# 2089:
+#   kind: enum
+#   text: Elenca alcune funzioni dei lisosomi
+#   options:
+#     - Degradano materiali cellulari danneggiati
+#     - Demoliscono molecole attraverso enzimi idrolitici
+#     - Partecipano all'autofagia
+#     - Mantengono l'omeostasi cellulare
 
-2090:
-  kind: enum
-  text: Elenca alcune caratteristiche dei cloroplasti
-  options:
-    - Contengono clorofilla per la fotosintesi
-    - Producono energia sotto forma di glucosio
-    - Hanno un doppio strato di membrana
-    - Possiedono un proprio DNA
+# 2090:
+#   kind: enum
+#   text: Elenca alcune caratteristiche dei cloroplasti
+#   options:
+#     - Contengono clorofilla per la fotosintesi
+#     - Producono energia sotto forma di glucosio
+#     - Hanno un doppio strato di membrana
+#     - Possiedono un proprio DNA
 
 #READY
 
@@ -901,6 +987,7 @@
     - Una molecola di RNA complementare viene sintetizzata usando il DNA come stampo
     - Il filamento stampo del DNA è letto in direzione 3'-5'
     - L'RNA viene sintetizzato in direzione 5'-3'
+  difficulty: 1
 
 2092:
   kind: enum
@@ -910,6 +997,7 @@
     - La doppia elica del DNA viene separata
     - Inizia la sintesi del primo nucleotide di RNA
     - Il sito di inizio della trascrizione è determinato dal promotore
+  difficulty: 3
 
 2093:
   kind: enum
@@ -919,6 +1007,7 @@
     - Vengono aggiunti nucleotidi complementari al filamento stampo
     - Si forma una bolla di trascrizione con DNA, RNA e RNA polimerasi
     - Il DNA si richiude dietro l'RNA polimerasi man mano che la trascrizione procede
+  difficulty: 3
 
 2094:
   kind: enum
@@ -928,6 +1017,7 @@
     - L'RNA neosintetizzato si distacca dal DNA stampo
     - La doppia elica del DNA si riforma completamente
     - La trascrizione si interrompe e l'RNA polimerasi si stacca dal DNA
+  difficulty: 3
 
 2095:
   kind: enum
@@ -937,6 +1027,7 @@
     - Viene aggiunta una coda di poli-A all'estremità 3'
     - Gli introni vengono rimossi attraverso lo splicing
     - Gli esoni vengono uniti per formare un mRNA maturo
+  difficulty: 3
 
 #READY
 
@@ -948,6 +1039,7 @@
     - I ribosomi sono coinvolti nel processo
     - Gli amminoacidi vengono legati in una catena polipeptidica
     - Il processo richiede tRNA per il trasporto degli amminoacidi
+  difficulty: 1
 
 2097:
   kind: enum
@@ -957,6 +1049,7 @@
     - Il tRNA iniziatore si lega al codone di inizio (AUG)
     - La subunità ribosomiale maggiore si unisce al complesso di inizio
     - Il codone di inizio stabilisce il frame di lettura
+  difficulty: 3
 
 2098:
   kind: enum
@@ -966,6 +1059,7 @@
     - Si forma un legame peptidico tra amminoacidi consecutivi
     - Il ribosoma si sposta lungo l'mRNA in direzione 5'-3'
     - I tRNA scarichi lasciano il ribosoma attraverso il sito E
+  difficulty: 3
 
 2099:
   kind: enum
@@ -975,6 +1069,7 @@
     - Un fattore di rilascio si lega al sito A del ribosoma
     - La catena polipeptidica viene rilasciata
     - Il ribosoma si dissocia in subunità
+  difficulty: 3
 
 2100:
   kind: enum
@@ -984,6 +1079,7 @@
     - Catalizzare la formazione dei legami peptidici
     - Coordinare l'interazione tra tRNA e mRNA
     - Garantire che la sintesi avvenga nel frame di lettura corretto
+  difficulty: 3
 
 2101:
   kind: enum
@@ -993,6 +1089,7 @@
     - Trasportano amminoacidi specifici
     - Sono caricati con amminoacidi da enzimi aminoacil-tRNA sintetasi
     - Sono coinvolti nell'allineamento corretto degli amminoacidi
+  difficulty: 3
 
 2102:
   kind: enum
@@ -1002,6 +1099,7 @@
     - La proteina può essere tagliata per attivarla
     - Può avvenire il ripiegamento per raggiungere la conformazione finale
     - La proteina può essere trasportata al compartimento cellulare corretto
+  difficulty: 3
 
 2103:
   kind: enum
@@ -1011,6 +1109,7 @@
     - L'mRNA NON ha un cappuccio 5' né una coda poli-A
     - Il ribosoma si lega alla sequenza Shine-Dalgarno sull'mRNA
     - Il primo amminoacido è la formil-metionina (fMet)
+  difficulty: 3
 
 2104:
   kind: enum
@@ -1020,6 +1119,7 @@
     - Il ribosoma riconosce il cappuccio 5' dell'mRNA
     - L'mRNA subisce modifiche prima di essere tradotto
     - Il primo amminoacido è la metionina (Met)
+  difficulty: 3
 
 #READY
 
@@ -1031,6 +1131,7 @@
     - La loro struttura primaria è determinata dalla sequenza di amminoacidi
     - Possono svolgere funzioni enzimatiche, strutturali e di trasporto
     - La loro funzione dipende dalla struttura tridimensionale
+  difficulty: 1
 
 2106:
   kind: enum
@@ -1040,6 +1141,7 @@
     - È mantenuta da legami peptidici
     - Influenza direttamente le strutture superiori
     - È codificata dai geni nell'acido nucleico
+  difficulty: 3
 
 2107:
   kind: enum
@@ -1049,6 +1151,7 @@
     - Include foglietti $\beta$ stabilizzati da legami a idrogeno
     - È influenzata dalle proprietà chimiche degli amminoacidi
     - Contribuisce alla stabilità generale della proteina
+  difficulty: 3
 
 2108:
   kind: enum
@@ -1058,6 +1161,7 @@
     - Può includere ponti disolfuro tra residui di cisteina
     - Contribuisce alla funzione specifica della proteina
     - Può essere influenzata dall'ambiente cellulare
+  difficulty: 3
 
 2109:
   kind: enum
@@ -1067,6 +1171,7 @@
     - È stabilizzata da interazioni NON covalenti e, talvolta, covalenti
     - È essenziale per proteine come l'emoglobina
     - Può essere influenzata da modifiche post-traduzionali
+  difficulty: 3
 
 2110:
   kind: enum
@@ -1076,6 +1181,7 @@
     - Abbassano l'energia di attivazione necessaria per una reazione
     - Sono specifiche per i substrati su cui agiscono
     - Possono essere regolate da inibitori e attivatori
+  difficulty: 3
 
 2111:
   kind: enum
@@ -1085,6 +1191,7 @@
     - Contribuiscono alla struttura della matrice extracellulare
     - Stabilizzano organelli cellulari come il nucleo
     - Sono componenti principali di capelli, pelle e unghie
+  difficulty: 1
 
 2112:
   kind: enum
@@ -1094,6 +1201,7 @@
     - Permettono il movimento di molecole attraverso le membrane
     - Legano e trasportano molecole specifiche nel citoplasma
     - Possono agire come canali o pompe ioniche
+  difficulty: 1
 
 2113:
   kind: enum
@@ -1103,6 +1211,7 @@
     - Sono generalmente solubili in acqua
     - Includono enzimi, ormoni e proteine di trasporto
     - La loro funzione dipende dalla conformazione dinamica
+  difficulty: 3
 
 2114:
   kind: enum
@@ -1112,6 +1221,7 @@
     - Sono generalmente insolubili in acqua
     - Includono cheratina, collagene ed elastina
     - Forniscono supporto strutturale ai tessuti
+  difficulty: 3
 
 2115:
   kind: enum
@@ -1121,6 +1231,7 @@
     - Può essere reversibile o irreversibile
     - Comporta la perdita della struttura terziaria e secondaria
     - Porta alla perdita della funzione biologica
+  difficulty: 3
 
 2116:
   kind: enum
@@ -1130,6 +1241,7 @@
     - Influenzano la funzione e la localizzazione delle proteine
     - Sono essenziali per l'attivazione di alcune proteine
     - Possono alterare la stabilità della proteina
+  difficulty: 3
 
 2117:
   kind: enum
@@ -1139,6 +1251,7 @@
     - Agiscono come recettori per segnali extracellulari
     - Facilitano il trasporto di molecole attraverso la membrana
     - Possono essere ancorate alla membrana tramite lipidi
+  difficulty: 1
     
 2118:
   kind: enum
@@ -1148,6 +1261,7 @@
     - Includono ormoni proteici come l'insulina
     - Possono agire come recettori sulla membrana cellulare
     - Regolano risposte cellulari a stimoli esterni 
+  difficulty: 1
  
 #READY
 
@@ -1159,6 +1273,7 @@
     - Include processi come la glicolisi e la fosforilazione ossidativa
     - Richiede molecole come glucosio e ossigeno
     - Porta alla sintesi di ATP, la principale moneta energetica cellulare
+  difficulty: 3
 
 2120:
   kind: enum
@@ -1168,6 +1283,7 @@
     - Avviene nel citoplasma della cellula
     - Produce ATP e NADH come prodotti energetici
     - Può avvenire in assenza di ossigeno (anaerobiosi)
+  difficulty: 3
 
 2121:
   kind: enum
@@ -1177,6 +1293,7 @@
     - Ossida acetil-CoA per produrre NADH e $FADH_2$
     - Libera $CO_2$ come prodotto di scarto
     - Fornisce intermedi per altri processi biosintetici
+  difficulty: 3
 
 2122:
   kind: enum
@@ -1186,6 +1303,7 @@
     - Utilizza NADH e $FADH_2$ per generare un gradiente protonico
     - Produce ATP attraverso l'azione dell'ATP sintasi
     - Richiede ossigeno come accettore finale degli elettroni
+  difficulty: 3
 
 2123:
   kind: enum
@@ -1195,6 +1313,7 @@
     - Converte energia chimica in ATP utilizzando un gradiente protonico
     - È strettamente legata alla catena di trasporto degli elettroni
     - Genera la maggior parte dell'ATP prodotto dalla cellula
+  difficulty: 3
 
 2124:
   kind: enum
@@ -1204,6 +1323,7 @@
     - Produce meno ATP rispetto alla respirazione aerobica
     - Rigenera $NAD^+$ per consentire la glicolisi
     - Può produrre acido lattico o etanolo come sottoprodotti
+  difficulty: 3
 
 2125:
   kind: enum
@@ -1213,6 +1333,7 @@
     - Avviene nella matrice mitocondriale
     - Produce NADH e $FADH_2$ per la produzione di energia
     - Richiede enzimi specifici per il metabolismo lipidico
+  difficulty: 3
 
 2126:
   kind: enum
@@ -1222,6 +1343,7 @@
     - Include processi come la glicolisi e la fermentazione
     - È meno efficiente rispetto al metabolismo aerobico
     - Produce una quantità limitata di ATP per molecola di glucosio
+  difficulty: 3
 
 2127:
   kind: enum
@@ -1231,6 +1353,7 @@
     - Utilizza il gradiente protonico per sintetizzare ATP
     - È parte integrante della fosforilazione ossidativa
     - Funziona come una turbina molecolare
+  difficulty: 3
 
 2128:
   kind: enum
@@ -1240,6 +1363,7 @@
     - Converte energia luminosa in energia chimica sotto forma di glucosio
     - Produce ossigeno come sottoprodotto
     - Include la fase luminosa e il ciclo di Calvin
+  difficulty: 1
 
 2129:
   kind: enum
@@ -1249,6 +1373,7 @@
     - Converte glucosio in ATP e altre molecole energetiche
     - Richiede ossigeno per la massima efficienza
     - Rilascia $CO_2$ e H2O come prodotti finali
+  difficulty: 3
 
 2130:
   kind: enum
@@ -1258,6 +1383,7 @@
     - È prodotto nella glicolisi e nel ciclo di Krebs
     - Contribuisce alla generazione del gradiente protonico
     - Fornisce energia per la sintesi di ATP
+  difficulty: 3
 
 2131:
   kind: enum
@@ -1267,6 +1393,7 @@
     - L'energia rilasciata è utilizzata per lavoro cellulare e calore
     - L'efficienza dipende dalla disponibilità di nutrienti e ossigeno
     - La produzione di energia è regolata da segnali cellulari
+  difficulty: 3
 
 2132:
   kind: enum
@@ -1276,6 +1403,7 @@
     - È essenziale durante il digiuno prolungato
     - Utilizza energia sotto forma di ATP e GTP
     - Si verifica principalmente nel fegato e nei reni
+  difficulty: 3
 
 
 #READY
@@ -1288,6 +1416,7 @@
     - Dipende dal gradiente protonico creato dalla catena di trasporto degli elettroni
     - Porta alla produzione di ATP tramite l'enzima ATP sintasi
     - Richiede ossigeno come accettore finale degli elettroni
+  difficulty: 3
 
 2134:
   kind: enum
@@ -1297,6 +1426,7 @@
     - Trasferisce elettroni da NADH e $FADH_2$ all'ossigeno
     - Crea un gradiente protonico attraverso la membrana mitocondriale
     - Produce acqua come sottoprodotto
+  difficulty: 3
 
 2135:
   kind: enum
@@ -1306,6 +1436,7 @@
     - Si trova nella membrana interna dei mitocondri
     - Funziona come una macchina molecolare rotativa
     - Converte energia elettrochimica in energia chimica immagazzinata nell'ATP
+  difficulty: 3
 
 2136:
   kind: enum
@@ -1315,6 +1446,7 @@
     - $FADH_2$ generato durante il ciclo di Krebs
     - Beta-ossidazione degli acidi grassi
     - Catabolismo degli amminoacidi
+  difficulty: 3
 
 2137:
   kind: enum
@@ -1324,6 +1456,7 @@
     - Acqua formata dalla riduzione dell'ossigeno
     - Calore come prodotto secondario
     - Riutilizzo di $NAD^+$ e FAD per il metabolismo
+  difficulty: 3
 
 2138:
   kind: enum
@@ -1333,6 +1466,7 @@
     - Accumulo di ROS (specie reattive dell'ossigeno)
     - Potenziale danno alle membrane mitocondriali
     - Riduzione dell'efficienza energetica cellulare
+  difficulty: 3
 
 2139:
   kind: enum
@@ -1342,6 +1476,7 @@
     - Mantiene il potenziale elettrochimico nella membrana mitocondriale
     - Consente il trasporto di molecole come il calcio nei mitocondri
     - Regola l'efficienza metabolica mitocondriale
+  difficulty: 3
 
 2140:
   kind: enum
@@ -1351,6 +1486,7 @@
     - Trasportano elettroni attraverso reazioni redox
     - Contribuiscono al pompaggio di protoni nella matrice mitocondriale
     - Sono associati a coenzimi come il coenzima Q e il citocromo c
+  difficulty: 3
 
 2141:
   kind: enum
@@ -1360,6 +1496,7 @@
     - Può causare stress ossidativo se NON controllato
     - È mitigato da enzimi antiossidanti come la superossido dismutasi
     - Può essere associato all'invecchiamento e a malattie degenerative
+  difficulty: 3
 
 2142:
   kind: enum
@@ -1369,6 +1506,7 @@
     - NADH genera più ATP rispetto a $FADH_2$
     - Entrambi derivano dal metabolismo di carboidrati e grassi
     - Entrambi contribuiscono al gradiente protonico
+  difficulty: 3
 
 2143:
   kind: enum
@@ -1378,6 +1516,7 @@
     - Integrità della membrana interna mitocondriale
     - Adeguata fornitura di NADH e $FADH_2$
     - Funzionamento ottimale dell'ATP sintasi e dei complessi proteici
+  difficulty: 3
 
 2144:
   kind: enum
@@ -1387,6 +1526,7 @@
     - Quella ossidativa avviene nei mitocondri, mentre l'altra può avvenire nel citoplasma
     - La fosforilazione a livello del substrato genera ATP direttamente senza un gradiente
     - Entrambe contribuiscono alla produzione complessiva di ATP
+  difficulty: 3
 
 2145:
   kind: enum
@@ -1396,3 +1536,4 @@
     - Regolazione da parte della concentrazione di ossigeno
     - Feedback negativo derivante da livelli elevati di ATP
     - Modulazione da parte del potenziale redox mitocondriale
+  difficulty: 3

@@ -4,42 +4,49 @@
   text: Le cellule procariote NON hanno il nucleo delimitato da membrana
   correct: 0
   curiosity: Le cellule procariote  hanno il DNA nel citoplasma, in una regione chiamata nucleoide
+  difficulty: 1
 
 1002:
   kind: tf
   text: Le cellule procariote NON hanno il citoplasma
   correct: 1
   curiosity: Le cellule procariote hanno il citoplasma ma il citoscheletro è presente in una forma più semplice e primitiva o assente
+  difficulty: 1
 
 1003:
   kind: tf
   text: Le cellule animali sono di tipo eucariote
   correct: 0
   curiosity: Nelle cellule animali NON sono presenti la parete cellulare, i cloroplasti e il vacuolo che invece sono presenti nelle cellule vegetali
+  difficulty: 1
 
 1004:
   kind: tf
   text: I mitocondri fanno parte del sistema endomembranoso
   correct: 1
   curiosity: Il DNA mitocondriale umano si eredita dalla madre
+  difficulty: 3
 
 1005:
   kind: tf
   text: I ribosomi sono responsabili della sintesi proteica
   correct: 0
   curiosity: Il termine ``ribosoma'' fu proposto nel 1958
+  difficulty: 3
  
 1006:
   kind: tf
   text: Le cellule procariote si riproducono principalmente per meiosi
   correct: 1
   curiosity: Nella meiosi una cellula diploide dà origine a 4 cellule figlie aploidi
+  difficulty: 1
  
 1007:
   kind: tf
   text: Le cellule eucariote vegetali contengono cloroplasti
   correct: 0
   curiosity: All'interno dei cloroplasti avviene la fotosintesi clorofilliana, cioè il processo in cui l'energia luminosa viene convertita in energia chimica
+  difficulty: 1
  
  # READY
  
@@ -48,24 +55,28 @@
   text: I mitocondri derivano dai cianobatteri
   correct: 1
   curiosity: Sono i cloroplasti che derivano dai cianobatteri, i mitocondri derivano dai ``batteri viola''
+  difficulty: 3
    
 1009:
   kind: tf
   text: I mitocondri si considerano la ``centrale elettrica della cellula''
   correct: 0
   curiosity: I mitocondri sono stati definiti in questo modo nel 1957
+  difficulty: 3
      
 1010:
   kind: tf
   text: Il DNA delle cellule eucariote si trova nel nucleoide
   correct: 1
   curiosity: Se si srotolassero e mettessero in fila e tutte le molecole di DNA contenute nel nostro organismo, nel complesso sarebbero lunghe circa 107 miliardi di chilometri  
+  difficulty: 3
      
 1011:
   kind: tf
   text: I mitocondri e i cloroplasti sono considerati semi-autonomi
   correct: 0
   curiosity: Si pensa che i mitocondri si siano formati prima dei cloroplasti
+  difficulty: 3
      
 #READY
 
@@ -74,24 +85,28 @@
   text: I fosfolipidi sono esclusivamente idrofobi
   correct: 1
   curiosity: I fosfolipidi hanno la testa idrofila e la coda idrofoba
+  difficulty: 1
      
 1013:
   kind: tf
   text: Al microscopio elettronico l'apparato di Golgi appare come una sfera
   correct: 1
   curiosity: L'apparato di Golgi appare come una serie di singoli foglietti membranosi compattati e impilati
+  difficulty: 3
      
 1014:
   kind: tf
   text: I lisosomi rappresentano il sistema digerente della cellula
   correct: 0
   curiosity: I lisosomi si occupano del riciclaggio degli altri organelli della cellula stessa
+  difficulty: 3
      
 1015:
   kind: tf
   text: Il citoscheletro dà struttura e supporto alla cellula
   correct: 0
   curiosity: Il citoscheletro interagisce con l'ambiente extracellulare
+  difficulty: 1
      
 #READY
 
@@ -99,25 +114,29 @@
   kind: tf
   text: Nel legame ionico gli atomi condividono elettroni
   correct: 1
-  curiosity: Il legame covalente, nel quale gli atomi condividono elettroni, è il legame chimico più forte
+  curiosity: 
+  difficulty: 3
      
 1017:
   kind: tf
   text: Le forze di Van Der Waals sono interazioni elettromagnetiche deboli
   correct: 0
   curiosity: Le forze di Van Der Waals sono state descritte per la prima volta nel 1873
+  difficulty: 1
      
 1018:
   kind: tf
   text: Il legame covalente NON può essere polare
   correct: 1
   curiosity: Nella molecola di acqua $H_2O$ si ha una carica parziale positiva sugli atomi di idrogeno e una negativa sull'atomo di ossigeno
+  difficulty: 1
 
 1019:
   kind: tf
   text: Il legame a idrogeno è responsabile della struttura a doppia elica del DNA
   correct: 0
   curiosity: Nel 1962 James Watson, Francis Crick e Maurice Wilkins ricevettero il premio Nobel per la medicina per la scoperta della struttura del DNA
+  difficulty: 3
 
 #READY
 
@@ -126,36 +145,42 @@
   text: Il pH misura la capacità di una soluzione di condurre elettricità
   correct: 1
   curiosity: 
+  difficulty: 1
 
 1021:
   kind: tf
   text: Il pH di una soluzione neutra a temperatura ambiente è di 7
   correct: 0
   curiosity: 
+  difficulty: 1
 
 1022:
   kind: tf
   text: Una soluzione con un pH di 11 è considerata acida
   correct: 1
   curiosity: 
+  difficulty: 1
 
 1023:
   kind: tf
   text: Il range della scala del pH va da 0 a 14
   correct: 0
   curiosity:
+  difficulty: 1
 
 1024:
   kind: tf
   text: Quando la concentrazione di ioni idrogeno ($H^+$) aumenta il pH aumenta
   correct: 1
   curiosity:
+  difficulty: 3
 
 1025:
   kind: tf
   text: Il pH influisce sull'attività degli enzimi
   correct: 0
-  curiosity:         
+  curiosity:    
+  difficulty: 1     
 
 
 1026:
@@ -163,6 +188,7 @@
   text: I ``tamponi'' sono soluzioni con pH fortemente basico
   correct: 1
   curiosity:
+  difficulty: 3
 
 #FIXME
 
@@ -171,72 +197,84 @@
   text: La reazione di condensazione è alla base della sintesi delle macromolecole
   correct: 0
   curiosity:
+  difficulty: 3
 
 1028:
   kind: tf
   text: Durante la sintesi di proteine, tra due amminoacidi si forma un legame fosfodiesterico
   correct: 1
   curiosity:
+  difficulty: 3
 
 1029:
   kind: tf
   text: Il processo di idrolisi comporta la rottura di macromolecole in monomeri
   correct: 0
-  curiosity:      
+  curiosity:
+  difficulty: 3 
 
 1030:
   kind: tf
   text: I monomeri dei polisaccaridi sono gli amminoacidi
   correct: 1
   curiosity: 
+  difficulty: 3
 
 1031:
   kind: tf
   text: I nucleotidi compongono gli acidi nucleici
   correct: 0
   curiosity: 
+  difficulty: 1
 
 1032:
   kind: tf
   text: Il legame peptidico unisce i nucleotidi in una catena di DNA
   correct: 1
   curiosity: 
+  difficulty: 3
 
 1033:
   kind: tf
   text: I ponti disolfuro sono dei legami coinvolti nella struttura terziaria delle proteine
   correct: 0
   curiosity: 
+  difficulty: 3
 
 1034:
   kind: tf
   text: I componenti principali dei lipidi sono gli acidi grassi e i monosaccaridi
   correct: 1
   curiosity: 
+  difficulty: 1
 
 1035:
   kind: tf
   text: La condensazione richiede energia per formare legami covalenti
   correct: 0
   curiosity: 
+  difficulty: 3
 
 1036:
   kind: tf
   text: I lipidi sono solubili in acqua 
   correct: 1
   curiosity: 
+  difficulty: 1
 
 1037:
   kind: tf
   text: Il collagene è una proteina strutturale
   correct: 0
   curiosity: 
+  difficulty: 1
 
 1038:
   kind: tf
   text: Gli enzimi sono polisaccaridi
   correct: 1
   curiosity: 
+  difficulty: 3
 
 #FIXME
 
@@ -245,30 +283,35 @@
   text: L'emoglobina è una proteina che è coinvolta nel trasporto dell'ossigeno nel sangue
   correct: 0
   curiosity: 
+  difficulty: 1
 
 1040:
   kind: tf
   text: Le proteine immagazzinano informazioni genetiche
   correct: 1
   curiosity: 
+  difficulty: 1
 
 1041:
   kind: tf
   text: Le proteine enzimatiche catalizzano reazioni biochimiche
   correct: 0
   curiosity: 
+  difficulty: 3
 
 1042:
   kind: tf
   text: L'adenosintrifosfato (ATP) è una proteina
   correct: 1
   curiosity: 
+  difficulty: 3
 
 1043:
   kind: tf
   text: Il glicogeno funge da riserva energetica
   correct: 0
   curiosity: 
+  difficulty: 1
 
 #FIXME
 
@@ -277,86 +320,100 @@
   text: Il fruttosio è un polisaccaride
   correct: 1
   curiosity: 
+  difficulty: 3
 
 1045:
   kind: tf
   text: Nelle piante l'amido è utilizzato riserva energetica
   correct: 0
   curiosity: 
+  difficulty: 1
 
 1046:
   kind: tf
   text: Il fruttosio è comunemente noto come ``zucchero da tavola''
   correct: 1
   curiosity: 
+  difficulty: 1
 
 1047:
   kind: tf
   text: La forma molecolare dei carboidrati è $C_n(H_2O)_n$
   correct: 0
   curiosity: 
+  difficulty: 3
 
 1048:
   kind: tf
   text: Nel corpo umano, il glicogeno funge da riserva energetica a lungo termine
   correct: 1
   curiosity: 
+  difficulty: 1
 
 1049:
   kind: tf
   text: La glicolisi avviene principalmente nel citoplasma
   correct: 0
   curiosity: 
+  difficulty: 3
 
 #FIXME
 
 1050:
   kind: tf
-  text: I trigliceridi contengono un acido grasso unito a tre molecole di glicerolo
+  text: I trigliceridi contengono un acido grasso unito a due molecole di glicerolo
   correct: 1
   curiosity: 
+  difficulty: 1
 
 1051:
   kind: tf
   text: Gli steroidi sono una categoria dei lipidi
   correct: 0
   curiosity: 
+  difficulty: 1
 
 1052:
   kind: tf
   text: Gli steroidi hanno una struttura a due anelli di carbonio
   correct: 1
   curiosity: 
+  difficulty: 3
 
 1053:
   kind: tf
   text: La vitamina D è strutturalmente uno steroide
   correct: 0
   curiosity: 
+  difficulty: 3
 
 1054:
   kind: tf
   text: I grassi saturi contengono doppi legami tra atomi di carbonio
   correct: 1
   curiosity: 
+  difficulty: 3
 
 1055:
   kind: tf
   text: Il legame cis determina una curvatura nella catena carboniosa dell'acido grasso, mentre la geometria del legame trans raddrizza la catena
   correct: 0
   curiosity: 
+  difficulty: 3
 
 1056:
   kind: tf
   text: I lipidi contengono meno energia per grammo rispetto ai carboidrati
   correct: 1
   curiosity: 
+  difficulty: 1
 
 1057:
   kind: tf
   text: Gli acidi grassi essenziali devono essere introdotti con la dieta
   correct: 0
   curiosity: 
+  difficulty: 1
 
 #FIXME
 
@@ -365,60 +422,70 @@
   text: La struttura primaria è la sequenza di amminoacidi nella proteina
   correct: 0
   curiosity: 
+  difficulty: 1
 
 1059:
   kind: tf
   text: Le $\alpha$-eliche e i foglietti-$\beta$ sono strutture terziarie delle proteine
   correct: 1
   curiosity: 
+  difficulty: 3
 
 1060:
   kind: tf
   text: La struttura secondaria delle proteine si riferisce all'organizzazione tridimensionale della catena amminoacidica
   correct: 1
   curiosity: 
+  difficulty: 1
 
 1061:
   kind: tf
   text: La struttura terziaria di una proteina è fondamentale per la sua funzionalità
   correct: 0
   curiosity: 
+  difficulty: 1
 
 1062:
   kind: tf
   text: I legami a idrogeno stabilizzano la struttura primaria di una proteina
   correct: 1
   curiosity: 
+  difficulty: 3
 
 1063:
   kind: tf
   text: L'immunoglobulina è un anticorpo 
   correct: 0
   curiosity: 
+  difficulty: 1
 
 1064:
   kind: tf
   text: L'insulina aumenta il livello di glucosio nel sangue
   correct: 1
   curiosity: 
+  difficulty: 1
 
 1065:
   kind: tf
   text: Il glucagone aumenta il livello di glucosio nel sangue
   correct: 0
   curiosity: 
+  difficulty: 1
 
 1066:
   kind: tf
   text: Tutte le proteine formano strutture quaternarie
   correct: 1
   curiosity: 
+  difficulty: 3
 
 1067:
   kind: tf
   text: Gli amminoacidi si differenziano tra loro principalmente per la struttura del gruppo laterale
   correct: 0
   curiosity: 
+  difficulty: 3
 
 #FIXME
 
@@ -427,96 +494,112 @@
   text: Il DNA ha come zucchero il ribosio
   correct: 1
   curiosity: 
+  difficulty: 1
 
 1069:
   kind: tf
   text: L'uracile si appaia con l'adenina nel DNA
   correct: 1
   curiosity: 
+  difficulty: 1
 
 1070:
   kind: tf
   text: La guanina si appaia con la citosina nel DNA
   correct: 0
   curiosity: 
+  difficulty: 1
 
 1071:
   kind: tf
   text: L'uracile si appaia con l'adenina nel RNA
   correct: 0
   curiosity: 
+  difficulty: 1
 
 1072:
   kind: tf
   text: L'rRNA trasporta gli amminoacidi ai siti ribosomiali
   correct: 1
   curiosity: 
+  difficulty: 3
 
 1073:
   kind: tf
   text: La DNA polimerasi è responsabile della replicazione del DNA
   correct: 0
   curiosity: 
+  difficulty: 1
 
 1074:
   kind: tf
   text: La traduzione è il processo che sintetizza l'RNA a partire dal DNA
   correct: 1
   curiosity: 
+  difficulty: 1
 
 1075:
   kind: tf
   text: Il DNA si replica in modo semiconservativo
   correct: 0
   curiosity: 
+  difficulty: 1
 
 1076:
   kind: tf
   text: A ogni gene corrisponde una proteina
   correct: 1
   curiosity: 
+  difficulty: 1
 
 1077:
   kind: tf
   text: La traduzione è il processo in cui l'informazione genetica contenuta nell'mRNA viene convertita in una proteina
   correct: 0
   curiosity: 
+  difficulty: 1
 
 1078:
   kind: tf
   text: Le basi azotate stabilizzano la doppia elica di DNA attraverso legami covalenti
   correct: 1
   curiosity: 
+  difficulty: 3
 
 1079:
   kind: tf
   text: Gli introni vengono generalmente rimossi durante il processo di splicing
   correct: 0
   curiosity: 
+  difficulty: 1
 
 1080:
   kind: tf
   text: Nelle cellule eucariote, la trascrizione avviene principalmente nel citoplasma 
   correct: 1
   curiosity: 
+  difficulty: 3
 
 1081:
   kind: tf
   text: Gli esoni vengono generalmente rimossi durante il processo di splicing
   correct: 1
   curiosity: 
+  difficulty: 1
 
 1082:
   kind: tf
   text: L'adenina è una purina
   correct: 0
   curiosity: 
+  difficulty: 3
 
 1083:
   kind: tf
   text: La citosina è una pirimidina
   correct: 0
   curiosity: 
+  difficulty: 3
 
 #FIXME
 
@@ -525,48 +608,56 @@
   text: Le eliche del DNA sono orientate nello stesso verso
   correct: 1
   curiosity: 
+  difficulty: 1
 
 1085:
   kind: tf
   text: Il DNA si avvolge intorno alle proteine istoniche per compattarsi
   correct: 0
   curiosity: 
+  difficulty: 1
 
 1086:
   kind: tf
   text: In un giro completo della doppia elica del DNA si trovano circa 15 coppie di basi azotate
   correct: 1
   curiosity: 
+  difficulty: 3
 
 1087:
   kind: tf
   text: La replicazione del DNA avviene nella fase S del ciclo cellulare
   correct: 0
   curiosity: 
+  difficulty: 1
 
 1088:
   kind: tf
   text: "Le fasi del ciclo cellulare in ordine sono: G1,G2,S,M"
   correct: 1
   curiosity: 
+  difficulty: 3
 
 1089:
   kind: tf
   text: Nella replicazione, il filamento lagging è sintetizzato sotto forma di frammenti di Okazaki
   correct: 0
   curiosity: 
+  difficulty: 3
 
 1090:
   kind: tf
   text: Il DNA mitocondriale è ereditato esclusivamente dal padre
   correct: 1
   curiosity: 
+  difficulty: 1
 
 1091:
   kind: tf
   text: Le basi azotate si trovano all'interno della doppia elica, mentre lo scheletro zucchero-fosfato è all'esterno
   correct: 0
   curiosity: 
+  difficulty: 1
 
 #FIXME
 
@@ -575,48 +666,56 @@
   text: Il centromero è un segnale di inizio delle duplicazione del DNA
   correct: 1
   curiosity: 
+  difficulty: 3
 
 1093:
   kind: tf
   text: La DNA ligasi unisce i frammenti di Okazaki nella duplicazione del DNA
   correct: 0
   curiosity: 
+  difficulty: 1
 
 1094:
   kind: tf
   text: La primasi taglia il DNA per iniziare il processo di duplicazione
   correct: 1
   curiosity: 
+  difficulty: 3
 
 1095:
   kind: tf
   text: I telomeri sono le estremità dei cromosomi che proteggono il DNA dalla perdita di informazioni durante la replicazione
   correct: 0
   curiosity: 
+  difficulty: 3
 
 1096:
   kind: tf
   text: La topoisomerasi è l'enzima che separa i due filamenti di DNA durante la replicazione, creando una bolla di replicazione
   correct: 1
   curiosity: 
+  difficulty: 3
 
 1097:
   kind: tf
   text: La topoisomerasi allevia la tensione torsionale che si forma quando il DNA viene separato durante la replicazione
   correct: 0
   curiosity: 
+  difficulty: 3
 
 1098:
   kind: tf
   text: La RNA polimerasi rimuove i primer di RNA e li sostituisce con nucleotidi di DNA durante la replicazione
   correct: 1
   curiosity: 
+  difficulty: 3
 
 1099:
   kind: tf
   text: Le proteine SSB si legano ai filamenti di DNA separati durante la replicazione per impedirne la riassociazione e stabilizzarli
   correct: 0
   curiosity: 
+  difficulty: 1
 
 #FIXME
 
@@ -625,48 +724,56 @@
   text: "La cromatina può esistere in due forme principali: eterocromatina, attivamente trascritta, ed eucromatina, più compatta e meno attiva"
   correct: 1
   curiosity: 
+  difficulty: 3
 
 1101:
   kind: tf
   text: I nucleosomi sono strutture composte da DNA avvolto attorno a un nucleo di proteine istoniche, che costituiscono la cromatina
   correct: 0
   curiosity: 
+  difficulty: 1
 
 1102:
   kind: tf
   text: Durante la mitosi avviene la trascrizione del DNA
   correct: 1
   curiosity: 
+  difficulty: 3
 
 1103:
   kind: tf
   text: L'istone acetiltransferasi è un enzima che aggiunge gruppi acetil agli istoni, influenzando la struttura della cromatina e l'espressione genica
   correct: 0
   curiosity: 
+  difficulty: 1
 
 1104:
   kind: tf
   text: I ribosomi sono coinvolti nella compattazione del DNA
   correct: 1
   curiosity: 
+  difficulty: 3
 
 1105:
   kind: tf
   text: L'ubiquitinazione è una modifica post-traduzionale delle proteine
   correct: 0
   curiosity: 
+  difficulty: 3
 
 1106:
   kind: tf
   text: La coesina è una proteina che gioca un ruolo fondamentale nella condensazione della cromatina in cromosomi durante la mitosi
   correct: 1
   curiosity: 
+  difficulty: 3
 
 1107:
   kind: tf
   text: Il DNA linker è il segmento di DNA che collega i nucleosomi, mantenendo l'organizzazione della cromatina
   correct: 0
   curiosity: 
+  difficulty: 1
 
 #FIXME
 
@@ -675,48 +782,56 @@
   text: Durante la traduzione, il mRNA viene utilizzato per sintetizzare un filamento di DNA
   correct: 1
   curiosity: 
+  difficulty: 3
 
 1109:
   kind: tf
   text: Il promotore è una sequenza di DNA che segnala l'inizio della trascrizione di un gene
   correct: 0
   curiosity: 
+  difficulty: 1
 
 1110:
   kind: tf
   text: Un codone è una sequenza di quattro nucleotidi nel mRNA 
   correct: 1
   curiosity: 
+  difficulty: 3
 
 1111:
   kind: tf
   text: Un allele è una delle diverse varianti di un gene che può determinare differenti tratti ereditari
   correct: 0
   curiosity: 
+  difficulty: 1
 
 1112:
   kind: tf
   text: L'espressione genica è il fenotipo di un organismo
   correct: 1
   curiosity: 
+  difficulty: 1
 
 1113:
   kind: tf
   text: La variabilità genetica è influenzata da mutazioni, ricombinazione genetica e selezione naturale
   correct: 0
   curiosity: 
+  difficulty: 1
 
 1114:
   kind: tf
   text: Un gene è una sequenza di DNA che codifica per una funzione biologica, mentre un allele è una sequenza che serve a proteggere il codice genetico dalla degradazione
   correct: 1
   curiosity: 
+  difficulty: 3
 
 1115:
   kind: tf
   text: Lo scopo principale della genetica è comprendere come i caratteri vengono ereditati e come varianti genetiche influenzano gli organismi
   correct: 0
   curiosity: 
+  difficulty: 1
 
 #FIXME
 
@@ -725,54 +840,63 @@
   text: Durante la trascrizione, viene prodotta una nuova molecola di DNA
   correct: 1
   curiosity: 
+  difficulty: 3
 
 1117:
   kind: tf
   text: Nelle cellule eucariotiche, la trascrizione avviene nel nucleo, dove il DNA è localizzato
   correct: 0
   curiosity: 
+  difficulty: 1
 
 1118:
   kind: tf
   text: Durante la trascrizione tutto il DNA viene trascritto in RNA
   correct: 1
   curiosity: 
+  difficulty: 3
 
 1119:
   kind: tf
   text: La RNA polimerasi è l'enzima responsabile della sintesi di RNA a partire da un filamento di DNA durante la trascrizione
   correct: 0
   curiosity: 
+  difficulty: 3
 
 1120:
   kind: tf
   text: Dopo la trascrizione, l'mRNA maturo viene immediatamente tradotto
   correct: 1
   curiosity: 
+  difficulty: 1
 
 1121:
   kind: tf
   text: Lo splicing del pre-mRNA è mediato dallo spliceosoma, un complesso di proteine e RNA che rimuove gli introni
   correct: 0
   curiosity: 
+  difficulty: 1
 
 1122:
   kind: tf
   text: La coda di poli-A è una serie di adenine aggiunte all'estremità 5' dell'mRNA che aiuta a stabilizzare la molecola
   correct: 1
   curiosity: 
+  difficulty: 3
 
 1123:
   kind: tf
   text: Dopo la trascrizione, l'mRNA subisce modifiche come l'aggiunta di un cappuccio 5' e una coda di poli-A, che lo stabilizzano e ne facilitano l'esportazione
   correct: 0
   curiosity: 
+  difficulty: 1
 
 1124:
   kind: tf
   text: IL ``capping'' consiste nell'aggiunta di sequenze di nucleotidi ripetute a entrambi gli estremi del DNA per proteggerlo dalla degradazione
   correct: 1
   curiosity: 
+  difficulty: 1
 
 #FIXME
 
@@ -781,42 +905,49 @@
   text: La maturazione del mRNA è il processo in cui il pre-mRNA viene modificato per diventare mRNA maturo
   correct: 0
   curiosity: 
+  difficulty: 1
 
 1126:
   kind: tf
   text: Il primo passo nella maturazione dell'mRNA è l'aggiunta della coda poli-A
   correct: 1
   curiosity: 
+  difficulty: 1
 
 1127:
   kind: tf
   text: Il cappuccio 5' protegge l'mRNA dall'attacco delle esonucleasi
   correct: 0
   curiosity: 
+  difficulty: 3
 
 1128:
   kind: tf
   text: Dopo la maturazione, l'mRNA maturo viene tradotto in proteine che vengono poi esportate dal nucleo nel citoplasma
   correct: 1
   curiosity: 
+  difficulty: 1
 
 1129:
   kind: tf
   text: Se il cappuccio 5' NON viene aggiunto correttamente, l'mRNA potrebbe essere riconosciuto come difettoso e degradato più rapidamente
   correct: 0
   curiosity: 
+  difficulty: 1
 
 1130:
   kind: tf
   text: Nei procarioti è sempre necessaria la maturazione dell'mRNA attraverso lo splicing, la poliadenilazione e il capping
   correct: 1
   curiosity: 
+  difficulty: 3
 
 1131:
   kind: tf
   text: Errori nella maturazione dell'mRNA, come splicing incompleto o mancanza del cappuccio 5', possono portare a proteine difettose o NON funzionali
   correct: 0
   curiosity: 
+  difficulty: 1
 
 
 #FIXME
@@ -826,54 +957,63 @@
   text: Il principale vantaggio dello splicing alternativo è che riduce il tempo di traduzione
   correct: 1
   curiosity: 
+  difficulty: 1
 
 1133:
   kind: tf
   text: Lo splicing alternativo è un processo che permette a un singolo gene di produrre diverse varianti di mRNA, aumentando la diversità proteica
   correct: 0
   curiosity: 
+  difficulty: 1
 
 1134:
   kind: tf
   text: Lo spliceosoma è il complesso di proteine e RNA che catalizza lo splicing alternativo, aggiungendo una coda di poli-A sull'estremità 3'
   correct: 1
   curiosity: 
+  difficulty: 3
 
 1135:
   kind: tf
   text: La selezione degli esoni durante lo splicing alternativo è regolata da specifici elementi nel pre-mRNA e da fattori proteici
   correct: 0
   curiosity: I difetti nello splicing alternativo possono portare a malattie genetiche e disfunzioni cellulari, poiché le proteine prodotte sono alterate
+  difficulty: 3
 
 1136:
   kind: tf
   text: L'unione differente degli esoni durante lo splicing alternativo produce una mutazione del DNA
   correct: 1
   curiosity: 
+  difficulty: 3
 
 1137:
   kind: tf
   text: Lo splicing alternativo consente la combinazione di esoni diversi per produrre varianti di mRNA e, quindi, diverse isoforme proteiche
   correct: 0
   curiosity: 
+  difficulty: 3
 
 1138:
   kind: tf
   text: Le sequenze di controllo nel pre-mRNA rimuovono tutti gli introni dal mRNA
   correct: 1
-  curiosity: 
+  curiosity:
+  difficulty: 3 
 
 1139:
   kind: tf
   text: Lo splicing alternativo contribuisce alla specializzazione delle cellule, permettendo la produzione di proteine specifiche per ciascun tipo cellulare
   correct: 0
   curiosity: 
+  difficulty: 3
 
 1140:
   kind: tf
   text: Le isoforme proteiche sono proteine con identiche sequenze di amminoacidi
   correct: 1
   curiosity: 
+  difficulty: 3
 
 #FIXME
 
@@ -882,66 +1022,77 @@
   text: La traduzione è il processo mediante il quale l'informazione contenuta nell'mRNA viene utilizzata per sintetizzare una proteina
   correct: 0
   curiosity: 
+  difficulty: 1
 
 1142:
   kind: tf
   text: Durante l'inizio della trascrizione, l'mRNA si lega al ribosoma e il processo di sintesi proteica comincia con l'unione degli aminoacidi
   correct: 1
   curiosity: 
+  difficulty: 1
 
 1143:
   kind: tf
   text: La subunità minore del ribosoma è responsabile dell'accoppiamento tra codoni nell'mRNA e anticodoni nel tRNA durante la traduzione
   correct: 0
   curiosity: 
+  difficulty: 3
 
 1144:
   kind: tf
   text: Durante l'allungamento della traduzione, vengono aggiunti i codoni all'mRNA
   correct: 1
   curiosity: 
+  difficulty: 3
 
 1145:
   kind: tf
   text: L'anticodone è una sequenza di tre nucleotidi nel tRNA che è complementare a un codone specifico nell'mRNA
   correct: 0
   curiosity: 
+  difficulty: 1
 
 1146:
   kind: tf
   text: Il sito A del ribosoma è dove termina la traduzione
   correct: 1
   curiosity: 
+  difficulty: 3
 
 1147:
   kind: tf
   text: Alla fine della traduzione, la catena polipeptidica appena sintetizzata viene rilasciata e il ribosoma si dissocia per essere poi riutilizzato 
   correct: 0
   curiosity: 
+  difficulty: 1
 
 1148:
   kind: tf
   text: Lo splicing è una modifica post-traduzionale
   correct: 1
   curiosity: 
+  difficulty: 3
 
 1149:
   kind: tf
   text: Un codone di stop è un codone nell'mRNA che segnala la fine della sintesi proteica
   correct: 0
   curiosity: 
+  difficulty: 1
 
 1150:
   kind: tf
   text: Dopo la traduzione, l'mRNA torna nel nucleo per essere degradato 
   correct: 1
   curiosity: 
+  difficulty: 1
 
 1151:
   kind: tf
   text: Il ribosoma è un complesso di proteine e RNA che catalizza il processo di traduzione, sintetizzando proteine a partire dall'mRNA
   correct: 0
   curiosity: 
+  difficulty: 3
 
 #FIXME
 
@@ -950,96 +1101,112 @@
   text: Le modifiche post-traduzionali sono modifiche chimiche dell'mRNA
   correct: 1
   curiosity: 
+  difficulty: 1
 
 1153:
   kind: tf
   text: La fosforilazione è un'importante modifica post-traduzionale che regola l'attività di molte proteine, incluse quelle coinvolte nel segnalamento cellulare
   correct: 0
   curiosity: 
+  difficulty: 3
 
 1154:
   kind: tf
   text: La glicolizzazione è una modifica post-traduzionale in cui un fosfato viene legato a una proteina
   correct: 1
   curiosity: 
+  difficulty: 3
 
 1155:
   kind: tf
   text: Le chinasi sono enzimi che aggiungono gruppi fosfato a proteine specifiche, alterandone la loro attività
   correct: 0
   curiosity: 
+  difficulty: 3
 
 1156:
   kind: tf
   text: L'acetilazione rimuove gruppi acetile da specifici residui di amminoacidi
   correct: 1
   curiosity: 
+  difficulty: 3
 
 1157:
   kind: tf
   text: La metilazione delle proteine regola l'espressione genica e le interazioni tra proteine
   correct: 0
   curiosity: 
+  difficulty: 3
 
 1158:
   kind: tf
   text: L'ubiquitinazione promuove la sintesi proteica di una determinata proteina
   correct: 1
   curiosity: 
+  difficulty: 3
 
 1159:
   kind: tf
   text: Le modifiche lipidiche delle proteine possono influenzare la loro localizzazione all'interno della cellula, come l'integrazione nelle membrane
   correct: 0
   curiosity: 
+  difficulty: 3
 
 1160:
   kind: tf
   text: La lipidazione può attivare o disattivare molti enzimi, regolando la loro funzione all'interno della cellula
   correct: 1
   curiosity: 
+  difficulty: 3
 
 1161:
   kind: tf
   text: L'ubiquitinazione segna una proteina per la degradazione da parte del proteasoma, un meccanismo per regolare la quantità di proteine nella cellula
   correct: 0
   curiosity: 
+  difficulty: 3
 
 1162:
   kind: tf
   text: Le chinasi sono enzimi che aggiungono gruppi fosfato alle proteine per prepararle alla degradazione
   correct: 1
   curiosity: 
+  difficulty: 3
 
 1163:
   kind: tf
   text: La glicolizzazione è importante per la maturazione di proteine ormonali come l'insulina, che richiedono la corretta aggiunta di zuccheri per la loro attività
   correct: 0
   curiosity: 
+  difficulty: 1
 
 1164:
   kind: tf
   text: I malfunzionamenti nelle vie di modifiche post-traduzionali aumentano l'espressione genica
   correct: 1
   curiosity: 
+  difficulty: 1
 
 1165:
   kind: tf
   text: La metilazione può influenzare l'interazione delle proteine con il DNA e altre proteine
   correct: 0
   curiosity: 
+  difficulty: 3
 
 1166:
   kind: tf
   text: La glicolizzazione NON influenza mai l'interazione della proteina con altre molecole, come anticorpi e recettori cellulari
   correct: 1
   curiosity: 
+  difficulty: 1
 
 1167:
   kind: tf
   text: La fosforilazione è una modifica chimica che avviene in risposta a segnali esterni come fattori di crescita, regolando così molte funzioni cellulari
   correct: 0
   curiosity: 
+  difficulty: 1
 
 #FIXME
 
@@ -1048,48 +1215,56 @@
   text: Cambiamenti nella temperatura o nel pH NON alterano la struttura e la funzione delle proteine
   correct: 1
   curiosity: 
+  difficulty: 1
 
 1169:
   kind: tf
   text: Le proteine chaperoni aiutano le proteine nascenti a piegarsi correttamente durante la loro sintesi, prevenendo il malfolding
   correct: 0
   curiosity: 
+  difficulty: 3
 
 1170:
   kind: tf
   text: IL dominio di una proteina è la sequenza di aminoacidi che la compongono
   correct: 1
   curiosity: 
+  difficulty: 3
 
 1171:
   kind: tf
   text: La specificità della funzione di una proteina dipende dalla sua struttura tridimensionale
   correct: 0
   curiosity: 
+  difficulty: 1
 
 1172:
   kind: tf
   text: Le proteine globulari sono allungate e insolubili in acqua, mentre le proteine fibrose sono compatte e solubili
   correct: 1
   curiosity: 
+  difficulty: 1
 
 1173:
   kind: tf
   text: Le interazioni idrofobiche si verificano quando le catene laterali idrofobiche di aminoacidi si raggruppano per evitare il contatto con l'acqua
   correct: 0
   curiosity: 
+  difficulty: 1
 
 1174:
   kind: tf
   text: I legami disolfuro stabilizzano la struttura primaria e secondaria delle proteine
   correct: 1
   curiosity: 
+  difficulty: 3
 
 1175:
   kind: tf
   text: Il folding di una proteina è determinato dalle interazioni tra la sequenza di aminoacidi e le forze ambientali
   correct: 0
   curiosity: 
+  difficulty: 1
 
 #FIXME
 
@@ -1098,84 +1273,98 @@
   text: Gli anticorpi sono proteine prodotte dal sistema cardiovascolare per identificare e neutralizzare agenti patogeni come batteri e virus
   correct: 1
   curiosity: 
+  difficulty: 3
 
 1177:
   kind: tf
   text: Le proteine contrattili, come l'actina e la miosina, sono essenziali per la contrazione muscolare
   correct: 0
   curiosity: 
+  difficulty: 1
 
 1178:
   kind: tf
   text: La funzione principale delle proteine di trasporto è neutralizzare le tossine
   correct: 1
   curiosity: 
+  difficulty: 1
 
 1179:
   kind: tf
   text: Le proteine ormonali, come l'insulina, regolano processi fisiologici attraverso segnali chimici
   correct: 0
   curiosity: 
+  difficulty: 1
 
 1180:
   kind: tf
   text: Il glucagone è una proteina cruciale per la coagulazione del sangue, formando una rete che blocca il sanguinamento
   correct: 1
   curiosity: 
+  difficulty: 3
 
 1181:
   kind: tf
   text: Le proteine strutturali come il collagene danno resistenza e forma ai tessuti e alle cellule
   correct: 0
   curiosity: 
+  difficulty: 1
 
 1182:
   kind: tf
   text: L'emoglobina si trova nei muscoli e immagazzina ossigeno, rilasciandolo quando è necessario durante l'attività fisica
   correct: 1
   curiosity: 
+  difficulty: 1
 
 1183:
   kind: tf
   text: L'attività enzimatica consente a una proteina di catalizzare reazioni chimiche, riducendo l'energia necessaria per avviarle
   correct: 0
   curiosity: 
+  difficulty: 3
 
 1184:
   kind: tf
   text: Le proteine di trasporto sulla membrana cellulare legano molecole segnale, innescando risposte cellulari specifiche
   correct: 1
   curiosity: 
+  difficulty: 3
 
 1185:
   kind: tf
   text: Le proteine di segnalazione come gli ormoni trasmettono messaggi tra le cellule, coordinando le funzioni fisiologiche
   correct: 0
   curiosity: 
+  difficulty: 1
 
 1186:
   kind: tf
   text: Le proteine contrattili conservano nutrienti come il ferro e il calcio per utilizzi futuri dell'organismo
   correct: 1
   curiosity: 
+  difficulty: 1
 
 1187:
   kind: tf
   text: Le proteine motorie, come la chinesina e la dineina, permettono il movimento all'interno della cellula e tra le cellule, trasportando molecole e organelli
   correct: 0
   curiosity: 
+  difficulty: 1
 
 1188:
   kind: tf
   text: Le proteine strutturali, come gli anticorpi, proteggono il corpo da agenti patogeni e tossine
   correct: 1
   curiosity: 
+  difficulty: 1
 
 1189:
   kind: tf
   text: La specificità enzimatica indica che una proteina può catalizzare reazioni solo con substrati particolari
   correct: 0
   curiosity: 
+  difficulty: 3
 
 #FIXME
 
@@ -1184,72 +1373,84 @@
   text: Il sito di regolazione di un enzima è specifico per il substrato e facilita la reazione chimica
   correct: 1
   curiosity: 
+  difficulty: 3
 
 1191:
   kind: tf
   text: La struttura tridimensionale di un enzima crea un sito attivo specifico per determinati substrati
   correct: 0
   curiosity: 
+  difficulty: 1
 
 1192:
   kind: tf
   text: Temperature elevate NON alterano la struttura e funzione dell'enzima
   correct: 1
   curiosity: 
+  difficulty: 1
 
 1193:
   kind: tf
   text: L'energia di attivazione è l'energia minima necessaria affinché una reazione chimica abbia inizio
   correct: 0
   curiosity: 
+  difficulty: 1
 
 1194:
   kind: tf
-  text: I cofattori sono molecole che intralciano gli enzimi nella catalisi di reazioni, rendendole più efficienti
+  text: I cofattori sono molecole che intralciano gli enzimi nella catalisi di reazioni
   correct: 1
   curiosity: 
+  difficulty: 1
 
 1195:
   kind: tf
   text: Le proteasi sono enzimi che scindono le proteine in aminoacidi, facilitando la digestione e il riciclo proteico
   correct: 0
   curiosity: 
+  difficulty: 3
 
 1196:
   kind: tf
   text: Gli inibitori allosterici si legano al sito attivo, alterando la struttura dell'enzima e influenzandone l'attività
   correct: 1
   curiosity: 
+  difficulty: 3
 
 1197:
   kind: tf
   text: Nell'inibizione competitiva, una molecola si lega al sito attivo dell'enzima, bloccando l'accesso del substrato
   correct: 0
   curiosity: 
+  difficulty: 1
 
 1198:
   kind: tf
   text: Gli enzimi sono consumati durante la reazione
   correct: 1
   curiosity: 
+  difficulty: 1
 
 1199:
   kind: tf
   text: La catalasi è un enzima che scompone il perossido di idrogeno, proteggendo le cellule dai danni ossidativi
   correct: 0
   curiosity: 
+  difficulty: 3
 
 1200:
   kind: tf
   text: Il pH influisce sull'attività enzimatica alterando la temperatura
   correct: 1
   curiosity: 
+  difficulty: 1
 
 1201:
   kind: tf
   text: L'attivazione enzimatica si verifica quando un enzima è pronto a catalizzare una reazione dopo aver interagito con il suo substrato o altri attivatori
   correct: 0
   curiosity: 
+  difficulty: 1
 
 #FIXME
 
@@ -1258,60 +1459,70 @@
   text: Le proteine si trovano in diverse aree del citoplasma, esclusi i ribosomi
   correct: 1
   curiosity: 
+  difficulty: 1
 
 1203:
   kind: tf
   text: I ribosomi sono organelli che traducono l'informazione genetica per produrre proteine
   correct: 0
   curiosity: 
+  difficulty: 3
 
 1204:
   kind: tf
   text: Dopo essere modificate nel reticolo endoplasmatico, le proteine vengono trasportate alla membrana plasmatica
   correct: 1
   curiosity: 
+  difficulty: 3
 
 1205:
   kind: tf
   text: Le sequenze segnale sulle proteine indicano la loro destinazione e funzione all'interno della cellula
   correct: 0
   curiosity: 
+  difficulty: 1
 
 1206:
   kind: tf
   text: Le proteine di membrana forniscono energia alla cellula
   correct: 1
   curiosity: 
+  difficulty: 1
 
 1207:
   kind: tf
   text: Le proteine di ancoraggio stabilizzano la cellula collegando il citoscheletro alla membrana, fornendo struttura e supporto
   correct: 0
   curiosity: 
+  difficulty: 1
 
 1208:
   kind: tf
   text: Le proteine strutturali sono essenziali per il riconoscimento cellulare, come nella risposta immunitaria
   correct: 1
   curiosity: 
+  difficulty: 1
 
 1209:
   kind: tf
   text: Il citoscheletro è composto da proteine come actina e tubulina, che forniscono struttura e supporto alle cellule
   correct: 0
   curiosity: 
+  difficulty: 1
 
 1210:
   kind: tf
   text: Le proteine danneggiate vengono smaltite nel reticolo endoplasmatico per mantenere la salute cellulare
   correct: 1
   curiosity: 
+  difficulty: 3
 
 1211:
   kind: tf
   text: Le proteine secretorie sono destinate ad essere esportate dalla cellula
   correct: 0
   curiosity: 
+  difficulty: 1
 
 #FIXME
 
@@ -1320,60 +1531,70 @@
   text: L'ATP è essenziale per alimentare le reazioni cellulari e trasportare ossigeno nell'organismo
   correct: 1
   curiosity: 
+  difficulty: 3
 
 1213:
   kind: tf
   text: Sia la respirazione cellulare che la fotosintesi producono ATP
   correct: 0
   curiosity: 
+  difficulty: 1
 
 1214:
   kind: tf
   text: L'idrolisi dell'ATP rilascia energia trasformandosi in glucosio
   correct: 1
   curiosity: 
+  difficulty: 1
 
 1215:
   kind: tf
   text: L'ATP è una molecola instabile progettata per rilasciare rapidamente energia
   correct: 0
   curiosity: 
+  difficulty: 1
 
 1216:
   kind: tf
   text: L'ATP è il prodotto della degradazione dell'ADP 
   correct: 1
   curiosity: 
+  difficulty: 1
 
 1217:
   kind: tf
   text: Nella catena di trasporto degli elettroni, l'ossidazione di NADH e $FADH_2$ genera ATP tramite un gradiente di protoni nei mitocondri
   correct: 0
   curiosity: 
+  difficulty: 3
 
 1218:
   kind: tf
   text: I fosfolipidi sono il principale substrato per la produzione di ATP
   correct: 1
   curiosity: 
+  difficulty: 1
 
 1219:
   kind: tf
   text: Il ciclo di Krebs produce NADH e $FADH_2$, molecole che alimentano la catena di trasporto degli elettroni per generare ATP in modo efficiente
   correct: 0
   curiosity: 
+  difficulty: 3
 
 1220:
   kind: tf
   text: Quando la cellula ha un eccesso di ATP, lo utilizza immediatamente perchè NON può essere immagazzinato
   correct: 1
   curiosity: 
+  difficulty: 1
 
 1221:
   kind: tf
   text: L'idrolisi dell'ATP rilascia energia chimica
   correct: 0
   curiosity: 
+  difficulty: 3
 
 #FIXME
 
@@ -1382,60 +1603,70 @@
   text: Durante la glicolisi viene prodotto esclusivamente il NADH
   correct: 1
   curiosity: 
+  difficulty: 1
 
 1223:
   kind: tf
   text: Il NADH è la forma ridotta del nicotinamide adenina dinucleotide
   correct: 0
   curiosity: 
+  difficulty: 3
 
 1224:
   kind: tf
   text: Il NADH viene prodotto esclusivamente nella glicolisi
   correct: 1
   curiosity: 
+  difficulty: 1
 
 1225:
   kind: tf
   text: Durante la riduzione, il $NAD^+$ accetta elettroni e si converte in NADH
   correct: 0
   curiosity: 
+  difficulty: 3
 
 1226:
   kind: tf
   text: Il $NAD^+$ è la forma ridotta e immagazzina energia sotto forma di elettroni, mentre il NADH è la forma ossidata, pronta per accettare nuovi elettroni
   correct: 1
   curiosity: 
+  difficulty: 3
 
 1227:
   kind: tf
   text: Nel ciclo di Krebs, il $NAD^+$ accetta elettroni e si converte in NADH, che poi trasporta elettroni alla catena di trasporto per generare ATP
   correct: 0
   curiosity: 
+  difficulty: 3
 
 1228:
   kind: tf
   text: La sigla $NAD^+$ sta per nicotinamide adenina dinucleotide nella sua forma ridotta
   correct: 1
   curiosity: 
+  difficulty: 3
 
 1229:
   kind: tf
   text: NADH trasporta più energia per molecola rispetto a $FADH_2$ e contribuisce a generare più ATP nella catena di trasporto degli elettroni
   correct: 0
   curiosity: 
+  difficulty: 3
 
 1230:
   kind: tf
   text: Nei lisosomi, il NADH viene ossidato nella catena di trasporto degli elettroni, producendo ATP come fonte energetica per la cellula
   correct: 1
   curiosity: 
+  difficulty: 3
 
 1231:
   kind: tf
   text: Il CoA trasporta gruppi acetilici, essenziali per il metabolismo energetico e la sintesi di molecole complesse come gli acidi grassi
   correct: 0
   curiosity: 
+  difficulty: 3
 
 #FIXME
 
@@ -1444,96 +1675,112 @@
   text: La gluconeogenesi è il processo di degradazione del glucosio per produrre energia sotto forma di ATP e NADH
   correct: 1
   curiosity: 
+  difficulty: 1
 
 1233:
   kind: tf
   text: La glicolisi avviene nel citoplasma della cellula, dove il glucosio viene scisso in piruvato
   correct: 0
   curiosity: 
+  difficulty: 1
 
 1234:
   kind: tf
   text: Il principale prodotto finale della glicolisi è il NADH
   correct: 1
   curiosity: 
+  difficulty: 1
 
 1235:
   kind: tf
   text: Nella glicolisi vengono prodotte 4 molecole di ATP, ma poiché se ne consumano 2, il guadagno netto è di 2 ATP
   correct: 0
   curiosity: 
+  difficulty: 3
 
 1236:
   kind: tf
   text: L'enzima esochinasi catalizza la conversione del piruvato in acetil-CoA
   correct: 1
   curiosity: 
+  difficulty: 3
 
 1237:
   kind: tf
   text: Durante la glicolisi, il $NAD^+$ viene ridotto a NADH
   correct: 0
   curiosity: 
+  difficulty: 3
 
 1238:
   kind: tf
   text: Il galattosio è il substrato principale nella prima fase della glicolisi, dove viene scisso in piruvato
   correct: 1
   curiosity: 
+  difficulty: 3
 
 1239:
   kind: tf
   text: In condizioni anaerobiche, il piruvato viene convertito in lattato nei muscoli o in etanolo nei lieviti per rigenerare $NAD^+$
   correct: 0
   curiosity: 
+  difficulty: 1
 
 1240:
   kind: tf
   text: Durante la decarbossilazione ossidativa del piruvato, il piruvato viene trasformato in glucosio
   correct: 1
   curiosity: 
+  difficulty: 3
 
 1241:
   kind: tf
   text: La fosfofruttochinasi è un enzima chiave che regola il passo critico della glicolisi, la fosforilazione del fruttosio-6-fosfato
   correct: 0
   curiosity: 
+  difficulty: 3
 
 1242:
   kind: tf
   text: Durante la fase di investimento della glicolisi, vengono prodotte 2 molecole di ATP
   correct: 1
   curiosity: 
+  difficulty: 1
 
 1243:
   kind: tf
   text: La glicolisi è importante per la respirazione cellulare perché fornisce piruvato e NADH per il ciclo di Krebs
   correct: 0
   curiosity: 
+  difficulty: 3
 
 1244:
   kind: tf
   text: In condizioni aerobiche, il piruvato prodotto dalla glicolisi viene convertito in lattato
   correct: 1
   curiosity: 
+  difficulty: 1
 
 1245:
   kind: tf
   text: Durante la glicolisi vengono prodotte 2 molecole di NADH
   correct: 0
   curiosity: 
+  difficulty: 3
 
 1246:
   kind: tf
   text: Tutte le reazioni della glicolisi sono reversibili
   correct: 1
   curiosity: 
+  difficulty: 1
 
 1247:
   kind: tf
   text: Le reazioni 1, 3 e 10 della glicolisi sono irreversibili
   correct: 0
   curiosity: 
+  difficulty: 3
 
 #FIXME
 
@@ -1542,54 +1789,63 @@
   text: La fermentazione è un processo aerobico
   correct: 1
   curiosity: 
+  difficulty: 1
 
 1249:
   kind: tf
   text: La fermentazione alcolica produce principalmente etanolo e anidride carbonica come sottoprodotti
   correct: 0
   curiosity: 
+  difficulty: 1
 
 1250:
   kind: tf
   text: La fermentazione butirrica si verifica nei muscoli degli animali, come nei muscoli umani durante sforzi intensi, e in alcuni batteri
   correct: 1
   curiosity: 
+  difficulty: 1
 
 1251:
   kind: tf
   text: Il piruvato è il prodotto finale della glicolisi e il principale substrato per la fermentazione
   correct: 0
   curiosity: 
+  difficulty: 3
 
 1252:
   kind: tf
   text: I prodotti finali della fermentazione lattica sono l'acido lattico e l'etanolo
   correct: 1
   curiosity: 
+  difficulty: 1
 
 1253:
   kind: tf
   text: La fermentazione alcolica converte il glucosio in etanolo e anidride carbonica, con il rilascio di una piccola quantità di ATP
   correct: 0
   curiosity: 
+  difficulty: 1
 
 1254:
   kind: tf
   text: La fermentazione e la respirazione cellulare producono la stessa quantità di ATP  
   correct: 1
   curiosity: 
+  difficulty: 1
 
 1255:
   kind: tf
   text: La fermentazione lattica nei muscoli umani avviene durante l'esercizio intenso quando l'apporto di ossigeno NON è sufficiente
   correct: 0
   curiosity: 
+  difficulty: 1
 
 1256:
   kind: tf
   text: L'acetil-CoA è essenziale per il ciclo di Krebs e viene prodotto dal piruvato in condizioni anaerobiche
   correct: 1
   curiosity: 
+  difficulty: 3
 
 #FIXME
 
@@ -1598,78 +1854,91 @@
   text: La gluconeogenesi è il processo biologico che consente la sintesi del glucosio
   correct: 0
   curiosity: 
+  difficulty: 3
 
 1258:
   kind: tf
   text: La gluconeogenesi avviene esclusivamente nel fegato
   correct: 1
   curiosity: 
+  difficulty: 1
 
 1259:
   kind: tf
   text: Il piruvato e il lattato sono i principali precursori per la gluconeogenesi, insieme agli aminoacidi
   correct: 0
   curiosity: 
+  difficulty: 3
 
 1260:
   kind: tf
   text: La piruvato carbossilasi degrada il glucosio e produce ATP nella gluconeogenesi
   correct: 1
   curiosity: 
+  difficulty: 3
 
 1261:
   kind: tf
   text: La gluconeogenesi avviene sia nei mitocondri che nel citoplasma
   correct: 0
   curiosity: 
+  difficulty: 3
 
 1262:
   kind: tf
   text: Durante il digiuno, la gluconeogenesi è essenziale per ridurre i livelli di glucosio nel sangue
   correct: 1
   curiosity: 
+  difficulty: 1
 
 1263:
   kind: tf
   text: Durante la gluconeogenesi, il NADH viene ossidato a $NAD_+$ per consentire la continuazione del processo
   correct: 0
   curiosity: 
+  difficulty: 3
 
 1264:
   kind: tf
   text: La gluconeogenesi e la glicolisi sono processi opposti che coinvolgono gli stessi enzimi
   correct: 1
   curiosity: 
+  difficulty: 3
 
 1265:
   kind: tf
   text: Nella gluconeogenesi il lattato è convertito in glucosio-6-fosfato, che può poi essere trasformato in glucosio
   correct: 0
   curiosity: 
+  difficulty: 3
 
 1266:
   kind: tf
   text: La gluconeogenesi è meno attiva durante il digiuno o in condizioni di ipoglicemia
   correct: 1
   curiosity: 
+  difficulty: 3
 
 1267:
   kind: tf
   text: Il glucagone stimola la gluconeogenesi, specialmente durante il digiuno, per aumentare i livelli di glucosio nel sangue
   correct: 0
   curiosity: 
+  difficulty: 1
 
 1268:
   kind: tf
   text: L'insulina stimola la gluconeogenesi, poiché favorisce la produzione del glucosio e NON il suo utilizzo
   correct: 1
   curiosity: 
+  difficulty: 1
 
 1269:
   kind: tf
   text: Il glucosio prodotto dalla gluconeogenesi viene rilasciato nel sangue per mantenere i livelli di glucosio necessari per il cervello e altri tessuti
   correct: 0
   curiosity: 
+  difficulty: 1
 
 #FIXME
 
@@ -1678,96 +1947,112 @@
   text: Gli enzimi allosterici possiedono solo un sito attivo
   correct: 1
   curiosity: 
+  difficulty: 3
 
 1271:
   kind: tf
   text: La regolazione allosterica è un meccanismo che modula l'attività enzimatica attraverso legami di ligandi su siti distinti dal sito attivo
   correct: 0
   curiosity: 
+  difficulty: 3
 
 1272:
   kind: tf
   text: Un inibitore allosterico generalmente aumenta l'attività enzimatica, migliorando l'affinità per il substrato
   correct: 1
   curiosity: 
+  difficulty: 1
 
 1273:
   kind: tf
   text: Un attivatore allosterico generalmente aumenta l'attività enzimatica, migliorando l'affinità per il substrato
   correct: 0
   curiosity: 
+  difficulty: 1
 
 1274:
   kind: tf
   text: Quando un inibitore si lega a un enzima allosterico, l'attività enzimatica aumenta
   correct: 1
   curiosity: 
+  difficulty: 1
 
 1275:
   kind: tf
   text: La fosfofruttochinasi è un esempio di enzima regolato allostericamente, che gioca un ruolo chiave nella glicolisi
   correct: 0
   curiosity: 
+  difficulty: 3
 
 1276:
   kind: tf
   text: L'ATP è un attivatore allosterico della piruvato chinasi, aumentando la sua attività quando i livelli di energia sono elevati
   correct: 1
   curiosity: 
+  difficulty: 3
 
 1277:
   kind: tf
   text: L'AMP attiva la fosfofruttochinasi, stimolando la glicolisi in condizioni di bassa energia cellulare
   correct: 0
   curiosity: 
+  difficulty: 3
 
 1278:
   kind: tf
   text: La regolazione competitiva avviene tramite inibitori, mentre quella allosterica no
   correct: 1
   curiosity: 
+  difficulty: 3
 
 1279:
   kind: tf
   text: La regolazione allosterica permette di modulare l'attività degli enzimi in risposta alle necessità metaboliche cellulari
   correct: 0
   curiosity: 
+  difficulty: 3
 
 1280:
   kind: tf
   text: La regolazione competitiva è permanente, mentre quella allosterica è temporanea
   correct: 1
   curiosity: 
+  difficulty: 3
 
 1281:
   kind: tf
   text: Un attivatore allosterico modifica la struttura dell'enzima per migliorarne l'affinità per il substrato e aumentare la sua attività
   correct: 0
   curiosity: 
+  difficulty: 3
 
 1282:
   kind: tf
   text: Gli inibitori allosterici si legano all'enzima tramite interazioni covalenti
   correct: 1
   curiosity: 
+  difficulty: 3
 
 1283:
   kind: tf
   text: Il sito allosterico è dove si legano le molecole regolatrici, influenzando l'attività dell'enzima
   correct: 0
   curiosity: 
+  difficulty: 1
 
 1284:
   kind: tf
   text: La regolazione allosterica consente una risposta più precisa ma più lenta alle variazioni metaboliche rispetto alla regolazione covalente
   correct: 1
   curiosity: 
+  difficulty: 1
 
 1285:
   kind: tf
   text: Temperatura, pH e concentrazione di substrato sono tutti fattori che possono influenzare la regolazione allosterica di un enzima
   correct: 0
   curiosity: 
+  difficulty: 1
 
 #FIXME
 
@@ -1776,90 +2061,105 @@
   text: I mitocondri hanno una tripla membrana, la membrana interna, la membrana intermedia e la membrana esterna, che giocano ruoli cruciali nella loro funzione
   correct: 1
   curiosity: 
+  difficulty: 1
 
 1287:
   kind: tf
   text: Il ciclo di Krebs si svolge nella matrice mitocondriale
   correct: 0
   curiosity: 
+  difficulty: 3
 
 1288:
   kind: tf
   text: La funzione principale della membrana interna mitocondriale è l'isolamento della matrice mitocondriale dal citoplasma
   correct: 1
   curiosity: 
+  difficulty: 1
 
 1289:
   kind: tf
   text: La matrice mitocondriale contiene enzimi per il ciclo di Krebs, il DNA mitocondriale e ribosomi per la sintesi proteica
   correct: 0
   curiosity: 
+  difficulty: 3
 
 1290:
   kind: tf
   text: La catena di trasporto degli elettroni trasferisce elettroni lungo una serie di complessi proteici, creando un gradiente di protoni che inibisce la produzione di ATP
   correct: 1
   curiosity: 
+  difficulty: 1
 
 1291:
   kind: tf
   text: I pori nella membrana esterna mitocondriale permettono il passaggio di piccole molecole e ioni, facilitando lo scambio con il citoplasma
   correct: 0
   curiosity: 
+  difficulty: 1
 
 1292:
   kind: tf
   text: Il DNA mitocondriale è lineare e viene ereditato esclusivamente dalla madre, a differenza del DNA nucleare
   correct: 1
   curiosity: 
+  difficulty: 3
 
 1293:
   kind: tf
   text: Durante la respirazione cellulare, la catena di trasporto degli elettroni accumula protoni nello spazio intermembrana mitocondriale
   correct: 0
   curiosity: 
+  difficulty: 3
 
 1294:
   kind: tf
   text: La glicolisi genera un gradiente di protoni, che è utilizzato dall'ATP sintasi per produrre ATP
   correct: 1
   curiosity: 
+  difficulty: 3
 
 1295:
   kind: tf
   text: Il processo attraverso cui i mitocondri producono ATP è la fosforilazione ossidativa
   correct: 0
   curiosity: 
+  difficulty: 3
 
 1296:
   kind: tf
   text: Se i mitocondri NON funzionano correttamente, la produzione di proteine aumenta
   correct: 1
   curiosity: 
+  difficulty: 1
 
 1297:
   kind: tf
   text: Il complesso I ossida il NADH e trasferisce gli elettroni alla catena di trasporto, contribuendo alla creazione del gradiente di protoni
   correct: 0
   curiosity: 
+  difficulty: 3
 
 1298:
   kind: tf
   text: Il calcio è un prodotto finale della respirazione cellulare
   correct: 1
   curiosity: 
+  difficulty: 3
 
 1299:
   kind: tf
   text: La compartimentalizzazione mitocondriale ottimizza le reazioni metaboliche, separando diversi processi in spazi specifici come la matrice e lo spazio intermembrana
   correct: 0
   curiosity: 
+  difficulty: 1
 
 1300:
   kind: tf
   text: Il potenziale di membrana mitocondriale dipende dalla distribuzione del glucosio tra le due membrane
   correct: 1
   curiosity: 
+  difficulty: 3
 
   #FIXME
 
@@ -1868,54 +2168,63 @@
   text: La funzione principale del ciclo dell'acido citrico è produrre energia, generando ATP, NADH, $FADH_2$ e $CO_2$ come sottoprodotti
   correct: 0
   curiosity: 
+  difficulty: 3
 
 1302:
   kind: tf
   text: Durante il ciclo dell'acido citrico viene ridotto solo il coenzima $NAD^+$
   correct: 1
   curiosity: 
+  difficulty: 3
 
 1303:
   kind: tf
   text: Ogni giro del ciclo dell'acido citrico produce 3 molecole di NADH, 1 $FADH_2$, 1 ATP (o GTP) e 2 molecole di $CO_2$
   correct: 0
   curiosity: 
+  difficulty: 3
 
 1304:
   kind: tf
   text: l ciclo dell'acido citrico è un processo anaerobico che contribuisce alla produzione di energia sotto forma di ATP, NADH e $FADH_2$
   correct: 1
   curiosity: 
+  difficulty: 3
 
 1305:
   kind: tf
   text: Il ciclo dell'acido citrico è fondamentale per produrre molecole energetiche e intermedi che alimentano altre vie metaboliche
   correct: 0
   curiosity: 
+  difficulty: 3
 
 1306:
   kind: tf
   text: L'ATP prodotto nel ciclo dell'acido citrico attiva le proteine ed inibisce gli enzimi
   correct: 1
   curiosity: 
+  difficulty: 1
 
 1307:
   kind: tf
   text: Nel ciclo dell'acido citrico, il GTP viene prodotto durante la conversione di succinil-CoA in succinato, che può essere convertito in ATP
   correct: 0
   curiosity: 
+  difficulty: 3
 
 1308:
   kind: tf
   text: Gli amminoacidi sono una fonte principale di acetil-CoA, che entra nel ciclo dell'acido citrico per produrre energia
   correct: 1
   curiosity: 
+  difficulty: 3
 
 1309:
   kind: tf
   text: I prodotti ridotti (NADH e $FADH_2$) generati nel ciclo dell'acido citrico alimentano la catena di trasporto degli elettroni
   correct: 0
   curiosity: 
+  difficulty: 3
 
 #FIXME
 
@@ -1924,102 +2233,119 @@
   text: Il complesso mitocondriale è essenziale per la produzione di ATP attraverso la respirazione cellulare, utilizzando l'azoto per generare energia
   correct: 1
   curiosity: 
+  difficulty: 3
 
 1311:
   kind: tf
   text: La catena di trasporto degli elettroni è composta da una serie di proteine e coenzimi che trasferiscono gli elettroni per produrre ATP
   correct: 0
   curiosity: 
+  difficulty: 1
 
 1312:
   kind: tf
   text: Il complesso mitocondriale si trova nella membrana esterna dei mitocondri, dove avvengono le reazioni di respirazione cellulare
   correct: 1
   curiosity: 
+  difficulty: 3
 
 1313:
   kind: tf
   text: $NAD^+$ e FAD sono coenzimi cruciali per il trasporto degli elettroni nella respirazione cellulare, riducendosi a NADH e $FADH_2$
   correct: 0
   curiosity: 
+  difficulty: 3
 
 1314:
   kind: tf
   text: Il Complesso IV della catena di trasporto degli elettroni è responsabile della riduzione di $NAD^+$ a NADH
   correct: 1
   curiosity: 
+  difficulty: 3
 
 1315:
   kind: tf
   text: NADH fornisce elettroni alla catena di trasporto degli elettroni
   correct: 0
   curiosity: 
+  difficulty: 3
 
 1316:
   kind: tf
   text: Il principale prodotto della catena di trasporto degli elettroni è il GTP
   correct: 1
   curiosity: 
+  difficulty: 3
 
 1317:
   kind: tf
   text: L'ATP sintasi utilizza il gradiente di protoni (proton motive force) per sintetizzare ATP, che è essenziale per il metabolismo cellulare
   correct: 0
   curiosity: 
+  difficulty: 1
 
 1318:
   kind: tf
   text: Il gradiente di protoni generato dal complesso mitocondriale serve per la produzione di glucosio
   correct: 1
-  curiosity: 
+  curiosity:
+  difficulty: 3 
 
 1319:
   kind: tf
   text: Il blocco del Complesso IV impedisce la riduzione dell'ossigeno a acqua, riducendo la produzione di ATP e causando l'accumulo di NADH
   correct: 0
-  curiosity: 
+  curiosity:
+  difficulty: 3 
 
 1320:
   kind: tf
   text: Il prodotto finale della respirazione cellulare è ATP, acqua e piruvato
   correct: 1
   curiosity: 
+  difficulty: 3
 
 1321:
   kind: tf
   text: Il Complesso II della catena di trasporto degli elettroni riduce il FAD a $FADH_2$
   correct: 0
   curiosity: 
+  difficulty: 3
 
 1322:
   kind: tf
   text: Il complesso mitocondriale è essenziale per la produzione di ossigeno attraverso la fosforilazione ossidativa
   correct: 1
   curiosity: 
+  difficulty: 3
 
 1323:
   kind: tf
   text: Il Complesso III trasferisce elettroni dal coenzima Q al citocromo c
   correct: 0
   curiosity: 
+  difficulty: 3
 
 1324:
   kind: tf
   text: La fosforilazione substrato è il processo che utilizza il gradiente di protoni per produrre ATP
   correct: 1
   curiosity: 
+  difficulty: 3
 
 1325:
   kind: tf
   text: L'ossigeno agisce come accettore finale degli elettroni nella respirazione cellulare
   correct: 0
   curiosity: 
+  difficulty: 3
 
 1326:
   kind: tf
   text: In assenza di ossigeno, la catena di trasporto degli elettroni continua normalmente
   correct: 1
   curiosity: 
+  difficulty: 3
 
 #FIXME
 
@@ -2028,42 +2354,49 @@
   text: La produzione di ATP può avvenire sia in presenza che in assenza di ossigeno
   correct: 0
   curiosity: 
+  difficulty: 1
 
 1328:
   kind: tf
   text: La glicolisi produce il maggior numero di ATP durante la respirazione cellulare
   correct: 1
   curiosity: 
+  difficulty: 3
 
 1329:
   kind: tf
   text: La fosforilazione substrato produce ATP direttamente, mentre la fosforilazione ossidativa utilizza un gradiente di protoni per produrre ATP
   correct: 0
   curiosity: 
+  difficulty: 3
 
 1330:
   kind: tf
   text: La sintesi dell'ATP avviene nella matrice del mitocondrio, dove si trova l'ATP sintasi
   correct: 1
   curiosity: 
+  difficulty: 3
 
 1331:
   kind: tf
   text: Ogni molecola di NADH produce circa 2,5 ATP durante il suo passaggio attraverso la catena di trasporto degli elettroni
   correct: 0
   curiosity: 
+  difficulty: 3
 
 1332:
   kind: tf
   text: I microtubuli sono costituiti principalmente da actina, una proteina che forma strutture filiformi
-  correct: 0
+  correct: 1
   curiosity: 
+  difficulty: 1
 
 1333:
   kind: tf
   text: Il gradiente di protoni è fondamentale per la produzione di ATP, poiché fornisce l'energia necessaria per il funzionamento dell'ATP sintasi
   correct: 0
   curiosity: 
+  difficulty: 3
 
 #FIXME
 
@@ -2072,72 +2405,84 @@
   text: I microtubuli sono fondamentali per la glicolisi
   correct: 1
   curiosity: 
+  difficulty: 1
 
 1335:
   kind: tf
   text: I microtubuli si trovano principalmente nel citoplasma e fanno parte del citoscheletro, che conferisce forma e supporto alla cellula
   correct: 0
   curiosity: 
+  difficulty: 1
 
 1336:
   kind: tf
   text: La miosina è una proteina motrice che utilizza i microtubuli per il trasporto di vescicole e organelli all'interno della cellula
   correct: 1
   curiosity: 
+  difficulty: 3
 
 1337:
   kind: tf
   text: Il fuso mitotico è formato da microtubuli e svolge un ruolo chiave nel separare i cromosomi durante la mitosi
   correct: 0
   curiosity: 
+  difficulty: 1
 
 1338:
   kind: tf
   text: I microtubuli sono stabili e NON si modificano il che è importante per il loro ruolo nei processi cellulari
   correct: 1
   curiosity: 
+  difficulty: 1
 
 1339:
   kind: tf
   text: I centrioli sono organelli che organizzano i microtubuli durante la divisione cellulare, formando il fuso mitotico
   correct: 0
   curiosity: 
+  difficulty: 3
 
 1340:
   kind: tf
   text: L'unità di base della tubulina è il dimero di actina
   correct: 1
   curiosity: 
+  difficulty: 1
 
 1341:
   kind: tf
   text: I microtubuli si assemblano attraverso la polimerizzazione della tubulina, una proteina che forma i filamenti
   correct: 0
   curiosity: 
+  difficulty: 3
 
 1342:
   kind: tf
   text: I ribosomi sono responsabili dell'organizzazione dei microtubuli nel fuso mitotico, necessario per separare i cromosomi
   correct: 1
   curiosity: 
+  difficulty: 3
 
 1343:
   kind: tf
   text: I microtubuli sono cruciali per il supporto strutturale, il movimento cellulare, e la divisione cellulare
   correct: 0
   curiosity: 
+  difficulty: 1
 
 1344:
   kind: tf
   text: I microfilamenti sono più spessi dei microtubuli
   correct: 1
   curiosity: 
+  difficulty: 1
 
 1345:
   kind: tf
   text: Le disfunzioni nei microtubuli sono associate a malattie neurodegenerative come l'Alzheimer e anche a diversi tipi di cancro
   correct: 0
-  curiosity: 
+  curiosity:
+  difficulty: 3 
 
 #FIXME
 
@@ -2146,60 +2491,70 @@
   text: I microfilamenti sono principalmente costituiti da tubulina
   correct: 1
   curiosity: 
+  difficulty: 1
 
 1347:
   kind: tf
   text: I microfilamenti sono coinvolti nel movimento cellulare e nella contrazione muscolare
   correct: 0
   curiosity: 
+  difficulty: 1
 
 1348:
   kind: tf
   text: I microfilamenti sono cruciali per la divisione cellulare e la glicolisi
   correct: 1
   curiosity: 
+  difficulty: 3
 
 1349:
   kind: tf
   text: I microfilamenti si trovano nel citoplasma e fanno parte del citoscheletro
   correct: 0
   curiosity: 
+  difficulty: 1
 
 1350:
   kind: tf
   text: La dineina è la proteina motrice che interagisce con i microfilamenti, facilitando il movimento cellulare, come nella contrazione muscolare
   correct: 1
   curiosity: 
+  difficulty: 3
 
 1351:
   kind: tf
   text: I microfilamenti si assemblano attraverso l'associazione di monomeri di actina, che si polimerizzano per formare lunghe catene
   correct: 0
   curiosity: 
+  difficulty: 1
 
 1352:
   kind: tf
   text: Durante la divisione cellulare, i microfilamenti formano il fuso mitotico che separa le due cellule figlie durante la citodieresi
   correct: 1
   curiosity: 
+  difficulty: 3
 
 1353:
   kind: tf
   text: I microfilamenti sono dinamici e possono crescere o accorciarsi rapidamente
   correct: 0
   curiosity: 
+  difficulty: 1
 
 1354:
   kind: tf
   text: I mitocondri e il nucleo utilizzano i microfilamenti per il movimento e la motilità
   correct: 1
   curiosity: 
+  difficulty: 3
 
 1355:
   kind: tf
   text: I microfilamenti aiutano a deformare la membrana cellulare durante il processo di endocitosi, facilitando la formazione di vescicole
   correct: 0
   curiosity: 
+  difficulty: 3
 
 #FIXME
 
@@ -2208,122 +2563,142 @@
   text: I filamenti intermedi sono composti da proteine globulari
   correct: 1
   curiosity: 
+  difficulty: 1
 
 1357:
   kind: tf
   text: I filamenti intermedi sono essenziali per la stabilità strutturale delle cellule, fornendo resistenza meccanica contro stress fisici
   correct: 0
   curiosity: 
+  difficulty: 1
 
 1358:
   kind: tf
   text: I filamenti intermedi sono dinamici e polari
   correct: 1
   curiosity: 
+  difficulty: 3
 
 1359:
   kind: tf
   text: I filamenti intermedi sono distribuiti nel citoplasma e nel nucleo
   correct: 0
   curiosity: 
+  difficulty: 1
 
 1360:
   kind: tf
   text: La miosina è una proteina che compone i filamenti intermedi nelle cellule muscolari
   correct: 1
   curiosity: 
+  difficulty: 3
 
 1361:
   kind: tf
   text: I filamenti intermedi sono meno dinamici e più resistenti rispetto ai microtubuli
   correct: 0
   curiosity: 
+  difficulty: 3
 
 1362:
   kind: tf
   text: Il citoscheletro è una componente dei filamenti intermedi
   correct: 1
   curiosity: 
+  difficulty: 1
 
 1363:
   kind: tf
   text: Disfunzioni nei filamenti intermedi sono associate a malattie della pelle
   correct: 0
   curiosity: 
+  difficulty: 3
 
 #FIXME
 
 1364:
   kind: tf
-  text: Durante la fase S, la cellula cresce e sintetizza proteine e altre molecole necessarie per la successiva divisione
+  text: Durante la fase S del ciclo cellulare, la cellula cresce e sintetizza proteine e altre molecole necessarie per la successiva divisione
   correct: 1
   curiosity: 
+  difficulty: 3
 
 1365:
   kind: tf
-  text: La fase S è nota come la fase di sintesi, poiché durante questa fase avviene la replicazione del DNA
+  text: La fase S del ciclo cellulare è nota come la fase di sintesi, poiché durante questa fase avviene la replicazione del DNA
   correct: 0
   curiosity: 
+  difficulty: 1
 
 1366:
   kind: tf
-  text: La fase G1 è una fase di preparazione alla mitosi
+  text: La fase G1 del ciclo cellulare è una fase di preparazione alla mitosi
   correct: 1
   curiosity: 
+  difficulty: 3
 
 1367:
   kind: tf
   text: Le cicline sono proteine che attivano le chinasi cicline-dipendenti (CDK), regolando così il passaggio tra le fasi del ciclo cellulare
   correct: 0
   curiosity: 
+  difficulty: 1
 
 1368:
   kind: tf
   text: Le condensine attivano le CDK, che sono essenziali per regolare il passaggio delle cellule da una fase all'altra del ciclo cellulare
   correct: 1
   curiosity: 
+  difficulty: 3
 
 1369:
   kind: tf
-  text: La segregazione dei cromosomi avviene durante la mitosi, nella fase M
+  text: La segregazione dei cromosomi avviene durante la mitosi, nella fase M del ciclo cellulare
   correct: 0
   curiosity: 
+  difficulty: 1
 
 1370:
   kind: tf
   text: Durante la prometafase, i nucleoli si riformano e inizia la divisione del citoplasma, completando la mitosi
   correct: 1
   curiosity: 
+  difficulty: 3
 
 1371:
   kind: tf
-  text: La fase G1 è quella in cui la cellula cresce, accumulando risorse per la successiva replicazione del DNA
+  text: La fase G1 del ciclo cellulare è quella in cui la cellula cresce, accumulando risorse per la successiva replicazione del DNA
   correct: 0
   curiosity: 
+  difficulty: 1
 
 1372:
   kind: tf
   text: La fase finale della mitosi è la metafase 
   correct: 1
   curiosity: 
+  difficulty: 3
 
 1373:
   kind: tf
   text: La proteina p53 rileva danni al DNA e arresta la progressione del ciclo cellulare per permettere la riparazione del DNA o l'apoptosi
   correct: 0
   curiosity: 
+  difficulty: 3
 
 1374:
   kind: tf
   text: La mitosi avviene nelle cellule vegetali mentre la meiosi in quelle animali 
   correct: 1
   curiosity: 
+  difficulty: 1
 
 1375:
   kind: tf
   text: Il punto di controllo G1 verifica se la cellula ha raggiunto una dimensione adeguata e NON ha danni al DNA
   correct: 0
   curiosity: 
+  difficulty: 1
 
 #FIXME
 
@@ -2331,73 +2706,85 @@
   kind: tf
   text: Le fasi principali della mitosi sono G1, S, G2 e M
   correct: 1
-  curiosity: 
+  curiosity:
+  difficulty: 1
 
 1377:
   kind: tf
   text: Durante la metafase, i cromosomi si allineano lungo il piano equatoriale della cellula
   correct: 0
   curiosity: 
+  difficulty: 3
 
 1378:
   kind: tf
   text: Durante la metafase, i cromosomi si condensano e la membrana nucleare inizia a dissolversi
   correct: 1
   curiosity: 
+  difficulty: 3
 
 1379:
   kind: tf
   text: Durante la anafase, i centromeri si dividono, e i cromatidi si separano e vengono tirati verso i poli opposti della cellula
   correct: 0
   curiosity: 
+  difficulty: 3
 
 1380:
   kind: tf
   text: Durante la telofase, i cromosomi si condensano e inizia la mitosi
   correct: 1
   curiosity: 
+  difficulty: 3
 
 1381:
   kind: tf
   text: La mitosi produce cellule diploidi identiche, mentre la meiosi produce cellule aploidi che sono geneticamente diverse
   correct: 0
   curiosity: 
+  difficulty: 1
 
 1382:
   kind: tf
   text: Il fuso mitotico si forma durante la anafase
   correct: 1
   curiosity: 
+  difficulty: 3
 
 1383:
   kind: tf
   text: Durante la profase, la membrana nucleare si dissolve
   correct: 0
   curiosity: 
+  difficulty: 3
 
 1384:
   kind: tf
   text: La citocinesi è il processo di allineamento dei cromosomi lungo il piano equatoriale della cellula
   correct: 1
   curiosity: 
+  difficulty: 3
 
 1385:
   kind: tf
   text: La membrana nucleare si disintegra durante la profase e si riforma durante la telofase, quando i cromosomi sono separati
   correct: 0
   curiosity: 
+  difficulty: 1
 
 1386:
   kind: tf
   text: Durante la profase, i cromosomi si allineano lungo il piano equatoriale della cellula
   correct: 1
   curiosity: 
+  difficulty: 3
 
 1387:
   kind: tf
   text: Nei mammiferi, i filamenti di actina sono coinvolti nella citocinesi, aiutando a separare le due cellule figlie
   correct: 0
   curiosity: 
+  difficulty: 1
 
 #FIXME
 
@@ -2406,42 +2793,49 @@
   text: La meiosi comporta tre divisioni cellulari, la meiosi I, la meiosi II e la meiosi III, che portano alla formazione di otto cellule aploidi
   correct: 1
   curiosity: 
+  difficulty: 1
 
 1389:
   kind: tf
   text: Il crossing-over, o scambio di materiale genetico tra cromosomi omologhi, avviene durante la profase I della meiosi
   correct: 0
   curiosity: 
+  difficulty: 3
 
 1390:
   kind: tf
   text: Il crossing-over avviene sia nella mitosi che nella meiosi
   correct: 1
   curiosity: 
+  difficulty: 1
 
 1391:
   kind: tf
   text: Durante l'anafase I, i cromosomi omologhi si separano e vengono tirati verso i poli opposti della cellula
   correct: 0
   curiosity: 
+  difficulty: 3
 
 1392:
   kind: tf
   text: Il fuso mitotico è responsabile della separazione dei cromosomi durante la meiosi
   correct: 1
   curiosity: 
+  difficulty: 1
 
 1393:
   kind: tf
   text: La meiosi I separa i cromosomi omologhi, mentre la meiosi II separa i cromatidi fratelli
   correct: 0
   curiosity: 
+  difficulty: 1
 
 1394:
   kind: tf
   text: Il crossing-over riduce la variabilità genetica
   correct: 1
   curiosity: 
+  difficulty: 1
 
 1395:
   kind: tf
@@ -2449,17 +2843,20 @@
   correct: 0
   curiosity: 
 
+  difficulty: 1
 1396:
   kind: tf
   text: Gli esoni sono una parte significativa del genoma NON codificante
   correct: 1
   curiosity: 
+  difficulty: 3
 
 1397:
   kind: tf
   text: La meiosi è un processo che genera diversità genetica
   correct: 0
   curiosity: 
+  difficulty: 1
 
 #FIXME
 
@@ -2468,71 +2865,83 @@
   text: Gli pseudogeni sono geni funzionali che hanno subito mutazioni
   correct: 1
   curiosity: 
+  difficulty: 3
 
 1399:
   kind: tf
   text: Una delle funzioni principali del genoma NON codificante è la regolazione dell'espressione genica, come avviene con microRNA e sequenze regolatrici
   correct: 0
   curiosity: 
+  difficulty: 1
 
 1400:
   kind: tf
   text: I microRNA (miRNA) sono porzioni di RNA che codificano per proteine
   correct: 1
   curiosity: 
+  difficulty: 3
 
 1401:
   kind: tf
   text: Gli elementi trasponibili sono sequenze di DNA che si spostano all'interno del genoma
   correct: 0
   curiosity: 
+  difficulty: 1
 
 1402:
   kind: tf
   text: I long non-coding RNA (lncRNA) sono RNA codificanti di lunghezza inferiore a 200 nucleotidi
   correct: 1
   curiosity: 
+  difficulty: 1
 
 1403:
   kind: tf
   text: Circa il 98% del genoma umano è costituito da sequenze NON codificanti
   correct: 0
   curiosity: 
+  difficulty: 1
 
 1404:
   kind: tf
   text: I long interspersed nuclear elements (LINEs) sono elementi che NON si spostano all'interno del genoma
   correct: 1
   curiosity: 
+  difficulty: 3
 
 1405:
   kind: tf
   text: Le sequenze di controllo come gli enhancer e i silencer regolano l'attività dei geni vicini, influenzando la loro espressione
   correct: 0
   curiosity: 
+  difficulty: 1
 
 1406:
   kind: tf
   text: Il mRNA è un esempio di RNA NON codificante
   correct: 1
   curiosity: 
+  difficulty: 3
 
 1407:
   kind: tf
   text: Le mutazioni nel genoma NON codificante possono alterare l'espressione genica, portando a malattie complesse come il cancro e le malattie cardiovascolari
   correct: 0
   curiosity: 
+  difficulty: 1
 
 1408:
   kind: tf
   text: Il genoma NON codificante si chiama così perchè NON codificando per proteine funzionali NON ha alcun effetto sull'evoluzione e sull'espressione genica
   correct: 1
   curiosity: 
+  difficulty: 3
 
 1409:
   kind: tf
   text: Il genoma NON codificante ha ruoli fondamentali nella regolazione dell'espressione genica e nella diversità genetica
   correct: 0
   curiosity: 
+  difficulty: 3
 
 #FIXME

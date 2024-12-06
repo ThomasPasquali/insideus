@@ -1653,6 +1653,7 @@
     - Formare membrane cellulari
   correct: 0
   curiosity: "Gli enzimi sono catalizzatori biologici che accelerano le reazioni chimiche senza essere consumati"
+  difficulty: 3
 
 # 147:
 #   kind: mc
@@ -1686,6 +1687,7 @@
     - RNA
   correct: 1
   curiosity: 
+  difficulty: 3
 
 150:
   kind: mc
@@ -1697,6 +1699,7 @@
     - Proteggere il DNA
   correct: 1
   curiosity: 
+  difficulty: 1
 
 # 151:
 #   kind: mc
@@ -1730,6 +1733,7 @@
     - Carbonio, idrogeno, zolfo, calcio
   correct: 1
   curiosity: 
+  difficulty: 3
 
 154:
   kind: mc
@@ -1741,6 +1745,7 @@
     - Formare strutture cellulari
   correct: 1
   curiosity: 
+  difficulty: 1
 
 # 155:
 #   kind: mc
@@ -1763,6 +1768,7 @@
     - Catalizzare reazioni biochimiche
   correct: 2
   curiosity: 
+  difficulty: 1
 
 157:
   kind: mc
@@ -1774,6 +1780,7 @@
     - Fornire un supporto strutturale
   correct: 1
   curiosity: 
+  difficulty: 3
 
 #FIXME
 
@@ -1798,6 +1805,7 @@
     - Cellulosa
   correct: 2
   curiosity: 
+  difficulty: 3
 
 # 160:
 #   kind: mc
@@ -1842,6 +1850,7 @@
     - Fruttosio
   correct: 2
   curiosity: 
+  difficulty: 3
 
 # 165:
 #   kind: mc
@@ -1864,6 +1873,7 @@
     - Nelle cellule adipose
   correct: 0
   curiosity: 
+  difficulty: 3
 
 167:
   kind: mc
@@ -1875,6 +1885,7 @@
     - Chitina
   correct: 2
   curiosity: 
+  difficulty: 1
 
 168:
   kind: mc
@@ -1886,6 +1897,7 @@
     - Galattosio
   correct: 1
   curiosity: 
+  difficulty: 3
 
 169:
   kind: mc
@@ -1897,6 +1909,7 @@
     - Chitina
   correct: 2
   curiosity: 
+  difficulty: 3
 
 170:
   kind: mc
@@ -1908,6 +1921,7 @@
     - Maltosio
   correct: 2
   curiosity: 
+  difficulty: 1
 
 171:
   kind: mc
@@ -1919,6 +1933,7 @@
     - Galattosio e fruttosio
   correct: 1
   curiosity: 
+  difficulty: 3
 
 # 172:
 #   kind: mc
@@ -1952,6 +1967,7 @@
     - L'amido è solubile in acqua, mentre il glicogeno è insolubile
   correct: 0
   curiosity: 
+  difficulty: 1
 
 # 175:
 #   kind: mc
@@ -1974,6 +1990,7 @@
     - Fruttosio
   correct: 0
   curiosity: 
+  difficulty: 1
 
 177:
   kind: mc
@@ -1985,6 +2002,7 @@
     - NON vengono utilizzati come fonte di energia
   correct: 0
   curiosity: 
+  difficulty: 1
 
 178:
   kind: mc
@@ -1996,6 +2014,7 @@
     - Glicogeno
   correct: 2
   curiosity: 
+  difficulty: 3
 
 179:
   kind: mc
@@ -2007,6 +2026,7 @@
     - Catalizzatore di reazioni enzimatiche
   correct: 0
   curiosity: 
+  difficulty: 1
 
 # 180:
 #   kind: mc
@@ -2029,6 +2049,7 @@
     - Apparato di Golgi
   correct: 1
   curiosity: 
+  difficulty: 3
 
 182:
   kind: mc
@@ -2040,6 +2061,7 @@
     - Stabilizzano il DNA nelle cellule
   correct: 1
   curiosity: 
+  difficulty: 3
 
 #FIXME
 
@@ -2053,6 +2075,7 @@
     - Fosfati e zuccheri
   correct: 1
   curiosity: 
+  difficulty: 1
 
 184:
   kind: mc
@@ -2064,6 +2087,7 @@
     - Formare fibre strutturali
   correct: 1
   curiosity: 
+  difficulty: 1
 
 185:
   kind: mc
@@ -2075,6 +2099,7 @@
     - Nucleotidi
   correct: 0
   curiosity: 
+  difficulty: 1
 
 186:
   kind: mc
@@ -2086,6 +2111,7 @@
     - Glicogeno
   correct: 1
   curiosity: 
+  difficulty: 1
 
 187:
   kind: mc
@@ -2097,6 +2123,7 @@
     - Acidi grassi
   correct: 1
   curiosity: 
+  difficulty: 3
 
 188:
   kind: mc
@@ -2108,6 +2135,7 @@
     - Fornire energia a breve termine
   correct: 0
   curiosity: 
+  difficulty: 1
 
 189:
   kind: mc
@@ -2119,6 +2147,7 @@
     - Colesterolo
   correct: 1
   curiosity: 
+  difficulty: 3
 
 190:
   kind: mc
@@ -2130,6 +2159,7 @@
     - Tutte le precedenti
   correct: 3
   curiosity: 
+  difficulty: 1
 
 191:
   kind: mc
@@ -2141,6 +2171,7 @@
     - Sono sempre di origine vegetale
   correct: 2
   curiosity: 
+  difficulty: 3
 
 192:
   kind: mc
@@ -2152,6 +2183,7 @@
     - Aumentare la pressione osmotica
   correct: 2
   curiosity: 
+  difficulty: 3
 
 194:
   kind: mc
@@ -2163,6 +2195,7 @@
     - Acidi grassi
   correct: 2
   curiosity: 
+  difficulty: 1
 
 # 195:
 #   kind: mc
@@ -2196,6 +2229,7 @@
     - Sono immagazzinati come riserva energetica
   correct: 0
   curiosity: 
+  difficulty: 1
 
 198:
   kind: mc
@@ -2207,6 +2241,7 @@
     - Glicogeno
   correct: 2
   curiosity: 
+  difficulty: 3
 
 # 199:
 #   kind: mc
@@ -2251,6 +2286,7 @@
     - Trigliceridi
   correct: 0
   curiosity: 
+  difficulty: 3
 
 203:
   kind: mc
@@ -2262,6 +2298,7 @@
     - I lipidi sono polari
   correct: 1
   curiosity: 
+  difficulty: 3
 
 204:
   kind: mc
@@ -2273,6 +2310,7 @@
     - I lipidi forniscono energia solo a livello cellulare
   correct: 1
   curiosity: 
+  difficulty: 1
 
 205:
   kind: mc
@@ -2284,6 +2322,7 @@
     - Acidi grassi utilizzati solo per il metabolismo degli zuccheri
   correct: 0
   curiosity: 
+  difficulty: 1
 
 206:
   kind: mc
@@ -2295,6 +2334,7 @@
     - Muscoli
   correct: 0
   curiosity: 
+  difficulty: 3
 
 # 207:
 #   kind: mc
@@ -2352,6 +2392,7 @@
     - Struttura secondaria
   correct: 2
   curiosity: "La struttura primaria è semplicemente la sequenza di amminoacidi nella proteina"
+  difficulty: 1
 
 212:
   kind: mc
@@ -2363,6 +2404,7 @@
     - Legami ionici
   correct: 0
   curiosity: "I legami a idrogeno stabilizzano le strutture secondarie come $\alpha$-eliche e foglietti-$\beta$"
+  difficulty: 3
 
 # 213:
 #   kind: mc
@@ -2388,7 +2430,7 @@
 
 215:
   kind: mc
-  text: "Quale livello strutturale delle proteine si riferisce all’organizzazione tridimensionale della catena amminoacidica?"
+  text: "Quale livello strutturale delle proteine si riferisce all'organizzazione tridimensionale della catena amminoacidica?"
   options:
     - Struttura primaria
     - Struttura secondaria
@@ -2396,6 +2438,7 @@
     - Struttura quaternaria
   correct: 2
   curiosity: 
+  difficulty: 1
 
 216:
   kind: mc
@@ -2407,6 +2450,7 @@
     - Legami tra monosaccaridi
   correct: 1
   curiosity: 
+  difficulty: 3
 
 # 217:
 #   kind: mc
@@ -2429,6 +2473,7 @@
     - Serina
   correct: 2
   curiosity: "Gli amminoacidi essenziali, come la lisina, NON possono essere sintetizzati dal corpo e devono essere assunti con la dieta"
+  difficulty: 3
 
 219:
   kind: mc
@@ -2440,6 +2485,7 @@
     - La conversione in zuccheri semplici
   correct: 0
   curiosity: "La denaturazione di una proteina la rende NON funzionale"
+  difficulty: 1
 
 # 220:
 #   kind: mc
@@ -2462,6 +2508,7 @@
     - Lipasi
   correct: 0
   curiosity: 
+  difficulty: 3
 
 222:
   kind: mc
@@ -2473,6 +2520,7 @@
     - Glicina
   correct: 2
   curiosity: "La serotonina è un neurotrasmettitore coinvolto nel controllo dell'umore"
+  difficulty: 3
 
 223:
   kind: mc
@@ -2484,6 +2532,7 @@
     - Ha una struttura idrofobica
   correct: 2
   curiosity: "I legami a idrogeno rendono questi amminoacidi solubili in acqua"
+  difficulty: 3
 
 # 224:
 #   kind: mc
@@ -2506,6 +2555,7 @@
     - Actina
   correct: 0
   curiosity: "Le immunoglobuline sono anticorpi prodotti dal sistema immunitario per riconoscere e neutralizzare patogeni"
+  difficulty: 1
 
 # 226:
 #   kind: mc
@@ -2528,6 +2578,7 @@
     - Apparato di Golgi
   correct: 0
   curiosity: "I ribosomi possono essere liberi nel citoplasma o legati al reticolo endoplasmatico"
+  difficulty: 1
 
 228:
   kind: mc
@@ -2539,6 +2590,7 @@
     - Insulina
   correct: 1
   curiosity:
+  difficulty: 3
 
 229:
   kind: mc
@@ -2550,6 +2602,7 @@
     - Agire come riserva energetica
   correct: 1
   curiosity: "L'insulina è un ormone che consente l'ingresso del glucosio nelle cellule"
+  difficulty: 1
 
 230:
   kind: mc
@@ -2561,6 +2614,7 @@
     - La posizione del gruppo amminico
   correct: 2
   curiosity: "Il gruppo laterale (R) determina le proprietà chimiche e fisiche degli amminoacidi"
+  difficulty: 1
 
 231:
   kind: mc
@@ -2572,6 +2626,7 @@
     - Insulina
   correct: 2
   curiosity: "La caseina è presente nel latte e fornisce amminoacidi essenziali"
+  difficulty: 3
 
 # 232:
 #   kind: mc
@@ -2594,6 +2649,7 @@
     - La proteina si denatura
   correct: 1
   curiosity: 
+  difficulty: 1
 
 # 234:
 #   kind: mc
@@ -2608,7 +2664,7 @@
 
 235:
   kind: mc
-  text: Che cosa rappresenta l’$\alpha-elica$ in una proteina?
+  text: Che cosa rappresenta l'$\alpha-elica$ in una proteina?
   options:
     - Una forma di struttura secondaria
     - Una parte della struttura primaria
@@ -2616,6 +2672,7 @@
     - Un insieme di catene polipeptidiche
   correct: 0
   curiosity: L'$\alpha-elica$ è stabilizzata da legami a idrogeno
+  difficulty: 1
 
 # 236:
 #   kind: mc
@@ -2651,6 +2708,7 @@
     - ATP e DNA
   correct: 1
   curiosity: "Il DNA conserva l'informazione genetica e l'RNA la trasferisce e la utilizza per la sintesi proteica"
+  difficulty: 1
 
 # 239:
 #   kind: mc
@@ -2673,6 +2731,7 @@
     - L'RNA NON contiene azoto
   correct: 0
   curiosity: 
+  difficulty: 1
 
 241:
   kind: mc
@@ -2684,6 +2743,7 @@
     - Timina
   correct: 2
   curiosity: 
+  difficulty: 1
 
 # 242:
 #   kind: mc
@@ -2717,6 +2777,7 @@
     - Doppio filamento lineare
   correct: 0
   curiosity: 
+  difficulty: 1
 
 245:
   kind: mc
@@ -2728,6 +2789,7 @@
     - Timina
   correct: 1
   curiosity: 
+  difficulty: 1
 
 246:
   kind: mc
@@ -2739,6 +2801,7 @@
     - snRNA
   correct: 2
   curiosity: 
+  difficulty: 3
 
 # 247:
 #   kind: mc
@@ -2761,6 +2824,7 @@
     - Fruttosio
   correct: 0
   curiosity: 
+  difficulty: 1
 
 249:
   kind: mc
@@ -2772,6 +2836,7 @@
     - Trascrittasi inversa
   correct: 0
   curiosity: 
+  difficulty: 1
 
 250:
   kind: mc
@@ -2783,6 +2848,7 @@
     - Costituire la struttura dei ribosomi
   correct: 1
   curiosity: 
+  difficulty: 3
 
 251:
   kind: mc
@@ -2794,6 +2860,7 @@
     - Idrolisi
   correct: 1
   curiosity: 
+  difficulty: 1
 
 # 253:
 #   kind: mc
@@ -2816,6 +2883,7 @@
     - Con l'aggiunta casuale di nuovi nucleotidi
   correct: 1
   curiosity: 
+  difficulty: 1
 
 # 255:
 #   kind: mc
@@ -2838,6 +2906,7 @@
     - Una sequenza di DNA che codifica una proteina
   correct: 0
   curiosity: 
+  difficulty: 1
 
 257:
   kind: mc
@@ -2849,6 +2918,7 @@
     - Trasferimento
   correct: 1
   curiosity: 
+  difficulty: 1
 
 258:
   kind: mc
@@ -2860,6 +2930,7 @@
     - Catalizzare reazioni biochimiche generiche
   correct: 1
   curiosity: 
+  difficulty: 3
 
 259:
   kind: mc
@@ -2871,6 +2942,7 @@
     - Stabilizzano la doppia elica attraverso legami covalenti
   correct: 0
   curiosity: 
+  difficulty: 1
 
 260:
   kind: mc
@@ -2882,6 +2954,7 @@
     - Può codificare solo per poche proteine
   correct: 0
   curiosity: 
+  difficulty: 1
 
 261:
   kind: mc
@@ -2893,6 +2966,7 @@
     - Sequenze di 3 nucleotidi
   correct: 0
   curiosity: 
+  difficulty: 3
 
 262:
   kind: mc
@@ -2904,6 +2978,7 @@
     - Nell'appartato di Golgi
   correct: 0
   curiosity: 
+  difficulty: 1
 
 263:
   kind: mc
@@ -2915,6 +2990,7 @@
     - Connettere i nucleotidi
   correct: 1
   curiosity: 
+  difficulty: 3
 
 264:
   kind: mc
@@ -2926,6 +3002,7 @@
     - Uracile
   correct: 0
   curiosity: 
+  difficulty: 3
 
 265:
   kind: mc
@@ -2937,6 +3014,7 @@
     - Nei mitocondri
   correct: 1
   curiosity: 
+  difficulty: 1
 
 266:
   kind: mc
@@ -2948,6 +3026,7 @@
     - Convertire l'energia in ATP
   correct: 0
   curiosity: 
+  difficulty: 1
 
 267:
   kind: mc
@@ -2959,6 +3038,7 @@
     - Il ribosoma
   correct: 1
   curiosity: 
+  difficulty: 3
 
 #FIXME
 
@@ -2983,6 +3063,7 @@
     - Marie Curie e Max Planck
   correct: 1
   curiosity: 
+  difficulty: 3
 
 270:
   kind: mc
@@ -2994,6 +3075,7 @@
     - Legame metallico
   correct: 1
   curiosity: 
+  difficulty: 3
 
 # 271:
 #   kind: mc
@@ -3016,6 +3098,7 @@
     - Adenina con Uracile e Citosina con Guanina
   correct: 0
   curiosity: 
+  difficulty: 1
 
 273:
   kind: mc
@@ -3027,6 +3110,7 @@
     - Sono ortogonali
   correct: 2
   curiosity: 
+  difficulty: 1
 
 # 274:
 #   kind: mc
@@ -3049,6 +3133,7 @@
     - Molecole di ATP
   correct: 1
   curiosity: 
+  difficulty: 1
 
 # 276:
 #   kind: mc
@@ -3071,6 +3156,7 @@
     - 12 coppie
   correct: 2
   curiosity: 
+  difficulty: 3
 
 # 278:
 #   kind: mc
@@ -3093,17 +3179,19 @@
     - Maurice Wilkins
   correct: 2
   curiosity: 
+  difficulty: 3
 
 280:
   kind: mc
   text: "Come si chiamano le due estremità di un filamento di DNA?"
   options:
-    - 3’ e 5’
-    - 2’ e 6’
+    - 3' e 5'
+    - 2' e 6'
     - Alfa e Omega
     - Zeta e Gamma
   correct: 0
   curiosity: 
+  difficulty: 1
 
 # 281:
 #   kind: mc
@@ -3126,6 +3214,7 @@
     - Fase G2
   correct: 2
   curiosity: 
+  difficulty: 3
 
 283:
   kind: mc
@@ -3137,6 +3226,7 @@
     - Sintetizza RNA
   correct: 1
   curiosity: 
+  difficulty: 1
 
 284:
   kind: mc
@@ -3148,6 +3238,7 @@
     - Nessuna delle precedenti
   correct: 1
   curiosity: 
+  difficulty: 3
 
 # 285:
 #   kind: mc
@@ -3203,6 +3294,7 @@
     - I centromeri
   correct: 1
   curiosity: 
+  difficulty: 3
 
 # 291:
 #   kind: mc
@@ -3225,6 +3317,7 @@
     - È prodotto durante la replicazione
   correct: 0
   curiosity: 
+  difficulty: 3
 
 #FIXME
 
@@ -3260,6 +3353,7 @@
     - Formazione di nucleotidi
   correct: 2
   curiosity: 
+  difficulty: 1
 
 296:
   kind: mc
@@ -3271,6 +3365,7 @@
     - Due molecole di proteine
   correct: 2
   curiosity: 
+  difficulty: 1
 
 297:
   kind: mc
@@ -3282,6 +3377,7 @@
     - Telomero
   correct: 1
   curiosity: 
+  difficulty: 1
 
 298:
   kind: mc
@@ -3293,6 +3389,7 @@
     - Stabilizzare il filamento
   correct: 2
   curiosity: 
+  difficulty: 1
 
 # 299:
 #   kind: mc
@@ -3326,6 +3423,7 @@
     - Tagliare il DNA
   correct: 1
   curiosity: 
+  difficulty: 3
 
 # 302:
 #   kind: mc
@@ -3348,6 +3446,7 @@
     - DNA nucleosomiale
   correct: 1
   curiosity: 
+  difficulty: 3
 
 304:
   kind: mc
@@ -3355,10 +3454,11 @@
   options:
     - DNA ligasi
     - RNA polimerasi
-    - Helicasi
+    - Elicasi
     - Topoisomerasi
   correct: 2
   curiosity: 
+  difficulty: 3
 
 305:
   kind: mc
@@ -3370,6 +3470,7 @@
     - Stabilizzare il DNA
   correct: 2
   curiosity: 
+  difficulty: 3
 
 # 306:
 #   kind: mc
@@ -3392,6 +3493,7 @@
     - Primasi
   correct: 2
   curiosity: 
+  difficulty: 3
 
 # 308:
 #   kind: mc
@@ -3414,6 +3516,7 @@
     - Sintesi proteica
   correct: 2
   curiosity: 
+  difficulty: 3
 
 310:
   kind: mc
@@ -3425,6 +3528,7 @@
     - Codoni
   correct: 1
   curiosity: 
+  difficulty: 1
 
 # 311:
 #   kind: mc
@@ -3442,11 +3546,12 @@
   text: "Cosa si lega al DNA per stabilizzare i filamenti durante la replicazione?"
   options:
     - DNA polimerasi
-    - Helicasi
+    - Elicasi
     - Proteine SSB (Single-Strand Binding)
     - Ligasi
   correct: 2
   curiosity: 
+  difficulty: 3
 
 #FIXME
 
@@ -3471,6 +3576,7 @@
     - Ribosomi
   correct: 2
   curiosity: 
+  difficulty: 1
 
 315:
   kind: mc
@@ -3482,6 +3588,7 @@
     - Segmenti di DNA NON codificante
   correct: 2
   curiosity: 
+  difficulty: 3
 
 # 316:
 #   kind: mc
@@ -3504,6 +3611,7 @@
     - È sempre in uno stato compatto
   correct: 2
   curiosity: 
+  difficulty: 1
 
 318:
   kind: mc
@@ -3515,6 +3623,7 @@
     - Traduzione del DNA
   correct: 2
   curiosity: 
+  difficulty: 1
 
 319:
   kind: mc
@@ -3526,6 +3635,7 @@
     - DNA replicato
   correct: 2
   curiosity: 
+  difficulty: 1
 
 320:
   kind: mc
@@ -3537,6 +3647,7 @@
     - Cromatina metafasica
   correct: 1
   curiosity: 
+  difficulty: 3
 
 # 321:
 #   kind: mc
@@ -3554,11 +3665,12 @@
   text: "Quale enzima è coinvolto nella modificazione degli istoni?"
   options:
     - DNA polimerasi
-    - Helicasi
+    - Elicasi
     - Istone acetiltransferasi
     - Ligasi
   correct: 2
   curiosity: 
+  difficulty: 1
 
 323:
   kind: mc
@@ -3570,6 +3682,7 @@
     - Legare il DNA
   correct: 2
   curiosity: 
+  difficulty: 1
 
 # 324:
 #   kind: mc
@@ -3592,6 +3705,7 @@
     - Eucromatina
   correct: 2
   curiosity: 
+  difficulty: 3
 
 326:
   kind: mc
@@ -3603,6 +3717,7 @@
     - DNA codificante
   correct: 2
   curiosity: 
+  difficulty: 1
 
 327:
   kind: mc
@@ -3614,6 +3729,7 @@
     - DNA circolare
   correct: 2
   curiosity: 
+  difficulty: 1
 
 329:
   kind: mc
@@ -3625,6 +3741,7 @@
     - Attraverso la sintesi di RNA
   correct: 2
   curiosity: 
+  difficulty: 1
 
 330:
   kind: mc
@@ -3636,6 +3753,7 @@
     - Aree di RNA messaggero
   correct: 2
   curiosity: 
+  difficulty: 3
 
 # 331:
 #   kind: mc
@@ -3658,6 +3776,7 @@
     - Topoisomerasi
   correct: 2
   curiosity: 
+  difficulty: 1
 
 #FIXME
 
@@ -3693,6 +3812,7 @@
     - Sequenza di terminazione
   correct: 2
   curiosity: 
+  difficulty: 3
 
 # 336:
 #   kind: mc
@@ -3715,6 +3835,7 @@
     - Stabilizzare la molecola di DNA
   correct: 1
   curiosity: 
+  difficulty: 1
 
 # 338:
 #   kind: mc
@@ -3748,6 +3869,7 @@
     - Ribosoma
   correct: 1
   curiosity: 
+  difficulty: 1
 
 341:
   kind: mc
@@ -3759,6 +3881,7 @@
     - Un sequenza di nucleotidi nel mRNA che segnala la fine della traduzione
   correct: 2
   curiosity: 
+  difficulty: 3
 
 # 342:
 #   kind: mc
@@ -3781,6 +3904,7 @@
     - È presente solo in alcune cellule
   correct: 2
   curiosity: 
+  difficulty: 1
 
 344:
   kind: mc
@@ -3788,10 +3912,11 @@
   options:
     - influenza sempre il fenotipo
     - è sempre negativo
-    - che determina la variabilità genetica
+    - determina la variabilità genetica
     - influenza solo il genotipo
   correct: 2
   curiosity: 
+  difficulty: 3
 
 #345:
   # kind: mc
@@ -3814,6 +3939,7 @@
     - La quantità di gene presente
   correct: 2
   curiosity: 
+  difficulty: 3
 
 # 347:
 #   kind: mc
@@ -3868,6 +3994,7 @@
     - Nessuna delle precedenti
   correct: 1
   curiosity: 
+  difficulty: 1
 
 # 352:
 #   kind: mc
@@ -3903,6 +4030,7 @@
     - Ribosomi
   correct: 2
   curiosity: 
+  difficulty: 1
 
 # 355:
 #   kind: mc
@@ -3925,6 +4053,7 @@
     - Mitocondrio
   correct: 0
   curiosity: 
+  difficulty: 1
 
 357:
   kind: mc
@@ -3936,6 +4065,7 @@
     - Legare ribosomi all'RNA
   correct: 2
   curiosity: 
+  difficulty: 3
 
 # 358:
 #   kind: mc
@@ -3958,6 +4088,8 @@
     - L'RNA polimerasi NON richiede un primer
   correct: 2
   curiosity: 
+  difficulty: 3
+
 # 360:
 #   kind: mc
 #   text: "Qual è il ruolo degli introni nella trascrizione?"
@@ -4001,6 +4133,7 @@
     - RNA polimerasi II
   correct: 2
   curiosity: 
+  difficulty: 1
 
 # 364:
 #   kind: mc
@@ -4034,6 +4167,7 @@
     - Da 5' a 5'
   correct: 1
   curiosity: 
+  difficulty: 3
 
 367:
   kind: mc
@@ -4045,6 +4179,7 @@
     - Viene utilizzato come DNA
   correct: 2
   curiosity: 
+  difficulty: 3
 
 368:
   kind: mc
@@ -4056,6 +4191,7 @@
     - Una sequenza di introni
   correct: 2
   curiosity: 
+  difficulty: 1
 
 # 369:
 #   kind: mc
@@ -4089,6 +4225,7 @@
     - L'aggiunta di introni al DNA
   correct: 2
   curiosity: 
+  difficulty: 1
 
 # 372:
 #   kind: mc
@@ -4113,6 +4250,7 @@
     - Il processo di modifica del microRNA in mRNA 
   correct: 2
   curiosity: 
+  difficulty: 3
 
 374:
   kind: mc
@@ -4124,6 +4262,7 @@
     - Traduzione
   correct: 2
   curiosity: 
+  difficulty: 3
 
 # 375:
 #   kind: mc
@@ -4140,12 +4279,13 @@
   kind: mc
   text: "Qual è la funzione del cappuccio 5'?"
   options:
-    - Stabilizza l'mRNA 
+    - Stabilizza l'rRNA 
     - Proteggere l'mRNA 
     - Facilita il trasporto dell'mRNA
-    - Tutte le precedenti
+    - Nessuna delle precedenti
   correct: 1
   curiosity: 
+  difficulty: 3
 
 # 377:
 #   kind: mc
@@ -4223,6 +4363,7 @@
     - Viene utilizzato per la replicazione del DNA
   correct: 1
   curiosity: 
+  difficulty: 3
 
 384:
   kind: mc
@@ -4234,6 +4375,7 @@
     - La sintesi di proteine sarà meno precisa
   correct: 2
   curiosity: 
+  difficulty: 3
 
 385:
   kind: mc
@@ -4245,6 +4387,7 @@
     - Ligasi
   correct: 2
   curiosity: 
+  difficulty: 1
 
 # 386:
 #   kind: mc
@@ -4278,6 +4421,7 @@
     - Nessuna delle precedenti
   correct: 2
   curiosity: 
+  difficulty: 3
 
 # 389:
 #   kind: mc
@@ -4311,6 +4455,7 @@
     - NON avviene nel nucleo
   correct: 2
   curiosity:
+  difficulty: 1
 
 392:
   kind: mc
@@ -4322,6 +4467,7 @@
     - Migliorerà l'efficienza della traduzione
   correct: 2
   curiosity: 
+  difficulty: 3
 
 #FIXME
 
@@ -4335,6 +4481,7 @@
     - La traduzione delle proteine
   correct: 2
   curiosity: 
+  difficulty: 1
 
 394:
   kind: mc
@@ -4346,6 +4493,7 @@
     - Stabilizza l'mRNA
   correct: 2
   curiosity: 
+  difficulty: 1
 
 # 395:
 #   kind: mc
@@ -4368,6 +4516,7 @@
     - Stabilizzare l'mRNA
   correct: 2
   curiosity: 
+  difficulty: 3
 
 397:
   kind: mc
@@ -4379,6 +4528,7 @@
     - Il tipo di RNA polimerasi utilizzato
   correct: 1
   curiosity: 
+  difficulty: 1
 
 398:
   kind: mc
@@ -4390,6 +4540,7 @@
     - Replicazione del gene
   correct: 2
   curiosity: 
+  difficulty: 1
 
 # 399:
 #   kind: mc
@@ -4423,6 +4574,7 @@
     - Si genera una mutazione nel DNA
   correct: 2
   curiosity: 
+  difficulty: 3
 
 # 402:
 #   kind: mc
@@ -4445,6 +4597,7 @@
     - Aggiungono una coda di poli-A
   correct: 2
   curiosity: 
+  difficulty: 1
 
 # 404:
 #   kind: mc
@@ -4478,6 +4631,7 @@
     - Aumenta il numero di cellule
   correct: 2
   curiosity: 
+  difficulty: 1
 
 # 407:
 #   kind: mc
@@ -4522,6 +4676,7 @@
     - Proteine che NON hanno alcuna funzione
   correct: 2
   curiosity: 
+  difficulty: 3
 
 # 411:
 #   kind: mc
@@ -4557,6 +4712,7 @@
     - La degradazione del RNA
   correct: 2
   curiosity: 
+  difficulty: 1
 
 # 414:
 #   kind: mc
@@ -4623,6 +4779,7 @@
     - Il DNA viene replicato
   correct: 1
   curiosity: 
+  difficulty: 3
 
 420:
   kind: mc
@@ -4634,6 +4791,7 @@
     - Il sito A
   correct: 1
   curiosity: 
+  difficulty: 3
 
 421:
   kind: mc
@@ -4645,6 +4803,7 @@
     - Un tipo di proteina che inibisce la lettura del codone
   correct: 2
   curiosity: 
+  difficulty: 1
 
 422:
   kind: mc
@@ -4656,6 +4815,7 @@
     - Gli introni vengono rimossi
   correct: 2
   curiosity: 
+  difficulty: 3
 
 423:
   kind: mc
@@ -4667,6 +4827,7 @@
     - Terminare la traduzione
   correct: 2
   curiosity: 
+  difficulty: 3
 
 424:
   kind: mc
@@ -4678,6 +4839,7 @@
     - Gli aminoacidi vengono separati
   correct: 2
   curiosity: 
+  difficulty: 3
 
 425:
   kind: mc
@@ -4689,6 +4851,7 @@
     - Un codone che stabilizza l'mRNA
   correct: 1
   curiosity: 
+  difficulty: 1
 
 # 426:
 #   kind: mc
@@ -4711,6 +4874,7 @@
     - Poliadenilazione del mRNA
   correct: 2
   curiosity: 
+  difficulty: 3
 
 428:
   kind: mc
@@ -4722,6 +4886,7 @@
     - Nessuna delle precedenti
   correct: 2
   curiosity: 
+  difficulty: 1
 
 # 429:
 #   kind: mc
@@ -4766,6 +4931,7 @@
     - Torna nel nucleo per essere preservato e poi riutilizzato in futuro
   correct: 2
   curiosity: 
+  difficulty: 3
 
 #FIXME
 
@@ -4779,6 +4945,7 @@
     - Modifiche alle membrane cellulari
   correct: 2
   curiosity: 
+  difficulty: 1
 
 434:
   kind: mc
@@ -4790,6 +4957,7 @@
     - Degradare le proteine
   correct: 2
   curiosity: 
+  difficulty: 3
 
 435:
   kind: mc
@@ -4801,6 +4969,7 @@
     - RNA polimerasi
   correct: 2
   curiosity: 
+  difficulty: 3
 
 436:
   kind: mc
@@ -4812,6 +4981,7 @@
     - Aggiunta di amminoacidi
   correct: 2
   curiosity: 
+  difficulty: 1
 
 437:
   kind: mc
@@ -4823,6 +4993,7 @@
     - Stabilizzazione dell'mRNA
   correct: 1
   curiosity: 
+  difficulty: 3
 
 438:
   kind: mc
@@ -4834,6 +5005,7 @@
     - Rimozione di un gruppo acetile
   correct: 2
   curiosity: 
+  difficulty: 3
 
 439:
   kind: mc
@@ -4845,6 +5017,7 @@
     - Aggiungere zuccheri alle proteine
   correct: 2
   curiosity: 
+  difficulty: 3
 
 # 440:
 #   kind: mc
@@ -4867,6 +5040,7 @@
     - Degradazione
   correct: 2
   curiosity: 
+  difficulty: 3
 
 442:
   kind: mc
@@ -4878,6 +5052,7 @@
     - Viene utilizzata per la sintesi di RNA
   correct: 2
   curiosity: 
+  difficulty: 3
 
 443:
   kind: mc
@@ -4889,6 +5064,7 @@
     - Trascrivere il DNA
   correct: 2
   curiosity: 
+  difficulty: 1
 
 # 444:
 #   kind: mc
@@ -4933,6 +5109,7 @@
     - NON avere alcun effetto
   correct: 2
   curiosity: 
+  difficulty: 3
 
 448:
   kind: mc
@@ -4944,6 +5121,7 @@
     - Aumento dell'espressione genica
   correct: 2
   curiosity: 
+  difficulty: 1
 
 # 449:
 #   kind: mc
@@ -4966,6 +5144,7 @@
     - Replicazione
   correct: 2
   curiosity: 
+  difficulty: 1
 
 # 451:
 #   kind: mc
@@ -4988,6 +5167,7 @@
     - Riducono sempre l'attività proteica
   correct: 2
   curiosity: 
+  difficulty: 1
 
 #FIXME
 
@@ -5078,6 +5258,7 @@
     - Stabilizzare il DNA
   correct: 2
   curiosity: 
+  difficulty: 3
 
 # 461:
 #   kind: mc
@@ -5100,6 +5281,7 @@
     - Nessuna delle precedenti
   correct: 2
   curiosity: 
+  difficulty: 1
 
 463:
   kind: mc
@@ -5111,6 +5293,7 @@
     - Una modifica post-traduzionale
   correct: 2
   curiosity: 
+  difficulty: 3
 
 # 464:
 #   kind: mc
@@ -5155,6 +5338,7 @@
     - La loro origine
   correct: 2
   curiosity: 
+  difficulty: 1
 
 468:
   kind: mc
@@ -5166,6 +5350,7 @@
     - Legami idrogeno tra amminoacidi
   correct: 1
   curiosity: 
+  difficulty: 1
 
 469:
   kind: mc
@@ -5177,6 +5362,7 @@
     - NON hanno alcun ruolo
   correct: 2
   curiosity: 
+  difficulty: 3
 
 470:
   kind: mc
@@ -5188,6 +5374,7 @@
     - Solo la temperatura
   correct: 2
   curiosity: 
+  difficulty: 1
 
 # 471:
 #   kind: mc
@@ -5223,6 +5410,7 @@
       - Trasporto di acqua
     correct: 2
     curiosity: 
+    difficulty: 3
   
   474:
     kind: mc
@@ -5234,6 +5422,7 @@
       - Tutte le precedenti
     correct: 2
     curiosity: 
+    difficulty: 1
   
   475:
     kind: mc
@@ -5245,6 +5434,7 @@
       - Proteine di stoccaggio
     correct: 2
     curiosity: 
+    difficulty: 1
   
   # 476:
   #   kind: mc
@@ -5267,6 +5457,7 @@
       - Degradare altre proteine
     correct: 2
     curiosity: 
+    difficulty: 1
   
   478:
     kind: mc
@@ -5278,6 +5469,7 @@
       - Actina
     correct: 2
     curiosity: 
+    difficulty: 3
   
   479:
     kind: mc
@@ -5289,6 +5481,7 @@
       - Regolare l'attività enzimatica
     correct: 2
     curiosity: 
+    difficulty: 1
   
   480:
     kind: mc
@@ -5300,6 +5493,7 @@
       - La sua forma tridimensionale
     correct: 2
     curiosity: 
+    difficulty: 3
   
   481:
     kind: mc
@@ -5311,6 +5505,7 @@
       - Fornire supporto strutturale
     correct: 2
     curiosity: 
+    difficulty: 3
   
   482:
     kind: mc
@@ -5322,6 +5517,7 @@
       - Degradare altre proteine
     correct: 2
     curiosity: 
+    difficulty: 1
   
   # 483:
   #   kind: mc
@@ -5355,6 +5551,7 @@
       - Stoccare energia
     correct: 2
     curiosity: 
+    difficulty: 1
   
   486:
     kind: mc
@@ -5366,6 +5563,7 @@
       - Degradano altre proteine
     correct: 2
     curiosity: 
+    difficulty: 1
   
   # 487:
   #   kind: mc
@@ -5410,6 +5608,7 @@
       - Può degradare qualsiasi proteina
     correct: 2
     curiosity: 
+    difficulty: 1
   
   # 491:
   #   kind: mc
@@ -5467,6 +5666,7 @@
     - Sito di regolazione
   correct: 0
   curiosity: 
+  difficulty: 3
 
 496:
   kind: mc
@@ -5478,6 +5678,7 @@
     - La sua quantità
   correct: 2
   curiosity: 
+  difficulty: 3
 
 # 497:
 #   kind: mc
@@ -5500,6 +5701,7 @@
     - Diventa più efficiente
   correct: 2
   curiosity: 
+  difficulty: 1
 
 499:
   kind: mc
@@ -5511,6 +5713,7 @@
     - L'energia rilasciata durante una reazione
   correct: 2
   curiosity: 
+  difficulty: 1
 
 500:
   kind: mc
@@ -5522,6 +5725,7 @@
     - Degradare substrati
   correct: 2
   curiosity: 
+  difficulty: 3
 
 # 501:
 #   kind: mc
@@ -5544,6 +5748,7 @@
     - Degrada i lipidi
   correct: 2
   curiosity: 
+  difficulty: 1
 
 503:
   kind: mc
@@ -5555,6 +5760,7 @@
     - Nessuna delle precedenti
   correct: 0
   curiosity: 
+  difficulty: 3
 
 504:
   kind: mc
@@ -5566,6 +5772,7 @@
     - Rimuove il substrato
   correct: 2
   curiosity: 
+  difficulty: 3
 
 # 505:
 #   kind: mc
@@ -5588,6 +5795,7 @@
     - Gli enzimi sono sempre attivi
   correct: 1
   curiosity: 
+  difficulty: 3
 
 507:
   kind: mc
@@ -5599,6 +5807,7 @@
     - Sintetizzare glucosio
   correct: 2
   curiosity: 
+  difficulty: 3
 
 508:
   kind: mc
@@ -5610,6 +5819,7 @@
     - Cambia la temperatura
   correct: 2
   curiosity: 
+  difficulty: 1
 
 # 509:
 #   kind: mc
@@ -5632,6 +5842,7 @@
     - Molecole che si legano solo a siti allosterici
   correct: 2
   curiosity: 
+  difficulty: 3
 
 # 511:
 #   kind: mc
@@ -5654,6 +5865,7 @@
     - La produzione di enzimi in eccesso
   correct: 2
   curiosity: 
+  difficulty: 1
 
 #FIXME
 
@@ -5667,6 +5879,7 @@
     - In tutte le parti del citoplasma, esclusi i ribosomi
   correct: 2
   curiosity: 
+  difficulty: 3
 
 514:
   kind: mc
@@ -5678,6 +5891,7 @@
     - Reticolo endoplasmatico
   correct: 2
   curiosity: 
+  difficulty: 3
 
 # 515:
 #   kind: mc
@@ -5707,10 +5921,11 @@
   options:
     - Nella membrana plasmatica
     - Nei lisosomi
-    - Nel Golgi apparato
+    - Nell'apparato di Golgi
     - Nei mitocondri
   correct: 2
   curiosity: 
+  difficulty: 3
 
 # 518:
 #   kind: mc
@@ -5733,6 +5948,7 @@
     - La sua posizione iniziale
   correct: 1
   curiosity: 
+  difficulty: 1
 
 # 520:
 #   kind: mc
@@ -5766,6 +5982,7 @@
     - Conservare il DNA
   correct: 2
   curiosity: 
+  difficulty: 1
 
 523:
   kind: mc
@@ -5777,6 +5994,7 @@
     - Proteine che sintetizzano altre proteine
   correct: 1
   curiosity: 
+  difficulty: 3
 
 524:
   kind: mc
@@ -5788,6 +6006,7 @@
     - Proteine di trasporto
   correct: 2
   curiosity: 
+  difficulty: 1
 
 # 525:
 #   kind: mc
@@ -5810,6 +6029,7 @@
     - Tutte le precedenti
   correct: 2
   curiosity: 
+  difficulty: 3
 
 527:
   kind: mc
@@ -5821,6 +6041,7 @@
     - Nei mitocondri
   correct: 2
   curiosity: 
+  difficulty: 3
 
 # 528:
 #   kind: mc
@@ -5854,6 +6075,7 @@
     - Proteine che degradano altre proteine
   correct: 2
   curiosity: 
+  difficulty: 1
 
 # 531:
 #   kind: mc
@@ -5900,6 +6122,7 @@
     - Conservare il DNA
   correct: 2
   curiosity: 
+  difficulty: 1
 
 535:
   kind: mc
@@ -5911,6 +6134,7 @@
     - Sintesi di proteine
   correct: 2
   curiosity: 
+  difficulty: 3
 
 # 536:
 #   kind: mc
@@ -5933,6 +6157,7 @@
     - Viene rimosso un amminoacido
   correct: 2
   curiosity: 
+  difficulty: 3
 
 538:
   kind: mc
@@ -5944,6 +6169,7 @@
     - È presente solo nei mitocondri
   correct: 2
   curiosity: 
+  difficulty: 3
 
 539:
   kind: mc
@@ -5955,6 +6181,7 @@
     - L'ADP viene sempre degradato senza formare ATP
   correct: 2
   curiosity: 
+  difficulty: 3
 
 540:
   kind: mc
@@ -5966,6 +6193,7 @@
     - Fermentazione alcolica
   correct: 2
   curiosity: 
+  difficulty: 1
 
 541:
   kind: mc
@@ -5977,6 +6205,7 @@
     - Produrre ADP
   correct: 1
   curiosity: 
+  difficulty: 3
 
 # 542:
 #   kind: mc
@@ -6010,6 +6239,7 @@
     - Nella fermentazione e nella catena di trasporto degli elettroni
   correct: 1
   curiosity: 
+  difficulty: 3
 
 545:
   kind: mc
@@ -6021,6 +6251,7 @@
     - Acidi nucleici
   correct: 2
   curiosity: 
+  difficulty: 1
 
 546:
   kind: mc
@@ -6032,6 +6263,7 @@
     - Viene esportato all'esterno della cellula
   correct: 2
   curiosity: 
+  difficulty: 3
 
 # 547:
 #   kind: mc
@@ -6054,6 +6286,7 @@
     - Energia meccanica
   correct: 2
   curiosity: 
+  difficulty: 3
 
 # 549:
 #   kind: mc
@@ -6087,6 +6320,7 @@
     - Catalizzare reazioni chimiche
   correct: 2
   curiosity: 
+  difficulty: 1
 
 # 552:
 #   kind: mc
@@ -6111,6 +6345,7 @@
     - Nicotinamide dinucleotide
   correct: 2
   curiosity: 
+  difficulty: 3
 
 # 554:
 #   kind: mc
@@ -6133,6 +6368,7 @@
     - $NAD^+$
   correct: 2
   curiosity: 
+  difficulty: 3
 
 # 556:
 #   kind: mc
@@ -6177,6 +6413,7 @@
     - Viene degradato
   correct: 2
   curiosity: 
+  difficulty: 1
 
 # 560:
 #   kind: mc
@@ -6199,6 +6436,7 @@
     - $NAD^+$ è più energetico di NADH
   correct: 2
   curiosity: 
+  difficulty: 3
 
 562:
   kind: mc
@@ -6210,6 +6448,7 @@
     - Degradare proteine
   correct: 2
   curiosity: 
+  difficulty: 3
 
 563:
   kind: mc
@@ -6221,6 +6460,7 @@
     - Nicotinamide adenina difosfato
   correct: 2
   curiosity: 
+  difficulty: 3
 
 # 564:
 #   kind: mc
@@ -6243,6 +6483,7 @@
     - NADH è prodotto solo nella fermentazione
   correct: 2
   curiosity: 
+  difficulty: 3
 
 566:
   kind: mc
@@ -6254,6 +6495,7 @@
     - Reticolo endoplasmatico
   correct: 2
   curiosity: 
+  difficulty: 3
 
 # 567:
 #   kind: mc
@@ -6276,6 +6518,7 @@
     - Si degradano proteine
   correct: 2
   curiosity: 
+  difficulty: 3
 
 # 569:
 #   kind: mc
@@ -6320,6 +6563,7 @@
     - Degradare proteine
   correct: 2
   curiosity: 
+  difficulty: 3
 
 #FIXME
 
@@ -6333,6 +6577,7 @@
     - Sintetizzare proteine
   correct: 2
   curiosity: 
+  difficulty: 1
 
 574:
   kind: mc
@@ -6344,6 +6589,7 @@
     - Reticolo endoplasmatico
   correct: 2
   curiosity: 
+  difficulty: 3
 
 575:
   kind: mc
@@ -6355,6 +6601,7 @@
     - ATP
   correct: 2
   curiosity: 
+  difficulty: 3
 
 576:
   kind: mc
@@ -6366,6 +6613,7 @@
     - 5 nette (7 totali, 2 consumate)
   correct: 2
   curiosity: 
+  difficulty: 3
 
 577:
   kind: mc
@@ -6377,6 +6625,7 @@
     - ATP
   correct: 2
   curiosity: 
+  difficulty: 3
 
 578:
   kind: mc
@@ -6388,6 +6637,7 @@
     - Conversione dell'ADP in ATP
   correct: 2
   curiosity: 
+  difficulty: 3
 
 # 579:
 #   kind: mc
@@ -6421,6 +6671,7 @@
     - Acido piruvico
   correct: 2
   curiosity: 
+  difficulty: 1
 
 582:
   kind: mc
@@ -6432,6 +6683,7 @@
     - Rimane immutato
   correct: 1
   curiosity: 
+  difficulty: 3
 
 # 583:
 #   kind: mc
@@ -6465,6 +6717,7 @@
     - ATP
   correct: 2
   curiosity: 
+  difficulty: 3
 
 586:
   kind: mc
@@ -6476,6 +6729,7 @@
     - Degradazione del piruvato
   correct: 2
   curiosity: 
+  difficulty: 1
 
 587:
   kind: mc
@@ -6487,6 +6741,7 @@
     - NON ha alcuna importanza
   correct: 2
   curiosity: 
+  difficulty: 1
 
 # 588:
 #   kind: mc
@@ -6509,6 +6764,7 @@
     - Viene degradato in ATP
   correct: 2
   curiosity: 
+  difficulty: 3
 
 # 590:
 #   kind: mc
@@ -6531,6 +6787,7 @@
     - 4
   correct: 1
   curiosity: 
+  difficulty: 3
 
 # 592:
 #   kind: mc
@@ -6555,6 +6812,7 @@
     - Sintetizzare acidi nucleici
   correct: 2
   curiosity: 
+  difficulty: 1
 
 594:
   kind: mc
@@ -6566,6 +6824,7 @@
     - Acido citrico
   correct: 2
   curiosity: 
+  difficulty: 1
 
 595:
   kind: mc
@@ -6577,6 +6836,7 @@
     - Solo nelle piante
   correct: 2
   curiosity: 
+  difficulty: 1
 
 596:
   kind: mc
@@ -6588,6 +6848,7 @@
     - Nessuna delle precedenti
   correct: 2
   curiosity: 
+  difficulty: 3
 
 # 597:
 #   kind: mc
@@ -6643,6 +6904,7 @@
     - Piruvato
   correct: 2
   curiosity: 
+  difficulty: 1
 
 602:
   kind: mc
@@ -6654,6 +6916,7 @@
     - ATP
   correct: 2
   curiosity: 
+  difficulty: 3
 
 # 603:
 #   kind: mc
@@ -6676,6 +6939,7 @@
     - Avviene solo nelle piante
   correct: 0
   curiosity: 
+  difficulty: 3
 
 605:
   kind: mc
@@ -6687,6 +6951,7 @@
     - Quando si dorme
   correct: 2
   curiosity: 
+  difficulty: 1
 
 # 606:
 #   kind: mc
@@ -6753,6 +7018,7 @@
     - Etanolo
   correct: 2
   curiosity: 
+  difficulty: 3
 
 # 612:
 #   kind: mc
@@ -6777,6 +7043,7 @@
     - Convertire l'ATP in ADP
   correct: 2
   curiosity: 
+  difficulty: 3
 
 614:
   kind: mc
@@ -6788,6 +7055,7 @@
     - Rene
   correct: 2
   curiosity: 
+  difficulty: 3
 
 615:
   kind: mc
@@ -6799,6 +7067,7 @@
     - Nessuna delle precedenti
   correct: 2
   curiosity: 
+  difficulty: 3
 
 # 616:
 #   kind: mc
@@ -6821,6 +7090,7 @@
     - Produrre ATP
   correct: 1
   curiosity: 
+  difficulty: 3
 
 618:
   kind: mc
@@ -6832,6 +7102,7 @@
     - Reticolo endoplasmatico
   correct: 2
   curiosity: 
+  difficulty: 3
 
 619:
   kind: mc
@@ -6843,6 +7114,7 @@
     - NON ha alcuna importanza
   correct: 2
   curiosity: 
+  difficulty: 1
 
 # 620:
 #   kind: mc
@@ -6876,6 +7148,7 @@
     - NON ci sono differenze significative
   correct: 2
   curiosity: 
+  difficulty: 3
 
 623:
   kind: mc
@@ -6887,6 +7160,7 @@
     - Acetil-CoA
   correct: 2
   curiosity: 
+  difficulty: 3
 
 624:
   kind: mc
@@ -6898,6 +7172,7 @@
     - Durante il sonno profondo
   correct: 2
   curiosity: 
+  difficulty: 3
 
 # 625:
 #   kind: mc
@@ -6920,6 +7195,7 @@
     - Cortisolo
   correct: 1
   curiosity: 
+  difficulty: 1
 
 627:
   kind: mc
@@ -6931,6 +7207,7 @@
     - La converte in glicolisi
   correct: 2
   curiosity: 
+  difficulty: 3
 
 # 628:
 #   kind: mc
@@ -6975,6 +7252,7 @@
     - Viene convertito in ATP
   correct: 2
   curiosity: 
+  difficulty: 3
 
 # 632:
 #   kind: mc
@@ -6999,6 +7277,7 @@
     - Un processo di replicazione del DNA
   correct: 2
   curiosity: 
+  difficulty: 1
 
 634:
   kind: mc
@@ -7010,6 +7289,7 @@
     - Sono sempre attivi
   correct: 2
   curiosity: 
+  difficulty: 1
 
 635:
   kind: mc
@@ -7021,6 +7301,7 @@
     - NON ha alcun effetto
   correct: 2
   curiosity: 
+  difficulty: 1
 
 636:
   kind: mc
@@ -7032,6 +7313,7 @@
     - Si denatura
   correct: 2
   curiosity: 
+  difficulty: 1
 
 637:
   kind: mc
@@ -7043,6 +7325,7 @@
     - DNA polimerasi
   correct: 2
   curiosity: 
+  difficulty: 3
 
 # 638:
 #   kind: mc
@@ -7065,6 +7348,7 @@
     - NADH
   correct: 0
   curiosity: 
+  difficulty: 3
 
 # 640:
 #   kind: mc
@@ -7087,6 +7371,7 @@
     - NON ci sono differenze significative
   correct: 2
   curiosity: 
+  difficulty: 3
 
 642:
   kind: mc
@@ -7098,6 +7383,7 @@
     - Bloccare completamente la reazione enzimatica
   correct: 2
   curiosity: 
+  difficulty: 3
 
 # 643:
 #   kind: mc
@@ -7164,6 +7450,7 @@
     - NON ha alcuna funzione specifica
   correct: 2
   curiosity: 
+  difficulty: 1
 
 649:
   kind: mc
@@ -7175,6 +7462,7 @@
     - Nessuna interazione
   correct: 2
   curiosity: 
+  difficulty: 3
 
 # 650:
 #   kind: mc
@@ -7197,6 +7485,7 @@
     - NON richiede energia
   correct: 2
   curiosity: 
+  difficulty: 3
 
 652:
   kind: mc
@@ -7208,6 +7497,7 @@
     - Tutti i precedenti
   correct: 3
   curiosity: 
+  difficulty: 1
 
 #FIXME
 
@@ -7243,6 +7533,7 @@
     - Sulla membrana interna
   correct: 2
   curiosity: 
+  difficulty: 3
 
 656:
   kind: mc
@@ -7254,6 +7545,7 @@
     - Produrre proteine mitocondriali
   correct: 2
   curiosity: 
+  difficulty: 1
 
 657:
   kind: mc
@@ -7265,6 +7557,7 @@
     - Acqua e lipidi
   correct: 2
   curiosity: 
+  difficulty: 3
 
 658:
   kind: mc
@@ -7276,6 +7569,7 @@
     - Sintetizzare RNA
   correct: 2
   curiosity: 
+  difficulty: 1
 
 # 659:
 #   kind: mc
@@ -7298,6 +7592,7 @@
     - NON hanno alcuna funzione specifica
   correct: 1
   curiosity: 
+  difficulty: 1
 
 661:
   kind: mc
@@ -7309,6 +7604,7 @@
     - NON è presente nei mitocondri
   correct: 2
   curiosity: 
+  difficulty: 3
 
 # 662:
 #   kind: mc
@@ -7331,6 +7627,7 @@
     - Sintesi di proteine
   correct: 2
   curiosity: 
+  difficulty: 3
 
 664:
   kind: mc
@@ -7342,6 +7639,7 @@
     - La fermentazione
   correct: 2
   curiosity: 
+  difficulty: 1
 
 # 665:
 #   kind: mc
@@ -7364,6 +7662,7 @@
     - Beta-ossidazione
   correct: 2
   curiosity: 
+  difficulty: 3
 
 667:
   kind: mc
@@ -7375,6 +7674,7 @@
     - NON ha alcuna funzione
   correct: 2
   curiosity: 
+  difficulty: 3
 
 668:
   kind: mc
@@ -7386,6 +7686,7 @@
     - Si produce solo glucosio
   correct: 2
   curiosity: 
+  difficulty: 1
 
 # 669:
 #   kind: mc
@@ -7408,6 +7709,7 @@
     - È un prodotto finale della respirazione cellulare
   correct: 1
   curiosity: 
+  difficulty: 3
 
 671:
   kind: mc
@@ -7419,6 +7721,7 @@
     - NON ha alcuna importanza
   correct: 2
   curiosity: 
+  difficulty: 1
 
 672:
   kind: mc
@@ -7430,6 +7733,7 @@
     - La quantità di ossigeno disponibile
   correct: 2
   curiosity: 
+  difficulty: 3
 
 #FIXME
 
@@ -7443,6 +7747,7 @@
     - Nessuna delle precedenti
   correct: 1
   curiosity: Il di Krebs prende il nome del biochimico Hans Krebs che lo descrisse nel 1937
+  difficulty: 3
 
 # 674:
 #   kind: mc
@@ -7476,6 +7781,7 @@
     - Trasportare ossigeno
   correct: 2
   curiosity: 
+  difficulty: 1
 
 677:
   kind: mc
@@ -7487,6 +7793,7 @@
     - Piruvato e 3 $CO_2$
   correct: 2
   curiosity: 
+  difficulty: 3
 
 # 678:
 #   kind: mc
@@ -7553,6 +7860,7 @@
     - Coenzima A
   correct: 2
   curiosity: 
+  difficulty: 3
 
 684:
   kind: mc
@@ -7564,6 +7872,7 @@
     - Sintesi proteica
   correct: 2
   curiosity: 
+  difficulty: 3
 
 # 685:
 #   kind: mc
@@ -7597,6 +7906,7 @@
     - NON ha importanza
   correct: 2
   curiosity: 
+  difficulty: 1
 
 688:
   kind: mc
@@ -7608,6 +7918,7 @@
     - Trasportare ossigeno
   correct: 2
   curiosity: 
+  difficulty: 1
 
 689:
   kind: mc
@@ -7619,6 +7930,7 @@
     - Durante la formazione di fumarato
   correct: 2
   curiosity: 
+  difficulty: 3
 
 690:
   kind: mc
@@ -7630,6 +7942,7 @@
     - Nessuna delle precedenti
   correct: 2
   curiosity: 
+  difficulty: 3
 
 691:
   kind: mc
@@ -7641,6 +7954,7 @@
     - Il ciclo utilizza ATP che proviene dalla catena di trasporto degli elettroni
   correct: 2
   curiosity: 
+  difficulty: 3
 
 # 692:
 #   kind: mc
@@ -7665,6 +7979,7 @@
     - Degradazione di acidi nucleici
   correct: 2
   curiosity: 
+  difficulty: 3
 
 # 694:
 #   kind: mc
@@ -7687,17 +8002,18 @@
     - Aminoacidi e vitamine
   correct: 2
   curiosity: 
+  difficulty: 3
 
-696:
-  kind: mc
-  text: "Quale coenzima è fondamentale per il trasporto degli elettroni nel complesso mitocondriale?"
-  options:
-    - FAD
-    - $NAD^+$
-    - Entrambe le precedenti
-    - Coenzima A
-  correct: 2
-  curiosity: 
+# 696:
+#   kind: mc
+#   text: "Quale coenzima è fondamentale per il trasporto degli elettroni nel complesso mitocondriale?"
+#   options:
+#     - FAD
+#     - $NAD^+$
+#     - Entrambe le precedenti
+#     - Coenzima A
+#   correct: 2
+#   curiosity: 
 
 697:
   kind: mc
@@ -7709,6 +8025,7 @@
     - Sintetizzare RNA
   correct: 2
   curiosity: 
+  difficulty: 3
 
 698:
   kind: mc
@@ -7720,6 +8037,7 @@
     - Complesso IV
   correct: 2
   curiosity: 
+  difficulty: 3
 
 699:
   kind: mc
@@ -7731,6 +8049,7 @@
     - Glucosio
   correct: 2
   curiosity: 
+  difficulty: 3
 
 700:
   kind: mc
@@ -7742,6 +8061,7 @@
     - Ossidare NADH
   correct: 2
   curiosity: 
+  difficulty: 1
 
 # 701:
 #   kind: mc
@@ -7764,6 +8084,7 @@
     - Favorisce il trasporto di lipidi
   correct: 2
   curiosity: 
+  difficulty: 3
 
 703:
   kind: mc
@@ -7775,6 +8096,7 @@
     - Complesso IV
   correct: 2
   curiosity: 
+  difficulty: 3
 
 704:
   kind: mc
@@ -7786,6 +8108,7 @@
     - Glucosio
   correct: 2
   curiosity: 
+  difficulty: 3
 
 705:
   kind: mc
@@ -7797,6 +8120,7 @@
     - Produce solo NADH
   correct: 2
   curiosity: 
+  difficulty: 1
 
 # 706:
 #   kind: mc
@@ -7819,6 +8143,7 @@
     - Fermentazione
   correct: 2
   curiosity: 
+  difficulty: 3
 
 709:
   kind: mc
@@ -7830,6 +8155,7 @@
     - Degradare i lipidi
   correct: 2
   curiosity: 
+  difficulty: 3
 
 # 710:
 #   kind: mc
@@ -7953,6 +8279,7 @@
     - NON è necessario alcun substrato
   correct: 2
   curiosity: 
+  difficulty: 1
 
 722:
   kind: mc
@@ -7964,6 +8291,7 @@
     - Fermentazione
   correct: 2
   curiosity: 
+  difficulty: 3
 
 # 723:
 #   kind: mc
@@ -7986,6 +8314,7 @@
     - NON ci sono differenze rilevanti
   correct: 2
   curiosity: 
+  difficulty: 1
 
 725:
   kind: mc
@@ -7997,6 +8326,7 @@
     - 3
   correct: 2
   curiosity: 
+  difficulty: 3
 
 # 726:
 #   kind: mc
@@ -8030,6 +8360,7 @@
     - Nella membrana esterna
   correct: 2
   curiosity: 
+  difficulty: 3
 
 # 729:
 #   kind: mc
@@ -8053,16 +8384,16 @@
 #   correct: 2
 #   curiosity: "L'ATP sintasi è l'enzima principale coinvolto nella fosforilazione ossidativa, catalizzando la sintesi di ATP."
 
-731:
-  kind: mc
-  text: "Qual è l'importanza del gradiente di protoni nella produzione di ATP?"
-  options:
-    - NON è importante
-    - Serve a ridurre l'ossigeno
-    - Fornisce energia per la sintesi di ATP
-    - Produce NADH
-  correct: 2
-  curiosity: 
+# 731:
+#   kind: mc
+#   text: "Qual è l'importanza del gradiente di protoni nella produzione di ATP?"
+#   options:
+#     - NON è importante
+#     - Serve a ridurre l'ossigeno
+#     - Fornisce energia per la sintesi di ATP
+#     - Produce NADH
+#   correct: 2
+#   curiosity: 
 
 # 732:
 #   kind: mc
@@ -8087,6 +8418,7 @@
     - Sintesi proteica
   correct: 2
   curiosity: "I microtubuli forniscono supporto strutturale alla cellula e sono cruciali per il movimento cellulare e la divisione cellulare."
+  difficulty: 1
 
 734:
   kind: mc
@@ -8098,6 +8430,7 @@
     - Cheratina
   correct: 2
   curiosity: 
+  difficulty: 1
 
 735:
   kind: mc
@@ -8109,6 +8442,7 @@
     - Solo negli organelli
   correct: 2
   curiosity: 
+  difficulty: 3
 
 736:
   kind: mc
@@ -8120,6 +8454,7 @@
     - Trascrizione
   correct: 2
   curiosity: 
+  difficulty: 3
 
 737:
   kind: mc
@@ -8131,6 +8466,7 @@
     - Apparato di Golgi
   correct: 2
   curiosity: 
+  difficulty: 3
 
 738:
   kind: mc
@@ -8142,6 +8478,7 @@
     - Dineina e Actina
   correct: 2
   curiosity: 
+  difficulty: 3
 
 # 739:
 #   kind: mc
@@ -8164,6 +8501,7 @@
     - NON hanno alcuna funzione specifica
   correct: 2
   curiosity: 
+  difficulty: 1
 
 741:
   kind: mc
@@ -8175,6 +8513,7 @@
     - I centrioli degradano i microtubuli
   correct: 2
   curiosity: 
+  difficulty: 3
 
 # 742:
 #   kind: mc
@@ -8197,6 +8536,7 @@
     - Degradazione di proteine
   correct: 2
   curiosity: 
+  difficulty: 1
 
 744:
   kind: mc
@@ -8208,6 +8548,7 @@
     - Tetramero di colesterolo
   correct: 2
   curiosity: 
+  difficulty: 1
 
 # 745:
 #   kind: mc
@@ -8230,6 +8571,7 @@
     - Tutte le precedenti
   correct: 3
   curiosity: 
+  difficulty: 1
 
 747:
   kind: mc
@@ -8241,6 +8583,7 @@
     - Apparato di Golgi
   correct: 2
   curiosity: 
+  difficulty: 3
 
 # 748:
 #   kind: mc
@@ -8285,6 +8628,7 @@
     - I microfilamenti sono dinamici, mentre i microtubuli NON lo sono
   correct: 2
   curiosity: 
+  difficulty: 1
 
 # 752:
 #   kind: mc
@@ -8309,6 +8653,7 @@
     - Collagene
   correct: 2
   curiosity: 
+  difficulty: 3
 
 754:
   kind: mc
@@ -8320,6 +8665,7 @@
     - Sintesi proteica
   correct: 2
   curiosity: 
+  difficulty: 3
 
 755:
   kind: mc
@@ -8331,6 +8677,8 @@
     - Solo negli organelli
   correct: 2
   curiosity: 
+  difficulty: 1
+
 756:
   kind: mc
   text: "Quale processo cellulare è facilitato dai microfilamenti?"
@@ -8341,6 +8689,7 @@
     - Trascrizione e traduzione
   correct: 2
   curiosity: 
+  difficulty: 3
 
 757:
   kind: mc
@@ -8352,6 +8701,7 @@
     - Filamenti intermedi
   correct: 2
   curiosity: 
+  difficulty: 3
 
 # 758:
 #   kind: mc
@@ -8374,6 +8724,7 @@
     - Sintesi proteica
   correct: 2
   curiosity: 
+  difficulty: 1
 
 760:
   kind: mc
@@ -8385,6 +8736,7 @@
     - Chinasi
   correct: 2
   curiosity: 
+  difficulty: 3
 
 # 761:
 #   kind: mc
@@ -8418,6 +8770,7 @@
     - Formano il fuso miotico
   correct: 2
   curiosity: 
+  difficulty: 3
 
 764:
   kind: mc
@@ -8429,6 +8782,7 @@
     - NON hanno alcuna funzione specifica
   correct: 2
   curiosity: 
+  difficulty: 1
 
 # 765:
 #   kind: mc
@@ -8484,6 +8838,7 @@
     - Cellule flagellate e Ribosomi
   correct: 2
   curiosity: 
+  difficulty: 3
 
 # 770:
 #   kind: mc
@@ -8530,6 +8885,7 @@
     - Sintesi proteica
   correct: 2
   curiosity: 
+  difficulty: 1
 
 774:
   kind: mc
@@ -8541,6 +8897,7 @@
     - Collagene
   correct: 2
   curiosity: 
+  difficulty: 1
 
 775:
   kind: mc
@@ -8552,6 +8909,7 @@
     - NON hanno alcuna funzione specifica
   correct: 2
   curiosity: 
+  difficulty: 3
 
 776:
   kind: mc
@@ -8563,6 +8921,7 @@
     - Solo negli organelli
   correct: 2
   curiosity: 
+  difficulty: 1
 
 # 777:
 #   kind: mc
@@ -8596,6 +8955,7 @@
     - Miosina
   correct: 2
   curiosity: 
+  difficulty: 3
 
 # 780:
 #   kind: mc
@@ -8640,6 +9000,7 @@
     - NON hanno alcuna relazione
   correct: 2
   curiosity: 
+  difficulty: 3
 
 # 784:
 #   kind: mc
@@ -8706,6 +9067,7 @@
     - I filamenti intermedi stabilizzano i microtubuli e i microfilamenti
   correct: 2
   curiosity: 
+  difficulty: 3
 
 # 790:
 #   kind: mc
@@ -8774,6 +9136,7 @@
     - Preparazione per la mitosi
   correct: 2
   curiosity: 
+  difficulty: 3
 
 796:
   kind: mc
@@ -8785,6 +9148,7 @@
     - M
   correct: 2
   curiosity: 
+  difficulty: 1
 
 # 797:
 #   kind: mc
@@ -8807,6 +9171,7 @@
     - Tpoisomerasi
   correct: 2
   curiosity: 
+  difficulty: 1
 
 799:
   kind: mc
@@ -8818,6 +9183,7 @@
     - La replicazione del DNA avviene in questa fase
   correct: 2
   curiosity: 
+  difficulty: 3
 
 800:
   kind: mc
@@ -8829,6 +9195,7 @@
     - Appartato di Golgi
   correct: 2
   curiosity: 
+  difficulty: 3
 
 801:
   kind: mc
@@ -8840,6 +9207,7 @@
     - Inibiscono la mitosi
   correct: 2
   curiosity: 
+  difficulty: 1
 
 802:
   kind: mc
@@ -8851,6 +9219,7 @@
     - G2
   correct: 2
   curiosity: 
+  difficulty: 3
 
 803:
   kind: mc
@@ -8862,6 +9231,7 @@
     - G2
   correct: 2
   curiosity: 
+  difficulty: 3
 
 804:
   kind: mc
@@ -8873,6 +9243,7 @@
     - Avviene la sintesi del DNA
   correct: 2
   curiosity: 
+  difficulty: 3
 
 805:
   kind: mc
@@ -8884,6 +9255,7 @@
     - Nessun cambiamento cellulare
   correct: 1
   curiosity: 
+  difficulty: 1
 
 806:
   kind: mc
@@ -8895,6 +9267,7 @@
     - Ras
   correct: 2
   curiosity: 
+  difficulty: 3
 
 807:
   kind: mc
@@ -8906,6 +9279,7 @@
     - La fase G1 è la fase di divisione cellulare
   correct: 2
   curiosity: 
+  difficulty: 1
 
 808:
   kind: mc
@@ -8917,6 +9291,7 @@
     - Verifica l'integrità dei cromosomi
   correct: 2
   curiosity: 
+  difficulty: 3
 
 809:
   kind: mc
@@ -8928,6 +9303,7 @@
     - La mitosi inizia
   correct: 2
   curiosity: 
+  difficulty: 3
 
 # 810:
 #   kind: mc
@@ -8985,6 +9361,7 @@
     - S e G2
   correct: 2
   curiosity: 
+  difficulty: 1
 
 815:
   kind: mc
@@ -8996,6 +9373,7 @@
     - Telofase
   correct: 1
   curiosity: 
+  difficulty: 3
 
 816:
   kind: mc
@@ -9007,6 +9385,7 @@
     - La citocinesi inizia
   correct: 2
   curiosity: 
+  difficulty: 1
 
 # 817:
 #   kind: mc
@@ -9029,6 +9408,7 @@
     - Telofase
   correct: 2
   curiosity: 
+  difficulty: 3
 
 819:
   kind: mc
@@ -9040,6 +9420,7 @@
     - La citocinesi inizia
   correct: 2
   curiosity: 
+  difficulty: 3
 
 # 820:
 #   kind: mc
@@ -9062,6 +9443,7 @@
     - NON ci sono differenze significative
   correct: 2
   curiosity: 
+  difficulty: 1
 
 # 822:
 #   kind: mc
@@ -9084,6 +9466,7 @@
     - Telofase
   correct: 0
   curiosity: 
+  difficulty: 3
 
 824:
   kind: mc
@@ -9095,6 +9478,7 @@
     - Fuso mitotico
   correct: 2
   curiosity: 
+  difficulty: 1
 
 825:
   kind: mc
@@ -9106,6 +9490,7 @@
     - Si apre momentaneamente durante la metafase per fare uscire la metà dei cromosomi dal suo interno
   correct: 2
   curiosity: 
+  difficulty: 3
 
 # 826:
 #   kind: mc
@@ -9128,6 +9513,7 @@
     - I nucleoli si dissolvono
   correct: 2
   curiosity: 
+  difficulty: 1
 
 828:
   kind: mc
@@ -9139,6 +9525,7 @@
     - I nucleoli si riformano
   correct: 2
   curiosity: 
+  difficulty: 3
 
 # 829:
 #   kind: mc
@@ -9161,6 +9548,7 @@
     - La mitosi avviene solo nelle cellule vegetali
   correct: 2
   curiosity: 
+  difficulty: 1
 
 # 831:
 #   kind: mc
@@ -9207,6 +9595,7 @@
     - Quattro
   correct: 1
   curiosity: 
+  difficulty: 1
 
 835:
   kind: mc
@@ -9218,6 +9607,7 @@
     - Anafase II
   correct: 2
   curiosity: 
+  difficulty: 3
 
 # 836:
 #   kind: mc
@@ -9240,6 +9630,7 @@
     - Telofase
   correct: 2
   curiosity: 
+  difficulty: 1
 
 838:
   kind: mc
@@ -9251,6 +9642,7 @@
     - Appartato di Golgi
   correct: 2
   curiosity: 
+  difficulty: 1
 
 839:
   kind: mc
@@ -9262,6 +9654,7 @@
     - Telofase I
   correct: 2
   curiosity: 
+  difficulty: 3
 
 840:
   kind: mc
@@ -9273,6 +9666,7 @@
     - Meiosi I avviene solo negli organismi vegetali
   correct: 2
   curiosity: 
+  difficulty: 1
 
 # 841:
 #   kind: mc
@@ -9295,6 +9689,7 @@
     - Chinaso
   correct: 2
   curiosity: 
+  difficulty: 3
 
 # 843:
 #   kind: mc
@@ -9317,6 +9712,7 @@
     - Ridurre la diversità genetica
   correct: 2
   curiosity: 
+  difficulty: 3
 
 # 845:
 #   kind: mc
@@ -9339,6 +9735,7 @@
     - Avviene solo nelle cellule vegetali
   correct: 2
   curiosity: 
+  difficulty: 3
 
 # 847:
 #   kind: mc
@@ -9418,6 +9815,7 @@
     - L'RNA che NON partecipa alla sintesi proteica
   correct: 2
   curiosity: 
+  difficulty: 1
 
 854:
   kind: mc
@@ -9429,6 +9827,7 @@
     - Fornire energia alla cellula
   correct: 2
   curiosity: 
+  difficulty: 3
 
 855:
   kind: mc
@@ -9440,6 +9839,7 @@
     - RNA di trasporto (tRNA)
   correct: 2
   curiosity: 
+  difficulty: 1
 
 856:
   kind: mc
@@ -9451,6 +9851,7 @@
     - Codoni
   correct: 2
   curiosity: 
+  difficulty: 3
 
 857:
   kind: mc
@@ -9462,6 +9863,7 @@
     - Geni che hanno una funzione vitale
   correct: 2
   curiosity: 
+  difficulty: 3
 
 858:
   kind: mc
@@ -9473,6 +9875,7 @@
     - Regolare il metabolismo cellulare
   correct: 2
   curiosity: 
+  difficulty: 1
 
 859:
   kind: mc
@@ -9484,6 +9887,7 @@
     - RNA coinvolti nella replicazione del DNA
   correct: 2
   curiosity: 
+  difficulty: 3
 
 # 860:
 #   kind: mc
@@ -9506,6 +9910,7 @@
     - Circa il 50%
   correct: 2
   curiosity: 
+  difficulty: 3
 
 862:
   kind: mc
@@ -9517,6 +9922,7 @@
     - RNA che partecipano alla traduzione
   correct: 2
   curiosity: 
+  difficulty: 1
 
 # 863:
 #   kind: mc
@@ -9583,6 +9989,7 @@
     - Regolare il metabolismo cellulare
   correct: 2
   curiosity: 
+  difficulty: 3
 
 869:
   kind: mc
@@ -9594,17 +10001,19 @@
     - rRNA
   correct: 2
   curiosity: 
+  difficulty: 3
 
 870:
   kind: mc
   text: "Come possono le mutazioni nel genoma NON codificante influenzare la salute?"
   options:
     - NON hanno alcun effetto
-    - Possono sempre portare a malattie genetiche
+    - Portano sempre a malattie genetiche
     - Possono alterare l'espressione genica e portare a malattie complesse
     - Hanno solo effetti positivi
   correct: 2
   curiosity: 
+  difficulty: 1
 
 # 871:
 #   kind: mc
@@ -9627,5 +10036,6 @@
     - È presente solo negli organismi unicellulari
   correct: 2
   curiosity: 
+  difficulty: 1
 
 #FIXME
